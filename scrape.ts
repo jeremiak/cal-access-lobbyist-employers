@@ -22,9 +22,10 @@ interface Quarter {
   lobbiedOn: string | undefined;
 }
 
-const employerQueue = new Queue({ concurrency: 4 })
+const concurrency = 4
+const employerQueue = new Queue({ concurrency })
 const employers: Employer[] = []
-const financialActivityQueue = new Queue({ concurrency: 2 })
+const financialActivityQueue = new Queue({ concurrency })
 const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0'
 const session = 2023
 
