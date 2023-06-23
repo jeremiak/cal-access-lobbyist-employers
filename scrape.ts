@@ -7,6 +7,7 @@ import {
   Element,
   HTMLDocument,
 } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
+import { parse } from "https://deno.land/std@0.182.0/flags/mod.ts";
 
 interface Employer {
   id: string | undefined;
@@ -22,12 +23,13 @@ interface Quarter {
   lobbiedOn: string | undefined;
 }
 
+const args = parse(Deno.args);
 const concurrency = 4
 const employerQueue = new Queue({ concurrency })
 const employers: Employer[] = []
 const financialActivityQueue = new Queue({ concurrency })
 const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0'
-const session = 2023
+const session = args.session ? +args.session : 2023
 
 async function scrapeLobbyistEmployersForLetter(letter: string): Promise<Employer> {
   console.log(`Scraping lobbyist employers for ${letter}`)
@@ -93,8 +95,8 @@ async function scrapeLobbyistEmployerFinancialActivity(id: string): Promise<Quar
   for (let i = 2; i < paymentRows.length; i++) {
     const paymentCells = paymentRows[i].querySelectorAll('td')
     const lobbiedCells = lobbiedRows[i].querySelectorAll('td')
-    const quarter = paymentCells[0].innerText.trim()
-    const session = paymentCells[1].innerText.trim()
+    const quarter = paymentCells[1].innerText.trim()
+    const session = paymentCells[0].innerText.trim()
     const generalLobbying = +paymentCells[2].innerText.replaceAll(',', '').replace('$', '')
     const pucLobbying = +paymentCells[3].innerText.replaceAll(',', '').replace('$', '')
     const lobbiedOn = lobbiedCells[2].innerText
