@@ -4977,6 +4977,19 @@
     ]
   },
   {
+    "id": "1143160",
+    "name": "BERKELEY; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 500,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1329011",
     "name": "BERKSHIRE HATHAWAY ENERGY AND SUBSIDIARIES CAL ENERGY, LLC AND BHE RENEWABLES",
     "quarters": [
@@ -5240,6 +5253,11 @@
         "lobbiedOn": "AB 583"
       }
     ]
+  },
+  {
+    "id": "1327045",
+    "name": "BLACKHAWK NETWORK, INC.",
+    "quarters": []
   },
   {
     "id": "1352158",
@@ -7154,6 +7172,19 @@
         "generalLobbying": 65300,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re AB 236, AB 952, AB 1048 SB 871"
+      }
+    ]
+  },
+  {
+    "id": "1142990",
+    "name": "CALIFORNIA ASSOCIATION OF DUI TREATMENT PROGRAMS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature & Administration Re: All matters related to DUI & Telehealth Regulation Changes."
       }
     ]
   },
@@ -11020,6 +11051,11 @@
     ]
   },
   {
+    "id": "1460642",
+    "name": "CALIFORNIA SAFETY NET COALITION",
+    "quarters": []
+  },
+  {
     "id": "1460189",
     "name": "CALIFORNIA SAND AND GRAVEL COMPANY, LLC",
     "quarters": [
@@ -11278,6 +11314,11 @@
         "lobbiedOn": "SB 612; Legislature, Speech-Language Pathology and Audiology and Hearing Aid Dispensers Board (SLPAHAD), Department of Consumer Affairs Re: Tele-supervision Regulatory changes"
       }
     ]
+  },
+  {
+    "id": "1243444",
+    "name": "CALIFORNIA SPEEDWAY, LLC",
+    "quarters": []
   },
   {
     "id": "1145218",
@@ -12013,6 +12054,11 @@
     ]
   },
   {
+    "id": "1461321",
+    "name": "CALIFORNIA WORKERS JUSTICE ALLIANCE",
+    "quarters": []
+  },
+  {
     "id": "1344491",
     "name": "CALIFORNIA WORKFORCE ASSOCIATION",
     "quarters": [
@@ -12523,6 +12569,11 @@
         "lobbiedOn": "No Lobbying"
       }
     ]
+  },
+  {
+    "id": "1461295",
+    "name": "CARLSBAD JET CENTER",
+    "quarters": []
   },
   {
     "id": "1144652",
@@ -18747,6 +18798,11 @@
     ]
   },
   {
+    "id": "1459627",
+    "name": "EPIDAVROS MANAGEMENT COMPANY, INC.",
+    "quarters": []
+  },
+  {
     "id": "1298965",
     "name": "EPILEPSY FOUNDATION OF GREATER LOS ANGELES",
     "quarters": [
@@ -20545,6 +20601,19 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE, CA STATE TRANSPORTATION AGENCY, CA DEPARTMENT OF TRANSPORTATION, RE: BUDGET; TRANSIT AND INTERCITY RAIL CAPITAL PROGRAM FUNDING FOR WASHINGTON STATE ASSOCIATION OF BROADCASTERS"
+      }
+    ]
+  },
+  {
+    "id": "1361441",
+    "name": "GATEWAY WATER MANAGEMENT AUTHORITY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor?s Office, Legislature & Administration Re: 2023-24 Budget Funding."
       }
     ]
   },
@@ -29713,6 +29782,19 @@
     ]
   },
   {
+    "id": "1446592",
+    "name": "NORCO; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 233, 1708 SB 423, 747  California Department of Corrections and Rehabilitation Re: Chuckawalla State Prison."
+      }
+    ]
+  },
+  {
     "id": "1427664",
     "name": "NORDEA INVESTMENT MANAGEMENT NORTH AMERICA, INC.",
     "quarters": [
@@ -33872,6 +33954,11 @@
         "lobbiedOn": ""
       }
     ]
+  },
+  {
+    "id": "1144069",
+    "name": "QUEMETCO, INC.",
+    "quarters": []
   },
   {
     "id": "1146653",
@@ -39921,6 +40008,11 @@
     ]
   },
   {
+    "id": "1443226",
+    "name": "SUNNOVA ENERGY CORPORATION",
+    "quarters": []
+  },
+  {
     "id": "1253785",
     "name": "SUNOVION PHARMACEUTICALS INC.",
     "quarters": [
@@ -44449,6 +44541,19 @@
         "generalLobbying": 1250.01,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 98 SB 364 AB 247"
+      }
+    ]
+  },
+  {
+    "id": "1145859",
+    "name": "WHITTIER; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB SB 43, 423, 747"
       }
     ]
   },
