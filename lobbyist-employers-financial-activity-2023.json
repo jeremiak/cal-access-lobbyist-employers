@@ -3374,6 +3374,11 @@
     ]
   },
   {
+    "id": "1146989",
+    "name": "ARC OF CALIFORNIA; THE",
+    "quarters": []
+  },
+  {
     "id": "1423861",
     "name": "ARCADIA POWER, INC.",
     "quarters": [
@@ -20522,6 +20527,11 @@
     ]
   },
   {
+    "id": "1461380",
+    "name": "FUENTES STRATEGIES, LLC OBO THEIR CLIENT THE DAWN PROJECT LLC",
+    "quarters": []
+  },
+  {
     "id": "1146389",
     "name": "FULLERTON JOINT UNION HIGH SCHOOL DISTRICT",
     "quarters": [
@@ -21543,6 +21553,11 @@
         "lobbiedOn": "AB 1525, 302, 591, 610, 324; SB 253; SBX 12"
       }
     ]
+  },
+  {
+    "id": "1461378",
+    "name": "GREENQUEST ENERGY DEVELOPMENT, LLC",
+    "quarters": []
   },
   {
     "id": "1394917",
@@ -27669,6 +27684,19 @@
     ]
   },
   {
+    "id": "1372691",
+    "name": "MERIDIAM SAS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1337517",
     "name": "MERSCORP, INC.",
     "quarters": [
@@ -29866,6 +29894,19 @@
         "generalLobbying": 15115.5,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 300, 743; SBs 25, 696"
+      }
+    ]
+  },
+  {
+    "id": "1447175",
+    "name": "NOMI HEALTH",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 87205,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 85; SB 598"
       }
     ]
   },
@@ -33413,6 +33454,11 @@
         "lobbiedOn": "CALIFORNIAS LEGISLATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE BUDGET SB 98 SB 364 AB 247"
       }
     ]
+  },
+  {
+    "id": "1461396",
+    "name": "PRESERVE AT TORREY HIGHLANDS LLC; THE",
+    "quarters": []
   },
   {
     "id": "1396813",
@@ -41467,6 +41513,11 @@
         "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: WORKFORCE DEVELOPMENT BOARD"
       }
     ]
+  },
+  {
+    "id": "1461392",
+    "name": "TRANSITION GLOBAL MANAGEMENT LTD",
+    "quarters": []
   },
   {
     "id": "1144946",
