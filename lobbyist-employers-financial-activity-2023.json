@@ -2743,6 +2743,11 @@
     ]
   },
   {
+    "id": "1461404",
+    "name": "AMERICAN VETERINARY MEDICAL ASSOCIATION",
+    "quarters": []
+  },
+  {
     "id": "1456686",
     "name": "AMERICAN WATERWAYS OPERATORS",
     "quarters": [
@@ -4205,6 +4210,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -6031,6 +6043,11 @@
         "lobbiedOn": "none"
       }
     ]
+  },
+  {
+    "id": "1461414",
+    "name": "BROOKS STREET",
+    "quarters": []
   },
   {
     "id": "1460091",
@@ -15346,6 +15363,11 @@
     "quarters": []
   },
   {
+    "id": "1461379",
+    "name": "CONNECT HOMES",
+    "quarters": []
+  },
+  {
     "id": "1373546",
     "name": "CONNOR, CLARK & LUNN FINANCIAL GROUP LTD., AND ITS AFFILIATES, INCLUDING CONNOR, CLARK & LUNN (USA) LTD.",
     "quarters": [
@@ -16851,7 +16873,7 @@
   },
   {
     "id": "1418730",
-    "name": "DE ANZA CORPORATION AND ITS AFFILIATES, BAYSIDE MHP, LLC AND DMV, LLC.",
+    "name": "DE ANZA CORPORATION AND ITS AFFILIATES, NEWPORT DUNES RESORT AND MARINA, LLC AND NORTHEAST MB, LLC.",
     "quarters": []
   },
   {
@@ -18313,6 +18335,11 @@
         "lobbiedOn": "Legislature Re: Grant support letters and FY 23-24 budget requests; CA Highway Patrol Re: grant program"
       }
     ]
+  },
+  {
+    "id": "1461366",
+    "name": "ELECTRIC HYDROGEN CO.",
+    "quarters": []
   },
   {
     "id": "1382462",
@@ -28248,6 +28275,19 @@
     ]
   },
   {
+    "id": "1143351",
+    "name": "MONTEBELLO UNIFIED SCHOOL DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIAS LEGISLATURE  GOVERNOR  BOARD OF EDUCATION  DEPARTMENT OF EDUCATION  DEPARTMENT OF FINANCE  BUDGET SB 98 SB 364 AB 247"
+      }
+    ]
+  },
+  {
     "id": "1226615",
     "name": "MONTEBELLO, CITY OF ",
     "quarters": [
@@ -30787,6 +30827,19 @@
     ]
   },
   {
+    "id": "1382354",
+    "name": "OLIVE OIL COMMISSION OF CALIFORNIA ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "ISSUES:        AGENCIES LOBBIED:   ***NONE TO REPORT***"
+      }
+    ]
+  },
+  {
     "id": "1275537",
     "name": "OLIVENHAIN MUNICIPAL WATER DISTRICT",
     "quarters": [
@@ -32289,6 +32342,19 @@
     ]
   },
   {
+    "id": "1408198",
+    "name": "PBF HOLDING COMPANY ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 62414.28,
+        "pucLobbying": 0,
+        "lobbiedOn": "CPUC; A.19-11-019; A.21-09-018; A.22-05-015; A.22-08-003; R.18-07-006; R.20-01-007; R.20-07-013; R.22-07-005; R.22-12-011; I.17-02-002"
+      }
+    ]
+  },
+  {
     "id": "1338056",
     "name": "PCCP, LLC",
     "quarters": [
@@ -33109,6 +33175,19 @@
         "generalLobbying": 1615.39,
         "pucLobbying": 0,
         "lobbiedOn": "Bills/action:  AB 285 (2020) implementation, CAPTI/Executive Order N-19-19 implementation, SB 743 (2013) implementation, Federal Infrastructure Investment Act implementation, AB 460, AB 1337, SB 389, SB 571 SB 670, AB 1287, AB 68, SB423, SB270, AB 1633"
+      }
+    ]
+  },
+  {
+    "id": "1146898",
+    "name": "PLANT CALIFORNIA ALLIANCE; THE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": ": Budget issues; general ag issues; native plant legislation; SB 224; Funding Agricultural Replacement Measures for Emission Reductions funding; energy rates; AB 2183 trailer bill proposal; Advanced Clean Fleets; SB 659. Department of Pesticide Regulation: sustainable pest management working group report;"
       }
     ]
   },
@@ -34225,6 +34304,11 @@
     ]
   },
   {
+    "id": "1461402",
+    "name": "RAIN INDUSTRIES",
+    "quarters": []
+  },
+  {
     "id": "1419069",
     "name": "RAINBOW MUNICIPAL WATER DISTRICT",
     "quarters": [
@@ -35236,6 +35320,19 @@
     ]
   },
   {
+    "id": "1419131",
+    "name": "ROCKETSHIP PUBLIC SCHOOL",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: meet & greet, AB 1604, SB 739"
+      }
+    ]
+  },
+  {
     "id": "1377247",
     "name": "ROCKPOINT GROUP L.L.C.",
     "quarters": [
@@ -35351,6 +35448,11 @@
         "lobbiedOn": "SB 23, AB 460, AB 1337, SB 389, and State Budget"
       }
     ]
+  },
+  {
+    "id": "1398824",
+    "name": "ROXUL USA, INC. DBA ROCKWOOL",
+    "quarters": []
   },
   {
     "id": "1442191",
@@ -43323,6 +43425,11 @@
     ]
   },
   {
+    "id": "1461426",
+    "name": "VETSIN TECH",
+    "quarters": []
+  },
+  {
     "id": "1405898",
     "name": "VF CORPORATION",
     "quarters": []
@@ -44346,6 +44453,11 @@
     ]
   },
   {
+    "id": "1461383",
+    "name": "WESTCLIFF TECHNOLOGIES",
+    "quarters": []
+  },
+  {
     "id": "1323602",
     "name": "WESTERN AGRICULTURAL PROCESSORS ASSOCIATION",
     "quarters": [
@@ -45082,6 +45194,11 @@
         "lobbiedOn": "SB 560; CalRecycle re: Extended Producer Responsibility for Gas Cylinders"
       }
     ]
+  },
+  {
+    "id": "1391129",
+    "name": "WOW MEDIA",
+    "quarters": []
   },
   {
     "id": "1145951",
