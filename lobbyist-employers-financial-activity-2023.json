@@ -7263,6 +7263,19 @@
     ]
   },
   {
+    "id": "1143813",
+    "name": "CALIFORNIA ASSOCIATION OF ENVIRONMENTAL HEALTH ADMINISTRATORS ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 22101,
+        "pucLobbying": 0,
+        "lobbiedOn": "BILLS: AB 262, AB 418, AB 1115, AB 1217, AB 1325, AB 1716, SB 620, SB 642; DEPTS: NONE"
+      }
+    ]
+  },
+  {
     "id": "1282411",
     "name": "CALIFORNIA ASSOCIATION OF FOOD BANKS",
     "quarters": [
@@ -17215,6 +17228,19 @@
     ]
   },
   {
+    "id": "1458880",
+    "name": "DERMTECH, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding SB 496."
+      }
+    ]
+  },
+  {
     "id": "1268796",
     "name": "DESERT HOT SPRINGS; THE CITY OF",
     "quarters": [
@@ -22021,6 +22047,19 @@
     ]
   },
   {
+    "id": "1146741",
+    "name": "HEAL THE BAY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 1000,
+        "pucLobbying": 0,
+        "lobbiedOn": "BILLS: AB 3; AB45; AB90; AB234; AB 343, AB344; AB527; AB 753, AB584; AB753; AB756; AB 833, AB882; AB953; AB1072; AB1152; AB1196; AB1216; AB1234; AB1290; AB1347; AB1407; AB 1423, AB1489; AB1526; AB1548; AB1567; AB 1572; AB1590; AB1596; AB1597; AB 1611; AB1628; AB1692; SB79; SB272; SB286; SB378; SB414; SB500; SB539; SB557; SB559; SB560; SB561; SB597; SB605; SB665; SB704; SB728; SB752; SEE MEMO"
+      }
+    ]
+  },
+  {
     "id": "1448727",
     "name": "HEALING GROVE HEALTH CENTER INC. , A SOCIAL PURPOSE CORPORATION",
     "quarters": []
@@ -23392,6 +23431,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -28928,6 +28974,11 @@
         "lobbiedOn": "Lobbied Legislature RE: AB1619, AB1341, AB269, AB317, SB524, SB339 and AB1286; Board of Pharmacy RE: pharmacy workforce issues, remote processing, Public Readiness and Emergency Preparedness (PREP) Act, medication error reporting and non-resident Pharmacist in Charge licensure; and Dept. of Consumer Affairs RE: pharmacy workforce issues, remote processing and PREP Act."
       }
     ]
+  },
+  {
+    "id": "1437527",
+    "name": "NATIONAL ASSOCIATION OF COLLEGE STORES",
+    "quarters": []
   },
   {
     "id": "1437899",
@@ -39929,6 +39980,19 @@
     ]
   },
   {
+    "id": "1146337",
+    "name": "STEWART INFORMATION SERVICES CORPORATION AND ITS AFFILIATES STEWART TITLE GUARANTY CORPORATION AND STEWART TITLE OF CALIFORNIA, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1234164",
     "name": "STOCKTON PORT DISTRICT",
     "quarters": [
@@ -45542,5 +45606,10 @@
         "lobbiedOn": "Legislature Governors Office Department of Transportation, Superintendent of Public Schools  re special needs children education transportation, clean transportation, school busses,  EV school buses Budget & Budget trailer bills; AB 771 AB 906, SB 88, SB 579, SB 665, SB 775"
       }
     ]
+  },
+  {
+    "id": "1239301",
+    "name": "ZURICH NORTH AMERICAN INSURANCE COMPANY",
+    "quarters": []
   }
 ]
