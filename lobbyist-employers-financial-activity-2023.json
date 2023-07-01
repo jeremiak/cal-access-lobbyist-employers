@@ -1917,6 +1917,11 @@
     ]
   },
   {
+    "id": "1377072",
+    "name": "AMERICAN APPAREL & FOOTWEAR ASSOCIATION (AAFA)",
+    "quarters": []
+  },
+  {
     "id": "1348577",
     "name": "AMERICAN ASSOCIATION OF PAYERS, ADMINISTRATORS AND NETWORKS (AAPAN)",
     "quarters": [
@@ -4685,6 +4690,11 @@
     ]
   },
   {
+    "id": "1461478",
+    "name": "BALDWIN RICHARDSON FOODS",
+    "quarters": []
+  },
+  {
     "id": "1306800",
     "name": "BALLOON COUNCIL; THE",
     "quarters": [
@@ -4954,19 +4964,6 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE RE: OFFSHORE WIND; LEGISLATURE, CA DEPARTMENT OF TRANSPORTATION RE: TRANSPORTATION INFRASTRUCTURE"
-      }
-    ]
-  },
-  {
-    "id": "1414637",
-    "name": "BEENVERIFIED, INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 860,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor's Office RE: Privacy Issues."
       }
     ]
   },
@@ -9517,6 +9514,19 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 341"
+      }
+    ]
+  },
+  {
+    "id": "1144642",
+    "name": "CALIFORNIA GRAPE ROOTSTOCK IMPROVEMENT COMMISSION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 240,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -16395,6 +16405,19 @@
         "generalLobbying": 9453.62,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA LEGISLATURE, DEPARTMENT OF FINANCE, AND THE GOVERNOR?S OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT REGARDING BUDGET REQUESTS SUPPORTING RESTORATIVE JUSTICE."
+      }
+    ]
+  },
+  {
+    "id": "1144349",
+    "name": "CROPLIFE AMERICA",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 6192.08,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: SB 224; AB 99; AB 652; AB 363; general ag and budget issues. California Department of Food and Agriculture: Budget issues. California Natural Resources Agency: Budget issues. California Department of Transportation: AB 99."
       }
     ]
   },
@@ -24704,6 +24727,11 @@
     ]
   },
   {
+    "id": "1460863",
+    "name": "KEMP; TOM",
+    "quarters": []
+  },
+  {
     "id": "1450886",
     "name": "KEMPER CORPORATE SERVICES, INC.",
     "quarters": [
@@ -25827,6 +25855,19 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 282; TRACKING HEALTH CARE BUDGET: LEGISLATURE"
+      }
+    ]
+  },
+  {
+    "id": "1414637",
+    "name": "LIFETIME VALUE CO. INC.; THE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 860,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office RE: Privacy Issues."
       }
     ]
   },
@@ -28538,6 +28579,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 316"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 316"
       }
     ]
   },
@@ -28618,6 +28666,11 @@
         "lobbiedOn": "AB 338, 460, 1152, 1337, 1554; ACR 2; SB 23, 389, 470"
       }
     ]
+  },
+  {
+    "id": "1461474",
+    "name": "MOUNTAIN MEADOW MUSHROOM FARM INC",
+    "quarters": []
   },
   {
     "id": "1442679",
@@ -35062,6 +35115,19 @@
     ]
   },
   {
+    "id": "1255235",
+    "name": "RIALTO; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 31349,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1000, Budget Requests, TCEP Project -- Legislature, CA Transportation Commission"
+      }
+    ]
+  },
+  {
     "id": "1442591",
     "name": "RICHLAND DEVELOPERS, INC",
     "quarters": [
@@ -35909,6 +35975,11 @@
         "lobbiedOn": "Legislature: Climate Resilience; State Budget: SGMA funding. Department of Water Resources: SGMA Implementation."
       }
     ]
+  },
+  {
+    "id": "1461057",
+    "name": "SALTER FAMILY FARM",
+    "quarters": []
   },
   {
     "id": "1277180",
@@ -38733,6 +38804,11 @@
     ]
   },
   {
+    "id": "1461381",
+    "name": "SNAGAJOB, INC.",
+    "quarters": []
+  },
+  {
     "id": "1421611",
     "name": "SNAP INC. ",
     "quarters": [
@@ -40871,6 +40947,11 @@
         "lobbiedOn": "Go-BIZ: In-state manufacturing/research expansion; Legislature: In-state manufacturing/research expansion; CDPH: In-state expansion issues; DHCS: Medi-Cal Rx implementation."
       }
     ]
+  },
+  {
+    "id": "1461272",
+    "name": "TARANA WIRELESS",
+    "quarters": []
   },
   {
     "id": "1146713",
@@ -43315,6 +43396,19 @@
     ]
   },
   {
+    "id": "1458286",
+    "name": "VENDOR DIRECT SOLUTIONS, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No activity this period"
+      }
+    ]
+  },
+  {
     "id": "1394916",
     "name": "VENTURA COUNTY RAILROAD COMPANY",
     "quarters": [
@@ -45448,7 +45542,7 @@
   },
   {
     "id": "1145684",
-    "name": "ZANKER ROAD LANDFILL",
+    "name": "ZANKER ROAD RESOURCE MANAGEMENT LLC",
     "quarters": [
       {
         "quarter": "1st",
