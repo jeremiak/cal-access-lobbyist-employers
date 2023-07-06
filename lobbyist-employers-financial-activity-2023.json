@@ -2542,6 +2542,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -4702,6 +4709,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 2100,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -7890,6 +7904,11 @@
         "lobbiedOn": "AB 796; CA BOARD OF OCCUPATIONAL THERAPY, CA MEDICAL BOARD RE: REGULATION OF ATHLETIC TRAINERS."
       }
     ]
+  },
+  {
+    "id": "1143116",
+    "name": "CALIFORNIA ATTORNEYS ADMINISTRATIVE LAW JUDGES AND HEARING OFFICERS IN STATE EMPLOYMENT",
+    "quarters": []
   },
   {
     "id": "1146953",
@@ -12115,6 +12134,11 @@
     ]
   },
   {
+    "id": "1461269",
+    "name": "CALIFORNIA WESTFISH PRODUCERS ASSOCIATION",
+    "quarters": []
+  },
+  {
     "id": "1315513",
     "name": "CALIFORNIA WHEAT COMMISSION",
     "quarters": [
@@ -14019,6 +14043,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 43.25,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees' Retirement System (CalPERS) California State Teachers' Retirement System (CalSTRS) Regents of the University of California (UCOP)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 322.16,
         "pucLobbying": 0,
         "lobbiedOn": "California Public Employees' Retirement System (CalPERS) California State Teachers' Retirement System (CalSTRS) Regents of the University of California (UCOP)"
       }
@@ -19147,6 +19178,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -21902,6 +21940,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature regarding tax preparer legislation, earned income tax credit and SB 565"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature regarding tax preparer legislation, earned income tax credit and SB 565, AB 1002"
       }
     ]
   },
@@ -24778,7 +24823,15 @@
   {
     "id": "1460863",
     "name": "KEMP; TOM",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 362"
+      }
+    ]
   },
   {
     "id": "1450886",
@@ -25552,6 +25605,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -27915,6 +27975,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -28015,6 +28082,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -31519,6 +31593,11 @@
     ]
   },
   {
+    "id": "1461045",
+    "name": "ORION RESOURCE PARTNERS (USA) LP",
+    "quarters": []
+  },
+  {
     "id": "1446016",
     "name": "ORSTED OFFSHORE NA",
     "quarters": [
@@ -32160,6 +32239,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -34429,6 +34515,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -35389,6 +35482,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -39700,6 +39800,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -40922,6 +41029,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
