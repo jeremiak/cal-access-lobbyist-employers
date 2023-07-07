@@ -941,6 +941,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -2614,6 +2621,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "Nil"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No actively lobbying - monitoring only"
       }
     ]
   },
@@ -4952,6 +4966,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -6096,6 +6117,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 240,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS"
       }
     ]
   },
@@ -13568,6 +13596,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -14558,6 +14593,11 @@
         "lobbiedOn": "NONE THIS PERIOD."
       }
     ]
+  },
+  {
+    "id": "1461511",
+    "name": "CLEAR VENTURE MANAGEMENT, LLC",
+    "quarters": []
   },
   {
     "id": "1343962",
@@ -17722,6 +17762,13 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies: Legislature      Issues:   AB503, AB1268"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies: Legislature  Issues: AB 503, AB 1268"
       }
     ]
   },
@@ -23857,6 +23904,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Potential new client investments. University of California Board of Regents, Jia Luo 1/23/2023, and follow-up 2/6/2023 requesting a call, Berkeley Endowment, 3/25/2023, CalTech, Alistair Thistlewaite 3/25/2023."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Potential new client investments. 04/17/2023 follow up email  to original 03/25/2023 email to Berkeley Endowment and 04/17/2023 email to Michael Denny at the University of California San Francisco introducing Intech."
       }
     ]
   },
@@ -25043,6 +25097,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 48, AB 869, AB 1007, AB 1091, AB 1092, AB 1156, AB 1356, AB 1392, AB 1471, SB 525, SB 598, SB 759"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 48, AB 869, AB 1001, AB 1007, AB 1091, AB 1092, AB 1156, AB 1356, AB 1392, AB 1471, SB 525, SB 598, SB 759, SB 870"
       }
     ]
   },
@@ -25760,6 +25821,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -27524,6 +27592,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS: Investments CalSTRS: Investments San Jose Retirement System and other CA local/state investment plans as applicable"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -34605,6 +34680,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -38051,6 +38133,19 @@
     ]
   },
   {
+    "id": "1335431",
+    "name": "SCULPTOR CAPITAL LP ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 661.06,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1420723",
     "name": "SEALASKA CORPORATION",
     "quarters": [
@@ -38309,9 +38404,9 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 33099.83,
+        "generalLobbying": 38099.83,
         "pucLobbying": 0,
-        "lobbiedOn": "None"
+        "lobbiedOn": "CA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS INAVAILABILITY OF PROPERTY INSURANCE AND AUTO INSURANCE"
       }
     ]
   },
@@ -41658,6 +41753,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -42193,6 +42295,13 @@
         "generalLobbying": 975.96,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS and CalSTRS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS and CalSTRS"
       }
     ]
   },
@@ -42217,6 +42326,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 508.84,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS"
       }
@@ -43086,6 +43202,13 @@
         "generalLobbying": 46500,
         "pucLobbying": 0,
         "lobbiedOn": "Working in collaboration with various entities, including Association of California Water Agencies (ACWA) and CalChambers, UWCD ad its legislative advocates have expressed support for SB 23 (Caballero), SB 366 (Caballero) and SB 651 (Groves); and opposed AB 389 (Allen), AB 429 (Bennett), AB 460 (Bauer-Kahan), AB 560 (Bennett), AB 676 (Bennett), AB 779 (Wilson), AB 1337 (Wicks), AB 1563 (Bennett)."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 46500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Working in collaboration with various entities, including Association of California Water Agencies (ACWA) and CalChambers, UWCD and its legislative advocates have expressed support for SB 23 (Caballero), SB 366 (Caballero) and SB 651 (Groves); and opposed AB 389 (Allen), AB 429 (Bennett), AB 460 (Bauer-Kahan), AB 560 (Bennett), AB 676 (Bennett), AB 779 (Wilson), AB 1337 (Wicks), AB 1563 (Bennett)."
       }
     ]
   },
@@ -43843,6 +43966,19 @@
     ]
   },
   {
+    "id": "1422410",
+    "name": "VICTORY PARK CAPITAL",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1144074",
     "name": "VIEJAS BAND OF KUMEYAAY INDIANS",
     "quarters": [
@@ -43885,6 +44021,13 @@
     "id": "1353801",
     "name": "VIKING GLOBAL INVESTORS LP",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
