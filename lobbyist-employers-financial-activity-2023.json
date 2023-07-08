@@ -3140,6 +3140,11 @@
     ]
   },
   {
+    "id": "1461520",
+    "name": "ANTICOAGULANT RODENTICIDE TASK FORCE, LLC",
+    "quarters": []
+  },
+  {
     "id": "1347140",
     "name": "ANTIN INFRASTRUCTURE PARTNERS SAS",
     "quarters": [
@@ -5601,6 +5606,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Teachers' Retirement System (CalSTRS)"
       }
     ]
   },
@@ -6459,6 +6471,13 @@
         "generalLobbying": 3959.21,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 35, AB644, AB 656, AB 789, AB 1142, AB 1160, AB 274, AB 311, SB 260, SB 245, SB 11, SB 220, SB 808, Budget  Governor's Office: AB 789, AB 1160, AB 35, AB 274, AB 311, SB 245, AB 656, AB 1142, SB 260, SB 808, budget"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 5938.82,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 111, AB 274, AB 311, AB 607, AB 644, AB 656, AB 789, AB 1142, AB 1160, AB 1390, AB 1540, AB 1630, SB 111, SB 220, SB 245, SB 260, SB 808, Budget   Governor's Office: Budget"
       }
     ]
   },
@@ -9269,7 +9288,15 @@
   {
     "id": "1328231",
     "name": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION (CELA)",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 39000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 518, AB 524, AB 1356, SB 686, SB 365, SB 71, SB 731, SB 699, SB 616, SB 476, SB 330, AB 747, AB 594, AB 575, AB 933, SB 497, SB 41, SB 592, SB 881, AB 924, SB 42, AB 1031, AB 1484, ACA 5, ACA 6, SB 403, SB 476, SB 626, SB 700, SB 848"
+      }
+    ]
   },
   {
     "id": "1382531",
@@ -11155,6 +11182,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD"
       }
     ]
   },
@@ -11694,6 +11728,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "HIGH-SPEED RAIL BILLS; Railroad Safety; long trains; Off-Track Vehicle transportation Safety;"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 15000,
         "pucLobbying": 0,
@@ -14284,6 +14325,11 @@
         "lobbiedOn": "NONE."
       }
     ]
+  },
+  {
+    "id": "1461000",
+    "name": "CIRCULAR ACTION ALLIANCE",
+    "quarters": []
   },
   {
     "id": "1430669",
@@ -18636,6 +18682,13 @@
         "generalLobbying": 39000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislative: Sentencing reform SB 94, Parole Reform SB 81, Prison conditions reform SB 474, Elections Reform AB 544. Budgets: public defense, racial justice act implementation, re-entry"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 39000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, CDCR, Governor's Office"
       }
     ]
   },
@@ -26624,6 +26677,13 @@
         "generalLobbying": 95418.12,
         "pucLobbying": 0,
         "lobbiedOn": "SB 44, SB 64, SB 254, SB 514, AB 18, AB 74, AB 89, AB 97, AB 280, AB 742, AB 1034."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 102087.28,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 44, SB 514, SB 564,SB 603, SB 254, SB 64, SB 331, AB 793, AB 742, AB 18, AB 74, AB 76, AB 89, AB 97, AB 280, AB 1034, AB 1463, AB 1544, ACR 92."
       }
     ]
   },
@@ -27409,6 +27469,13 @@
         "generalLobbying": 29045.45,
         "pucLobbying": 0,
         "lobbiedOn": "2023 Budget request relative to the Comprehensive Perinatal Services Program."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 58090.9,
+        "pucLobbying": 0,
+        "lobbiedOn": "2023 Budget request relative to the Comprehensive Perinatal Services Program. Legislative - AB 608, AB 1203, AB 1701"
       }
     ]
   },
@@ -28472,6 +28539,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -29515,6 +29589,13 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "State Legislature, Governor's Office, Department of Finance, CA Dept of Public Health, Department of Health Care Services"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature, Governor's Office, Dept of Finance"
       }
     ]
   },
@@ -35967,6 +36048,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Regents of the University of California, Calpers, Calstrs"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regents of the University of California, Calpers, Calstrs"
       }
     ]
   },
@@ -36523,6 +36611,13 @@
         "generalLobbying": 21905.04,
         "pucLobbying": 0,
         "lobbiedOn": "Legislative Meetings (Finding authors for sponsored bill- AB 806); CDAA Legislative Committee Meeting; CPOA Law Enforcement Summit Meeting; Testifying before the Assembly & Senate Public Safety Committee Hearings "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 18244.48,
+        "pucLobbying": 0,
+        "lobbiedOn": "Senate and Assembly Public Safety Committee Hearings: AB 806; AB 61;  AB 93; AB 1028; AB 1310 and SB 94 "
       }
     ]
   },
