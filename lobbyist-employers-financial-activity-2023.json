@@ -1520,6 +1520,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 581"
       }
     ]
   },
@@ -2748,6 +2755,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 24000,
         "pucLobbying": 0,
@@ -5808,6 +5822,13 @@
         "generalLobbying": 18439.89,
         "pucLobbying": 2805,
         "lobbiedOn": "AB 1176 (Zbur) AB 970 (McCarty), GO-Biz SB 233 (Skinner) AB 1482 (Gabriel) AB 579 (Ting) SB 84 (Gonzalez) Docket #23-IEPR-01 (CEC) Docket #22-EVI-06 (CEC) En-Route Charging Project (CTC)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 691 (Ting) SB 410 (Becker) AB 1176 (Zbur) SB 84/AB 241 CPUC Freight Infrastructure Planning proceeding CEC CARTS Program funding CEC REDWDS GFO"
       }
     ]
   },
@@ -7195,6 +7216,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -10514,6 +10542,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -12878,6 +12913,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 18000,
         "pucLobbying": 0,
@@ -31090,6 +31132,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -36023,7 +36072,15 @@
   {
     "id": "1144154",
     "name": "S.C. JOHNSON & SON",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB234 AB363 SB303 SB665"
+      }
+    ]
   },
   {
     "id": "1292821",
@@ -45667,6 +45724,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 27000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Administration.  AB 261, AB 1714, AB 965"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 28697.42,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and Administration.  AB 261, AB 1714, AB 965"
       }
