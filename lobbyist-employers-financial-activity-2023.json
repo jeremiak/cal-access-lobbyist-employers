@@ -5945,7 +5945,15 @@
   {
     "id": "1336782",
     "name": "BRANDYWINE GLOBAL INVESTMENT MANAGEMENT, LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
   },
   {
     "id": "1242253",
@@ -6399,6 +6407,13 @@
         "generalLobbying": 20637.33,
         "pucLobbying": 0,
         "lobbiedOn": "AB 480, AB 534, AB 893, AB 929, AB 1000, SB 258, SB 654, SB 720, SB 800."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 13046.2,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 101, AB 480, AB 534, AB 893, AB 929, AB 1000, SB 258, SB 654, SB 720, SB 800."
       }
     ]
   },
@@ -6668,6 +6683,13 @@
         "generalLobbying": 27501,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1567, SB 867, SB 23, SB 366, State Budget"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 27501,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1567, SB 867, SB 23, SB 366, State Budget (Legislative & Governor's Office)"
       }
     ]
   },
@@ -10442,7 +10464,7 @@
         "session": "2023-2024",
         "generalLobbying": 9000,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "Legislature - SB 278, AB 1119, AB 1414"
       }
     ]
   },
@@ -13190,6 +13212,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -13366,6 +13395,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No legislative issues or state agency administrative actions were actively lobbied during this period."
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -14121,6 +14157,13 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: AB 1228, ISSUES RELATED TO FRANCHISE RESTAURANTS."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor?s Office, and Governor?s Office of Business and Economic Development regarding AB 1228 and issues related to franchise restaurants."
       }
     ]
   },
@@ -14982,6 +15025,11 @@
     ]
   },
   {
+    "id": "1460030",
+    "name": "CLOCKTOWER GROUP LP",
+    "quarters": []
+  },
+  {
     "id": "1143260",
     "name": "CLOROX COMPANY; THE",
     "quarters": [
@@ -15406,6 +15454,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 480.76,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10.02,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS"
       }
@@ -23711,6 +23766,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Potential asset management services for California State Retirement Systems: California State Teachers Retirements System 'CalSTRS', California Public Employees' Retirement System 'CalPERS', Regents of the University of California"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -26430,6 +26492,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislative, AB 236, Budget"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 35000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative, AB 236, Budget"
       }
     ]
   },
@@ -27160,6 +27229,13 @@
         "generalLobbying": 2250,
         "pucLobbying": 0,
         "lobbiedOn": "No Bills Actively Lobbied."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2250,
+        "pucLobbying": 0,
+        "lobbiedOn": "No Bills Actively Lobbied."
       }
     ]
   },
@@ -27501,6 +27577,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -28700,6 +28783,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Marketing of commingled vehicles and separate account investment advisory services to CalPERS, CalSTRS, and the University of California Retirement Plan."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Marketing of commingled vehicles and separate account investment advisory services to CalSTRS and CalPERS."
       }
     ]
   },
@@ -29860,6 +29950,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -30362,6 +30459,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -31302,6 +31406,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -34366,6 +34477,13 @@
         "generalLobbying": 2500,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -36225,6 +36343,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -37190,6 +37315,13 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 534 (McCarty), AB 480 (Ting), AB 929 (McKinnor)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 17904.7,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 720, AB 893, AB 534"
       }
     ]
   },
@@ -39026,9 +39158,9 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 454868.85,
-        "pucLobbying": 1806.77,
-        "lobbiedOn": "See attached TEXT"
+        "generalLobbying": 463070.3,
+        "pucLobbying": 4861.95,
+        "lobbiedOn": "See attachment"
       }
     ]
   },
@@ -39354,6 +39486,13 @@
         "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "On behalf of The Sierra Fund, TrattenPrice actively engaged in the following issues during Q1 2023: Legislature-Sierra Nevada conservation and restoration investments (budget)."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "On behalf of The Sierra Fund, Earth Advocacy, or any other lobbying firm, did not engage in any lobbying activities during Q2 2023."
       }
     ]
   },
@@ -40947,6 +41086,13 @@
         "generalLobbying": 33000,
         "pucLobbying": 0,
         "lobbiedOn": "State Budget - State Legislature and Governor's Office, AB 460, AB 1337, SB 389, AB 1567, SB 867, SB 23, SB 377, AB 30, SB 361, SB 687"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 33000,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Budget - State Legislature and Governor's Office, AB 1567, SB 867, AB 460, AB 1337, SB 389, AB 30, SB 361, SB 366, AB 830, SB 23"
       }
     ]
   },
@@ -41160,6 +41306,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -41642,6 +41795,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "State Budget - State Legislature and Governor's Office, AB 1567, SB 867"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Budget - State Legislature and Governor's Office, AB 1567, SB 867, AB 460, AB 1337, SB 389"
       }
     ]
   },
@@ -45787,7 +45947,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 33500,
+        "generalLobbying": 43500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: SB 525, AB 481, AB 952, AB 1048, State Budget, including reimbursements for Medi-Cal Dental services."
       }
@@ -46081,6 +46241,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 63000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
