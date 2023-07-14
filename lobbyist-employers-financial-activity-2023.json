@@ -1671,6 +1671,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 424; AB 511; California Department of Public Health"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 424; AB 511; California Department of Public Health"
       }
     ]
   },
@@ -2389,6 +2396,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 263, SB 637, Travel Insurance"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 263, Travel Insurance"
       }
     ]
   },
@@ -3749,6 +3763,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 4040.38,
+        "pucLobbying": 0,
+        "lobbiedOn": "Seeking to manage investments: CalSTRS and CalPERS."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 576.92,
         "pucLobbying": 0,
         "lobbiedOn": "Seeking to manage investments: CalSTRS and CalPERS."
       }
@@ -7222,6 +7243,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "Assembly Senate Medi-Cal Rates and DSS staff budget augmentation DHCS CDPH Dept Dev Serv Health Human Services Agcy Dept. Industrial Relations Governor Dept Social Services Home Care Services Bureau Budget bills Assembly bills 633 767 786 1117 1157 1202 ACR 11 Senate bills 90 375 525 686  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Assembly Senate Medi-Cal Rates and DSS staff budget augmentation DHCS CDPH Dept Dev Serv Health Human Services Agcy Dept. Industrial Relations Governor Dept Social Services Home Care Services Bureau Budget bills Assembly bills 633 767 786 1117 1157 1202 Senate bills 90 375 525 686 730"
       }
     ]
   },
@@ -7352,7 +7380,22 @@
   {
     "id": "1146113",
     "name": "CALIFORNIA ASSOCIATION OF CODE ENFORCEMENT OFFICERS",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 468, 548; SB 356; California Legislature re: Budget Request - California Code Enforcement Incentive Grants Program; California Housing and Community Development Department re: Budget Request - California Code Enforcement Incentive Grants Program"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 42, 333, 468, 548 1484; SBs 356, 428; California Legislature re: Budget Request - California Code Enforcement Incentive Grants Program; California Housing and Community Development Department re: Budget Request - California Code Enforcement Incentive Grants Program"
+      }
+    ]
   },
   {
     "id": "1143182",
@@ -7599,6 +7642,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 19218.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "10"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 19218.75,
         "pucLobbying": 0,
@@ -8726,6 +8776,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 534 AB 537 AB 736 AB 778 AB 1222 SB 447 SB 644 SB 683 California Privacy Protection Agency \u0016 Privacy Act Regulations"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 534 AB 537 AB 568 AB 736 AB 778 AB 893 AB 1076 AB 1222 AB 1347 AB 1690 ACR 62 ACR 72 SB 41 SB 220 SB 258 SB 279 SB 289 SB 447 SB 451 SB 503 SB 644 SB 683"
       }
     ]
   },
@@ -11322,6 +11379,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 468 AB 548 AB 968 AB 1101"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 468 AB 548 AB 968 AB 1101 SB 451"
       }
     ]
   },
@@ -12179,6 +12243,13 @@
         "generalLobbying": 105883.72,
         "pucLobbying": 0,
         "lobbiedOn": "AB 12,96,269,316,413,473,504,587,594,595,627,636,699,1741,2530 SB 41,98,295,365,399,423,476,497,627,751,822 Assembly-AB2530, Senate-AB2530, HCAI/OCHA-Office of Health Care Affordability, Covered CA-AB2530 implementation"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 107324.93,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB12,96,316,413,421,473,504,554,594,627,645,647,699,893,907,918,1076,1123,1278,1356,1372,1741 ACA6 SB83,84,88,227,277,295,322,357,365,399,429,430,476,495,506,525,534,616,627,709,725,757,770,822 AB2530-Assembly, State,HCAI/OHCA,Covered CA"
       }
     ]
   },
@@ -13461,6 +13532,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 5586.69,
+        "pucLobbying": 0,
+        "lobbiedOn": "Cemetery and Mortuary Association of CA - See attached:"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 25550.84,
         "pucLobbying": 0,
         "lobbiedOn": "Cemetery and Mortuary Association of CA - See attached:"
       }
@@ -17464,6 +17542,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -21916,6 +22001,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 538 627 1155 1714"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 538 627 1155 1714"
       }
     ]
   },
@@ -23079,7 +23171,22 @@
   {
     "id": "1460805",
     "name": "HIPCAMP, INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 620  Department of Housing and Community Development"
+      }
+    ]
   },
   {
     "id": "1458468",
@@ -24492,6 +24599,11 @@
     ]
   },
   {
+    "id": "1461282",
+    "name": "INTERNATIONAL ASSOCIATION OF COLOR MANUFACTURERS",
+    "quarters": []
+  },
+  {
     "id": "1144146",
     "name": "INTERNATIONAL ASSOCIATION OF PLUMBING & MECHANICAL OFFICIALS",
     "quarters": [
@@ -25047,6 +25159,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -25933,6 +26052,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "No lobbying activity occurred during this quarter."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No lobbying activity occurred during this quarter."
       }
     ]
   },
@@ -26299,7 +26425,22 @@
   {
     "id": "1445879",
     "name": "LEARNING EXPERIENCE CORP; THE",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Engagement with legislative offices to advocate early education and child care."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Engagement with legislative offices to advocate early education and child care."
+      }
+    ]
   },
   {
     "id": "1443907",
@@ -28685,6 +28826,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "x"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "x"
       }
     ]
   },
@@ -28698,6 +28846,13 @@
         "generalLobbying": 12776.01,
         "pucLobbying": 0,
         "lobbiedOn": "x  7"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 6137.84,
+        "pucLobbying": 0,
+        "lobbiedOn": "x  3"
       }
     ]
   },
@@ -28943,6 +29098,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 15252,
+        "pucLobbying": 0,
+        "lobbiedOn": "No Bills Actively Lobbied."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20336,
         "pucLobbying": 0,
         "lobbiedOn": "No Bills Actively Lobbied."
       }
@@ -31143,6 +31305,13 @@
         "generalLobbying": 55032.5,
         "pucLobbying": 5363,
         "lobbiedOn": "ABs 538 627 914 965 1155 1550 1594 1664; SBs 57 233 319 663"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 49500,
+        "pucLobbying": 2375,
+        "lobbiedOn": "ABs 538 627 914 965 1155 1550 1594 1664; SBs 57 233 319 663"
       }
     ]
   },
@@ -33156,6 +33325,13 @@
         "generalLobbying": 275,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: Issues regarding cybersecurity; environmental mitigation, clean energy, infrastructure."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 274.03,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 334"
       }
     ]
   },
@@ -33310,7 +33486,15 @@
   {
     "id": "1449096",
     "name": "PATHION HOLDINGS, INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
   },
   {
     "id": "1357927",
@@ -34360,6 +34544,13 @@
         "generalLobbying": 25117.2,
         "pucLobbying": 0,
         "lobbiedOn": "Plumbing Manufacturers International - See attached"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 24647.87,
+        "pucLobbying": 0,
+        "lobbiedOn": "Plumbing Manufacturers International - See attached"
       }
     ]
   },
@@ -34847,6 +35038,13 @@
         "generalLobbying": 13035.68,
         "pucLobbying": 0,
         "lobbiedOn": "Professional Fiduciary Association of California:"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 8382.96,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 133 AB 979 AB 996 AB 1262 AB 1690 SB 133 SB 280 SB 372 SB 522 SB 801 SB 802 SB 818 SB 887 Professional Fiduciaries Bureau \u0016 Proposed Regulations regarding Licensure Fees"
       }
     ]
   },
@@ -35702,6 +35900,13 @@
         "generalLobbying": 8082.08,
         "pucLobbying": 0,
         "lobbiedOn": "Recreational Boaters of CA: See attached:"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7082.08,
+        "pucLobbying": 0,
+        "lobbiedOn": "Recreational Boaters of CA: See attached:"
       }
     ]
   },
@@ -35871,6 +36076,13 @@
         "generalLobbying": 76247.99,
         "pucLobbying": 0,
         "lobbiedOn": "AB?s 30, 62,64,66,249,285,305,345,408,429,460,560,676,754,755,779,830,838,900,923,1072,1205,1337,1563,1567,1572,1573, and 1628  SB?s 23,48,57,361,366,389,414,638,659,737, and 867"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 76247.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 30, 249, 305, 408, 429,460, 557, 560, 676, 754, 755, 779, 830, 838, 900, 923, 1072, 1205, 1337, 1563, 1567, 1572, 1573, 1581, 1628, 1637, and ACA 2  SB 3, 23, 48, 57, 361, 366, 389, 597, 638, 659, 676, 745, 861, and 867"
       }
     ]
   },
@@ -38003,6 +38215,13 @@
         "generalLobbying": 82072.5,
         "pucLobbying": 0,
         "lobbiedOn": "SB 286, AB 3."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 63946.09,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 305, AB 460, AB 476, AB 650, AB 676, AB 742, AB 838, AB 985, AB 998, AB 1090, AB 1337, AB 1563, SB 389, SB 586, SB 819."
       }
     ]
   },
@@ -42790,6 +43009,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
       }
     ]
   },
@@ -44592,6 +44818,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 263, SB 637, Travel Insurance"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable activity"
       }
     ]
   },
@@ -45151,6 +45384,13 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Governors Office, Government Operations Agency, Department of Technology, Office of Systems Integration, Legislature and the Governor?s office regarding IT policies funding. Legislature regarding SB 253."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Governor's Office, Government Operations Agency, Department of Technology, Office of Systems Integration, Legislature and the Governor's Office regarding IT policies funding. Legislature regarding AB 1054, SB 253."
       }
     ]
   },
