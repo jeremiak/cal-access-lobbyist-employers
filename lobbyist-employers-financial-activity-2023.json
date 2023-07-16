@@ -4898,6 +4898,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -7523,6 +7530,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1368"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 4500,
         "pucLobbying": 0,
@@ -10474,6 +10488,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 94"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 641, & AB 994."
       }
     ]
   },
@@ -11318,6 +11339,13 @@
         "generalLobbying": 1750,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -12006,6 +12034,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -12146,6 +12181,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 67866,
+        "pucLobbying": 0,
+        "lobbiedOn": "See Memo."
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 67866,
         "pucLobbying": 0,
@@ -21736,6 +21778,13 @@
         "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 27000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -29152,6 +29201,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "AB460, AB560, AB779, AB1159, AB1337"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB460, AB560, AB606, AB779, AB985, AB1159, AB1337, AB1563 SB366, SB485, SB709"
       }
     ]
   },
@@ -29741,6 +29797,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 30000,
         "pucLobbying": 0,
@@ -41486,6 +41549,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 473"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 33000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 473"
       }
