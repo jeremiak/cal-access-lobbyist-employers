@@ -3318,6 +3318,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the legislature on SB 650, AB8, SB 785 and SB 829.  Lobbied Department of Justice on AB 8 and SB 650,785,829,234 and 683."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature on SB 650, AB 8, SB 785, and SB 829. Lobbied the Legislature and the Administration on SB 332."
       }
     ]
   },
@@ -3692,6 +3699,13 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "None This Period"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 98000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget - Techs Field Trip Program -- Legislature"
       }
     ]
   },
@@ -4063,6 +4077,13 @@
         "generalLobbying": 2000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 1x, SB 2x  -- Legislature, Governor; Windfall Tax, Resiliency Centers (Budget), Community Solar (Budget) -- Legislature; CEERIP/OTC Extensions, Manage Decline -- CA Energy Commission; California Low Carbon Fuel Standard -- CA Air Resources Board"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1000, AB 101, AB 674, AB 324, AB 1465, AB 1550, SB 709, SB 438, SB 556, Community Resiliency Centers (Budget), Working Group (Budget) -- Legislature;  Community Solar/Storage Program (Budget) -- Legislature, Governor"
       }
     ]
   },
@@ -5235,6 +5256,13 @@
         "generalLobbying": 35629.06,
         "pucLobbying": 0,
         "lobbiedOn": "CALSTRS: INVESTMENTS; UC RETIREMENT PLAN: INVESTMENTS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30750.95,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: INVESTMENTS; CALPERS: INVESTMENTS"
       }
     ]
   },
@@ -13565,6 +13593,13 @@
         "generalLobbying": 26832,
         "pucLobbying": 0,
         "lobbiedOn": "STATE BUDGET WIC PROGRAM AT CDPH. AB 274 AB311 AB605 SB245  AB518 AB524 AB575 AB1123 SB616 AB 608 AB1110 ACR2 AB 583."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20124,
+        "pucLobbying": 0,
+        "lobbiedOn": "STATE BUDGET: WIC PROGRAM AT CDPH AND CPSP. AB274 AB311 AB605 AB102 AB118 AB119 AB 129 AB608 AB518 AB524 AB575 AB 1123 SB 101 SB 124 AB 1110 ACR2 AB583."
       }
     ]
   },
@@ -15542,6 +15577,13 @@
         "generalLobbying": 25200,
         "pucLobbying": 0,
         "lobbiedOn": "STATE BUDGET: OPPOSE CCS WHOLE CHILD MODEL EXPANSION TO ALAMEDA + CONTRA COSTA ($29 MILLION ANNUAL IMPACT). HCAI GRANTS FOR PHYSICIAN TRAINING. CAL AIM PATH GRANTS AND BEHAVIORAL HEALTH GRANTS.AB 424."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20979,
+        "pucLobbying": 0,
+        "lobbiedOn": "STATE BUDGET: OPPOSE CCS WHOLE CHILD MODEL EXPANSION TO ALAMEDA + CONTRA COSTA ($29 MILLION IMPACT ON HOSPITAL). HCAI GRANTS DHCS GRANTS: CAL AIM PATH + BEHAVIORAL HEALTH. AB 424 AB 102 AB 118 AB 119."
       }
     ]
   },
@@ -17569,6 +17611,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 571 -- Legislature"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12556.75,
         "pucLobbying": 0,
         "lobbiedOn": "AB 571 -- Legislature"
       }
@@ -25584,6 +25633,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 3, AB 99, AB 1111, AB 1256, SB 23, SB 286, SB 408, SB 600, SB 833"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7137,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 99, AB 366, AB 531, AB 766, AB 1057, AB 1111, AB 1150, AB 1256, AB 1304, SB 20, SB 23, SB 319, SB 408, SB 600, SB 704, SB 833."
       }
     ]
   },
@@ -25991,7 +26047,15 @@
   {
     "id": "1460435",
     "name": "INCOMM PAYMENTS ",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 728"
+      }
+    ]
   },
   {
     "id": "1146451",
@@ -33972,6 +34036,13 @@
         "generalLobbying": 28700,
         "pucLobbying": 0,
         "lobbiedOn": "California Legislature: SB 839"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 48700,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Legislature: SB 839; CalPERS: pharmaceutical product coverage"
       }
     ]
   },
@@ -39265,6 +39336,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 27299,
+        "pucLobbying": 0,
+        "lobbiedOn": "see attached"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 26891,
         "pucLobbying": 0,
         "lobbiedOn": "see attached"
       }
@@ -46190,6 +46268,13 @@
         "generalLobbying": 3034.85,
         "pucLobbying": 0,
         "lobbiedOn": "Investment Management: UC Regents, CalPERS, CalSTRS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
