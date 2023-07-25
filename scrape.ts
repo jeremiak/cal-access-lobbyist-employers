@@ -73,12 +73,12 @@ async function scrapeLobbyistEmployerFinancialActivity(id: string): Promise<Quar
   const url = `https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=${id}&view=activity&session=${session}`
   const response = await fetch(url)
   const html = await response.text()
-  const doc: HTMLDocument | null = new DOMParser().parseFromString(
+  const document: HTMLDocument | null = new DOMParser().parseFromString(
     html,
     "text/html",
   );
 
-  const tbodies = doc?.querySelectorAll('tbody')
+  const tbodies = document?.querySelectorAll('tbody')
   const payments = tbodies[6]
   const lobbied = tbodies[7]
 
@@ -87,19 +87,25 @@ async function scrapeLobbyistEmployerFinancialActivity(id: string): Promise<Quar
     return []
   }
 
-  const paymentRows = payments.querySelectorAll('tr')
-  const lobbiedRows = lobbied.querySelectorAll('tr')
+  const paymentRows = [...payments.querySelectorAll('tr')]
+  const lobbiedRows = [...lobbied.querySelectorAll('tr')]
 
   const quarters: Quarter[] = []
 
   for (let i = 2; i < paymentRows.length; i++) {
     const paymentCells = paymentRows[i].querySelectorAll('td')
-    const lobbiedCells = lobbiedRows[i].querySelectorAll('td')
     const quarter = paymentCells[1].innerText.trim()
     const session = paymentCells[0].innerText.trim()
     const generalLobbying = +paymentCells[2].innerText.replaceAll(',', '').replace('$', '')
     const pucLobbying = +paymentCells[3].innerText.replaceAll(',', '').replace('$', '')
-    const lobbiedOn = lobbiedCells[2].innerText
+
+    const lobbiedRow = lobbiedRows.find(row => row.innerText.includes(quarter))
+    let lobbiedOn = null
+
+    if (lobbiedRow) {
+      const lobbiedCells = lobbiedRow.querySelectorAll('td')
+      lobbiedOn = lobbiedCells[2].innerText
+    }
 
     quarters.push({
       quarter,
@@ -131,8 +137,12 @@ if (employers.length === 0) {
 
 employers.forEach(employer => {
   financialActivityQueue.add(async () => {
-    const quarters: Quarter[] = await scrapeLobbyistEmployerFinancialActivity(employer.id)
-    employer.quarters = _.orderBy(quarters, ['session', 'quarter'])
+    try {
+      const quarters: Quarter[] = await scrapeLobbyistEmployerFinancialActivity(employer.id)
+      employer.quarters = _.orderBy(quarters, ['session', 'quarter'])
+    } catch (e) {
+      console.error(`Error scraping financial activity for ${JSON.stringify(employer)}`, e)
+    }
   })
 })
 
