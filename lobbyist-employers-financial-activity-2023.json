@@ -5412,6 +5412,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS  UCal"
       }
     ]
   },
@@ -9258,7 +9265,15 @@
   {
     "id": "1461414",
     "name": "BROOKS STREET",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor?s Office, state agencies re: land use and renewable energy."
+      }
+    ]
   },
   {
     "id": "1460091",
@@ -12873,6 +12888,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 24, AB 270, SB 681, AB 421, AB 868"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 24, AB 270, SB 681, SB 77, SB 328, SB 678, AB 421, AB 764, AB 868, AB 1248"
       }
     ]
   },
@@ -14112,7 +14134,22 @@
   {
     "id": "1142992",
     "name": "CALIFORNIA EMPLOYMENT LAW COUNCIL",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 11000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 524; SBs 365, 399, 627, 809"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 22000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 524, 747; SBs 365, 399, 627, 809"
+      }
+    ]
   },
   {
     "id": "1328231",
@@ -22124,6 +22161,13 @@
         "generalLobbying": 6275,
         "pucLobbying": 0,
         "lobbiedOn": "SB 420, SB 619 on electric transmission reforms and permitting"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7200,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 420, SB 619 on electric transmission reforms and permitting SB 867 Climate Bond SB 319 transmission AB 1567 Climate Bond AB3 offshore wind AB 585 GWSA infrastructure permitting pace study AB 914 CEQA"
       }
     ]
   },
@@ -27599,6 +27643,13 @@
     "name": "EARNIN",
     "quarters": [
       {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 1243000,
@@ -29569,11 +29620,11 @@
         "lobbiedOn": "AB 484; Department of Financial Protection & Innovation (DFPI): regulatory issues."
       },
       {
-        "quarter": "1st",
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 8640,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 484; Department of Financial Protection & Innovation (DFPI): regulatory issues."
+        "lobbiedOn": "SB 484; Department of Financial Protection & Innovation (DFPI): regulatory issues."
       }
     ]
   },
@@ -31100,6 +31151,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 473, SB 233, SB 55, AB 1519, AB 641, SB 296, AB 331, SB 615. CA Air Resources Board-ACC2."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 473, SB 233, SB 55, AB 1519, AB 641, SB 296, AB 331, SB 6215."
       }
     ]
   },
@@ -36471,7 +36529,15 @@
   {
     "id": "1460663",
     "name": "INNOVATIVE LENDING PLATFORM ASSOCIATION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 720,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 33, SB869"
+      }
+    ]
   },
   {
     "id": "1356451",
@@ -40286,9 +40352,16 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
+        "generalLobbying": 200,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALSTRS - $100.00 CALPERS - $100.00"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "No activity to report this period."
+        "lobbiedOn": ""
       }
     ]
   },
@@ -43857,6 +43930,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "SB 423 SB 55 AB 1708 AB 1532 AB 1490  State Budget Request  CA State Legislature  State Auditors Office"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 423 SB 55 AB 1708 AB 1532 AB 1490  AB 309 - State Budget Request  CA State Legislature  State Auditors Office"
       }
     ]
   },
@@ -53400,6 +53480,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -54928,9 +55015,16 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 4999.98,
+        "generalLobbying": 5250,
         "pucLobbying": 0,
         "lobbiedOn": "SB 23, AB 460, AB 1337, SB 389, and State Budget"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 5250,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 279, AB 460, AB 541, AB 676, AB 754, SB 23, SB 57, and SB 366"
       }
     ]
   },
@@ -61791,6 +61885,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 582.5,
+        "lobbiedOn": "University of California Retirement System: Investments"
       }
     ]
   },
