@@ -11412,6 +11412,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "Monitor state budget; program monitoring: CA HCD; CTCAC; CDLAC; CalHFA.  SB423,SB4, AB1532,AB84, AB930, ACA1, AB1700, SB393, AB978, AB1633, SB329, SB469, AB821, SB83, AB281, SB341, AB578, SB225, SB482, AB1657, AB1053, AB346"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Monitor state budget; program monitoring: CA HCD; CTCAC; CDLAC; CalHFA.  sb423, SB4, AB1532, AB930, ACA1, AB1700, SB393, AB978, SB329, SB469, AB821, SB341, AB578, SB225, SB482, AB1657, SB440, AB1053, AB346"
       }
     ]
   },
@@ -21750,6 +21757,13 @@
         "generalLobbying": 1065,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
       }
     ]
   },
@@ -23186,6 +23200,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -26760,9 +26781,9 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 892.5,
+        "generalLobbying": 15892.5,
         "pucLobbying": 0,
-        "lobbiedOn": "PUBLIC UTILITIES COMMISSION RE: COMPLIANCE ISSUES"
+        "lobbiedOn": "PUBLIC UTILITIES COMMISSION RE: COMPLIANCE ISSUES; Lobbied the Legislature on issues related to rail."
       },
       {
         "quarter": "2nd",
@@ -38965,7 +38986,7 @@
   },
   {
     "id": "1226625",
-    "name": "LA HABRA: CITY OF",
+    "name": "LA HABRA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -40599,7 +40620,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 3945,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature, Department of Fish & Wildlife and Governors office regarding AB 1008, AB 122 and SB 122."
       }
@@ -41412,7 +41433,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 28000,
+        "generalLobbying": 48000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 4, 101, 423"
       }
@@ -42013,7 +42034,7 @@
   },
   {
     "id": "1264464",
-    "name": "MANTECA, CITY OF ",
+    "name": "MANTECA; CITY OF ",
     "quarters": [
       {
         "quarter": "1st",
@@ -44155,7 +44176,7 @@
   },
   {
     "id": "1444191",
-    "name": "MORRO BAY, CITY OF",
+    "name": "MORRO BAY; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -48100,6 +48121,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
