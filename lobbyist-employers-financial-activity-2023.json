@@ -373,6 +373,26 @@
     ]
   },
   {
+    "id": "1458657",
+    "name": "ABB E-MOBILITY INC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB233 AB241 California Energy Commission CaleVIP and the Golden State Priority Project Implementation"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7287.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB233, AB241, SB410, AB 1349, AB 123, California Energy Commission CaleVIP and the Golden State Priority Project Implementation, California Air Resources Board EVSE Standards Regulation (specific to payment requirements)"
+      }
+    ]
+  },
+  {
     "id": "1418580",
     "name": "ABBEY CAPITAL (US) LLC",
     "quarters": [
@@ -6632,6 +6652,26 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 4, 101, 423"
+      }
+    ]
+  },
+  {
+    "id": "1396032",
+    "name": "ATHENS SERVICES & ITS AFFILIATED ENTITIES",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 2, 9, 287, 348, 495, 530, 573, 592, 678, 777, 844, 863, 891, 895, 909, 1012, 1238, 1267, 1290, 1489, 1526, 1534, 1548, 1550, 1705; SB 38, 244, 253, 303, 322, 353, 511, 552, 560, 568, 613, 615, 663, 665, 707, 746, 751, 752, 806, 854; CALRECYCLE RE: 1383 REGS AND COMPLIANCE ISSUES; CARB RE: ADVANCED CLEAN FLEET ISSUES."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 2, 9, 287, 348, 495, 530, 573, 592, 678, 777, 844, 863, 891, 895, 909, 1012, 1238, 1267, 1290, 1489, 1526, 1534, 1548, 1550, 1705, SB 38, 244, 253, 303, 322, 353, 511, 552, 560, 568, 613, 615, 663, 665, 707, 746, 751, 752, 806, 854; CALRECYCLE RE: 1383 REGS AND COMPLIANCE ISSUES; CARB RE: ADVANCED CLEAN FLEET ISSUES."
       }
     ]
   },
@@ -13472,7 +13512,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 35100,
+        "generalLobbying": 46800,
         "pucLobbying": 0,
         "lobbiedOn": "California Department of Human Resources, California Department of Corrections & Rehabilitation, California Correctional Health Care Services, Department of State Hospitals, Department of Finance:  wages, hours and working conditions, and the state and department budget; Governor's office: budget."
       },
@@ -17874,7 +17914,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 998543.04,
+        "generalLobbying": 1006747.94,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
       },
@@ -32672,7 +32712,22 @@
   {
     "id": "1460978",
     "name": "GLOBAL CLEAN ENERGY",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: FY 23-24 budget; California Energy Commission Re; Alternative Energy Fuel Funding"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 28000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
   },
   {
     "id": "1290486",
@@ -38355,6 +38410,19 @@
     ]
   },
   {
+    "id": "1453417",
+    "name": "KERECIS, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": "DEPARTMENT OF HEALTH CARE SERVICES RE: RATE SETTING FOR SKIN GRAFT PRODUCT"
+      }
+    ]
+  },
+  {
     "id": "1301134",
     "name": "KERMAN; CITY OF",
     "quarters": [
@@ -42781,6 +42849,19 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies: Legislature   Issues: Behavioral health care, California footprint, SB 238  Agencies: DMHC, CDI, HHS  Issues: Behavioral health care, California footprint"
+      }
+    ]
+  },
+  {
+    "id": "1244139",
+    "name": "MEAD JOHNSON & COMPANY, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 600,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB-899 Food safety: baby food."
       }
     ]
   },
@@ -59476,6 +59557,19 @@
     ]
   },
   {
+    "id": "1461177",
+    "name": "SIDEPRIZE LLC D/B/A PRIZEPICKS",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Attorney General?s Office regarding issues and concepts around daily fantasy sports, sports wagering and gaming."
+      }
+    ]
+  },
+  {
     "id": "1384778",
     "name": "SIERRA BUSINESS COUNCIL",
     "quarters": [
@@ -59930,19 +60024,6 @@
         "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 400, 460, 1337; SB 122, 123, 124, 125, 145, 146, 147, 149; CA WATER COMMISSION RE: WATER ISSUES AND FUNDING; LEGISLATURE RE: WATER ISSUES; GOVERNOR'S OFFICE RE: WATER ISSUES"
-      }
-    ]
-  },
-  {
-    "id": "1461177",
-    "name": "SIZEPRIZE LLC D/B/A PRIZEPICKS",
-    "quarters": [
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 22500,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Attorney General?s Office regarding issues and concepts around daily fantasy sports, sports wagering and gaming."
       }
     ]
   },
@@ -63150,6 +63231,19 @@
     ]
   },
   {
+    "id": "1461982",
+    "name": "SYNTHETIC TURF COUNCIL",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 6193.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied AB 234, AB 1423, SB 499."
+      }
+    ]
+  },
+  {
     "id": "1395599",
     "name": "SYSCO",
     "quarters": [
@@ -63857,6 +63951,26 @@
         "generalLobbying": 45000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 1063, AB 1316, AB 1557, SB 525, SB 759, hospital viability in California"
+      }
+    ]
+  },
+  {
+    "id": "1377328",
+    "name": "TENEX CAPITAL MANAGEMENT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -66708,6 +66822,19 @@
     ]
   },
   {
+    "id": "1359094",
+    "name": "USA SWIMMING",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 252"
+      }
+    ]
+  },
+  {
     "id": "1335948",
     "name": "USAA REAL ESTATE COMPANY",
     "quarters": [
@@ -66884,6 +67011,19 @@
         "generalLobbying": 341314.11,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
+      }
+    ]
+  },
+  {
+    "id": "1314458",
+    "name": "VALLEJO CITY UNIFIED SCHOOL DISTRICT",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature  State Board of Education  California Department of Education  charter school policies affecting authorizers"
       }
     ]
   },
@@ -68116,6 +68256,19 @@
         "generalLobbying": 83230.66,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 418, AB 1000, AB 1222, AB 1286, AB 1341, AB 1347, AB 1748, SB 253, SB 524, SB 553, SB 707 AND SB 777."
+      }
+    ]
+  },
+  {
+    "id": "1144110",
+    "name": "WALNUT VALLEY UNIFIED SCHOOL DISTRICT",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SSC: Legislative Analyst\u0012s Office  State Legislature Re: district of choice laws: Blattner & Associates: None--No Lobbying During This Quarter"
       }
     ]
   },
@@ -70534,7 +70687,15 @@
   {
     "id": "1460735",
     "name": "ZESTFINANCE, INC. D/B/A ZEST AI",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable lobbying activity"
+      }
+    ]
   },
   {
     "id": "1405147",
