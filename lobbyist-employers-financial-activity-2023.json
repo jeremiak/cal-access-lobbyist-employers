@@ -1307,6 +1307,26 @@
     ]
   },
   {
+    "id": "1335948",
+    "name": "AFFINIUS CAPITAL",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 2089.91,
+        "pucLobbying": 0,
+        "lobbiedOn": "DISCUSSIONS WITH CALSTRS REGARDING INVESTMENT IN THE FIRM'S FUND."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3019.3,
+        "pucLobbying": 0,
+        "lobbiedOn": "DISCUSSIONS WITH CALSTRS REGARDING INVESTMENT IN THE FIRM'S FUND."
+      }
+    ]
+  },
+  {
     "id": "1388063",
     "name": "AFFIRM, INC.",
     "quarters": [
@@ -6725,6 +6745,13 @@
         "generalLobbying": 52500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature Re: Residential Care Facilities and Models, CA Presence"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 31500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Residential Care Facilities and Models, CA Presence"
       }
     ]
   },
@@ -9283,6 +9310,11 @@
     ]
   },
   {
+    "id": "1345506",
+    "name": "BROOKFIELD PUBLIC SECURITIES GROUP LLC",
+    "quarters": []
+  },
+  {
     "id": "1393029",
     "name": "BROOKLANDS CAPITAL STRATEGIES BD, LP",
     "quarters": [
@@ -9545,6 +9577,19 @@
         "generalLobbying": 41250,
         "pucLobbying": 0,
         "lobbiedOn": "SB 53, 1018"
+      }
+    ]
+  },
+  {
+    "id": "1460278",
+    "name": "BUNGE NORTH AMERICA INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 47500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Air Resources Board (CARB):  Potential amendments to Low Carbon Fuel Standard (LCFS)."
       }
     ]
   },
@@ -20528,26 +20573,6 @@
     ]
   },
   {
-    "id": "1146986",
-    "name": "CENTERS FOR PUBLIC INTEREST LAW/CONSUMER PROTECTION POLICY CENTER CHILDREN'S ADVOCACY INSTITUTE/USD",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 34386.9,
-        "pucLobbying": 0,
-        "lobbiedOn": "Please see attached memo."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 66213.95,
-        "pucLobbying": 0,
-        "lobbiedOn": "See memo"
-      }
-    ]
-  },
-  {
     "id": "1143799",
     "name": "CENTRAL BASIN MUNICIPAL WATER DISTRICT",
     "quarters": [
@@ -21397,6 +21422,26 @@
     ]
   },
   {
+    "id": "1146986",
+    "name": "CHILDREN'S ADVOCACY INSTITUTE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 34386.9,
+        "pucLobbying": 0,
+        "lobbiedOn": "Please see attached memo."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 66213.95,
+        "pucLobbying": 0,
+        "lobbiedOn": "See memo"
+      }
+    ]
+  },
+  {
     "id": "1434053",
     "name": "CHILDREN'S CHOICE DENTAL CARE",
     "quarters": [
@@ -21911,6 +21956,26 @@
         "generalLobbying": 2938.7,
         "pucLobbying": 0,
         "lobbiedOn": "UC Regents - Marketing/Investment Management Mandates California Public Employees Retirement System -Marketing/Investment Management Mandates  California State Teachers Retirement System -Marketing/Investment Management Mandates"
+      }
+    ]
+  },
+  {
+    "id": "1422499",
+    "name": "CINCTIVE CAPITAL MANAGEMENT LP",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 122,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 243,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents"
       }
     ]
   },
@@ -24610,6 +24675,11 @@
     ]
   },
   {
+    "id": "1461236",
+    "name": "CORSAIR CAPITAL LLC",
+    "quarters": []
+  },
+  {
     "id": "1146862",
     "name": "CORTEVA AGRISCIENCE LLC",
     "quarters": [
@@ -26358,6 +26428,26 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
+      }
+    ]
+  },
+  {
+    "id": "1458374",
+    "name": "DEFENSE CREDIT COUNCIL",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature regarding AB 1143, Attorney General Office re: SB 1311 implementation."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 1143; Attorney General Office re: SB 1311 implementation."
       }
     ]
   },
@@ -28363,6 +28453,19 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE - TERMINATED 03/31/2023.  PAYMENT FOR PRIOR QUARTER SERVICE."
+      }
+    ]
+  },
+  {
+    "id": "1347179",
+    "name": "EIG MANAGEMENT COMPANY, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -36922,7 +37025,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 8500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 418"
       }
@@ -38284,7 +38387,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 40000,
+        "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE INTRODUCTIONS REGARDING PILOT PROGRAM BUDGET APPROPRIATIONS."
       }
@@ -42128,6 +42231,11 @@
     ]
   },
   {
+    "id": "1399393",
+    "name": "MANULIFE INVESTMENT MANAGEMENT PRIVATE MARKETS (US) LLC",
+    "quarters": []
+  },
+  {
     "id": "1396197",
     "name": "MAPLEBEAR INC., DBA INSTACART ",
     "quarters": [
@@ -43886,6 +43994,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Department of Health Care Services regarding non-emergency and non-medical transportation provider enrollment issues."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Department of Health Care Services regarding non-emergency and non-medical transportation provider enrollment issues."
       }
     ]
   },
@@ -45037,6 +45152,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB607, SB553."
+      }
+    ]
+  },
+  {
+    "id": "1337974",
+    "name": "NATIONAL ASSOCIATION OF ENERGY SERVICE COMPANIES ",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 706"
       }
     ]
   },
@@ -59565,7 +59693,7 @@
   },
   {
     "id": "1461177",
-    "name": "SIDEPRIZE LLC D/B/A PRIZEPICKS",
+    "name": "SIDEPRIZE LLC AND ITS AFFILIATES D/B/A PRIZEPICKS",
     "quarters": [
       {
         "quarter": "2nd",
@@ -59961,7 +60089,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 20.83,
+        "generalLobbying": 45.82,
         "pucLobbying": 0,
         "lobbiedOn": "Contacted CalSTRS regarding opportunity to invest in the Firm's funds."
       },
@@ -60031,6 +60159,26 @@
         "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 400, 460, 1337; SB 122, 123, 124, 125, 145, 146, 147, 149; CA WATER COMMISSION RE: WATER ISSUES AND FUNDING; LEGISLATURE RE: WATER ISSUES; GOVERNOR'S OFFICE RE: WATER ISSUES"
+      }
+    ]
+  },
+  {
+    "id": "1445555",
+    "name": "SKYDIO, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 740"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 740"
       }
     ]
   },
@@ -60512,7 +60660,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 14494.97,
+        "generalLobbying": 14048.67,
         "pucLobbying": 0,
         "lobbiedOn": "B 2, AB 863, AB 909, AB 1238, AB 1290, AB 1489, AB 1534, AB 1548, AB 1594, AB 1705, SB 244, SB 560, SB 613, SB 615, SB 707, SB 777, SB 806; CA Air Resources Board, re: Landfill Methane Regulations; US Congress, re: PFAS Liability Protection Act of 2023."
       }
@@ -63158,6 +63306,26 @@
     ]
   },
   {
+    "id": "1436278",
+    "name": "SYCAMORE TREE CAPITAL PARTNERS, L.P.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 543,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, UC Regents"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 483,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, UC Regents"
+      }
+    ]
+  },
+  {
     "id": "1144053",
     "name": "SYCUAN BAND OF THE KUMEYAAY NATION",
     "quarters": [
@@ -64090,6 +64258,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1460799",
+    "name": "THE HIGH DESERT ASSOCIATION OF REALTORS",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7950,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 102, AB 1008; DEPT. OF FISH AND GAME RE: WESTERN JOSHUA TREE"
       }
     ]
   },
@@ -66852,26 +67033,6 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 252"
-      }
-    ]
-  },
-  {
-    "id": "1335948",
-    "name": "USAA REAL ESTATE COMPANY",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 2089.91,
-        "pucLobbying": 0,
-        "lobbiedOn": "DISCUSSIONS WITH CALSTRS REGARDING INVESTMENT IN THE FIRM'S FUND."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 3019.3,
-        "pucLobbying": 0,
-        "lobbiedOn": "DISCUSSIONS WITH CALSTRS REGARDING INVESTMENT IN THE FIRM'S FUND."
       }
     ]
   },
