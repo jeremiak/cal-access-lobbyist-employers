@@ -1227,6 +1227,19 @@
     ]
   },
   {
+    "id": "1461985",
+    "name": "AEROPAY",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Treasurer's Office and Dept of Cannabis Control re cannabis payment policies"
+      }
+    ]
+  },
+  {
     "id": "1425427",
     "name": "AES US SERVICES, LLC",
     "quarters": [
@@ -8843,6 +8856,26 @@
     ]
   },
   {
+    "id": "1460069",
+    "name": "BOTANIC TONICS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1361713",
     "name": "BOYD GAMING CORPORATION",
     "quarters": [
@@ -10402,6 +10435,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 23375.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "All Legislative Offices"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 23375.5,
         "pucLobbying": 0,
@@ -13384,7 +13424,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 28713.49,
+        "generalLobbying": 28553.53,
         "pucLobbying": 0,
         "lobbiedOn": "AB 372, AB 103, AB 1748, SB 4, SB 83, SB 273, SB 423, SB 525, SB 574."
       }
@@ -29262,6 +29302,11 @@
     ]
   },
   {
+    "id": "1462182",
+    "name": "ENERGY INFRASTRUCTURE OPERATIONS, LLC",
+    "quarters": []
+  },
+  {
     "id": "1346314",
     "name": "ENERGYSOURCE MINERALS LLC",
     "quarters": [
@@ -30149,6 +30194,26 @@
         "generalLobbying": 84750,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE & GOVERNOR'S OFFICE - SB 263"
+      }
+    ]
+  },
+  {
+    "id": "1460086",
+    "name": "F5 COLLECTIVE INVESTMENTS LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 54"
       }
     ]
   },
@@ -49580,6 +49645,26 @@
     ]
   },
   {
+    "id": "1459784",
+    "name": "PAJARO REGIONAL FLOOD MANAGEMENT AGENCY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1146171",
     "name": "PAJARO VALLEY UNIFIED SCHOOL DISTRICT",
     "quarters": [
@@ -49598,6 +49683,11 @@
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 98 SB 364 AB 247"
       }
     ]
+  },
+  {
+    "id": "1462194",
+    "name": "PALISADE CAPITAL MANAGEMENT, LP",
+    "quarters": []
   },
   {
     "id": "1441203",
@@ -51605,6 +51695,26 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 98 SB 364 AB 247 AB 906"
+      }
+    ]
+  },
+  {
+    "id": "1234200",
+    "name": "PLACER COUNTY TRANSPORTATION PLANNING AGENCY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA TRANSPORTATION COMMISSION, CA STATE TRANSPORTATION AGENCY, CA DEPARTMENT OF TRANSPORTATION, RE: TRANSPORTATION ISSUES"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA TRANSPORTATION COMMISSION, CALIFORNIA STATE TRANSPORTATION AGENCY, CALIFORNIA DEPARTMENT OF TRANSPORTATION, RE: TRANSPORTATION ISSUES"
       }
     ]
   },
@@ -62160,8 +62270,8 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 582.5,
+        "generalLobbying": 582.5,
+        "pucLobbying": 0,
         "lobbiedOn": "University of California Retirement System: Investments"
       }
     ]
@@ -68382,6 +68492,19 @@
     ]
   },
   {
+    "id": "1460532",
+    "name": "WAABI INNOVATION US INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 316; CALIFORNIA DEPARTMENT OF MOTOR VEHICLES AND CA HIGHWAY PATROL RE: AUTONOMOUS VEHICLE ISSUES"
+      }
+    ]
+  },
+  {
     "id": "1286305",
     "name": "WALGREEN COMPANY",
     "quarters": [
@@ -70019,6 +70142,13 @@
     "id": "1382728",
     "name": "WESTWOOD MANAGEMENT CORP.",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
