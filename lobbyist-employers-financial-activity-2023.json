@@ -12163,7 +12163,7 @@
         "session": "2023-2024",
         "generalLobbying": 21341.28,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 54, AB 460, AB 560, AB 1024, AB 1337, AB 1563; SB 375, SB 389, SB 659; STATE WATER RESOURCES CONTROL BOARD RE: AG LANDS COST OF COMPLIANCE AND CLEAR LAKE HITCH; DEPT OF WATER RESOURCES RE: DRY LAND WINEGRAPE FARMING GRANT PROGRAM"
+        "lobbiedOn": "AB 54, AB 460, AB 560, AB 1024, AB 1337, AB 1563; SB 375, SB 366, SB 389, SB 422, SB 659; STATE WATER RESOURCES CONTROL BOARD RE: AG LANDS COST OF COMPLIANCE AND CLEAR LAKE HITCH; DEPT OF WATER RESOURCES RE: DRY LAND WINEGRAPE FARMING GRANT PROGRAM"
       }
     ]
   },
@@ -24017,6 +24017,26 @@
     ]
   },
   {
+    "id": "1397346",
+    "name": "CONSERVATION FUND; THE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None this period."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None this period."
+      }
+    ]
+  },
+  {
     "id": "1278802",
     "name": "CONSERVATION SOCIETY OF CALIFORNIA",
     "quarters": [
@@ -28506,6 +28526,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -30321,7 +30348,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 24000,
+        "generalLobbying": 25034.57,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1310, AB 1523, SB 94, and SB 254"
       }
@@ -55656,7 +55683,7 @@
         "session": "2023-2024",
         "generalLobbying": 33651.3,
         "pucLobbying": 0,
-        "lobbiedOn": "DEPT. OF WATER RESOURCES, DEPT. OF FINANCE RE: FUNDING FOR YOLO BYPASS AND ARCF PROJECTS; LEGISLATIVE ANALYST'S OFFICE RE: BRIEFING; GOVERNOR'S OFFICE, LEGISLATURE RE: FLOOD WATER MANAGEMENT BRIEFING"
+        "lobbiedOn": "AB 460, AB 560, AB 1337, AB 1563, SB 366, SB 389, SB 422; DEPT. OF WATER RESOURCES, DEPT. OF FINANCE RE: FUNDING FOR YOLO BYPASS AND ARCF PROJECTS; LEGISLATIVE ANALYST'S OFFICE RE: BRIEFING; GOVERNOR'S OFFICE, LEGISLATURE RE: FLOOD WATER MANAGEMENT BRIEFING"
       }
     ]
   },
@@ -56985,7 +57012,7 @@
         "session": "2023-2024",
         "generalLobbying": 71005.75,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 279; SB 485; LEGISLATURE RE: WATER BOND; STATE WATER RESOURCES CONTROL BOARD RE: FUNDING OF DEDICATED WATER STAFF, GROUNDWATER QUALITY GRANTS CRITERIA"
+        "lobbiedOn": "AB 279, AB 460, AB 560, AB 1337, AB 1563; SB 366, SB 389, SB 422, SB 485; LEGISLATURE RE: WATER BOND; STATE WATER RESOURCES CONTROL BOARD RE: FUNDING OF DEDICATED WATER STAFF, GROUNDWATER QUALITY GRANTS CRITERIA"
       }
     ]
   },
@@ -58271,7 +58298,7 @@
         "session": "2023-2024",
         "generalLobbying": 24185,
         "pucLobbying": 0,
-        "lobbiedOn": "CA DEPT. OF WATER RESOURCES RE: FLOOD CONTROL SUBVENTIONS"
+        "lobbiedOn": "AB 460, AB 560, AB 1337, AB 1563, SB 366, SB 389, SB 422; CA DEPT. OF WATER RESOURCES RE: FLOOD CONTROL SUBVENTIONS"
       }
     ]
   },
@@ -65878,7 +65905,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 148339.51,
+        "generalLobbying": 160333.51,
         "pucLobbying": 0,
         "lobbiedOn": "STATE LEGISLATURE REGARDING: AB 893, AB 898, SB 478."
       }
@@ -65998,7 +66025,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 20000,
+        "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Franchise Tax Board reg lithium tax. Air Resources Board reg AB 32 implementation."
       }
@@ -70835,6 +70862,11 @@
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE & GOVERNOR'S OFFICE - SB 277, SB 430"
       }
     ]
+  },
+  {
+    "id": "1452391",
+    "name": "YTT NORTHERN CHUMAS NONPROFIT ",
+    "quarters": []
   },
   {
     "id": "1144099",
