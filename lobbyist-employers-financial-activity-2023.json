@@ -518,6 +518,26 @@
     ]
   },
   {
+    "id": "1450381",
+    "name": "ACADEMIC SENATE FOR CALIFORNIA COMMUNITY COLLEGES",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 395, AB 1142; LEGISLATURE, GOVERNOR'S OFFICE, CA DEPTARTMENT OF FINANCE RE: COMMUNITY COLLEGE BUDGET"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 395, 1142; Governor's Office, Department of Finance, State Legislature re: Community College Budget"
+      }
+    ]
+  },
+  {
     "id": "1146585",
     "name": "ACADEMY OF CALIFORNIA ADOPTION-ART LAWYERS (ACAL)",
     "quarters": [
@@ -714,6 +734,13 @@
     "id": "1445875",
     "name": "ACM-WEST",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No actions lobbied."
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -4489,6 +4516,26 @@
     ]
   },
   {
+    "id": "1405126",
+    "name": "ANAHEIM UNION HIGH SCHOOL DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1357"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1357"
+      }
+    ]
+  },
+  {
     "id": "1142842",
     "name": "ANAHEIM; CITY OF",
     "quarters": [
@@ -7900,6 +7947,19 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "Electronic Waste Issues -- Legislature"
+      }
+    ]
+  },
+  {
+    "id": "1461521",
+    "name": "BETTER IDENTITY COALITION, A PROJECT OF THE CENTER FOR CYBERSECURITY POLICY AND LAW ",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2100,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative: SB 362"
       }
     ]
   },
@@ -13287,6 +13347,26 @@
         "generalLobbying": 430544.08,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
+      }
+    ]
+  },
+  {
+    "id": "1306417",
+    "name": "CALIFORNIA COMMUNITY COLLEGE ASSOCIATION FOR OCCUPATIONAL EDUCATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE, CA DEPARTMENT OF FINANCE RE: COMMUNITY COLLEGE BUDGET"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor's Office, Department of Finance, State Legislature re: Community College Budget"
       }
     ]
   },
@@ -20453,6 +20533,26 @@
     ]
   },
   {
+    "id": "1145692",
+    "name": "CENTER FOR ECOLITERACY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Budget:  School Nutrition"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3626,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Budget:  School Nutrition"
+      }
+    ]
+  },
+  {
     "id": "1278335",
     "name": "CENTER FOR ELDERS INDEPENDENCE",
     "quarters": [
@@ -25995,6 +26095,26 @@
     ]
   },
   {
+    "id": "1457349",
+    "name": "CYNOSURE MANAGEMENT, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS and CalSTRS re: investment solicitation."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS and CalSTRS re: investment solicitation."
+      }
+    ]
+  },
+  {
     "id": "1447616",
     "name": "CYPRESS CREEK RENEWABLES",
     "quarters": [
@@ -26450,6 +26570,11 @@
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 1160"
       }
     ]
+  },
+  {
+    "id": "1462272",
+    "name": "DEEPBLUE THERAPEUTICS, LLC",
+    "quarters": []
   },
   {
     "id": "1224150",
@@ -28239,6 +28364,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
+      }
+    ]
+  },
+  {
+    "id": "1144069",
+    "name": "ECOBAT RESOURCES CALIFORNIA, INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -30081,6 +30219,19 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "California Legislature: AB 579; SB 88"
+      }
+    ]
+  },
+  {
+    "id": "1461182",
+    "name": "EVERINGHAM BROS. BAIT CO.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2280,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Fish and Wildlife California State Senate"
       }
     ]
   },
@@ -38387,6 +38538,26 @@
     ]
   },
   {
+    "id": "1459425",
+    "name": "JUST KEEP LIVIN FOUNDATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature regarding State Budget Bills."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature regarding state budget issues."
+      }
+    ]
+  },
+  {
     "id": "1438226",
     "name": "JUSTNOTARIZED",
     "quarters": [
@@ -39812,7 +39983,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 604905.34,
+        "generalLobbying": 580861.2,
         "pucLobbying": 0,
         "lobbiedOn": "AB: 2, 6, 7, 13, 15, 18. 23, 24, 30, 33, 37, 40, 41, 43, 50, 51, 55, 58, 60, 61, 67, 68, 74, 75, 79, 83, 86, 88, 89, 93,  240, 244, 262, 270, 280, 286, 292, 297, 309, 316, 327, 329, 332, 333, 334, 335, 336, 338, 341, 351, 367, 379, 398, 400, 411, 415, 420, 421, 436, 437, 443, 452, 453, 459, 460, 462, 469, 480, 489, 504, 510, 519, 520, 523, 524, 531, 532, 545, 550, 557, 570, 573, 575,"
       },
@@ -42557,6 +42728,19 @@
         "generalLobbying": 50754.85,
         "pucLobbying": 0,
         "lobbiedOn": "AB 99, AB 120, AB 887, AB 935, AB 1020, AB 1207, AB 1313, ACA 1, SB 120, SB 227, SB 584."
+      }
+    ]
+  },
+  {
+    "id": "1461183",
+    "name": "MARINA DEL REY BAIT COMPANY",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2280,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Fish and Wildlife California State Senate"
       }
     ]
   },
@@ -47955,6 +48139,19 @@
         "generalLobbying": 2500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 341"
+      }
+    ]
+  },
+  {
+    "id": "1461181",
+    "name": "OCEANSIDE BAIT COMPANY, INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2185,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Fish and Wildlife California State Senate"
       }
     ]
   },
@@ -53481,19 +53678,6 @@
     ]
   },
   {
-    "id": "1144069",
-    "name": "QUEMETCO, INC.",
-    "quarters": [
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      }
-    ]
-  },
-  {
     "id": "1146653",
     "name": "QUEST DIAGNOSTICS INCORPORATED",
     "quarters": [
@@ -53950,6 +54134,11 @@
         "lobbiedOn": "04/02/23 Review of California legislation. Review of supporting material. Note to Matt. Note to Jason. Background. 04/03/23 Compiled list of California state Senators and Representatives for Orange, Riverside, San Bernardino, and Los Angeles  04/03/23 Call Jason. Background. 04/04/23 Edited list of California State Senators and Assembly Representatives."
       }
     ]
+  },
+  {
+    "id": "1419641",
+    "name": "REAL ESTATE EQUITY EXCHANGE, INC. AND ITS AFFILIATE, UNISON INVESTMENT MANAGEMENT, LLC",
+    "quarters": []
   },
   {
     "id": "1339766",
@@ -55168,6 +55357,11 @@
         "lobbiedOn": "NONE"
       }
     ]
+  },
+  {
+    "id": "1455614",
+    "name": "ROBLOX CORPORATION",
+    "quarters": []
   },
   {
     "id": "1244615",
@@ -59082,7 +59276,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 70000,
+        "generalLobbying": 70068.88,
         "pucLobbying": 0,
         "lobbiedOn": "AB 554, 1008; SB 262; LEGISLATURE RE: THEME PARK ISSUES"
       }
