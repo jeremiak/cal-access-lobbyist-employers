@@ -7891,6 +7891,26 @@
     ]
   },
   {
+    "id": "1377128",
+    "name": "BERKSHIRE PROPERTY ADVISORS, L.L.C.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 111.78,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees' Retirement System (CalPERS), California State Teachers' Retirement System (CalSTRS), and the Regents of the University of California (Cal Regents)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 111.78,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees' Retirement System (CalPERS), California State Teachers' Retirement System (CalSTRS), and the Regents of the University of California (Cal Regents)"
+      }
+    ]
+  },
+  {
     "id": "1418386",
     "name": "BERNHARD CAPITAL PARTNERS MANAGEMENT LP",
     "quarters": [
@@ -9868,6 +9888,19 @@
         "generalLobbying": 7705,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1050"
+      }
+    ]
+  },
+  {
+    "id": "1381552",
+    "name": "BYRON-BETHANY IRRIGATION DISTRICT",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 11250,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 460, 1337; SB 389"
       }
     ]
   },
@@ -12688,7 +12721,22 @@
   {
     "id": "1441443",
     "name": "CALIFORNIA CANNABIS AUTHORITY",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 687 (Hart)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 687 (Hart)"
+      }
+    ]
   },
   {
     "id": "1362951",
@@ -15589,6 +15637,19 @@
     ]
   },
   {
+    "id": "1450612",
+    "name": "CALIFORNIA JUDGEMENT PRESERVATION ALLIANCE (CJPA)",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 11000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1119"
+      }
+    ]
+  },
+  {
     "id": "1142891",
     "name": "CALIFORNIA JUDGES ASSOCIATION",
     "quarters": [
@@ -17214,6 +17275,26 @@
     ]
   },
   {
+    "id": "1432634",
+    "name": "CALIFORNIA RECREATIONAL VEHICLE DEALERS ASSOCIATION (CALRVDA)",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 23138.56,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 777.35,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 604"
+      }
+    ]
+  },
+  {
     "id": "1415028",
     "name": "CALIFORNIA RENTAL HOUSING ASSOCIATION",
     "quarters": [
@@ -17747,6 +17828,26 @@
     ]
   },
   {
+    "id": "1143129",
+    "name": "CALIFORNIA SOCIETY OF ENROLLED AGENTS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 339, 778; SB 446, 454; HR 8"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 339, 778, 1576, 1765; HR 8; SB 220, 230, 446, 454"
+      }
+    ]
+  },
+  {
     "id": "1144042",
     "name": "CALIFORNIA SOCIETY OF HEALTH-SYSTEM PHARMACISTS",
     "quarters": [
@@ -18216,6 +18317,19 @@
         "generalLobbying": 94724,
         "pucLobbying": 0,
         "lobbiedOn": "AB 9, AB 42, AB 249, AB 324, AB 340, AB 1538, AB 1569, SB 284, SB 416, SB 423, SB 438, SB 740, SB 745, SB 746, SB 795"
+      }
+    ]
+  },
+  {
+    "id": "1348129",
+    "name": "CALIFORNIA STATE RAILROAD MUSEUM FOUNDATION",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -25379,6 +25493,26 @@
     ]
   },
   {
+    "id": "1458548",
+    "name": "CRAYHILL CAPITAL MANAGEMENT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
     "id": "1241067",
     "name": "CREATE CALIFORNIA",
     "quarters": [
@@ -25851,6 +25985,26 @@
         "generalLobbying": 40000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND ADMINISTRATION RE: AB 39, 76, 1116, 1229, 1296, 1312, 1336, SB 401, 478"
+      }
+    ]
+  },
+  {
+    "id": "1369882",
+    "name": "CRYSTAL COVE CONSERVANCY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -48516,6 +48670,26 @@
     ]
   },
   {
+    "id": "1460224",
+    "name": "OMIDYAR NETWORK",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 886"
+      }
+    ]
+  },
+  {
     "id": "1337063",
     "name": "ON BEHALF OF HEITMAN LLC & AFFILIATES",
     "quarters": [
@@ -50615,6 +50789,19 @@
         "generalLobbying": 36000,
         "pucLobbying": 0,
         "lobbiedOn": "California Air Resources Board re: Ocean-Going Vessel At-Berth Regulation"
+      }
+    ]
+  },
+  {
+    "id": "1293968",
+    "name": "PASKENTA BAND OF NOMLAKI INDIANS",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 854"
       }
     ]
   },
@@ -60036,6 +60223,19 @@
     ]
   },
   {
+    "id": "1239880",
+    "name": "SIEMENS CORPORATION",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 591 and Governor?s budget regarding EV charging."
+      }
+    ]
+  },
+  {
     "id": "1384778",
     "name": "SIERRA BUSINESS COUNCIL",
     "quarters": [
@@ -64071,6 +64271,26 @@
         "generalLobbying": 15400,
         "pucLobbying": 0,
         "lobbiedOn": "No activity this period."
+      }
+    ]
+  },
+  {
+    "id": "1143788",
+    "name": "TAXICAB PARATRANSIT ASSOCIATION OF CALIFORNIA",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 6125,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3675,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
