@@ -4023,7 +4023,14 @@
         "session": "2023-2024",
         "generalLobbying": 10000,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature         Issues: AB 70, AB 71"
+        "lobbiedOn": "Legislature         Issues: AB 70, AB 71, AB 781"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature         Issues: AB 70, AB 71, AB 245"
       }
     ]
   },
@@ -7074,6 +7081,26 @@
     ]
   },
   {
+    "id": "1348299",
+    "name": "AVENUE CAPITAL MANAGEMENT II, L.P. AND ITS AFFILIATES",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1444337",
     "name": "AVESIS, LLC AND ITS AFFILIATES INCLUDING ACCESS DENTAL PLAN AND PREMIER ACCESS INSURANCE COMPANY",
     "quarters": [
@@ -8834,6 +8861,11 @@
         "lobbiedOn": "CARB regarding Advanced Clean Fleets; CalEPA regarding HMBP reporting; Legislature regarding mobile fueling, hydrogen and electric mobile charging, fueling accessibility, AB 1303."
       }
     ]
+  },
+  {
+    "id": "1462333",
+    "name": "BORGWARNER, INC.",
+    "quarters": []
   },
   {
     "id": "1399689",
@@ -11434,7 +11466,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 147970.5,
+        "generalLobbying": 152970.5,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       }
@@ -18760,9 +18792,9 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 5000,
+        "generalLobbying": 14400,
         "pucLobbying": 3000,
-        "lobbiedOn": "AB 460, AB 809, AB 1024, AB 1159, AB 1272, AB 1337, AB 1567, AB 1581; SB 23, SB 337, SB 361, SB 508, SB 756, SB 876; CA DEPT OF FISH AND WILDLIFE, CA DEPT OF FORESTRY & FIRE PROTECTION, CA WILDLIFE CONSERVATION BOARD, DEPT OF CONSERVATION, CA NATURAL RESOURCES AGENCY RE: BUDGET"
+        "lobbiedOn": "AB 460, AB 809, AB 1337, AB 1272; SB 389, SB 867; LEGISLATURE RE: RINDGE DAM; CA DEPT OF FISH AND WILDLIFE (CDFW), CA STATE WATER RESOURCES CONTROL BOARD (SWRCB) RE: DROUGHT; DEPARTMENT OF WATER RESOURCES (DWR) RE: BUDGET; CA NATURAL RESOURCES AGENCY (CNRA) RE: 30X30, BUDGET; GOVERNOR'S OFFICE RE: BUDGET AND TRAILER BILLS"
       }
     ]
   },
@@ -19495,6 +19527,11 @@
   {
     "id": "1355633",
     "name": "CAMDEN ASSET MANAGEMENT, L.P.",
+    "quarters": []
+  },
+  {
+    "id": "1281400",
+    "name": "CAMPAIGN FOR COLLEGE OPPORTUNITY; THE",
     "quarters": []
   },
   {
@@ -28575,6 +28612,26 @@
     ]
   },
   {
+    "id": "1460158",
+    "name": "EDEN HOUSING, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: FUNDING OPPORTUNITIES"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 120110,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: FUNDING OPPORTUNITIES"
+      }
+    ]
+  },
+  {
     "id": "1283857",
     "name": "EDF RENEWABLES",
     "quarters": [
@@ -30313,6 +30370,19 @@
         "generalLobbying": 145.83,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS: proposed investment in Eurazeo Transition Infrastructure Fund I; CalPERS: proposed investment in Eurazeo Growth Fund IV, Eurazeo Capital V; UC Regents: proposed investment in Eurazeo Private Debt."
+      }
+    ]
+  },
+  {
+    "id": "1396148",
+    "name": "EVBOX NORTH AMERICA, INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re AB 123 AB 241 AB 591 SB 84"
       }
     ]
   },
@@ -32532,6 +32602,11 @@
         "lobbiedOn": "Lobbied the legislature and Governor's office re: AB 1328"
       }
     ]
+  },
+  {
+    "id": "1462121",
+    "name": "FUTURE PROOF BRANDS LLC DBA BEATBOX BEVERAGES, LLC",
+    "quarters": []
   },
   {
     "id": "1445117",
@@ -35488,6 +35563,11 @@
         "lobbiedOn": "Lobbied:  SB 525, SB 730."
       }
     ]
+  },
+  {
+    "id": "1462335",
+    "name": "HOME RUN FINANCING",
+    "quarters": []
   },
   {
     "id": "1437884",
@@ -39460,6 +39540,11 @@
     ]
   },
   {
+    "id": "1461042",
+    "name": "KORE INFRASTRUCTURE",
+    "quarters": []
+  },
+  {
     "id": "1144178",
     "name": "KPMG LLP",
     "quarters": [
@@ -39516,6 +39601,26 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Department of Information Technology Re: cyber security issues"
+      }
+    ]
+  },
+  {
+    "id": "1407138",
+    "name": "L'OREAL USA",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 83, AB 234, AB 496, AB 1290; SB 54, SB 303, SB 665"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 60100,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 83, 234, 496, 1290; SB 54, 303, 665"
       }
     ]
   },
@@ -47360,7 +47465,7 @@
   },
   {
     "id": "1145833",
-    "name": "NORTH LAKE TAHOE RESORT ASSOCIATION",
+    "name": "NORTH LAKE TAHOE RESORT ASSOCIATION, INC. DBA NORTH TAHOE COMMUNITY ALLIANCE",
     "quarters": [
       {
         "quarter": "1st",
@@ -50328,6 +50433,11 @@
     ]
   },
   {
+    "id": "1462314",
+    "name": "PANDA RESTAURANT GROUP, INC.",
+    "quarters": []
+  },
+  {
     "id": "1342684",
     "name": "PANTHEON VENTURES (US) LP",
     "quarters": [
@@ -50406,6 +50516,11 @@
         "lobbiedOn": "None."
       }
     ]
+  },
+  {
+    "id": "1460994",
+    "name": "PARAMOUNT DENTAL AND ITS AFFILIATE, HEALTH RESOURCES INC.",
+    "quarters": []
   },
   {
     "id": "1402307",
@@ -52890,6 +53005,26 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "id": "1460156",
+    "name": "PRIME HOME HEALTH ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE, DEPT OF HEALTHCARE RE: MEDICAL REIMBURSEMENT INCREASE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 59500,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE, DEPT OF HEALTHCARE RE: MEDICAL REIMBURSEMENT INCREASE, MANAGED CARE ORGANIZATION (MCO) EXTENSION "
       }
     ]
   },
@@ -68322,6 +68457,26 @@
         "generalLobbying": 114000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor's Office re: climate innovation funding."
+      }
+    ]
+  },
+  {
+    "id": "1460155",
+    "name": "VETERINARY VIRTUAL CARE ASSOCIATION ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1399"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1399"
       }
     ]
   },
