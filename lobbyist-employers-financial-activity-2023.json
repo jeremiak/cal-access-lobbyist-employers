@@ -8244,6 +8244,19 @@
     ]
   },
   {
+    "id": "1461108",
+    "name": "BIOFIRE TECHNOLOGIES INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor?s Office, and Attorney General?s Office regarding SB 452."
+      }
+    ]
+  },
+  {
     "id": "1373996",
     "name": "BIOGEN ",
     "quarters": [
@@ -11589,6 +11602,19 @@
         "generalLobbying": 19218.75,
         "pucLobbying": 0,
         "lobbiedOn": "10"
+      }
+    ]
+  },
+  {
+    "id": "1143173",
+    "name": "CALIFORNIA ASSOCIATION OF LICENSED REPOSSESSORS",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -19955,6 +19981,26 @@
     ]
   },
   {
+    "id": "1358850",
+    "name": "CARGILL, INCORPORATED",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 38700,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 418, AB 687, AB 899; SB 312"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 418, 687, 899; SB 312"
+      }
+    ]
+  },
+  {
     "id": "1376559",
     "name": "CARING, LLC",
     "quarters": [
@@ -21173,6 +21219,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1461700",
+    "name": "CG FOUNTAIN WIND LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
       }
     ]
   },
@@ -28846,6 +28905,26 @@
     ]
   },
   {
+    "id": "1447900",
+    "name": "EFFECTIVE GOVERNMENT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 4, SB 423"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20100,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 4, SB 423"
+      }
+    ]
+  },
+  {
     "id": "1455570",
     "name": "EFFECTIVE SCHOOL SOLUTIONS",
     "quarters": [
@@ -29410,6 +29489,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -30918,6 +31004,11 @@
         "lobbiedOn": "AB 5, 159, 241, 316, 413, 579, 627, 1000, 1228, 1580, 1748; SB 54, 233, 253, 261, 493, 495, 553, 647, 709, 720, 809, 844, 1088; ADVANCED CLEAN FLEET REGULATION - LEGISLATURE, CALIFORNIA AIR RESOURCES BOARD"
       }
     ]
+  },
+  {
+    "id": "1462008",
+    "name": "FERRARA CANDY COMPANY",
+    "quarters": []
   },
   {
     "id": "1442556",
@@ -32774,6 +32865,26 @@
     ]
   },
   {
+    "id": "1319232",
+    "name": "GARMIN INTERNATIONAL, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 244"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1426349",
     "name": "GATEWAY CITIES COUNCIL OF GOVERNMENTS",
     "quarters": [
@@ -33373,7 +33484,7 @@
   },
   {
     "id": "1422356",
-    "name": "GLP CAPITAL PARTNERS LP",
+    "name": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
     "quarters": [
       {
         "quarter": "1st",
@@ -34044,6 +34155,26 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: SB 426, SB 739, Budget, Charter renewals, flex-based charter schools"
+      }
+    ]
+  },
+  {
+    "id": "1455991",
+    "name": "GREEN HYDROGEN COALITION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 22705,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 324, 673, 1550; SB 493, 663, 740"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 26660,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 324, 673, 1550; SB 149, 493, 663, 740"
       }
     ]
   },
@@ -35630,6 +35761,32 @@
     ]
   },
   {
+    "id": "1461270",
+    "name": "HOMEOPTIONS",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "id": "1461587",
+    "name": "HOMER LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1205"
+      }
+    ]
+  },
+  {
     "id": "1456480",
     "name": "HOMESERVE USA CORP",
     "quarters": [
@@ -36137,7 +36294,7 @@
   },
   {
     "id": "1458540",
-    "name": "ICONIQ CAPITAL, LLC",
+    "name": "ICONIQ CAPITAL LLC AND ITS AFFILIATE IPI PARTNERS LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -36866,6 +37023,19 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1000 SB 4, 101, 423"
+      }
+    ]
+  },
+  {
+    "id": "1376140",
+    "name": "INFANT NUTRITION COUNCIL OF AMERICA",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 899"
       }
     ]
   },
@@ -40469,6 +40639,26 @@
     ]
   },
   {
+    "id": "1450572",
+    "name": "LENDISTRY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 30100,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 225"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 40100,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 225"
+      }
+    ]
+  },
+  {
     "id": "1397284",
     "name": "LENDMARK FINANCIAL SERVICES",
     "quarters": [
@@ -41043,6 +41233,19 @@
         "generalLobbying": 133500,
         "pucLobbying": 0,
         "lobbiedOn": "Regulatory: Office of Environmental Health Hazard Assessment, California Environmental Protection Agency, State Water Resources Control Board, California Air Resources Board, Governor's Office, Department of Toxic Substance Control, California Occupational Safety and Health Administration re: environmental and workplace health and safety issues"
+      }
+    ]
+  },
+  {
+    "id": "1461037",
+    "name": "LOCKTON MANAGEMENT, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 747, 1076; SB 699"
       }
     ]
   },
@@ -46575,6 +46778,26 @@
     ]
   },
   {
+    "id": "1387770",
+    "name": "NESTE US, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, CALIFORNIA ENERGY COMMISSION RE: FUELS POLICY & PROJECTS, PLASTICS RECYCLING; AB 627"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, California Energy Commission, California Air Resources Board, fuels policy & projects, plastics recycling, AB 627, Low Carbon Fuel Standard, SB 665"
+      }
+    ]
+  },
+  {
     "id": "1143971",
     "name": "NESTLE USA INC.",
     "quarters": [
@@ -48795,6 +49018,26 @@
     ]
   },
   {
+    "id": "1437029",
+    "name": "OMNIPROPHIS CORPORATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 70000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 70000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1337063",
     "name": "ON BEHALF OF HEITMAN LLC & AFFILIATES",
     "quarters": [
@@ -50026,6 +50269,11 @@
         "lobbiedOn": "See attachment 'Part 1'"
       }
     ]
+  },
+  {
+    "id": "1462044",
+    "name": "PACIFIC SEAFOOD",
+    "quarters": []
   },
   {
     "id": "1456190",
@@ -66211,7 +66459,7 @@
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 1642; AB 1567; AB 247; SB 867"
+        "lobbiedOn": "AB 1642; AB 1567; AB 247; SB 867; SB 28"
       }
     ]
   },
@@ -69803,26 +70051,6 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "SB 38; LEGISLATURE, GOVERNOR'S OFFICE RE: ENERGY ISSUES"
-      }
-    ]
-  },
-  {
-    "id": "1335004",
-    "name": "WELLINGTON MANAGEMENT COMPANY LLP",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 25089.78,
-        "pucLobbying": 0,
-        "lobbiedOn": "INVESTMENTS - CALPERS, CALSTRS, UC REGENTS"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 2384.86,
-        "pucLobbying": 0,
-        "lobbiedOn": "INVESTMENTS - CALPERS, CALSTRS, UC REGENTS"
       }
     ]
   },
