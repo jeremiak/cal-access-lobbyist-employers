@@ -831,6 +831,26 @@
     ]
   },
   {
+    "id": "1419174",
+    "name": "ACTIVEHOURS, INC. DBA EARNIN",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 1243000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied Legislature, Department of Financial Protection and Innovation, Business, Consumer Services and Housing Agency regarding Department of Financial Protection and Innovation Earned Wage Access Regulations.   California State Legislature and Department of Finance Protection and Innovation regarding proposed rule making."
+      }
+    ]
+  },
+  {
     "id": "1326467",
     "name": "ACTIVISION BLIZZARD, INC.",
     "quarters": []
@@ -1485,6 +1505,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -27287,6 +27314,26 @@
     ]
   },
   {
+    "id": "1450608",
+    "name": "DESERT HEALTHCARE DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 28705,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 869, 242, 518, 575, 977, 1001, 1007, 1110, 1156, 1164, 1392"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 28910,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 869, 242, 518, 575, 977, 1001, 1007, 1110, 1156, 1164, 1392"
+      }
+    ]
+  },
+  {
     "id": "1268796",
     "name": "DESERT HOT SPRINGS; THE CITY OF",
     "quarters": [
@@ -28232,26 +28279,6 @@
     ]
   },
   {
-    "id": "1419174",
-    "name": "EARNIN",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 3000,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 1243000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied Legislature, Department of Financial Protection and Innovation, Business, Consumer Services and Housing Agency regarding Department of Financial Protection and Innovation Earned Wage Access Regulations.   California State Legislature and Department of Finance Protection and Innovation regarding proposed rule making."
-      }
-    ]
-  },
-  {
     "id": "1424189",
     "name": "EARTH ISLAND INSTITUTE",
     "quarters": [
@@ -28505,6 +28532,19 @@
     ]
   },
   {
+    "id": "1461384",
+    "name": "EASTERN TULE GROUNDWATER SUSTAINABILITY AGENCY",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SGMA compliance, groundwater sustainability plan inadequate determination; State Water Resources Control Board, Department of Water Resources: groundwater sustainability plan inadequate determination"
+      }
+    ]
+  },
+  {
     "id": "1146657",
     "name": "EASTMAN CHEMICAL COMPANY",
     "quarters": [
@@ -28583,6 +28623,11 @@
         "lobbiedOn": "SB 478, Local Sales Tax Issues -- Legislature; Marketplace Tax Collection Rulemaking, Local Tax -- California Department of Tax and Fee Administration; Local Tax -- Governor"
       }
     ]
+  },
+  {
+    "id": "1461361",
+    "name": "EBR MOTORSPORTS, LLC",
+    "quarters": []
   },
   {
     "id": "1449148",
@@ -33423,6 +33468,11 @@
     ]
   },
   {
+    "id": "1457647",
+    "name": "GLOBAL EVOLUTION USA, LLC",
+    "quarters": []
+  },
+  {
     "id": "1290486",
     "name": "GLOBAL MEDICAL RESPONSE (AFFILIATES AMERICAN MEDICAL RESPONSE & REACH AIR)",
     "quarters": [
@@ -34630,6 +34680,11 @@
         "lobbiedOn": "AB 1550, 1705; SB 149; CA AIR RESOURCES BOARD RE: LOW CARBON FUEL STANDARD; CA DEPARTMENT OF RESOURCES RECYCLING AND RECOVERY RE: SB 1383 IMPLEMENTATION"
       }
     ]
+  },
+  {
+    "id": "1461240",
+    "name": "H.R.L. MORRISON & CO. (US), LLC",
+    "quarters": []
   },
   {
     "id": "1339103",
@@ -36116,6 +36171,26 @@
         "generalLobbying": 7978,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS & CalPERS: Potential Investment"
+      }
+    ]
+  },
+  {
+    "id": "1459890",
+    "name": "HUMAN RIGHTS FOR KIDS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature - Lobbied in support of SB 545 - the Safe Children's Act - by Senator Rubio."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature - Lobbied in support of SB 545 - the Safe Children's Act - by Senator Rubio."
       }
     ]
   },
@@ -52918,6 +52993,26 @@
     ]
   },
   {
+    "id": "1460214",
+    "name": "POLARIS PHARMACY SERVICES",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1557"
+      }
+    ]
+  },
+  {
     "id": "1389136",
     "name": "POLEN CAPITAL MANAGEMENT, LLC",
     "quarters": [
@@ -52974,6 +53069,26 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and DMV re Autonomous vehicle issues"
+      }
+    ]
+  },
+  {
+    "id": "1448797",
+    "name": "POPCORNVAN, INC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 26205,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 375; SB 76, 478, 495, 600, 647"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15410,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 375; SB 76, 478, 495, 600, 647"
       }
     ]
   },
@@ -56688,6 +56803,19 @@
         "generalLobbying": 253788.24,
         "pucLobbying": 0,
         "lobbiedOn": "AB 748, AB 333, AB 534, AB 400, AB 350, SB 37, SB 408, AB 884, SB 687"
+      }
+    ]
+  },
+  {
+    "id": "1460436",
+    "name": "SAFARI WEST ",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 19500,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: ENVIRONMENT AND WILDIFE CONSERVATION"
       }
     ]
   },
@@ -61363,6 +61491,26 @@
     ]
   },
   {
+    "id": "1444405",
+    "name": "SOCIAL GOOD FUND, INC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 8274,
+        "pucLobbying": 0,
+        "lobbiedOn": "Project Immigrant Defense Advocates: CA Solitary Bill, AB280; AB260; SB519 Transformative In-Prison Workgroup: Budget request for $25 million for rehabilitative programming, AB 1104, AB 581, AB 15, AB 1260, AB 733, AB 280, AB 974, AB 1226, AB 912, AB 958, AB 1595, AB 581, AB 1306, AB 60, AB 544, AB 702, SB 94, SB 474, SB 799, ACA 4"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30258,
+        "pucLobbying": 0,
+        "lobbiedOn": "Project Immigrant Defense Advocates: CA Solitary Bill, AB280; AB260; SB519 Transformative In-Prison Workgroup: Budget request for $25 million for rehabilitative programming, AB 1104, AB 581, AB 15, AB 1260, AB 733, AB 280, AB 974, AB 1226, AB 912, AB 958, AB 1595, AB 581, AB 1306, AB 60, AB 544, AB 702, SB 94, SB 474, SB 799, ACA 4"
+      }
+    ]
+  },
+  {
     "id": "1366123",
     "name": "SOCIETY FOR HUMAN RESOURCE MANAGEMENT",
     "quarters": [
@@ -64083,6 +64231,19 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 570, SB 43."
+      }
+    ]
+  },
+  {
+    "id": "1378150",
+    "name": "SUVRETTA CAPITAL MANAGEMENT, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
