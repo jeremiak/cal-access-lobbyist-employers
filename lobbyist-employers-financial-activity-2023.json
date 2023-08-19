@@ -49896,6 +49896,19 @@
     ]
   },
   {
+    "id": "1457030",
+    "name": "OTHRAM",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND ATTORNEY GENERALS OFFICE REGARDING DNA TECHNOLOGY."
+      }
+    ]
+  },
+  {
     "id": "1351453",
     "name": "OTSUKA AMERICA PHARMACEUTICAL, INC.",
     "quarters": [
@@ -55072,7 +55085,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 10315,
+        "generalLobbying": 62089.19,
         "pucLobbying": 0,
         "lobbiedOn": "AB 232; WORKFORCE SHORTAGE: GOVERNOR'S OFFICE, LEGISLATURE; LICENSING DELAYS, STATE FUNDING & TAX CREDITS, BANKING ISSUES: DEPARTMENT OF CONSUMER AFFAIRS, GOVERNOR'S OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT, GOVERNOR'S OFFICE, DEPARTMENT OF FINANCIAL PROTECTION & INNOVATION, DEPARTMENT OF FINANCE, TREASURER'S OFFICE"
       },
@@ -56465,6 +56478,11 @@
         "lobbiedOn": "LEGISLATURE REGARDING AB 52, AB 259, AB 291, AB 469, AB 1105, AB 1576; ACA 3, ACA 11; SB 95, SB 220, TAX POLICY ISSUES, LEGISLATION REGARDING ELECTRONIC SIGNATURES; GOVERNMENT OPERATIONS AGENCY REGARDING DEEMED DENIAL REGULATIONS."
       }
     ]
+  },
+  {
+    "id": "1462309",
+    "name": "RYE DEVELOPMENT, LLC",
+    "quarters": []
   },
   {
     "id": "1144154",
@@ -58638,6 +58656,19 @@
         "generalLobbying": 89633.55,
         "pucLobbying": 0,
         "lobbiedOn": "SB 348; LEGISLATURE RE: BUDGET PROPOSAL RELATED TO CHILD SUPPPORT AGENCY FUNDING; LEGISLATURE, GOVERNOR'S OFFICE, DEPT OF FINANCE RE: VEHICLE LICENSE FEE (VLF) BUDGET REIMBURSEMENT"
+      }
+    ]
+  },
+  {
+    "id": "1462112",
+    "name": "SAN PEDRO BAIT COMPANY",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2185,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Fish and Wildlife California State Senate"
       }
     ]
   },
@@ -68443,6 +68474,11 @@
         "lobbiedOn": "CalPERS, CalSTRS: proposed investment in Valor Equity Partners VI L.P.; CalPERS proposed investment in CV Consortio Fund L.P."
       }
     ]
+  },
+  {
+    "id": "1462423",
+    "name": "VALTA ENERGY LLC",
+    "quarters": []
   },
   {
     "id": "1419762",
