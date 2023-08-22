@@ -29994,6 +29994,26 @@
     ]
   },
   {
+    "id": "1253473",
+    "name": "ENVIRONMENT CALIFORNIA INC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 10839.17,
+        "pucLobbying": 0,
+        "lobbiedOn": "EV investments, solar permitting SB379 implementation, 100% renewable, rooftop solar, SB49, offshore wind AB3, bees and pesticide reduction, AB1042 and AB363, SB48- energy efficiency in buildings, clean energy, ocean protection"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 97285.94,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget advocacy and EV investments, AB241, solar permitting SB379 implementation, 100% renewable, rooftop solar and storage, SB49, offshore wind AB3, AB 80, bees and pesticide reduction, AB1042 and AB363, SB48- energy efficiency in buildings, Advanced clean trucks, clean energy, ocean protection, SB605 for offshore wave energy, energy procurement, budget trailer bills"
+      }
+    ]
+  },
+  {
     "id": "1144706",
     "name": "ENVIRONMENTAL DEFENSE ACTION FUND",
     "quarters": [
@@ -50524,6 +50544,19 @@
     ]
   },
   {
+    "id": "1461096",
+    "name": "PAKTECH",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 1290."
+      }
+    ]
+  },
+  {
     "id": "1462194",
     "name": "PALISADE CAPITAL MANAGEMENT, LP",
     "quarters": []
@@ -52435,6 +52468,26 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 1000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1445356",
+    "name": "PINESTONE ASSET MANAGEMENT INC.  ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -63509,26 +63562,6 @@
         "generalLobbying": 13220.9,
         "pucLobbying": 0,
         "lobbiedOn": "DISCUSSIONS WITH CALPERS, CALSTRS, AND UC REGENTS REGARDING INVESTMENT IN THE FIRM'S FUND."
-      }
-    ]
-  },
-  {
-    "id": "1445356",
-    "name": "STONEPINE ASSET MANAGEMENT INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
       }
     ]
   },
