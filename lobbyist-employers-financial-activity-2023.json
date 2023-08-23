@@ -33,6 +33,19 @@
     ]
   },
   {
+    "id": "1427033",
+    "name": "1HWY1, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 149"
+      }
+    ]
+  },
+  {
     "id": "1444826",
     "name": "21ST CENTURY ALLIANCE",
     "quarters": [
@@ -1638,6 +1651,11 @@
         "lobbiedOn": "LEGISLATURE RE: AB 273, AB 341, AB 1139, AB 81, AB 854, SB 549; GOVERNOR'S OFFICE RE: AB 1139"
       }
     ]
+  },
+  {
+    "id": "1461992",
+    "name": "AGUDATH ISRAEL OF AMERICA",
+    "quarters": []
   },
   {
     "id": "1378079",
@@ -4062,6 +4080,26 @@
     ]
   },
   {
+    "id": "1413922",
+    "name": "AMERICAN REGISTRY OF RADIOLOGIC TECHNOLOGISTS ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 28000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1272289",
     "name": "AMERICAN RENTAL ASSOCIATION",
     "quarters": [
@@ -4926,6 +4964,11 @@
         "lobbiedOn": "SEE ATTACHMENT A"
       }
     ]
+  },
+  {
+    "id": "1462415",
+    "name": "ANTIOCH; UNIVERSITY OF",
+    "quarters": []
   },
   {
     "id": "1428267",
@@ -6070,6 +6113,26 @@
     ]
   },
   {
+    "id": "1146336",
+    "name": "ASSOCIATION OF CALIFORNIA GOODWILLS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 433, AB 590, SB 382 and SB 707. Lobbied the Labor and Workforce Development Agency regarding workforce development."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding ACR 50, AB 590, SB 382 and SB 707.  Lobbied the California Product Stewardship Council on SB 707"
+      }
+    ]
+  },
+  {
     "id": "1146921",
     "name": "ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS; THE",
     "quarters": [
@@ -6964,6 +7027,26 @@
         "generalLobbying": 6375,
         "pucLobbying": 0,
         "lobbiedOn": "See attached."
+      }
+    ]
+  },
+  {
+    "id": "1281076",
+    "name": "AUTODESK, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "GOVERNOR'S OFFICE RE: TECHNOLOGY ISSUES"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 331, 1037; STATE WATER BOARD, DEPARTMENT OF WATER RESOURCES, CA DEPARTMENT OF TRANSPORTATION RE: TECHNOLOGY ISSUES"
       }
     ]
   },
@@ -8637,6 +8720,26 @@
     ]
   },
   {
+    "id": "1439923",
+    "name": "BLUE PLANET SYSTEMS ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      }
+    ]
+  },
+  {
     "id": "1147130",
     "name": "BLUE SHIELD OF CALIFORNIA",
     "quarters": [
@@ -9960,6 +10063,26 @@
         "generalLobbying": 7705,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1050"
+      }
+    ]
+  },
+  {
+    "id": "1369000",
+    "name": "BYD MOTORS, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
       }
     ]
   },
@@ -17813,6 +17936,26 @@
     ]
   },
   {
+    "id": "1142910",
+    "name": "CALIFORNIA SOCIETY FOR RESPIRATORY CARE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 827"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 827, 1473"
+      }
+    ]
+  },
+  {
     "id": "1146368",
     "name": "CALIFORNIA SOCIETY OF ADDICTION MEDICINE",
     "quarters": [
@@ -18697,6 +18840,11 @@
         "lobbiedOn": "AB12,96,316,413,421,473,504,554,594,627,645,647,699,893,907,918,1076,1123,1278,1356,1372,1741 ACA6 SB83,84,88,227,277,295,322,357,365,399,429,430,476,495,506,525,534,616,627,709,725,757,770,822 AB2530-Assembly, State,HCAI/OHCA,Covered CA"
       }
     ]
+  },
+  {
+    "id": "1146277",
+    "name": "CALIFORNIA THOROUGHBRED BREEDERS ASSOCIATION",
+    "quarters": []
   },
   {
     "id": "1146278",
@@ -22820,6 +22968,26 @@
     ]
   },
   {
+    "id": "1401429",
+    "name": "CLEAN SEAS LOBBYING COALITION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None this period."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature/GO: SB 244 (Eggman), SB 707 (Newman), AB 1628 (McKinnor), AB 1705 (McKinnor), AB 1290 (Rivas), SB 674 (Gonzalez), AB 246 (Papan), AB 343 (Muratsuchi), AB 756 (Papan), AB 1347 (Ting), SB 556 (Gonzalez), SB 560 (Laird) Agencies: CalRecycle- plastic reduction, SB 54"
+      }
+    ]
+  },
+  {
     "id": "1455671",
     "name": "CLEAN WATER VENTURES, INC.",
     "quarters": [
@@ -25197,26 +25365,6 @@
     ]
   },
   {
-    "id": "1146336",
-    "name": "COUNCIL OF CALIFORNIA GOODWILL INDUSTRIES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 433, AB 590, SB 382 and SB 707. Lobbied the Labor and Workforce Development Agency regarding workforce development."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 16000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature regarding ACR 50, AB 590, SB 382 and SB 707.  Lobbied the California Product Stewardship Council on SB 707"
-      }
-    ]
-  },
-  {
     "id": "1426282",
     "name": "COUNCIL OF COMMUNITY CLINICS DBA HEALTH CENTER PARTNERS OF SOUTHERN CALIFORNIA ",
     "quarters": [
@@ -26408,26 +26556,6 @@
         "generalLobbying": 63236.11,
         "pucLobbying": 0,
         "lobbiedOn": "AB 2, AB 1238 -- Legislature"
-      }
-    ]
-  },
-  {
-    "id": "1334268",
-    "name": "CYSTIC FIBROSIS FOUNDATION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 10310,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 874"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 17440,
-        "pucLobbying": 0,
-        "lobbiedOn": "MEDI-CAL RX EXTENDED DURATION PRIOR AUTHORIZATION LIST: CALIFORNIA DEPARTMENT OF HEALTH CARE SERVICES"
       }
     ]
   },
@@ -28135,6 +28263,26 @@
         "generalLobbying": 2500,
         "pucLobbying": 0,
         "lobbiedOn": "California Energy Commission Re: Alternative Energy Funding; Legislature Re: Grant support letters, FY 23-24 budget requests; Governors Office Re: FY 23-24 budget; Legislature Re: AB 52, AB 234, AB 478, AB 557, AB 572, AB 894, AB 1532, AB 1634, ACA 1, SB 326, SB 402, SB 405, SB 411, SB 423, SB 569, SB 43, SB 746"
+      }
+    ]
+  },
+  {
+    "id": "1460204",
+    "name": "DUCTOR AMERICAS INC. ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, CA AIR RESOURCES BOARD RE: BIOGAS ISSUES, SUSTAINABLE AGRICULTURE ISSUES; CA AIR RESOURCES BOARD RE: LOW CARBON FUEL STANDARD"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, CA AIR RESOURCES BOSB 709; LEGISLATURE, CA AIR RESOURCES BOARD RE: BIOGAS ISSUES, SUSTAINABLE AGRICULTURE ISSUES; CA AIR RESOURCES BOARD RE: LOW CARBON FUEL STANDARD, CAP & TRADE, INDUSTRIAL DECARBONIZATIONARD RE: BIOGAS ISSUES, SUSTAINABLE AGRICULTURE ISSUES; CA AIR RESOURCES BOARD RE: LOW CARBON FUEL STANDARD"
       }
     ]
   },
@@ -43011,6 +43159,26 @@
     ]
   },
   {
+    "id": "1424267",
+    "name": "MANIFEST MEDEX",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1331; SB 582; LEGISLATURE RE: HEALTH CARE DATA ISSUES, POPULATION HEALTH MANAGEMENT, DATA EXCHANGE INFRASTRUCTURE, HEALTH AND HUMAN SERVICES AGENCY DATA SHARING FRAMEWORK"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1331; SB 582; LEGISLATURE, GOVERNOR'S OFFICE RE: HEALTH CARE DATA ISSUES, POPULATION HEALTH MANAGEMENT, DATA EXCHANGE INFRASTRUCTURE, HEALTH AND HUMAN SERVICES AGENCY DATA SHARING FRAMEWORK"
+      }
+    ]
+  },
+  {
     "id": "1425874",
     "name": "MANLY, STEWART AND FINALDI",
     "quarters": [
@@ -43418,19 +43586,6 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 418"
-      }
-    ]
-  },
-  {
-    "id": "1406191",
-    "name": "MARTIN LUTHER KING, JR. COMMUNITY HOSPITAL",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 50000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature and Department of Health Care Services regarding 2023 Budget Issues and hospital funding."
       }
     ]
   },
@@ -44738,6 +44893,19 @@
     ]
   },
   {
+    "id": "1406191",
+    "name": "MLK COMMUNITY HEALTHCARE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature and Department of Health Care Services regarding 2023 Budget Issues and hospital funding."
+      }
+    ]
+  },
+  {
     "id": "1459395",
     "name": "MODERN HEALTH",
     "quarters": [
@@ -45291,6 +45459,19 @@
     ]
   },
   {
+    "id": "1461374",
+    "name": "MOTIVE CAPITAL MANAGEMENT, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1295724",
     "name": "MOTOR VEHICLE NETWORK",
     "quarters": [
@@ -45307,6 +45488,26 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
+      }
+    ]
+  },
+  {
+    "id": "1348874",
+    "name": "MOTOR VEHICLE SOFTWARE CORPORATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": "GOVERNOR'S OFFICE RE: DEPARTMENT OF MOTOR VEHICLE (DMV) ISSUES"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": "GOVERNOR'S OFFICE RE: DEPARTMENT OF MOTOR VEHICLE (DMV) ISSUES"
       }
     ]
   },
@@ -51414,6 +51615,11 @@
         "lobbiedOn": "AB 39, 1587"
       }
     ]
+  },
+  {
+    "id": "1461368",
+    "name": "PAYPOOL LLC",
+    "quarters": []
   },
   {
     "id": "1382832",
@@ -57916,6 +58122,26 @@
         "generalLobbying": 92000,
         "pucLobbying": 0,
         "lobbiedOn": "See attached TEXT"
+      }
+    ]
+  },
+  {
+    "id": "1241115",
+    "name": "SAN FRANCISCO POLICE OFFICERS ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 2000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 33, 89, 355, 808, 1058, 1067; SB 50, 236, 268, 288, 316, 359, 623"
       }
     ]
   },
@@ -65256,6 +65482,26 @@
     ]
   },
   {
+    "id": "1383276",
+    "name": "TEN STRANDS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 20108.63,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 221, 285; SB 197, 394, 499"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 18059.69,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 102, 103, 285; SB 102, 103, 499"
+      }
+    ]
+  },
+  {
     "id": "1343483",
     "name": "TENASKA ",
     "quarters": [
@@ -68159,6 +68405,26 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "DEPARTMENT OF PUBLIC HEALTH RE: HEMP CANNABIDIOL (CBD) REGULATIONS & ENFORCEMENT ISSUES"
+      }
+    ]
+  },
+  {
+    "id": "1453860",
+    "name": "US HYBRID",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA AIR RESOURCES BOARD RE: ADVANCED CLEAN FLEETS; GOVERNOR'S OFFICE RE: CLEAN VEHICLE ISSUES, INCENTIVES"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA AIR RESOURCES BOARD, CA ENERGY COMMISSION RE: ADVANCED CLEAN FLEETS, REGULATORY WORKSHOPS AND ENGAGEMENT; GOVERNOR'S OFFICE RE: CLEAN VEHICLE ISSUES, INCENTIVES"
       }
     ]
   },
@@ -71449,6 +71715,19 @@
         "generalLobbying": 36000,
         "pucLobbying": 0,
         "lobbiedOn": "GOVERNOR'S OFFICE AND CALIFORNIA LEGISLATURE REGARDING: SB 277, SB 430. CALIFORNIA LEGISLATURE REGARDING: SB 277, SB 430"
+      }
+    ]
+  },
+  {
+    "id": "1461664",
+    "name": "WINE COUNTRY GATEWAY RECREATIONAL VEHICLE PARK LLC AKA SAN PASO TRUCK STOP; THE",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALTRANS RE: STATE ROUTE 46/US 101 SAFETY"
       }
     ]
   },
