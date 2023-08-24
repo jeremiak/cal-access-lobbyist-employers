@@ -6773,6 +6773,11 @@
     ]
   },
   {
+    "id": "1462043",
+    "name": "ASYNCHRONOUS TECHNOLOGY SERVICES",
+    "quarters": []
+  },
+  {
     "id": "1146836",
     "name": "AT&T SERVICES INC. AND ITS AFFILIATES",
     "quarters": [
@@ -15451,7 +15456,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 934560.78,
+        "generalLobbying": 943518.28,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
@@ -18009,7 +18014,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 47836.72,
+        "generalLobbying": 49213.83,
         "pucLobbying": 0,
         "lobbiedOn": "AB 470, 616, 765, 1761; SB 525, 598; CALIFORNIA DEPARTMENT OF MANAGED HEALTH CARE RE: AB 72 REGULATIONS "
       }
@@ -26977,6 +26982,11 @@
     ]
   },
   {
+    "id": "1462545",
+    "name": "DEEL, INC. ",
+    "quarters": []
+  },
+  {
     "id": "1462272",
     "name": "DEEPBLUE THERAPEUTICS, LLC",
     "quarters": []
@@ -30242,6 +30252,26 @@
     ]
   },
   {
+    "id": "1441204",
+    "name": "EOS ENTERPRISES, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 24205,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2, 3, 30, 38, 43, 45, 344, 585, 998; CA State Legislature re: Climate and Environmental Impact Issues"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 24205,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2, 3, 30, 38, 43, 45, 344, 585, 998; CA State Legislature re: Climate and Environmental Impact Issues"
+      }
+    ]
+  },
+  {
     "id": "1459627",
     "name": "EPIDAVROS MANAGEMENT COMPANY, INC.",
     "quarters": [
@@ -31860,6 +31890,19 @@
         "generalLobbying": 3175,
         "pucLobbying": 0,
         "lobbiedOn": "AB 33, 316, 524, 594, 747, 1156, 1213, 1278, 1356; ACA 11; ACR 80; SB 279, 330, 365, 375, 399, 478, 497, 553, 592, 627, 636, 697, 703, 809, 881"
+      }
+    ]
+  },
+  {
+    "id": "1461107",
+    "name": "FLAVORX",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 782"
       }
     ]
   },
@@ -48328,6 +48371,19 @@
     ]
   },
   {
+    "id": "1461867",
+    "name": "NOVAVAX, INC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1316616",
     "name": "NOVO NORDISK",
     "quarters": [
@@ -51005,7 +51061,15 @@
   {
     "id": "1462314",
     "name": "PANDA RESTAURANT GROUP, INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD "
+      }
+    ]
   },
   {
     "id": "1342684",
@@ -59978,6 +60042,26 @@
     ]
   },
   {
+    "id": "1223858",
+    "name": "SCHOLASTIC INC.,  ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 731; Legislature, Department of Finance, Department of Education, State Board of Education Re: State Budget"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 731"
+      }
+    ]
+  },
+  {
     "id": "1274637",
     "name": "SCHOOL EMPLOYERS ASSOCIATION OF CALIFORNIA",
     "quarters": [
@@ -68107,6 +68191,19 @@
         "generalLobbying": 46500,
         "pucLobbying": 0,
         "lobbiedOn": "Working in collaboration with various entities, including Association of California Water Agencies (ACWA) and CalChambers, UWCD and its legislative advocates have expressed support for SB 23 (Caballero), SB 366 (Caballero) and SB 651 (Groves); and opposed AB 389 (Allen), AB 429 (Bennett), AB 460 (Bauer-Kahan), AB 560 (Bennett), AB 676 (Bennett), AB 779 (Wilson), AB 1337 (Wicks), AB 1563 (Bennett)."
+      }
+    ]
+  },
+  {
+    "id": "1461041",
+    "name": "UNITED WAY CALIFORNIA CAPITAL REGION",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
