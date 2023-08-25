@@ -9307,6 +9307,11 @@
     ]
   },
   {
+    "id": "1461267",
+    "name": "BREGAL INVESTMENTS LLP & AFFILIATES",
+    "quarters": []
+  },
+  {
     "id": "1440905",
     "name": "BRIDGE INVESTMENT GROUP HOLDINGS LLC AND AFFILIATED ENTITIES",
     "quarters": [
@@ -36580,7 +36585,7 @@
   },
   {
     "id": "1458540",
-    "name": "ICONIQ CAPITAL LLC AND ITS AFFILIATE IPI PARTNERS LLC",
+    "name": "ICONIQ CAPITAL, LLC AND ITS AFFILIATE, IPI PARTNERS, LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -45149,6 +45154,11 @@
     ]
   },
   {
+    "id": "1462067",
+    "name": "MONROE CAPITAL MANAGEMENT ADVISORS, LLC",
+    "quarters": []
+  },
+  {
     "id": "1429685",
     "name": "MONTAGU PRIVATE EQUITY LLP",
     "quarters": [
@@ -50070,7 +50080,15 @@
   {
     "id": "1461045",
     "name": "ORION RESOURCE PARTNERS (USA) LP",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   },
   {
     "id": "1446016",
