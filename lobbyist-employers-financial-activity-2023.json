@@ -4335,7 +4335,15 @@
   {
     "id": "1461404",
     "name": "AMERICAN VETERINARY MEDICAL ASSOCIATION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 814, AB 1399. Veterinary Medical Board re: veterinary telemedicine (AB 1399) and animal rehab (AB 814)."
+      }
+    ]
   },
   {
     "id": "1456686",
@@ -20529,6 +20537,11 @@
     ]
   },
   {
+    "id": "1426929",
+    "name": "CATALYST HOUSING GROUP",
+    "quarters": []
+  },
+  {
     "id": "1448804",
     "name": "CATAPULT LEARNING",
     "quarters": [
@@ -31209,6 +31222,11 @@
     "quarters": []
   },
   {
+    "id": "1462299",
+    "name": "FC MANAGEMENT SERVICES",
+    "quarters": []
+  },
+  {
     "id": "1444980",
     "name": "FEDERAL REALTY OP LP",
     "quarters": []
@@ -38818,13 +38836,40 @@
     ]
   },
   {
+    "id": "1461367",
+    "name": "JACOBS & CUSHMAN SAN DIEGO FOOD BANK",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor's Office re funding of the CalFood Program"
+      }
+    ]
+  },
+  {
     "id": "1380151",
     "name": "JACOBS ENGINEERING",
     "quarters": [
       {
         "quarter": "1st",
         "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
         "generalLobbying": 45100,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       },
@@ -64274,6 +64319,11 @@
     ]
   },
   {
+    "id": "1461335",
+    "name": "SUMITOMO PHARMA AMERICA, INC.",
+    "quarters": []
+  },
+  {
     "id": "1339496",
     "name": "SUMMIT PARTNERS, L.P. AND ITS AFFILIATE SUMMIT PARTNERS CREDIT ADVISERS, L.P.",
     "quarters": [
@@ -71712,6 +71762,11 @@
         "lobbiedOn": "SB 4, 7, 101, 423, 584, 602,  SCR 25"
       }
     ]
+  },
+  {
+    "id": "1462298",
+    "name": "WILLCO MANAGEMENT, INC",
+    "quarters": []
   },
   {
     "id": "1460066",
