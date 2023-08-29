@@ -16536,26 +16536,6 @@
     ]
   },
   {
-    "id": "1147072",
-    "name": "CALIFORNIA NATURAL GAS VEHICLE COALITION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 15029.75,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1012; AIR RESOURCES BOARD RE: ADVANCED CLEAN FLEETS REGULATION"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 10017.25,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 377, AB 1012; AIR RESOURCES BOARD RE: ADVANCED CLEAN FLEETS REGULATION; LEGISLATURE RE: BUDGET FUNDING FOR LOW CARBON FUEL INCENTIVE"
-      }
-    ]
-  },
-  {
     "id": "1144463",
     "name": "CALIFORNIA NATUROPATHIC ASSOCIATION",
     "quarters": [
@@ -17517,6 +17497,26 @@
         "generalLobbying": 777.35,
         "pucLobbying": 0,
         "lobbiedOn": "AB 604"
+      }
+    ]
+  },
+  {
+    "id": "1147072",
+    "name": "CALIFORNIA RENEWABLE TRANSPORTATION ALLIANCE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15029.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1012; AIR RESOURCES BOARD RE: ADVANCED CLEAN FLEETS REGULATION"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10017.25,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 377, AB 1012; AIR RESOURCES BOARD RE: ADVANCED CLEAN FLEETS REGULATION; LEGISLATURE RE: BUDGET FUNDING FOR LOW CARBON FUEL INCENTIVE"
       }
     ]
   },
@@ -27995,6 +27995,26 @@
     ]
   },
   {
+    "id": "1442241",
+    "name": "DKCW CORP.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 3750,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1105; LEGISLATURE, GOVERNOR'S OFFICE, DEPT OF FINANCE, FRANCHISE TAX BOARD RE: NEW EMPLOYMENT CREDIT"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 52, AB 1105; LEGISLATURE, GOVERNOR'S OFFICE, DEPT OF FINANCE, FRANCHISE TAX BOARD RE: NEW EMPLOYMENT CREDIT"
+      }
+    ]
+  },
+  {
     "id": "1357102",
     "name": "DMCG, INC. DBA BAIL HOTLINE BAIL BONDS",
     "quarters": [
@@ -31219,7 +31239,22 @@
   {
     "id": "1327718",
     "name": "FASHION INSTITUTE OF DESIGN AND MERCHANDISING",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ab1160"
+      }
+    ]
   },
   {
     "id": "1462299",
@@ -39939,6 +39974,11 @@
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE - BUDGET, AB 1479, AB 1604, SB 739"
       }
     ]
+  },
+  {
+    "id": "1442334",
+    "name": "KIRKOSWALD ASSET MANAGEMENT LLC",
+    "quarters": []
   },
   {
     "id": "1437914",
@@ -54051,6 +54091,19 @@
     ]
   },
   {
+    "id": "1460300",
+    "name": "PROFESSIONAL BULL RIDERS ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 554"
+      }
+    ]
+  },
+  {
     "id": "1144356",
     "name": "PROFESSIONAL ENGINEERS IN CALIFORNIA GOVERNMENT",
     "quarters": [
@@ -57204,9 +57257,9 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 253788.24,
+        "generalLobbying": 218848,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 748, AB 333, AB 534, AB 400, AB 350, SB 37, SB 408, AB 884, SB 687"
+        "lobbiedOn": "AB 350, AB 400, AB 460, AB 534, AB 748, AB 1337, AB 1567; SB 37, SB 389, SB 408, SB 867; WILDLIFE CONSERVATION BOARD RE: STREAMFLOW ENHANCEMENT PROGRAM"
       }
     ]
   },
