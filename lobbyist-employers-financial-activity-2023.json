@@ -45364,6 +45364,26 @@
     ]
   },
   {
+    "id": "1255072",
+    "name": "MONTEREY PENINSULA WATER DISTRICT (MPWMD)",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 10200,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10200,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 460, AB 1337, AB 1567, AB 1572, SB 366, SB 867"
+      }
+    ]
+  },
+  {
     "id": "1236146",
     "name": "MONTEREY-SALINAS TRANSIT DISTRICT (MST)",
     "quarters": [
@@ -57392,6 +57412,26 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: Climate Resilience; State Budget SGMA funding. Department of Water Resources: SGMA Implementation."
+      }
+    ]
+  },
+  {
+    "id": "1144122",
+    "name": "SALINAS; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 101"
       }
     ]
   },
