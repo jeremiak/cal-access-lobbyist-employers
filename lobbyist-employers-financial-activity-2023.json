@@ -9560,7 +9560,22 @@
   {
     "id": "1443003",
     "name": "BROADWAY, SAN FRANCISCO, LLC (AMBASSADOR THEATRE GROUP NA)",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 8; SB 829, 785"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 8; SB 829, 785"
+      }
+    ]
   },
   {
     "id": "1387649",
@@ -26256,9 +26271,9 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 91373.2,
+        "generalLobbying": 128873.2,
         "pucLobbying": 0,
-        "lobbiedOn": "Regulatory matters related to autonomous vehicles at CPUC, CEC, CARB, CalSTA, and Governors Office; DMV - expansion application permit; CPUC - Autonomous Vehicle Fared Operations"
+        "lobbiedOn": "AB 473; Regulatory matters related to autonomous vehicles at CPUC, CEC, CARB, CalSTA, and Governors Office; DMV - expansion application permit; CPUC - Autonomous Vehicle Fared Operations"
       }
     ]
   },
@@ -33096,7 +33111,22 @@
   {
     "id": "1343449",
     "name": "GAM USA INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
   },
   {
     "id": "1340530",
@@ -37615,6 +37645,11 @@
         "lobbiedOn": "Legislature, Governor's Office, Department of Finance, State Controller's Office: Military Base Reuse"
       }
     ]
+  },
+  {
+    "id": "1417681",
+    "name": "INLANDBOATMAN'S UNION OF THE PACIFIC",
+    "quarters": []
   },
   {
     "id": "1352642",
