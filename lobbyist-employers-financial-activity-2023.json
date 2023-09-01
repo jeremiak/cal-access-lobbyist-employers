@@ -27165,6 +27165,26 @@
     ]
   },
   {
+    "id": "1461989",
+    "name": "DELANO MOSQUITO ABATEMENT DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Budget Funding"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1279687",
     "name": "DELANO; CITY OF",
     "quarters": [
@@ -48447,14 +48467,14 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 30000,
+        "generalLobbying": 76711.33,
         "pucLobbying": 0,
         "lobbiedOn": "AB 743; SB 696; Legislature, Department of Justice, Governor's Office Re: Remote Online Notarization"
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 93502.83,
+        "generalLobbying": 89607,
         "pucLobbying": 0,
         "lobbiedOn": "SB 696; Legislature, Department of Justice, Governor's Office, Secretary of State Re: Remote Online Notarization"
       }
@@ -49040,7 +49060,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 6600,
+        "generalLobbying": 7809.5,
         "pucLobbying": 0,
         "lobbiedOn": "AB 64; LEGISLATURE, CA DEPARTMENT OF FISH AND WILDLIFE RE: BEAVER MANAGEMENT AND RESTORATION POLICY AND PROGRAMS"
       }
@@ -49138,6 +49158,11 @@
         "lobbiedOn": "California Department of Fish and Wildlife California State Senate"
       }
     ]
+  },
+  {
+    "id": "1461604",
+    "name": "OCEANSOUND PARTNERS, LP",
+    "quarters": []
   },
   {
     "id": "1398901",
