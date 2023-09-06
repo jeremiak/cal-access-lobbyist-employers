@@ -7850,6 +7850,26 @@
     ]
   },
   {
+    "id": "1236708",
+    "name": "BEAUMONT; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Chuckawalla State Prison; Department of Water Rights Re: Wastewater Change Petition"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Budget; Department of Water Rights Re: Wastewater Change Petition; Department of Transportation (CalTrans) Re: District 8 communications"
+      }
+    ]
+  },
+  {
     "id": "1143403",
     "name": "BECHTEL CORPORATION",
     "quarters": [
@@ -22701,6 +22721,19 @@
     ]
   },
   {
+    "id": "1145633",
+    "name": "CITRUS HEIGHTS; CITY OF",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1441856",
     "name": "CITY CLERKS ASSOCIATION OF CALIFORNIA",
     "quarters": [
@@ -23970,6 +24003,13 @@
         "generalLobbying": 8000,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE RE: BUDGET - HEALTH CARE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 36485.87,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 425, 632, 659, 1645; SB 90, 257, 282, 339, 421; LEGISLATURE RE: BUDGET - HEALTH CARE"
       }
     ]
   },
@@ -32625,6 +32665,26 @@
     ]
   },
   {
+    "id": "1445848",
+    "name": "FREEDOM WEST HOMES CORPORATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Grant support letters, FY 23-24 budget requests; Governor\u0012s Office Re: FY 23-24 budget; SB 593"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Grant support letters, FY 23-24 budget requests; Governors Office Re: FY 23-24 budget; Legislature Re: SB 593"
+      }
+    ]
+  },
+  {
     "id": "1457504",
     "name": "FREMONT UNIFIED SCHOOL DISTRICT",
     "quarters": [
@@ -37070,6 +37130,26 @@
     ]
   },
   {
+    "id": "1146201",
+    "name": "IMPERIAL; COUNTY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 21092,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB1562  AB1569 AB1579 AB 1593  SB797 and Lithium Valley"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20250,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB1562  AB1569 AB1579 AB 1593  SB797 and Lithium Valley"
+      }
+    ]
+  },
+  {
     "id": "1404691",
     "name": "IMPROVE YOUR TOMORROW, INC.",
     "quarters": [
@@ -38714,6 +38794,26 @@
         "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 98 SB 364 AB 247"
+      }
+    ]
+  },
+  {
+    "id": "1447729",
+    "name": "IRONSIGHT LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -40709,6 +40809,11 @@
     ]
   },
   {
+    "id": "1374388",
+    "name": "LAURION CAPITAL MANAGEMENT LP",
+    "quarters": []
+  },
+  {
     "id": "1393290",
     "name": "LAW FOUNDATION OF SILICON VALLEY ",
     "quarters": [
@@ -42677,6 +42782,11 @@
         "lobbiedOn": "None. "
       }
     ]
+  },
+  {
+    "id": "1462513",
+    "name": "LUMINARX CAPITAL MANAGEMENT LP",
+    "quarters": []
   },
   {
     "id": "1143145",
@@ -45790,6 +45900,11 @@
     ]
   },
   {
+    "id": "1145629",
+    "name": "MOULTON NIGUEL WATER DISTRICT (MNWD)",
+    "quarters": []
+  },
+  {
     "id": "1414903",
     "name": "MOUNTAIN COMMUNITIES HEALTHCARE DISTRICT",
     "quarters": [
@@ -46064,6 +46179,26 @@
         "generalLobbying": 215000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNORS OFFICE REGARDING AB 8, SB 392. SB 785 AND SB 829."
+      }
+    ]
+  },
+  {
+    "id": "1233619",
+    "name": "MURRIETA; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 46500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Budget; Department of Transportation (CalTrans) Re: District 8 projects and communication; SB 584, SB 19, AB 742, SB 423"
       }
     ]
   },
@@ -56028,6 +56163,11 @@
     ]
   },
   {
+    "id": "1421936",
+    "name": "REVEL",
+    "quarters": []
+  },
+  {
     "id": "1459289",
     "name": "REVENUE BASED FINANCE COALITION",
     "quarters": [
@@ -57314,6 +57454,26 @@
     ]
   },
   {
+    "id": "1143700",
+    "name": "SACRAMENTO REGIONAL TRANSIT DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: agency update; CA State Transportation Agency Re: grant programs; AB 7, AB 350, AB 354, AB 1052"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 350, 354, 1052; Legislature Re: agency update"
+      }
+    ]
+  },
+  {
     "id": "1143240",
     "name": "SACRAMENTO; CITY OF",
     "quarters": [
@@ -57462,6 +57622,19 @@
         "generalLobbying": 40200,
         "pucLobbying": 0,
         "lobbiedOn": "AB 331, AB 787, AB 1054; SB 253, SB 423"
+      }
+    ]
+  },
+  {
+    "id": "1363971",
+    "name": "SALIENT ADVISORS, L.P.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -65127,7 +65300,7 @@
   },
   {
     "id": "1445365",
-    "name": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATE, SYSTEMATICA INVESTMENTS LIMITED",
+    "name": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATES, SYSTEMATICA INVESTMENTS LIMITED AND SYSTEMATICA\nINVESTMENTS UK LLP",
     "quarters": [
       {
         "quarter": "1st",
@@ -67146,6 +67319,26 @@
         "generalLobbying": 10581,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and Governor: AB 7, AB 573, AB 1484, SB 423, SB 440, SB 584, NPDES Permit, Reimaging Bridge Funding"
+      }
+    ]
+  },
+  {
+    "id": "1403336",
+    "name": "TRUCONNECT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1231"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1231; LEGISLATURE, GOVERNOR'S OFFICE RE: LIFELINE PROGRAM"
       }
     ]
   },
@@ -72263,6 +72456,11 @@
         "lobbiedOn": "AB 331; SB 313"
       }
     ]
+  },
+  {
+    "id": "1462312",
+    "name": "WORKHORSE GROUP",
+    "quarters": []
   },
   {
     "id": "1447679",
