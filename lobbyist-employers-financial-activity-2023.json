@@ -5365,7 +5365,7 @@
         "session": "2023-2024",
         "generalLobbying": 9000,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE"
+        "lobbiedOn": "SB 253"
       }
     ]
   },
@@ -7688,6 +7688,11 @@
         "lobbiedOn": "AB 953, 849, 1465, 817, 536, 1000, 1263, 985 SB 4, 563, 537, 527, 674, 415 FY 23/24 State Budget- LAO, Governors Office, Senate and Assembly"
       }
     ]
+  },
+  {
+    "id": "1146264",
+    "name": "BAY AREA COUNCIL",
+    "quarters": []
   },
   {
     "id": "1444474",
@@ -29286,6 +29291,11 @@
     ]
   },
   {
+    "id": "1462490",
+    "name": "EISENHOWER MEDICAL CENTER",
+    "quarters": []
+  },
+  {
     "id": "1448279",
     "name": "EISLER CAPITAL (US) LLC",
     "quarters": [
@@ -30421,6 +30431,11 @@
         "lobbiedOn": "Legislature on seizure awareness and preparedness. Medical Board of California and the Legislature on SB 357, AB 87. The California Department of Education on AB 1810 implementation."
       }
     ]
+  },
+  {
+    "id": "1462775",
+    "name": "EPIRIS GP III LIMITED AS GENERAL PARTNER TO EPIRIS FUND III L.P. AND EPIRIS FUND III (B) L.P",
+    "quarters": []
   },
   {
     "id": "1336828",
@@ -52006,6 +52021,11 @@
   {
     "id": "1461368",
     "name": "PAYPOOL LLC",
+    "quarters": []
+  },
+  {
+    "id": "1462527",
+    "name": "PAYWARD, INC.",
     "quarters": []
   },
   {
