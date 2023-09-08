@@ -9498,6 +9498,26 @@
     ]
   },
   {
+    "id": "1447719",
+    "name": "BRIMSTONE ENERGY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      }
+    ]
+  },
+  {
     "id": "1460110",
     "name": "BRINC DRONES",
     "quarters": []
@@ -23367,6 +23387,26 @@
     ]
   },
   {
+    "id": "1461993",
+    "name": "CO BAR SOLAR LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: CLEAN ENERGY DEVELOPMENT, REGIONALIZATION"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: CLEAN ENERGY DEVELOPMENT, REGIONALIZATION"
+      }
+    ]
+  },
+  {
     "id": "1457591",
     "name": "COACH USA",
     "quarters": [
@@ -29676,7 +29716,7 @@
   },
   {
     "id": "1437367",
-    "name": "ELLIOTT INVESTMENT MANAGEMENT L.P. AND ITS AFFILIATE, EIMCT LLC",
+    "name": "ELLIOTT INVESTMENT MANAGEMENT L.P. AND ITS AFFILIATES, EIMCT LLC AND EIMFL LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -41271,6 +41311,19 @@
         "generalLobbying": 1620,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: SB795"
+      }
+    ]
+  },
+  {
+    "id": "1460695",
+    "name": "LENOVO (UNITED STATES) INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE  GOVERNORS OFFICE"
       }
     ]
   },
@@ -56183,6 +56236,11 @@
     ]
   },
   {
+    "id": "1461228",
+    "name": "RETV MANAGEMENT, LLC",
+    "quarters": []
+  },
+  {
     "id": "1421936",
     "name": "REVEL",
     "quarters": []
@@ -57062,6 +57120,11 @@
         "lobbiedOn": "Lobbied the Legislature regarding AB 749, information technology legislation and budget funding."
       }
     ]
+  },
+  {
+    "id": "1462581",
+    "name": "RUFFER LLC",
+    "quarters": []
   },
   {
     "id": "1147141",
@@ -62014,6 +62077,26 @@
         "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 400, 460, 1337; SB 122, 123, 124, 125, 145, 146, 147, 149; CA WATER COMMISSION RE: WATER ISSUES AND FUNDING; LEGISLATURE RE: WATER ISSUES; GOVERNOR'S OFFICE RE: WATER ISSUES"
+      }
+    ]
+  },
+  {
+    "id": "1394207",
+    "name": "SIXTH STREET BD, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, FCERA (Fresno), KCERA, LA Dept Water and Power, Stanford, SBCERA, LACERS, Lemoko, Wilshire, Pure Insurance, Contra Costa, Callan, Canterbury Consulting, USC, Fort Washington, Samir Zahar, Medley, UCSF, Hall Capital, Baker Street, CCERA, Pathway, OCERS, Broad Family Office, Main Street Advisors"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, Contra Costa, KCERA, SBCERA, LACERS, FCERA, Pacific Life, Medley Partners, OCERS, Cal Tech, USC, USCF"
       }
     ]
   },
@@ -68104,6 +68187,16 @@
         "lobbiedOn": "LEGISLATURE RE: CHILD MARRIAGE"
       }
     ]
+  },
+  {
+    "id": "1462657",
+    "name": "UNCOMMON DEVELOPERS ",
+    "quarters": []
+  },
+  {
+    "id": "1462657",
+    "name": "UNCOMMON DEVELOPERS ",
+    "quarters": []
   },
   {
     "id": "1444056",
