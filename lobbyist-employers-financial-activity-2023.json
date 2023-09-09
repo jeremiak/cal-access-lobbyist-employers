@@ -10436,6 +10436,11 @@
     ]
   },
   {
+    "id": "1462759",
+    "name": "CALIDI BIOTHERAPEUTICS INC ",
+    "quarters": []
+  },
+  {
     "id": "1377672",
     "name": "CALIFORNIA & NEVADA CIVIL ENGINEERS AND LAND SURVEYORS ASSOCIATION, INC.",
     "quarters": [
@@ -13641,6 +13646,26 @@
         "generalLobbying": 35092.73,
         "pucLobbying": 0,
         "lobbiedOn": "State Legislature, Secretary of State, FPPC, Governor, State Auditor"
+      }
+    ]
+  },
+  {
+    "id": "1147089",
+    "name": "CALIFORNIA COMMUNICATIONS (CALCOM) ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 23705,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 14, 754, 768, 1714; SB 754"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 24205,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 14, 754, 768, 1714; SB 754"
       }
     ]
   },
@@ -27148,7 +27173,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 12000,
+        "generalLobbying": 12655,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       }
@@ -27798,6 +27823,26 @@
     "id": "1369173",
     "name": "DIAMOND HILL CAPITAL MANAGEMENT, INC.",
     "quarters": []
+  },
+  {
+    "id": "1453698",
+    "name": "DIGITAL RESTAURANT ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 17205,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 375, 502, 518, 546, 575, 926, 1217, 1336, 1489; SB 277"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 25910,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 375, 502, 518, 546, 575, 926, 1217, 1336, 1489; SB 277"
+      }
+    ]
   },
   {
     "id": "1399758",
@@ -33827,6 +33872,26 @@
     ]
   },
   {
+    "id": "1143740",
+    "name": "GLENDALE; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor: SB645, 2023-24 State Budget - CWAPP Arrears Funding"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 36000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor: AB 645, AB 914, AJR 1, Fremont Park Renovation Funding, Glendale Tech Hub Funding, utility arrears."
+      }
+    ]
+  },
+  {
     "id": "1346403",
     "name": "GLG LLC",
     "quarters": [
@@ -34604,6 +34669,19 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE: SB 867; AB 1567."
+      }
+    ]
+  },
+  {
+    "id": "1461956",
+    "name": "GREATER SACRAMENTO URBAN LEAGUE",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 28, 51, 280, 578, 1154, 1360, 1400, 1588; SB 2, 16, 51, 225, 358, 368, 476, 673, 819"
       }
     ]
   },
@@ -39153,6 +39231,19 @@
     ]
   },
   {
+    "id": "1461415",
+    "name": "JAMES IRRIGATION DISTRICT",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1347055",
     "name": "JAMESTOWN, L.P.",
     "quarters": [
@@ -39988,7 +40079,22 @@
   {
     "id": "1460350",
     "name": "KIK CUSTOM PRODUCTS INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 676"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 676"
+      }
+    ]
   },
   {
     "id": "1358305",
@@ -40089,6 +40195,11 @@
         "lobbiedOn": "University of California: Investments."
       }
     ]
+  },
+  {
+    "id": "1462830",
+    "name": "KINGS III OF AMERICA",
+    "quarters": []
   },
   {
     "id": "1145600",
@@ -42808,6 +42919,26 @@
         "generalLobbying": 85000,
         "pucLobbying": 0,
         "lobbiedOn": "Electrical grid resiliency and transmission policy - Legislature, Governor's Office"
+      }
+    ]
+  },
+  {
+    "id": "1428577",
+    "name": "LUCID USA, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Administration and Legislature: ZEV issues, California business issues CARB: ZEV issues, climate change, Low Carbon Fuel Standard, Scoping Plan CEC: ZEV issues, EV event planning"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 81000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Administration and Legislature: ZEV issues, California business and DMV issues, SB 233, SB 615 CARB: ZEV issues, Low Carbon Fuel Standard, Member outreach CEC: ZEV issues, EV event planning, Member outreach"
       }
     ]
   },
@@ -53200,6 +53331,11 @@
     ]
   },
   {
+    "id": "1462758",
+    "name": "PIONEER HEALTHCARE DISTRICTS ",
+    "quarters": []
+  },
+  {
     "id": "1443866",
     "name": "PIONEER PARTNERS",
     "quarters": [
@@ -53881,6 +54017,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1461213",
+    "name": "POWERCA ACTION",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 555, 567; SCA 2; ACA 10; LEGISLATURE RE: AFFORDABLE HOUSING"
       }
     ]
   },
@@ -61397,6 +61546,19 @@
     ]
   },
   {
+    "id": "1461056",
+    "name": "SHASTA COUNTY RESIDENTS FOR RESPONSIBLE COMMUNITY DEVELOPMENT",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1143739",
     "name": "SHASTA; COUNTY OF",
     "quarters": [
@@ -62343,6 +62505,19 @@
         "generalLobbying": 41532.72,
         "pucLobbying": 0,
         "lobbiedOn": "AB 836, 1027, 1282, 1394; SB 287, 646, 680, 845"
+      }
+    ]
+  },
+  {
+    "id": "1146531",
+    "name": "SOBOBA BAND OF LUISENO INDIANS",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -66551,7 +66726,7 @@
         "session": "2023-2024",
         "generalLobbying": 39663,
         "pucLobbying": 0,
-        "lobbiedOn": "SB 74, AB 1394, SB 478"
+        "lobbiedOn": "SB 74, AB 1394"
       }
     ]
   },
@@ -67769,6 +67944,11 @@
         "lobbiedOn": "Legislature Re: Grant support letters, FY 23-24 budget requests, Water Funding Opportunities; State Water Resources Control Board Re: Water Funding Opportunities; Governors Office Re: FY 23-24 budget; Legislature Re: ACA 1, AB 1567, AB 1708, SB 226, SB 423"
       }
     ]
+  },
+  {
+    "id": "1462818",
+    "name": "TURNITIN, LLC",
+    "quarters": []
   },
   {
     "id": "1380318",
@@ -71203,6 +71383,11 @@
         "lobbiedOn": "AB 331, 1119, 1414; SB 278, 455, 478, 637, 727; CA STATE BAR CLIENT TRUST ACCOUNT PROPOSAL, CHARITABLE TRUST NOTICE REQUIREMENT: LEGISLATURE"
       }
     ]
+  },
+  {
+    "id": "1462611",
+    "name": "WELLSPACE HEALTH",
+    "quarters": []
   },
   {
     "id": "1143903",
