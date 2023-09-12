@@ -54021,6 +54021,26 @@
     ]
   },
   {
+    "id": "1145046",
+    "name": "POWAY UNIFIED SCHOOL DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIAS LEGISLATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE BUDGET SB 98 SB 364 AB 247"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 98 SB 364 AB 247"
+      }
+    ]
+  },
+  {
     "id": "1461213",
     "name": "POWERCA ACTION",
     "quarters": [
@@ -61632,7 +61652,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 20500,
+        "generalLobbying": 35500,
         "pucLobbying": 0,
         "lobbiedOn": "See Attachment A"
       }
