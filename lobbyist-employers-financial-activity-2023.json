@@ -5901,6 +5901,11 @@
     ]
   },
   {
+    "id": "1462863",
+    "name": "ASSOCIATED FEED & SUPPLY CO",
+    "quarters": []
+  },
+  {
     "id": "1142838",
     "name": "ASSOCIATED GENERAL CONTRACTORS OF CALIFORNIA",
     "quarters": [
@@ -24635,6 +24640,11 @@
     ]
   },
   {
+    "id": "1462113",
+    "name": "CONNECTED COMMERCE COUNCIL",
+    "quarters": []
+  },
+  {
     "id": "1373546",
     "name": "CONNOR, CLARK & LUNN FINANCIAL GROUP LTD., AND ITS AFFILIATES, INCLUDING CONNOR, CLARK & LUNN (USA) LTD.",
     "quarters": [
@@ -25213,6 +25223,19 @@
     ]
   },
   {
+    "id": "1461268",
+    "name": "COPIA POWER DEVCO, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION, CA ENERGY COMMISSION, CA INDEPENDENT SYSTEM OPERATOR, GOVERNOR'S OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT, GOVERNOR'S OFFICE RE: DEVELOPMENT OF RENEWABLE ENERGY, ELECTRIC TRANSMISSION"
+      }
+    ]
+  },
+  {
     "id": "1419752",
     "name": "CORBIN CAPITAL PARTNERS, LP",
     "quarters": [
@@ -25269,6 +25292,26 @@
         "generalLobbying": 58500,
         "pucLobbying": 0,
         "lobbiedOn": "None this period."
+      }
+    ]
+  },
+  {
+    "id": "1417494",
+    "name": "CORNELL CAPITAL LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -26311,6 +26354,11 @@
         "lobbiedOn": ""
       }
     ]
+  },
+  {
+    "id": "1462668",
+    "name": "CROSSWALK LABS",
+    "quarters": []
   },
   {
     "id": "1142940",
@@ -31027,6 +31075,26 @@
     ]
   },
   {
+    "id": "1460222",
+    "name": "EVFOODS, LLC (ZEVV)",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA AIR RESOURCES BOARD RE: CLEAN VEHICLE PROGRAMS, TESTING, INCENTIVES; CA ENERGY COMMISSION RE: ZERO EMISSION VEHICLES INCENTIVES; LEGISLATURE, GOVERNOR'S OFFICE RE: BUDGET, CLEAN VEHICLE ISSUES"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1385409",
     "name": "EXAMWORKS, LLC",
     "quarters": [
@@ -34975,6 +35043,19 @@
         "generalLobbying": 24100,
         "pucLobbying": 0,
         "lobbiedOn": "See Memo"
+      }
+    ]
+  },
+  {
+    "id": "1461995",
+    "name": "GROWTH ENERGY",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: ETHANOL POLICY"
       }
     ]
   },
@@ -39231,6 +39312,11 @@
     ]
   },
   {
+    "id": "1281547",
+    "name": "JAMES HARDIE BUILDING PRODUCTS INC.",
+    "quarters": []
+  },
+  {
     "id": "1461415",
     "name": "JAMES IRRIGATION DISTRICT",
     "quarters": [
@@ -39472,6 +39558,11 @@
         "lobbiedOn": "None."
       }
     ]
+  },
+  {
+    "id": "1461766",
+    "name": "JOBY AERO INC",
+    "quarters": []
   },
   {
     "id": "1144916",
@@ -49053,6 +49144,26 @@
     ]
   },
   {
+    "id": "1401512",
+    "name": "NURO, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 28000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Administration: autonomous vehicles."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 27000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Administration and legislature: autonomous vehicles."
+      }
+    ]
+  },
+  {
     "id": "1395472",
     "name": "NUVEEN SERVICES LLC",
     "quarters": [
@@ -50853,6 +50964,26 @@
     ]
   },
   {
+    "id": "1446612",
+    "name": "OXY LOW CARBON VENTURES, LLC (OLCV), A SUBSIDARY OF OCCIDENTAL PETROLEUM",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 25904.4,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA AIR RESOURCES BOARD RE: CA LOW CARBON FUEL STANDARD (LCFS), CARBON CAPTURE AND SEQUESTRATION (CCS) PATHWAY POLICY"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 25734.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA AIR RESOURCES BOARD RE: CA LOW CARBON FUEL STANDARD (LCFS), CARBON CAPTURE AND SEQUESTRATION (CCS) PATHWAY POLICY"
+      }
+    ]
+  },
+  {
     "id": "1336655",
     "name": "PAAMCO PRISMA, LLC ",
     "quarters": [
@@ -52486,7 +52617,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 125410.55,
+        "generalLobbying": 137995,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 2; SB 537; EV Battery Recycling; PV Recycling; Marginal Rates. CA Energy Commission: Building Electrification; Marginal Rates."
       }
@@ -58202,7 +58333,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 245640.94,
+        "generalLobbying": 245741.22,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
@@ -67991,6 +68122,11 @@
     ]
   },
   {
+    "id": "1462854",
+    "name": "TVI, INC. DBA SAVERS",
+    "quarters": []
+  },
+  {
     "id": "1145960",
     "name": "TWENTY-NINE PALMS BAND OF MISSION INDIANS",
     "quarters": [
@@ -68307,6 +68443,11 @@
         "lobbiedOn": "None."
       }
     ]
+  },
+  {
+    "id": "1462645",
+    "name": "UC OFFICE OF THE PRESIDENT ",
+    "quarters": []
   },
   {
     "id": "1348499",
@@ -69605,6 +69746,19 @@
         "generalLobbying": 13865.27,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS, CalSTRS: proposed investment in Valor Equity Partners VI L.P.; CalPERS proposed investment in CV Consortio Fund L.P."
+      }
+    ]
+  },
+  {
+    "id": "1461699",
+    "name": "VALORUS",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 345; LEGISLATURE RE: DOMESTIC VIOLENCE BUDGET FUNDING REQUEST"
       }
     ]
   },
