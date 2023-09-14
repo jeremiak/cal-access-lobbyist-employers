@@ -488,7 +488,22 @@
   {
     "id": "1455866",
     "name": "ABRY PARTNERS II, LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD"
+      }
+    ]
   },
   {
     "id": "1456947",
@@ -2429,6 +2444,11 @@
         "lobbiedOn": "AB 241, 296, 331, 473, 591, 727, 1349; SB 55, 84, 233, 296, 425, 478, 615"
       }
     ]
+  },
+  {
+    "id": "1462884",
+    "name": "ALLIANCE FOR PHARMACY COMPOUNDING",
+    "quarters": []
   },
   {
     "id": "1381586",
@@ -46311,6 +46331,11 @@
         "lobbiedOn": "Governor?s office and CA Energy Commission regarding mineral issues and economic development issues"
       }
     ]
+  },
+  {
+    "id": "1462888",
+    "name": "MS INTERNATIONAL, INC.",
+    "quarters": []
   },
   {
     "id": "1377906",
