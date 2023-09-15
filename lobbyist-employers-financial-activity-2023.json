@@ -2426,6 +2426,26 @@
     ]
   },
   {
+    "id": "1385773",
+    "name": "ALLIANCE COLLEGE-READY PUBLIC SCHOOLS ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 610, SB 98, SB 307, SB 445"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature & Governor's office: AB 1604 & State Budget"
+      }
+    ]
+  },
+  {
     "id": "1147180",
     "name": "ALLIANCE FOR AUTOMOTIVE INNOVATION",
     "quarters": [
@@ -42994,6 +43014,11 @@
     ]
   },
   {
+    "id": "1462757",
+    "name": "LOWENTHAL; RICHARD ",
+    "quarters": []
+  },
+  {
     "id": "1400574",
     "name": "LOWES COMPANIES, INC.",
     "quarters": [
@@ -45358,6 +45383,11 @@
         "lobbiedOn": "No Bills Actively Lobbied."
       }
     ]
+  },
+  {
+    "id": "1462591",
+    "name": "MILLENNIUM MANAGEMENT LLC",
+    "quarters": []
   },
   {
     "id": "1253255",
@@ -52927,6 +52957,11 @@
         "lobbiedOn": "AB 1000, 1784; SB 423"
       }
     ]
+  },
+  {
+    "id": "1462748",
+    "name": "PERSEFONI AL INC. ",
+    "quarters": []
   },
   {
     "id": "1143074",
@@ -63836,6 +63871,16 @@
         "lobbiedOn": "None this period."
       }
     ]
+  },
+  {
+    "id": "1462696",
+    "name": "SPECIAL OLYMPICS NORTHERN CALIFORNIA INC.",
+    "quarters": []
+  },
+  {
+    "id": "1462697",
+    "name": "SPECIAL OLYMPICS SOUTHERN CALIFORNIA INC.",
+    "quarters": []
   },
   {
     "id": "1143224",
