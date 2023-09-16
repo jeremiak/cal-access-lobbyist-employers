@@ -1588,6 +1588,11 @@
     ]
   },
   {
+    "id": "1462925",
+    "name": "AGL CREDIT MANAGEMENT LP",
+    "quarters": []
+  },
+  {
     "id": "1314211",
     "name": "AGOURA HILLS; CITY OF",
     "quarters": [
@@ -5664,6 +5669,26 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
+    "id": "1143690",
+    "name": "ARTESIA; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1175 SB 423, 747"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1175, 1673, 1708 SB 4, 101, 222, 423"
       }
     ]
   },
@@ -19879,6 +19904,11 @@
     "quarters": []
   },
   {
+    "id": "1462906",
+    "name": "CAMPAIGN FOR A SAFE AND HEALTHY CALIFORNIA, SPONSORED BY ENVIRONMENTAL AND HEALTH ORGANIZATIONS",
+    "quarters": []
+  },
+  {
     "id": "1281400",
     "name": "CAMPAIGN FOR COLLEGE OPPORTUNITY; THE",
     "quarters": []
@@ -34000,6 +34030,26 @@
     ]
   },
   {
+    "id": "1253582",
+    "name": "GLENDORA; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 423, 747"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1708 SB 4, 101, 423"
+      }
+    ]
+  },
+  {
     "id": "1346403",
     "name": "GLG LLC",
     "quarters": [
@@ -36285,6 +36335,26 @@
         "generalLobbying": 500,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "id": "1146340",
+    "name": "HOLLISTER RANCH OWNERS ASSOCIATION; THE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "HROA has not actively lobbied or attempted to actively influence any legislative or state agency administrative actions during this reporting period.  Instead, our Lobbying Firm Strategic Solutions Advisors educates qualifying and other officials regarding the history and nature of the HROA and our ranching, conservation and agricultural activities."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "HROA has not actively lobbied or attempted to actively influence any legislative or state agency administrative actions during this reporting period.  Instead, our Lobbying Firm Strategic Solutions Advisors educates qualifying and other officials regarding the history and nature of the HROA and our ranching, conservation and agricultural activities."
       }
     ]
   },
@@ -39750,6 +39820,26 @@
     ]
   },
   {
+    "id": "1340061",
+    "name": "JURUPA VALLEY; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 777 SB 423, 747, 867  Governor?s Office, Legislature & Administration Re: 2023-24 Budget Funding to support Limonite Avenue Roadway Improvement Project, Complete River Master Plan, and SR60/Rubidoux Project."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Transportation Re: Clean California Program Grant Funding Request.   AB 777, 1597, 1637 SB 4, 43, 101, 423, 867"
+      }
+    ]
+  },
+  {
     "id": "1459425",
     "name": "JUST KEEP LIVIN FOUNDATION",
     "quarters": [
@@ -42281,6 +42371,26 @@
     ]
   },
   {
+    "id": "1145254",
+    "name": "LONG BEACH PUBLIC TRANSPORTATION COMPANY (LONG BEACH TRANSIT)",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature & Administration Re: All matters related to Public Transportation and Low-Carbon Transit Operations."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature & Administration Re: All matters related to Public Transportation and Low-Carbon Transit Operations.  SB 101"
+      }
+    ]
+  },
+  {
     "id": "1147150",
     "name": "LONG BEACH UNIFIED SCHOOL DISTRICT",
     "quarters": [
@@ -44257,6 +44367,26 @@
         "generalLobbying": 15711.95,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature reg AB 9, AB 43, AB 706, AB 981, AB 1705, SB 253, SB 261, SB 308, SB 422, SB 682. Air Resources Board reg AB 32 implementation, SB 596 implementation and workshop, border carbon adjustment, updated scoping plan implementation."
+      }
+    ]
+  },
+  {
+    "id": "1143441",
+    "name": "MARTINEZ; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1686 SB 423, 747  California State Lands Commission Re: Amendment to SB 1424, and State of California Re: Local Loan Agreement with City for Martinez Marina."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Lands Commission Re: Martinez Waterfront Trust Land Use Plan and Local Loan Agreement between State of California and Martinez Marina.   AB 1686 SB 4, 101, 423"
       }
     ]
   },
@@ -55528,6 +55658,26 @@
     ]
   },
   {
+    "id": "1251195",
+    "name": "RADIUS RECYCLING",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 49325.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature - Metal recycling and the circular economy."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 51427.31,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, DTSC - Metal recycling and the circular economy, recycling center tour"
+      }
+    ]
+  },
+  {
     "id": "1459254",
     "name": "RADNET MANAGEMENT, INC.",
     "quarters": [
@@ -60860,26 +61010,6 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 410, 691, 1567; SB 867"
-      }
-    ]
-  },
-  {
-    "id": "1251195",
-    "name": "SCHNITZER STEEL INDUSTRIES, INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 49325.99,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature - Metal recycling and the circular economy."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 51427.31,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, DTSC - Metal recycling and the circular economy, recycling center tour"
       }
     ]
   },
@@ -70096,6 +70226,11 @@
         "lobbiedOn": "ABs 33 58 505 1057 1168; SBs 511 525 701; MHSA Reforms (Legislature and Administration). Budget: CalFresh admin disaster/emergency funding for HSA State  budget reqs IHSS penalty complex care for FY; AT HOME; PD Defense Pilot"
       }
     ]
+  },
+  {
+    "id": "1290569",
+    "name": "VERA INSTITUTE OF JUSTICE, INC.",
+    "quarters": []
   },
   {
     "id": "1404947",
