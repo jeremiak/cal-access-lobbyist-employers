@@ -30766,6 +30766,11 @@
     ]
   },
   {
+    "id": "1462998",
+    "name": "EQUITABLE FOOD INITIATIVE ",
+    "quarters": []
+  },
+  {
     "id": "1443773",
     "name": "EQUITIX INVESTMENTS NORTH AMERICA L.P.",
     "quarters": [
@@ -54162,6 +54167,11 @@
     ]
   },
   {
+    "id": "1462816",
+    "name": "POLAR ASSET MANAGEMENT PARTNERS INC.",
+    "quarters": []
+  },
+  {
     "id": "1439320",
     "name": "POLARIS",
     "quarters": [
@@ -56187,7 +56197,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 519407.69,
+        "generalLobbying": 507294.78,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING RECORDING CONTRACTS, USES OF ARTIFICIAL INTELLIGENCE IN MUSIC."
       },
