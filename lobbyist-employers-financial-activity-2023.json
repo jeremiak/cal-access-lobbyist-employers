@@ -68996,7 +68996,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 105500.28,
+        "generalLobbying": 149976.78,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
       }
@@ -70767,7 +70767,22 @@
   {
     "id": "1425914",
     "name": "VISIONS IN EDUCATION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 426."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 32000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 426, state budget."
+      }
+    ]
   },
   {
     "id": "1459713",
