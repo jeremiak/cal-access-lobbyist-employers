@@ -36304,6 +36304,26 @@
     ]
   },
   {
+    "id": "1337655",
+    "name": "HMC INVESTMENTS, INC. \"HMCI\"",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Los Angeles City Employees Retirement System; Los Angeles County Employees Retirement Association; Los Angeles Fire & Police Pension System; Los Angeles Water & Power Employees Retirement Plan; Orange County Employees Retirement System; San Bernardino County Employees Retirement Association; Alameda County Employees Retirement Association; Contra Costa County Employees Retirement Association"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Los Angeles City Employees Retirement System; Los Angeles County Employees Retirement Association; Los Angeles Fire & Police Pension System; Los Angeles Water & Power Employees Retirement Plan; Orange County Employees Retirement System; San Bernardino County Employees Retirement Association; Alameda County Employees Retirement Association; Contra Costa County Employees Retirement Association"
+      }
+    ]
+  },
+  {
     "id": "1317414",
     "name": "HNTB CORPORATION",
     "quarters": [
@@ -55511,26 +55531,6 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
-      }
-    ]
-  },
-  {
-    "id": "1358465",
-    "name": "QMS CAPITAL MANAGEMENT LP",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 61450.72,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS: Investments CalPERS: Investments"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 23654.53,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS: Investments CalPERS: Investments"
       }
     ]
   },
