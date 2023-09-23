@@ -35375,6 +35375,26 @@
     ]
   },
   {
+    "id": "1368466",
+    "name": "H.I.G. CAPITAL, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
     "id": "1461240",
     "name": "H.R.L. MORRISON & CO. (US), LLC",
     "quarters": []
@@ -50287,7 +50307,22 @@
   {
     "id": "1424171",
     "name": "ONE FAIR WAGE",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 476, AB 1516"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 476, AB 1516"
+      }
+    ]
   },
   {
     "id": "1419454",
