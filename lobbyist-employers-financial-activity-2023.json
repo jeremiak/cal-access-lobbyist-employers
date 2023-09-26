@@ -19386,7 +19386,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 28375,
+        "generalLobbying": 29597.96,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       }
@@ -40383,6 +40383,11 @@
     ]
   },
   {
+    "id": "1462907",
+    "name": "KIMBALL; KELLY",
+    "quarters": []
+  },
+  {
     "id": "1143444",
     "name": "KIMBERLY-CLARK CORPORATION",
     "quarters": [
@@ -40615,6 +40620,11 @@
   {
     "id": "1441600",
     "name": "KLEEN INDUSTRIAL SERVICES",
+    "quarters": []
+  },
+  {
+    "id": "1462877",
+    "name": "KNAUF INSULATION ",
     "quarters": []
   },
   {
@@ -49565,6 +49575,11 @@
         "lobbiedOn": "Legislative Analyst\u0012s Office  State Legislature Re: district of choice laws: Blattner & Associates: None--No Lobbying Activity During This Quarter"
       }
     ]
+  },
+  {
+    "id": "1463083",
+    "name": "OAKLAND 68'S",
+    "quarters": []
   },
   {
     "id": "1316935",
@@ -60995,6 +61010,26 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: Natural resources, nature-based solutions, wildfire. Agencies: WCB, CNRA, SCC, CDFW"
+      }
+    ]
+  },
+  {
+    "id": "1456070",
+    "name": "SBE GLOBAL, LP",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1623; LEGISLATURE RE: RELIABILITY; LEGISLATURE, GOVERNOR'S OFFICE RE: CLEAN ENERGY, CLIMATE CHANGE, SOLAR AND ENERGY STORAGE ISSUES, CLEAN ENERGY INCENTIVES; CA ENERGY COMMISSION, CA PUBLIC UTILITIES COMMISSION, CA INDEPENDENT SYSTEM OPERATORS RE: CLEAN ENERGY AND RELIABILITY ISSUES, INCENTIVES, LONG DURATION ENERGY STORAGE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1623; LEGISLATURE RE: RELIABILITY; LEGISLATURE, GOVERNOR'S OFFICE RE: CLEAN ENERGY, CLIMATE CHANGE, SOLAR AND ENERGY STORAGE ISSUES, CLEAN ENERGY INCENTIVES; CA ENERGY COMMISSION, CA PUBLIC UTILITIES COMMISSION, CA INDEPENDENT SYSTEM OPERATORS RE: CLEAN ENERGY AND RELIABILITY ISSUES, INCENTIVES, LONG DURATION ENERGY STORAGE"
       }
     ]
   },
