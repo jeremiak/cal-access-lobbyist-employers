@@ -35295,6 +35295,11 @@
     ]
   },
   {
+    "id": "1436844",
+    "name": "GUARDANT HEALTH",
+    "quarters": []
+  },
+  {
     "id": "1357595",
     "name": "GUGGENHEIM PARTNERS INVESTMENT MANAGEMENT, LLC",
     "quarters": [
@@ -44779,6 +44784,19 @@
     ]
   },
   {
+    "id": "1417269",
+    "name": "MDR PHARMACEUTICAL CARE",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 22000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 729"
+      }
+    ]
+  },
+  {
     "id": "1244139",
     "name": "MEAD JOHNSON & COMPANY, LLC",
     "quarters": [
@@ -45387,7 +45405,29 @@
   {
     "id": "1451030",
     "name": "MICROGRID RESOURCES COALITION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 25600,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 26400,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 27345,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   },
   {
     "id": "1145764",
@@ -52352,7 +52392,22 @@
   {
     "id": "1449210",
     "name": "PARTY CITY HOLDINGS INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature & Governor's office re: State Budget"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 37096.77,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature & Governor's office re: State Budget"
+      }
+    ]
   },
   {
     "id": "1357315",
@@ -72118,6 +72173,19 @@
         "generalLobbying": 24000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor's Office, Department of Financial Protection & Innovation, Department of Finance re: Digital Financial Assets, Regulation of Digital Financial Asset Kiosks, AB 39, SB 401, Cryptocurrency Regulation"
+      }
+    ]
+  },
+  {
+    "id": "1460324",
+    "name": "WESTCLIFF UNIVERSITY INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No activity this period."
       }
     ]
   },
