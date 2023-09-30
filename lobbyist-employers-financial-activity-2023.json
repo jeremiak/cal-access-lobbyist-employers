@@ -3898,14 +3898,14 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 13159.57,
+        "generalLobbying": 16713.76,
         "pucLobbying": 0,
         "lobbiedOn": "CalEPA CARB CEC CTC CalSTA CalTrans CDPH GOV; Budget Issues; CARB AB 32/SB 32 implementation; Advanced Clean Fleet; In-Use Locomotive; AB 6; AB 7; AB 241; AB 374; AB 471; AB 599; AB 935; AB 1000; SB 84; SB 285; SB 626 "
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 18851.91,
+        "generalLobbying": 22417.67,
         "pucLobbying": 0,
         "lobbiedOn": "CalEPA CARB CEC CTC CalSTA CalTrans CDPH CA Dept Tax and Fee GOV; Budget Issues; CARB SIP and Scoping Plan implementation; Advanced Clean Fleet; In-Use Locomotive; AB 6; AB 7; AB 126; AB 241; AB 374; AB 471; AB 599; AB 935; AB 1000; AB 1465; AB 1748; SB 84; SB 285; SB 410; SB 626"
       }
@@ -7803,6 +7803,11 @@
         "lobbiedOn": "AB 418, SB 786, SB 873, AB 99, AB 363, AB 475, AB 652, AB 1042, SB 224; Legislature re: State Bills"
       }
     ]
+  },
+  {
+    "id": "1463031",
+    "name": "BAYPINE LP",
+    "quarters": []
   },
   {
     "id": "1343517",
@@ -19911,7 +19916,15 @@
   {
     "id": "1281400",
     "name": "CAMPAIGN FOR COLLEGE OPPORTUNITY; THE",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 2625,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied legislature: AB811; AB1541; AB1749; AB603; AB789; AB368; AB1400; SB702."
+      }
+    ]
   },
   {
     "id": "1339321",
