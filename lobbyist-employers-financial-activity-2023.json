@@ -17987,6 +17987,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD"
       }
     ]
   },
@@ -73254,6 +73261,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 17300,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 12975,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature"
       }
