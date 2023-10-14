@@ -142,6 +142,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD."
       }
     ]
   },
@@ -1613,6 +1620,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NIL"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NIL"
       }
     ]
   },
@@ -1994,7 +2008,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 10554.03,
+        "generalLobbying": 32000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -3214,6 +3228,13 @@
         "generalLobbying": 7875,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1094"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 7875,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1094"
       }
     ]
   },
@@ -3784,6 +3805,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -5487,6 +5515,13 @@
         "generalLobbying": 98000,
         "pucLobbying": 0,
         "lobbiedOn": "Budget - Techs Field Trip Program -- Legislature"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 98000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Workforce training: GO-Biz, Labor Agency"
       }
     ]
   },
@@ -5518,6 +5553,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 342, 1193"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 18203.63,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 342, 1193"
       }
@@ -5952,6 +5994,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "SB 525; Medical Board of Ca re: Medical Assistant Certification Regulations; Board of Pharmacy re: Pharmacy"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 525; Medical Board of Ca re: Medical Assistant Certification Regulations; Board of Pharmacy re: Pharmacy Technician Requirements"
       }
     ]
   },
@@ -11164,6 +11213,13 @@
         "generalLobbying": 54001.37,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 451, 716, 1048, 1092, 1690; SBs 90, 770; Covered California re: Legislative Priorities and Agent Engagement"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 39115.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 451, 716, 1048, 1092, 1690; SBs 90, 770; Covered California re: auto enrollments and agent engagement"
       }
     ]
   },
@@ -12284,6 +12340,13 @@
         "generalLobbying": 23865.51,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 102, 299, 413, 452, 504, 524, 594, 597, 1107, 1145, 1156, 1213, 1484; SBs 102, 592, 596, 623, 631, 636, 796"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 23865.51,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 102, 299, 400, 413, 452, 489, 504, 524, 594, 597, 1107, 1145, 1156, 1213, 1484; SBs 102, 497, 558, 592, 596, 623, 631, 636, 796, 799"
       }
     ]
   },
@@ -12324,6 +12387,13 @@
         "generalLobbying": 6948.82,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 561, 1119, 1758; SB 564"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 11427.53,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 561, 1119, 1758; SBs 40, 564"
       }
     ]
   },
@@ -14980,6 +15050,13 @@
         "generalLobbying": 22846.5,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 716, 1119, 1414"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 716, 1119, 1414; SB 727"
       }
     ]
   },
@@ -15060,6 +15137,13 @@
         "generalLobbying": 41958.46,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 690, 924, 1758; SBs 21, 22, 40, 42, 71, 235, 365, 652, 662"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 41365.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 690, 924, 1758; SBs 21, 22, 40, 42, 71, 133, 135, 235, 365, 652, 662"
       }
     ]
   },
@@ -15140,6 +15224,13 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 100, 102, 103, 1008, 1537; SB 101, 122, 145, 146, 147, 149, 337, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 100, 102, 103, 1008, 1373, 1537; SB 101, 122, 145, 146, 147, 149, 337, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
       }
     ]
   },
@@ -15340,6 +15431,13 @@
         "generalLobbying": 22000,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 524, 747; SBs 365, 399, 627, 809"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 11000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 524, 747; SBs 365, 399, 627, 799, 809"
       }
     ]
   },
@@ -15358,6 +15456,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 39000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 518, AB 524, AB 1356, SB 686, SB 365, SB 71, SB 731, SB 699, SB 616, SB 476, SB 330, AB 747, AB 594, AB 575, AB 933, SB 497, SB 41, SB 592, SB 881, AB 924, SB 42, AB 1031, AB 1484, ACA 5, ACA 6, SB 403, SB 476, SB 626, SB 700, SB 848"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 45739.6,
         "pucLobbying": 0,
         "lobbiedOn": "AB 518, AB 524, AB 1356, SB 686, SB 365, SB 71, SB 731, SB 699, SB 616, SB 476, SB 330, AB 747, AB 594, AB 575, AB 933, SB 497, SB 41, SB 592, SB 881, AB 924, SB 42, AB 1031, AB 1484, ACA 5, ACA 6, SB 403, SB 476, SB 626, SB 700, SB 848"
       }
@@ -15441,6 +15546,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 300, 394, 475, 743, 919, 1033, 1193, 1361, 1448; SBs 224, 484, 696"
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -16673,6 +16785,13 @@
         "generalLobbying": 12615.51,
         "pucLobbying": 0,
         "lobbiedOn": "AB 334; SB 566"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 12615.51,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 334; SB 566; Department of Consumer Affairs, Board of Professional Engineers, Land Surveyors, and Geologists re: Sunset Review Letter"
       }
     ]
   },
@@ -17120,6 +17239,13 @@
         "generalLobbying": 13303.46,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 475, 572, 743, 919, 1033, 1043, 1193; SBs 455, 478, 696, 809"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 25115.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 475, 572, 743, 919, 1033, 1043, 1193; SBs 455, 478, 696, 809"
       }
     ]
   },
@@ -17287,6 +17413,13 @@
         "generalLobbying": 4000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 57, 68, 100, 102, 103, 397, 692, 720, 914, 1008, 1041, 1042, 1567, 1572, 1573; SB 101, 122, 145, 146, 147, 149, 337, 363, 508, 756, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 57, 68, 100, 102, 103, 397, 692, 720, 876, 914, 1008, 1041, 1042, 1373, 1567, 1572, 1573; SB 101, 122, 145, 146, 147, 149, 337, 363, 508, 756, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
       }
     ]
   },
@@ -19766,6 +19899,13 @@
         "generalLobbying": 36000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 251; AB 333; AB 376; AB 627; AB 844; AB 1012; AB 1082; AB 1372; SB 507; SB 615; Legislature re: STATE BUDGET MATTERS; CHP re: ELD regulations; CARB re: ACF regulations"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 48000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 251; AB 376; AB 844; AB 1082; SB 615; Legislature re: STATE BUDGET MATTERS; CHP re: ELD regulations; CARB re: ACF regulations"
       }
     ]
   },
@@ -20132,6 +20272,13 @@
         "generalLobbying": 4000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 100, 102, 103, 1008, 1573; SB 101, 122, 145, 146, 147, 149, 337, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 1000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 100, 102, 103, 1008, 1573; SB 101, 122, 145, 146, 147, 149, 337, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
       }
     ]
   },
@@ -20343,6 +20490,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 12173.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "Assembly Bills: 246, 249, 287, 324, 347, 348, 407, 408, 421, 493, 495, 530, 552, 573, 590, 660, 678, 861, 863, 895, 891, 981, 99.  Senate Bills: 12, 244, 253, 271, 303, 353, 367, 378, 414, 552, 556, 560, 568, 613, 615, 665, 707, 728, 777, 854."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 8162.52,
         "pucLobbying": 0,
         "lobbiedOn": "Assembly Bills: 246, 249, 287, 324, 347, 348, 407, 408, 421, 493, 495, 530, 552, 573, 590, 660, 678, 861, 863, 895, 891, 981, 99.  Senate Bills: 12, 244, 253, 271, 303, 353, 367, 378, 414, 552, 556, 560, 568, 613, 615, 665, 707, 728, 777, 854."
       }
@@ -24623,6 +24777,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 561"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 561"
       }
     ]
   },
@@ -24679,6 +24840,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 5898,
+        "pucLobbying": 0,
+        "lobbiedOn": "BUREAU FOR PRIVATE POSTSECONDARY EDUCATION RE: REGULATIONS PERTAINING TO AVOCATIONAL EDUCATION"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 4478,
         "pucLobbying": 0,
         "lobbiedOn": "BUREAU FOR PRIVATE POSTSECONDARY EDUCATION RE: REGULATIONS PERTAINING TO AVOCATIONAL EDUCATION"
       }
@@ -25048,6 +25216,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD."
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -26111,6 +26286,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 1263, 1519; SBs 55, 615; California Department of Motor Vehicles re: Updating Forms"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 1263, 1519; SBs 55, 615; California Department of Motor Vehicles re: Updating Forms and lien sales"
       }
     ]
   },
@@ -26416,6 +26598,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1000; AB 1347; AB 1748; SB 252; SB 253; SB 261; SB 277; SB 707"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1347; SB 252; SB 253; SB 261; SB 277; SB 308; SB 707"
       }
     ]
   },
@@ -27970,6 +28159,13 @@
         "generalLobbying": 8115.5,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 573, 1465; SB 780; California Air Resources Board re: Advanced Clean Fleets "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 12115.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 573, 1465; SB 780; California Air Resources Board re: Advanced Clean Fleets "
       }
     ]
   },
@@ -28204,6 +28400,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 12655,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 16000,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       }
@@ -31374,6 +31577,13 @@
         "generalLobbying": 36268.2,
         "pucLobbying": 0,
         "lobbiedOn": "AB 43, 336, 338, 594, 752, 1121, 1204; SB 27, 365, 375, 553, 616, 617, 630, 682, 700, 706"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 32505,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 43, 336, 338, 587, 594, 752, 1121, 1204; SB 27, 284, 365, 553, 616, 617, 630, 682, 700, 706, 778, 799"
       }
     ]
   },
@@ -32004,6 +32214,13 @@
         "generalLobbying": 5278.88,
         "pucLobbying": 0,
         "lobbiedOn": "SBs 21, 22, 662"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 5278.88,
+        "pucLobbying": 0,
+        "lobbiedOn": "SBs 21, 22, 133, 662"
       }
     ]
   },
@@ -32485,6 +32702,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 15115.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 16115.5,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       }
@@ -38143,14 +38367,14 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 1629,
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS & CalPERS: Potential Investment"
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 7978,
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS & CalPERS: Potential Investment"
       }
@@ -38659,6 +38883,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -39265,6 +39496,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 341; AB 480; AB 557; AB 817; AB 1175; AB 1379; AB 1657; SB 392; SB 411; SB 423; SB 537; SB 549; SB 747; Legislature re: STATE BUDGET MATTERS"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 480; AB 557; AB 1175; AB 1657; ACA 13; SB 392; SB 411; SB 423; SB 537; SB 549; SB 747; Legislature re: STATE BUDGET MATTERS"
       }
     ]
   },
@@ -42112,6 +42350,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 557; AB 817; AB 1379; SB 55; SB 411; SB 423; SB 537;Legislature re: STATE BUDGET MATTERS"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 557; SB 55; SB 411; SB 537;Legislature re: STATE BUDGET MATTERS"
       }
     ]
   },
@@ -43729,7 +43974,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 8512,
+        "generalLobbying": 16490,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS and CalPERs"
       }
@@ -45071,6 +45316,13 @@
         "generalLobbying": 7028.88,
         "pucLobbying": 0,
         "lobbiedOn": "SBs 21, 22, 662"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 5278.88,
+        "pucLobbying": 0,
+        "lobbiedOn": "SBs 21, 22, 133, 662"
       }
     ]
   },
@@ -46582,6 +46834,13 @@
         "generalLobbying": 34027.5,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 30, 460, 676, 735, 788, 1182, 1337, 1567, 1572, 1594; SBs 23, 34, 101, 229, 366, 389, 745, 867; SCR 52; State Water Resources Control Board (SWRCB) re: Comments on Draft Staff Framework for Making Conservation a California Way of Life Regulation; California Air Resources Board re: Comments on Draft Advanced Clean Fleets Regulation"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15515.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 30, 460, 676, 735, 755, 788, 1182, 1337, 1567, 1572, 1594; SBs 23, 34, 229, 366, 389, 745, 867; State Water Resources Control Board (SWRCB) re: Comments on Draft Staff Framework for Making Conservation a California Way of Life Regulation; California Air Resources Board re: Comments on Draft Advanced Clean Fleets Regulation"
       }
     ]
   },
@@ -51184,6 +51443,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 592; SB 751; California Air Resources Board re: Advanced Clean Fleets"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 592; SB 751; California Air Resources Board re: Advanced Clean Fleets"
       }
     ]
   },
@@ -55217,6 +55483,13 @@
         "generalLobbying": 8499,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature on SB 650, AB 8, SB 785 and SB 829. Lobbied the Legislature and Administration on legalizing mobile sports wagering."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 7083,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature on SB 650, AB 8, SB 785 and SB 829. Lobbied the Legislature and Administration on legalizing mobile sports wagering."
       }
     ]
   },
@@ -57050,6 +57323,11 @@
         "lobbiedOn": "Legislature, Gov's Office, CA Air Resources Board, Transportation Agency, Caltrans re: AB 241, SB 84, SB 233, Zero-Emission vehicle funding, Volkswagen Settlement Process, Innovative Clean Transit, Cap and Trade Funds, AQIP Program, including HVIP, and other programs, Low Carbon Fuel Standard, ZEV Tax Exemption Policies at ARB;"
       }
     ]
+  },
+  {
+    "id": "1463249",
+    "name": "PROTEUM ENERGY, LLC",
+    "quarters": []
   },
   {
     "id": "1456883",
@@ -60516,6 +60794,13 @@
         "generalLobbying": 63363.91,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 59897.12,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached TEXT"
       }
     ]
   },
@@ -60716,6 +61001,13 @@
         "generalLobbying": 80000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 6; AB 7; AB 72; AB 96; AB 125; AB 427; AB 610; AB 662; AB 761; AB 1335; SB 125; SB 149; SB 411; SB 617; SB 677; SB 706; SB 825; SB 891; CPUC re: BROADBAND REGULATIONS; Legislature re: STATE BUDGET MATTERS"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 82500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 6; AB 7; AB 427; AB 557; AB 610; AB 662; AB 1335; SB 125; SB 149; SB 411; SB 423; SB 537; SB 617; SB 677; SB 706; SB 825; SB 891; CPUC re: BROADBAND REGULATIONS; Legislature re: STATE BUDGET MATTERS"
       }
     ]
   },
@@ -61386,6 +61678,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 32115.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 279, 460, 676, 1337; SBs 366, 389; Legislature re: Funding for infrastructure"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 25358.91,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 279, 460, 676, 1337; SBs 366, 389; Legislature re: Funding for infrastructure"
       }
@@ -62928,6 +63227,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 557; AB 817; AB 1379; SB 411; SB 423; SB 537; Legislature re: STATE BUDGET MATTERS"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 557; SB 411; SB 423; SB 537; Legislature re: STATE BUDGET MATTERS"
       }
     ]
   },
@@ -63635,6 +63941,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 418, 657, 660, 1290"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 16231,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 418, 657, 660, 1290"
       }
     ]
   },
@@ -64261,6 +64574,13 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Attorney General?s Office regarding issues and concepts around daily fantasy sports, sports wagering and gaming."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Attorney General?s Office regarding issues and concepts around daily fantasy sports."
       }
     ]
   },
@@ -64354,6 +64674,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "On behalf of The Sierra Fund, Earth Advocacy, or any other lobbying firm, did not engage in any lobbying activities during Q2 2023."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1537; SB 337, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
       }
     ]
   },
@@ -65462,6 +65789,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 68, 100, 102, 103, 720, 930, 1150, 1272, 1567; SB 101, 122, 145, 146, 147, 149, 337, 361, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: COASTAL CONSERVANCY BUDGET, DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 16500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 68, 100, 102, 103, 720, 930, 1150, 1272, 1567; SB 101, 122, 145, 146, 147, 149, 337, 361, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: COASTAL CONSERVANCY BUDGET, DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
       }
     ]
   },
@@ -65605,6 +65939,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 425,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALPERS: INVESTMENTS; UC RETIREMENT PLAN: INVESTMENTS."
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 425,
         "pucLobbying": 0,
@@ -66555,6 +66896,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 9916.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 525"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 17166.64,
         "pucLobbying": 0,
         "lobbiedOn": "SB 525"
       }
@@ -68809,6 +69157,13 @@
         "generalLobbying": 6115.5,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 460, 676, 1337"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 6115.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 460, 676, 1337"
       }
     ]
   },
@@ -69238,6 +69593,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 886; AB 1758; SB 362"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 8000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 886; AB 1758; SB 362"
       }
@@ -70255,6 +70617,13 @@
         "generalLobbying": 54000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 23; AB 61; AB 221; AB 335; AB 791; SB 72; SB 255"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 54000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 791"
       }
     ]
   },
@@ -70293,6 +70662,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 100, 102, 103, 460, 809, 1024, 1159, 1272, 1337, 1567, 1581; SB 23, 101, 122, 145, 146, 147, 149, 337, 361, 508, 756, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 100, 102, 103, 460, 809, 1024, 1159, 1272, 1337, 1567, 1581; SB 23, 101, 122, 145, 146, 147, 149, 337, 361, 508, 756, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FISH AND WILDLIFE BUDGET, DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
       }
@@ -71458,6 +71834,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "State Budget, State Legislature, Department of Labor & Workforce Development Agency, Agricultural Labor Relations Board, Governor's Office, AB 494, SB 113, AB 113, SB 831"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Budget, State Legislature, Department of Labor & Workforce Development Agency, Agricultural Labor Relations Board, Governor's Office, AB 494, SB 113, AB 113, SB 831, AB 143, SB 143"
       }
     ]
   },
@@ -71698,6 +72081,13 @@
         "generalLobbying": 9771.5,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 475, 743, 919, 1033, 1043, 1193, 1448; SBs 455, 696"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 9771.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 475, 743, 919, 1033, 1043, 1193, 1448; SBs 455, 696"
       }
     ]
   },
@@ -71871,6 +72261,13 @@
         "generalLobbying": 11055.6,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: State Budget"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 11055.6,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 326; Legislature re: State Budget"
       }
     ]
   },
@@ -72107,6 +72504,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1119; AB 1414; SB 27"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1119; AB 1414; SB 27"
       }
@@ -72780,6 +73184,13 @@
         "generalLobbying": 5365.5,
         "pucLobbying": 0,
         "lobbiedOn": "SBs 21, 22, 662"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 5250,
+        "pucLobbying": 0,
+        "lobbiedOn": "SBs 21, 22, 133, 662"
       }
     ]
   },
@@ -72815,14 +73226,14 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 1048655.5,
+        "generalLobbying": 9129,
         "pucLobbying": 0,
         "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 58649.4,
+        "generalLobbying": 310,
         "pucLobbying": 0,
         "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
       }
@@ -73409,6 +73820,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Governor's Office, Government Operations Agency, Department of Technology, Office of Systems Integration, Legislature and the Governor's Office regarding IT policies funding. Legislature regarding AB 1054, SB 253."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Governor?s Office, Government Operations Agency, Department of Technology, Office of Systems Integration, Legislature and the Governor?s office regarding IT policies funding. Legislature regarding AB 1054, SB 253."
       }
     ]
   },
@@ -73445,6 +73863,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -75038,6 +75463,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7875,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 316; AB 376; AB 627; AB 645; AB 844; AB 1372; SB 244; SCA 7; CHP re: ELD regulations; CARB re: ACF regulations"
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 7875,
         "pucLobbying": 0,
