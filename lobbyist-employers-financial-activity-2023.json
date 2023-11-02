@@ -14689,9 +14689,9 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 12000,
+        "generalLobbying": 222704.16,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE"
+        "lobbiedOn": "Office of the Governor, Department of Education, Department of Social Services, Department of Health Care Services, Department of Justice, Department of Finance."
       }
     ]
   },
@@ -31127,9 +31127,9 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 24545.46,
+        "generalLobbying": 38712.12,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE"
+        "lobbiedOn": "See Attached:"
       },
       {
         "quarter": "2nd",
@@ -31141,7 +31141,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 18888.88,
         "pucLobbying": 0,
         "lobbiedOn": "AB914; AB1172; AB1293; AB1533; AB1569; AB1593; SB149; SB420; SB619; SB664"
       }
@@ -36225,7 +36225,15 @@
   {
     "id": "1418943",
     "name": "DAILYPAY, INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 80000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Financial Protection and Innovation - PRO 01-21"
+      }
+    ]
   },
   {
     "id": "1461200",
@@ -52317,7 +52325,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 20000,
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -61980,6 +61988,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -71289,7 +71304,22 @@
   {
     "id": "1461368",
     "name": "PAYPOOL LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature and Department of Financial Protection and Innovation regarding AB 1116."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature, Governors office and Department of Financial Protection and Innovation regarding AB 1116."
+      }
+    ]
   },
   {
     "id": "1462527",
@@ -77114,7 +77144,15 @@
   {
     "id": "1461359",
     "name": "REVOLUTION FOODS",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIAS STATE LEGISLATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE BUDGET"
+      }
+    ]
   },
   {
     "id": "1235295",
@@ -84481,7 +84519,14 @@
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "On behalf of The Sierra Fund, Earth Advocacy, or any other lobbying firm, did not engage in any lobbying activities during Q2 2023."
+        "lobbiedOn": "On behalf of The Sierra Fund, Earth Advocacy, or any other lobbying firm, did not engage in any lobbying activities during Q3 2023."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "On behalf of The Sierra Fund, Earth Advocacy, or any other lobbying firm, did not engage in any lobbying activities during Q3 2023."
       },
       {
         "quarter": "3rd",
