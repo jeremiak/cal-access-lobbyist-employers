@@ -701,6 +701,11 @@
     ]
   },
   {
+    "id": "1463923",
+    "name": "ACACIA CENTER FOR JUSTICE",
+    "quarters": []
+  },
+  {
     "id": "1438586",
     "name": "ACADEMIC PARTNERSHIPS, LLC",
     "quarters": [
@@ -14206,6 +14211,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: SB 635 Legislature and Governor\u0012s Office re: Budget"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 635 Legislature and Governor\u0012s Office re: Budget"
       }
     ]
   },
@@ -16235,6 +16247,13 @@
         "generalLobbying": 77193.26,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies: Legislature and Administration Issues: Title Protection, AB 765, Budget, workforce issues, HiCAP related to workforce issues, dental anesthesia issues, BRN, DBC, AB 765, SB 487, SB 667"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 76500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies: Legislature and Administration Issues: Title Protection, Budget, workforce issues, HiCAP related to workforce issues, dental anesthesia issues, BRN, DBC, SB 487, SB 667, AB 1707, AB 663, AB 765"
       }
     ]
   },
@@ -17681,7 +17700,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 1777741.93,
+        "generalLobbying": 177741.93,
         "pucLobbying": 0,
         "lobbiedOn": "AB3, AB 5, AB20, AB33, AB60, AB238, AB249, AB 280, AB380, AB449, AB505,  AB 524, AB541, AB596, AB598, AB608, AB802, AB847, AB954, AB957,  AB1002, AB1015, AB1029, AB1029, AB1057, AB1078, AB1118, AB1185, AB1203, AB1306, AB1314, AB1432, AB1503, AB1512, AB1536, AB1598 cont."
       }
@@ -19944,6 +19963,13 @@
         "generalLobbying": 29490,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: SB 38 Governor\u0012s office re: state budget"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 19500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 38 Governor\u0012s office re: state budget"
       }
     ]
   },
@@ -20205,6 +20231,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 331"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None Quarter 3, 2023"
       }
     ]
   },
@@ -22794,6 +22827,13 @@
         "generalLobbying": 16240,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 32000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -23786,6 +23826,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 2700,
+        "pucLobbying": 0,
+        "lobbiedOn": "see attached"
       }
     ]
   },
@@ -28143,6 +28190,13 @@
         "generalLobbying": 25740,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHED"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHED"
       }
     ]
   },
@@ -29104,6 +29158,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "legislature RE: budget"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 48000,
         "pucLobbying": 0,
         "lobbiedOn": "legislature RE: budget"
       }
@@ -61918,6 +61979,11 @@
     ]
   },
   {
+    "id": "1464014",
+    "name": "MODERNA, INC.",
+    "quarters": []
+  },
+  {
     "id": "1143823",
     "name": "MODESTO IRRIGATION DISTRICT",
     "quarters": [
@@ -63347,33 +63413,6 @@
         "generalLobbying": 45000,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: BUDGET"
-      }
-    ]
-  },
-  {
-    "id": "1411992",
-    "name": "MUZINICH & CO., INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
       }
     ]
   },
@@ -95747,6 +95786,19 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: Generic Pharmaceutical Issues. "
+      }
+    ]
+  },
+  {
+    "id": "1415459",
+    "name": "VICTIM POLICY INSTITUTE",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
