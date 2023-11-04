@@ -1063,33 +1063,6 @@
     ]
   },
   {
-    "id": "1337878",
-    "name": "ACT / THE APP ASSOCIATION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "n/a"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "n/a"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "n/a"
-      }
-    ]
-  },
-  {
     "id": "1433540",
     "name": "ACTEIGHT, LLC",
     "quarters": [
@@ -38737,6 +38710,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 84, 346, 480, 578, 1053, 1307, 1449, 1633, 1657; ACA 1; SB 91, 341, 355, 423, 469, 482, 747"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 84, 346, 480, 578, 1053, 1307, 1449, 1633, 1657; ACA 1; SB 91, 341, 355, 423, 469, 482, 747"
       }
     ]
   },
@@ -39491,6 +39471,26 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 538, AB 1008, SB 122, AB 2"
+      }
+    ]
+  },
+  {
+    "id": "1459533",
+    "name": "EDQUITY DBA BEAM, INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No activity this period."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No activity this period."
       }
     ]
   },
@@ -62173,6 +62173,19 @@
     ]
   },
   {
+    "id": "1463713",
+    "name": "MONARCH BIO ENERGY, LLC",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Air Resources Board re: Bio methane and Low Carbon Fuel Standard"
+      }
+    ]
+  },
+  {
     "id": "1144452",
     "name": "MONO COUNTY OFFICE OF EDUCATION",
     "quarters": [
@@ -62764,6 +62777,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 316"
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 30000,
         "pucLobbying": 0,
@@ -63413,6 +63433,33 @@
         "generalLobbying": 45000,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: BUDGET"
+      }
+    ]
+  },
+  {
+    "id": "1411992",
+    "name": "MUZINICH & CO., INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -74996,6 +75043,33 @@
     ]
   },
   {
+    "id": "1317336",
+    "name": "PUBLIC HEALTH ADVOCATES",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 2593,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 99, 93, 335, 1025, 1276, 1451, 57, 408, 650, 985, 1000, 249, 311, 418, 605, 245, 348, 586, 616, 67, 257, 745, 799, 1207, 1110, 762, 912, 935, 85, 1077 SB 402, 687, 245, 348, 59, 238, 694, 31, 333, 469, 567, 657, 809, 11, 287, 509, 513,551, 291, 372, 435, 673 ACA 8,"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 4014.52,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 99, 93, 335, 1025, 1276, 1451, 57, 408, 650, 985, 1000, 249, 311, 418, 605, 245, 348, 586, 616, 67, 257, 745, 799, 1207, 1110, 762, 912, 935, 85, 1077 SB 402, 687, 245, 348, 59, 238, 694, 31, 333, 469, 567, 657, 809, 11, 287, 509, 513,551, 291, 372, 435, 673 ACA 8,"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 57, 67, 85, 99, 249, 311, 408, 418, 470, 608, 616, 762, 799, 912, 935, 958, 985, 1028, 1110, 1178, 1207, 1226, 1306, 1451 ACA 8 SB 11, 43, 225, 238, 245, 287, 291, 333, 348, 372, 410, 435, 469, 509, 525, 551, 567, 657, 673, 694"
+      }
+    ]
+  },
+  {
     "id": "1145122",
     "name": "PUBLIC HEALTH INSTITUTE",
     "quarters": [
@@ -82907,7 +82981,7 @@
   },
   {
     "id": "1455510",
-    "name": "SCALE MICROGRID SOLUTIONS LLC",
+    "name": "SCALE MICROGRIDS",
     "quarters": [
       {
         "quarter": "1st",
@@ -83356,6 +83430,11 @@
         "lobbiedOn": "Legislature, Governor's Office, CA EPA, CA Air Resources Board re: Forestry Protocol"
       }
     ]
+  },
+  {
+    "id": "1464045",
+    "name": "SEARLES VALLEY MINERALS",
+    "quarters": []
   },
   {
     "id": "1459194",
@@ -88040,6 +88119,20 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None This Period."
       }
     ]
   },
@@ -90599,14 +90692,14 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 15000,
+        "generalLobbying": 63375,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: the Western Joshua Tree Conservation Act budget trailer bill"
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 30000,
+        "generalLobbying": 46125,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: the Western Joshua Tree Conservation Act budget trailer bill, issues related to large scale solar."
       },
@@ -97435,33 +97528,6 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS - California Public Employees Retirement System CalSTRS - California State Teachers Retirement System Regents of the University of California"
-      }
-    ]
-  },
-  {
-    "id": "1393104",
-    "name": "WEDGE CAPITAL MANAGEMENT ",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
       }
     ]
   },
