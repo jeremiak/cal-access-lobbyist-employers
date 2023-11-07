@@ -4734,7 +4734,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 3000,
+        "generalLobbying": 453000,
         "pucLobbying": 0,
         "lobbiedOn": "State Legislature, State Budget, Governor?s Office, Department of Finance re: ACA 14, SCA 8, AB 101, SB 101, ACA 6, SB 27, SB 525."
       }
@@ -11738,7 +11738,7 @@
   },
   {
     "id": "1417813",
-    "name": "BLOCKCHAIN ADVOCACY COALITION",
+    "name": "BLOCKCHAIN ADVOCACY COALITION DBA CALIFORNIA BLOCKCHAIN ADVOCACY",
     "quarters": [
       {
         "quarter": "1st",
@@ -16146,6 +16146,13 @@
         "generalLobbying": 62431,
         "pucLobbying": 0,
         "lobbiedOn": "Board of Behavioral Sciences and Department of Consumer Affairs  - Deadnaming, provider address confidentiality, SB 372, SB 373,  Legislature - SB 372, SB 373, AB 232, SB 766, AB 452, AB 665, ACA 5, ACR 70, HR 31, HR 33, SR 33,  SB 331, student billing services"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 62648.76,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies:  Governor's Office Issues:  SB 372, SB 373    Agencies:  Legislature Issues:  SB 372, SB 373, AB 232, SB 766, AB 452, AB 665, ACA 5, ACR 70, HR 31, HR 33, SR 33, SB 331   SB 525, SB 43, AB 1058, AB 280"
       }
     ]
   },
@@ -29160,6 +29167,13 @@
         "generalLobbying": 50000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 39, AB 316, AB 584, AB 886, AB 893, SB 287, SB 680, SB 764."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 45496.62,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 680, AB 316, AB 886, AB 1394, AB 39, AB 893; SB 680 Lobbied AB 316, AB 1394, AB 39 before Governor's Office"
       }
     ]
   },
@@ -30233,6 +30247,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNORS OFFICE REGARDING COMPACT AND TRIBAL ISSUES, AB 341, AB 533, AB 1574 MISSING AND MURDERED INDIGENOUS PEOPLE"
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 45000,
         "pucLobbying": 0,
@@ -40185,6 +40206,13 @@
     "name": "ELK GROVE UNIFIED SCHOOL DISTRICT",
     "quarters": [
       {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIAS STATE LEGISLATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE SB 499 SB 475"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 2000,
@@ -42501,6 +42529,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Air Resources Board - Scoping Plan, Low Carbon Fuels Standard"
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -46428,6 +46463,33 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1438584",
+    "name": "GOLDEN STATE OPPORTUNITY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 40945.97,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied on AB1128, AB1498, SB227,SB348, AB310, AB311, AB245,  SB951, SB567, SB594 and ACA10.  Lobbied Governor to impact state budget, re: Earned Income and Young Child Tax Credits."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 98862.58,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied on AB1128, AB1498, SB227, SB348, AB310, SB2567, ACA10.   Lobbied Legislature and Governor to impact state budget, re: Earned Income and Young Child Tax Credits."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 6826.95,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied on AB1128, AB1498, SB227, SB348, AB310, SB2567, ACA10.   Lobbied Legislature and Governor to impact state budget, re: Earned Income and Young Child Tax Credits."
       }
     ]
   },
@@ -73062,6 +73124,33 @@
     ]
   },
   {
+    "id": "1285826",
+    "name": "PLACENTIA; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: FY 23-24 Budget; Department of Housing and Community Development Re: PLHA Funding"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: FY23-24 Budget Funding; Department of Housing and Community Development Re: Permanent Local Housing Allocation (PLHA) Funding, AB 24, AB 33, AB 474, AB 504, AB 742, AB 1484, AB 1708, SB 19, SB 423"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 11000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: FY23-24 Budget Funding; Department of Housing and Community Development re: Permanent Local Housing Allocation (PLHA) Funding; AB 24, AB 33, AB 474, AB 480, AB 504, AB 701, AB 742, AB 976, AB 1484, AB 1637, AB 1708, ACA 13, ACA 1, SB 19, SB 423"
+      }
+    ]
+  },
+  {
     "id": "1144174",
     "name": "PLACER COUNTY OFFICE OF EDUCATION",
     "quarters": [
@@ -74267,6 +74356,13 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislative: SB 263  Regulatory: Department of Financial Protection and Innovation re: finance lender license requirements"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative: SB 263  Regulatory: None"
       }
     ]
   },
@@ -82096,6 +82192,19 @@
     ]
   },
   {
+    "id": "1463953",
+    "name": "SANTA BARBARA; CITY OF",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 531; SB 43, SB 326, SB 423"
+      }
+    ]
+  },
+  {
     "id": "1144686",
     "name": "SANTA BARBARA; COUNTY OF",
     "quarters": [
@@ -85376,7 +85485,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 46300.12,
+        "generalLobbying": 46752.14,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
       }
@@ -96246,6 +96355,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 61766,
+        "pucLobbying": 0,
+        "lobbiedOn": "State legislature, Governor's offices, Department of Health Care Access an Information: Promotoras Funding"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 36832,
         "pucLobbying": 0,
         "lobbiedOn": "State legislature, Governor's offices, Department of Health Care Access an Information: Promotoras Funding"
       }
