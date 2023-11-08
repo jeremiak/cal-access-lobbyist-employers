@@ -3880,6 +3880,20 @@
         "generalLobbying": 1995,
         "pucLobbying": 0,
         "lobbiedOn": "AB 423, AB 786, AB 387, AB 48, AB 385, AB 21"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 1995,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 423, AB 518, AB 524, AB 786, SB 357, SB 639"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 518, AB 524, AB 531, SB 326, SB 639"
       }
     ]
   },
@@ -11005,6 +11019,19 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "Electronic Waste Issues; Legislature"
+      }
+    ]
+  },
+  {
+    "id": "1145800",
+    "name": "BET TZEDEK LEGAL SERVICES",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 2202.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 875, AB 1020, ACA 10, SB 227, SB 686, SB 696"
       }
     ]
   },
@@ -21369,7 +21396,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 4500,
+        "generalLobbying": 9675,
         "pucLobbying": 0,
         "lobbiedOn": "AB 38, AB 57, AB 64, AB 102, AB 261, AB 363, AB 527, AB 652, AB 1042, AB 1407, AB 1567, AB 1572, AB 1573; SB 101, SB 122, SB 272, SB 337, SB 867; LEGISLATURE, GOVERNORS OFFICE RE: BUDGET MATTERS"
       }
@@ -43585,6 +43612,11 @@
     ]
   },
   {
+    "id": "1464123",
+    "name": "FLAGSTONE HEALTHCARE CENTRAL LLC AND AFFILIATED ENTITIES",
+    "quarters": []
+  },
+  {
     "id": "1145609",
     "name": "FLASHER BARRICADE ASSOCIATION",
     "quarters": [
@@ -49442,6 +49474,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -69908,6 +69947,19 @@
     ]
   },
   {
+    "id": "1463842",
+    "name": "PACIFIC HARBOR LINE INC.",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 29032.25,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1334631",
     "name": "PACIFIC INVESTMENT MANAGEMENT COMPANY LLC",
     "quarters": [
@@ -75425,6 +75477,13 @@
         "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature regarding California Advancing and Innovating Medi-Cal (CalAIM), Medically tailored meals, community support, implementation of Managed Long Term Services and Support (MLTSS), AB 1644 and AB 85."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 36000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding California Advancing and Innovating Medi-Cal (CalAIM), Medically tailored meals, community support, implementation of Managed Long Term Services and Support (MLTSS), AB 1644 and AB 85."
       }
     ]
   },
@@ -76223,11 +76282,6 @@
     ]
   },
   {
-    "id": "1463363",
-    "name": "RCSP HOLDINGS LLC",
-    "quarters": []
-  },
-  {
     "id": "1457012",
     "name": "RE-ENTRY PROVIDERS ASSOCIATION OF CALIFORNIA, A PROJECT OF TIDES ADVOCACY ",
     "quarters": [
@@ -76471,6 +76525,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 280,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -78464,6 +78525,11 @@
         "lobbiedOn": "See Attachment A"
       }
     ]
+  },
+  {
+    "id": "1463363",
+    "name": "RSCP HOLDINGS LLC",
+    "quarters": []
   },
   {
     "id": "1457692",
@@ -85641,7 +85707,7 @@
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "Lobbied Legislature and the Governors office regarding AB 389.  Lobbied the Governors office regarding AB 273, AB 226 and AB 44."
       }
     ]
   },
