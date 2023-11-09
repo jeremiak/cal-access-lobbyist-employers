@@ -38347,6 +38347,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "CA Department of Pesticide Regulation and CA Air Resources Board re: pesticide issues"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA Department of Pesticide Regulation and CA Air Resources Board re: pesticide issues."
       }
     ]
   },
@@ -39717,6 +39724,11 @@
         "lobbiedOn": "Lobbied Franchise Tax Board, Legislature and Adminisitration on issues related to Incomplete Non-Grantor Trusts and SB 131."
       }
     ]
+  },
+  {
+    "id": "1463712",
+    "name": "EFFECTIVE ARBITRATION, INC., DBA ENFORCEMENT ASSOCIATES",
+    "quarters": []
   },
   {
     "id": "1447900",
@@ -54811,14 +54823,14 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 22844.39,
+        "generalLobbying": 27344.39,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 15454.55,
+        "generalLobbying": 19954.55,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
@@ -54838,14 +54850,14 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 36564.39,
+        "generalLobbying": 32064.39,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 19954.55,
+        "generalLobbying": 15454.55,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
@@ -57629,7 +57641,7 @@
         "session": "2023-2024",
         "generalLobbying": 45503.67,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature re AB 3 AB 1373 SB 286 SB 867"
+        "lobbiedOn": "Legislature re AB 3 AB 1373 SB 286 SB 867; Floating Offshore Wind, Climate Bond, Data Connectivity, APEC"
       }
     ]
   },
@@ -70364,9 +70376,9 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 12000,
         "pucLobbying": 0,
-        "lobbiedOn": "None"
+        "lobbiedOn": "AB 480, ACA 13 SB 101, 103, 423, 747"
       }
     ]
   },
@@ -80545,6 +80557,11 @@
     ]
   },
   {
+    "id": "1463925",
+    "name": "SAN FRANCISCO CITY ATTORNEY'S OFFICE",
+    "quarters": []
+  },
+  {
     "id": "1143848",
     "name": "SAN FRANCISCO COUNTY TRANSPORTATION AUTHORITY",
     "quarters": [
@@ -85470,9 +85487,9 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 400,
         "pucLobbying": 0,
-        "lobbiedOn": "no work"
+        "lobbiedOn": "Legislature/Department of Finance/GOBIZ: Budget request for supporting worker ownership hub"
       }
     ]
   },
@@ -87858,6 +87875,11 @@
         "lobbiedOn": "SB 389, SB 408, AB 56, AB 88, AB 304, AB 460, AB 479, AB 505, AB 676, AB 985, AB 1337."
       }
     ]
+  },
+  {
+    "id": "1463994",
+    "name": "STANLEY CAPITAL PARTNERS LLP",
+    "quarters": []
   },
   {
     "id": "1397103",
@@ -90852,6 +90874,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -95069,6 +95098,26 @@
         "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 594,ACA 13;SB 365,476,799"
+      }
+    ]
+  },
+  {
+    "id": "1461758",
+    "name": "VACATION RENTAL OWNERS AND NEIGHBORS OF PALM SPRINGS",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature on SB 584."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature on SB 584."
       }
     ]
   },
