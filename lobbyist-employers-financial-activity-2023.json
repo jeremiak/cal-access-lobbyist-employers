@@ -12008,7 +12008,7 @@
   },
   {
     "id": "1460090",
-    "name": "BMO HARRIS BANK N.A.",
+    "name": "BMO BANK N.A.",
     "quarters": [
       {
         "quarter": "1st",
@@ -47215,11 +47215,16 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 22500,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE"
+        "lobbiedOn": "AB 1550; SB 149, 663"
       }
     ]
+  },
+  {
+    "id": "1464112",
+    "name": "GREENGENSTORAGE LLC",
+    "quarters": []
   },
   {
     "id": "1335093",
@@ -47854,7 +47859,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1550, 1705; SB 149; CA AIR RESOURCES BOARD RE: LOW CARBON FUEL STANDARD; CA DEPARTMENT OF RESOURCES RECYCLING AND RECOVERY RE: SB 1383 IMPLEMENTATION"
       }
@@ -67669,9 +67674,9 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 500,
+        "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 80"
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -68328,21 +68333,21 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 120340,
+        "generalLobbying": 40340,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 80170,
+        "generalLobbying": 20170,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       },
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 80340,
+        "generalLobbying": 30255,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -88828,7 +88833,7 @@
         "session": "2023-2024",
         "generalLobbying": 9000,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 869, 1046, 1406"
+        "lobbiedOn": "AB 334, 869, 1046, 1406"
       }
     ]
   },
@@ -90662,14 +90667,14 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 33645,
+        "generalLobbying": 26145,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE RE: HOUSING ISSUES; OFFICE OF THE STATE FIRE MARSHALL RE: FIRE MAPS; CALIFORNIA WILDLIFE CONSERVATION BOARD RE: CONSERVATION AND EASEMENTS; GOVERNOR'S OFFICE RE: COMMUNITY ECONOMIC RESILIENCE FUND PROGRAM"
       },
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 51145,
+        "generalLobbying": 39895,
         "pucLobbying": 0,
         "lobbiedOn": "OFFICE OF THE STATE FIRE MARSHAL RE: FIRE MAPS; CALIFORNIA DEPARTMENT OF FISH AND WILDLIFE RE: AB 122 AND JOSHUA TREE; CALIFORNIA DEPARTMENT OF CONSERVATION RE: CAL GEM."
       }
