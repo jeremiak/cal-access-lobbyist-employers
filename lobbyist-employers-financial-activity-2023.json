@@ -141,6 +141,19 @@
     ]
   },
   {
+    "id": "1460699",
+    "name": "3344 MEDFORD XC, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 75000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LA Regional Water Quality Control Board"
+      }
+    ]
+  },
+  {
     "id": "1143746",
     "name": "3M COMPANY",
     "quarters": [
@@ -16239,7 +16252,7 @@
   },
   {
     "id": "1142934",
-    "name": "CALIFORNIA ASSOCIATION OF NURSE ANESTHETISTS (CANA) ",
+    "name": "CALIFORNIA ASSOCIATION OF NURSE ANESTHESIOLOGY (CANA) ",
     "quarters": [
       {
         "quarter": "1st",
@@ -19815,6 +19828,33 @@
         "generalLobbying": 9200,
         "pucLobbying": 0,
         "lobbiedOn": "AB 531, 557, 1082, 1217; SB 43, 76, 326, 363, 553; GOVERNOR'S OFFICE, LEGISLATURE RE: ISSUES IMPACTING CALIFORNIA'S DOWNTOWN BUSINESS IMPROVEMENT DISTRICTS"
+      }
+    ]
+  },
+  {
+    "id": "1244186",
+    "name": "CALIFORNIA EARTHQUAKE AUTHORITY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -32773,6 +32813,33 @@
     "quarters": []
   },
   {
+    "id": "1147088",
+    "name": "COMMUNICATIONS WORKERS OF AMERICA, DISTRICT 9",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 29237.1,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governors Office, Department of Finance and Legislature, Public Utilities Commission; Rulemaking/Application: AB 41; AB 58; AB 96; AB 235; AB 260; AB 286; AB 338; AB 380; AB 409; AB 414; AB 415; AB 472; AB 489; AB 504; AB 518; AB 520; AB 524; AB 575; AB 587; AB 662; AB 699; AB 756; AB 768; AB 800; AB 860; AB 871; AB 933; AB 964; AB 965; AB 1007; AB 1031; AB 1065; AB 1068; AB 1083; AB 1107;"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 27000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governors Office, Department of Labor, Labor Issues; Rulemaking/Application: AB 41; AB 286; AB 432; AB 768; AB 800; AB 1032; AB 1356, AB 1381, SB 150, SB 399, SB 616, SB 822, SB 881, SCA 7"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor's Office and legislature; Rulemaking/Application: AB 1; AB 41; AB 286; AB 432; AB 662; AB 800; AB 1032; AB 1356; AB 1381; SB 150; SB 399; SB 616; SB 799; SB 822"
+      }
+    ]
+  },
+  {
     "id": "1453328",
     "name": "COMMUNITIES FOR A NEW CALIFORNIA ACTION FUND",
     "quarters": [
@@ -36523,6 +36590,33 @@
         "generalLobbying": 66548.43,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE RE: SB 253; CALIFORNIA DEPARTMENT OF RESOURCES RECYCLING AND RECOVERY RE: SB 54 INFORMAL RULEMAKING."
+      }
+    ]
+  },
+  {
+    "id": "1460106",
+    "name": "DATA CENTER COALITION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 17205,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 50, 233, 463, 464, 538, 643, 664, 851, 995, 1533; SB 38, 49, 83, 410"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 25910,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 50, 233, 463, 464, 538, 643, 664, 851, 995, 1533; SB 38, 49, 83, 410"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 25705,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 50, 233, 463, 464, 538, 643, 664, 851, 995, 1533; SB 38, 49, 83, 410"
       }
     ]
   },
@@ -47121,6 +47215,19 @@
     ]
   },
   {
+    "id": "1462342",
+    "name": "GREATER ORGANIZATION HOLDING CO., LLC; THE",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 2500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor's Office Re: Potential budget proposal with the Governor's Office of Business and Economic Development (GOBIZ)"
+      }
+    ]
+  },
+  {
     "id": "1461956",
     "name": "GREATER SACRAMENTO URBAN LEAGUE",
     "quarters": [
@@ -54953,6 +55060,33 @@
         "generalLobbying": 14000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE - BUDGET, AB 1479, AB 1604, SB 739"
+      }
+    ]
+  },
+  {
+    "id": "1418834",
+    "name": "KIPP SOCAL PUBLIC SCHOOLS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 40188,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 712, 789, 1604: SB 691, 739; CA State Legislature re: Education and Funding Issues"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 40705,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 712, 789, 1604: SB 691, 739; CA State Legislature re: Education and Funding Issues"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 39705,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 712, 789, 1604: SB 691, 739; CA State Legislature re: Education and Funding Issues"
       }
     ]
   },
@@ -75255,7 +75389,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 13500,
+        "generalLobbying": 13606.71,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHED:"
       }
