@@ -52506,7 +52506,7 @@
   },
   {
     "id": "1145261",
-    "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+    "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM)",
     "quarters": [
       {
         "quarter": "1st",
@@ -64672,6 +64672,11 @@
     ]
   },
   {
+    "id": "1437917",
+    "name": "NATIONAL INDEPENDENT  VENUE ASSOCIATION OF CALIFORNIA ",
+    "quarters": []
+  },
+  {
     "id": "1143364",
     "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
     "quarters": [
@@ -67840,6 +67845,11 @@
         "lobbiedOn": "AB 341"
       }
     ]
+  },
+  {
+    "id": "1301675",
+    "name": "OCEANA, INC",
+    "quarters": []
   },
   {
     "id": "1461181",
