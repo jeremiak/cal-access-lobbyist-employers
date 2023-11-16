@@ -1145,7 +1145,7 @@
         "session": "2023-2024",
         "generalLobbying": 1243000,
         "pucLobbying": 0,
-        "lobbiedOn": "Lobbied Legislature, Department of Financial Protection and Innovation, Business, Consumer Services and Housing Agency regarding Department of Financial Protection and Innovation Earned Wage Access Regulations.   California State Legislature and Department of Finance Protection and Innovation regarding proposed rule making."
+        "lobbiedOn": "Lobbied Legislature Department of Financial Protection and Innovation Business Consumer Services and Housing Agency regarding Department of Financial Protection and Innovation Earned Wage Access Regulations. California State Legislature and Department of Finance Protection and Innovation regarding proposed rule making."
       },
       {
         "quarter": "3rd",
@@ -2636,7 +2636,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 27000,
+        "generalLobbying": 75000,
         "pucLobbying": 0,
         "lobbiedOn": "CA AIR RESOURCES BOARD RE: PROPOSAL ON LCFS; ADMINISTRATION, CA AIR RESOURCES BOARD AND CA STATE LEGISLATURE RE: SUSTAINABLE AVIATION FUEL; CA STATE LEGISLATURE RE: AB 929, SB 253, 261, 720"
       },
@@ -19859,6 +19859,26 @@
     ]
   },
   {
+    "id": "1463840",
+    "name": "CALIFORNIA ECOLOGICAL RESTORATION BUSINESS ASSOCIATION (CALERBA)",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature/Governor: FY 23-24 Budget, natural resources, climate permitting support, lobby day, bond advocacy. Agencies: CDFW, CNRA"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 3600,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature/Governor: FY 23-24 Budget, natural resources, climate permitting support BCP. Agencies: CDFW, CNRA"
+      }
+    ]
+  },
+  {
     "id": "1338730",
     "name": "CALIFORNIA EFFICIENCY + DEMAND MANAGEMENT COUNCIL",
     "quarters": [
@@ -23749,6 +23769,19 @@
     ]
   },
   {
+    "id": "1442325",
+    "name": "CALIFORNIA PUBLIC TELEVISION",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalOES re: disaster response funding/datacasting/receiver box project."
+      }
+    ]
+  },
+  {
     "id": "1144377",
     "name": "CALIFORNIA REAL ESTATE INSPECTION ASSOCIATION, INC.",
     "quarters": [
@@ -27624,6 +27657,11 @@
         "lobbiedOn": "None"
       }
     ]
+  },
+  {
+    "id": "1255080",
+    "name": "CARNIVAL CORPORATION",
+    "quarters": []
   },
   {
     "id": "1457384",
@@ -46254,6 +46292,33 @@
     "quarters": []
   },
   {
+    "id": "1453409",
+    "name": "GLOBAL INFRASTRUCTURE MANAGEMENT, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS - California State Teachers Retirement System"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1290486",
     "name": "GLOBAL MEDICAL RESPONSE (AFFILIATES AMERICAN MEDICAL RESPONSE & REACH AIR)",
     "quarters": [
@@ -47827,6 +47892,19 @@
         "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1444002",
+    "name": "GUADALUPE; CITY OF",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -55686,6 +55764,33 @@
     ]
   },
   {
+    "id": "1143638",
+    "name": "LAGUNA BEACH; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 16500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: FY 23-24 Budget, E-Bikes; AB 45, SB 381, SB 742, SB 378"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 16500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: FY23-24 Budget Funding, Legislature and Governors Office Re: State Route 133; Office of Energy Infrastructure Safety Re: State Route 133, California Transportation Commission Re: Local Transportation Climate Adaptation Program (LTCAP), Department of Forestry and Fire Protection Re: State Route 133, AB 45, AB 742, AB 1217, SB 244, SB 378, SB 381, SB 423, SB 567"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 36000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Grant support letters, FY 23-24 budget requests, Wildfire Insurance Issues; Governors Office Re: FY 23-24 budget; AB 234, AB 478, AB 531, AB 894, ACA 1, ACA 13, SB 43, SB 326, SB 393, SB 423, SB 746"
+      }
+    ]
+  },
+  {
     "id": "1144645",
     "name": "LAKE COUNTY OFFICE OF EDUCATION",
     "quarters": [
@@ -56463,6 +56568,11 @@
         "lobbiedOn": "AB 85; SB 598"
       }
     ]
+  },
+  {
+    "id": "1463866",
+    "name": "LEFT LANE CAPITAL LLC",
+    "quarters": []
   },
   {
     "id": "1447727",
@@ -61952,6 +62062,11 @@
   {
     "id": "1462591",
     "name": "MILLENNIUM MANAGEMENT LLC",
+    "quarters": []
+  },
+  {
+    "id": "1464168",
+    "name": "MILLER INDUSTRIES, INC",
     "quarters": []
   },
   {
@@ -79238,7 +79353,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 76470.96,
+        "generalLobbying": 76044.46,
         "pucLobbying": 0,
         "lobbiedOn": "Budget issues regarding clean energy, electric vehicles, and wildfires. CARB regarding zero-emission vehicle issues. AB 965, AB 241, AB 126, SB 420, SB 795, AB 1373"
       }
@@ -84990,7 +85105,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 12000,
+        "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1537; SB 337, 876; LEGISLATURE, GOVERNOR'S OFFICE RE: DEPARTMENT OF FORESTRY AND FIRE PROTECTION BUDGET, WILDLIFE CONSERVATION BOARD BUDGET, DEPARTMENT OF CONSERVATION BUDGET, NATURAL RESOURCES AGENCY BUDGET"
       }
@@ -86796,6 +86911,33 @@
     ]
   },
   {
+    "id": "1146069",
+    "name": "SOUTH EL MONTE; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 20250,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: FY 23-24 budget requests and letters of support;  Legislature Re: Budget and Municipal Funding; CA Dept of Transportation re: Clean California Grant Program"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20250,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: FY 23-24 budget requests and letters of support"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 20250,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: FY 23-24 budget requests and letters of support;  Legislature Re: Budget and Municipal Funding; CA Dept of Transportation re: Clean California Grant Program"
+      }
+    ]
+  },
+  {
     "id": "1143626",
     "name": "SOUTH GATE; CITY OF",
     "quarters": [
@@ -86870,9 +87012,9 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 3325,
+        "generalLobbying": 9361.85,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 247, AB 689, AB 1400, AB 1699"
+        "lobbiedOn": "AB 247, AB 358, AB 689, AB 1400, AB 1699; Legislature re: Budget"
       }
     ]
   },
@@ -91170,6 +91312,33 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1256820",
+    "name": "TGR FOUNDATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Budget"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Budget"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Budget"
       }
     ]
   },
