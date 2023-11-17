@@ -5658,6 +5658,11 @@
     ]
   },
   {
+    "id": "1464300",
+    "name": "AMERICAN SECURITIES LLC",
+    "quarters": []
+  },
+  {
     "id": "1143447",
     "name": "AMERICAN SHARE INSURANCE",
     "quarters": [
@@ -9903,6 +9908,20 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied legislature on healthcare staffing agencies, workforce needs during covid-19 pandemic"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied legislature on SB 27"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied legislature on SB 27"
       }
     ]
   },
@@ -40164,6 +40183,11 @@
     ]
   },
   {
+    "id": "1464167",
+    "name": "ELECTRIC ERA TECHNOLOGIES, INC",
+    "quarters": []
+  },
+  {
     "id": "1461366",
     "name": "ELECTRIC HYDROGEN CO.",
     "quarters": [
@@ -53450,7 +53474,7 @@
   },
   {
     "id": "1356130",
-    "name": "ISAM (USA) LLC",
+    "name": "ISAM FUNDS (USA) LLC",
     "quarters": [
       {
         "quarter": "2nd",
@@ -53746,6 +53770,33 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: AB 924"
+      }
+    ]
+  },
+  {
+    "id": "1380385",
+    "name": "JANA SPECIAL SITUATIONS MANAGEMENT, LP",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 39.06,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 58.59,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS UC Regents"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 27.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS UC Regents"
       }
     ]
   },
@@ -54401,6 +54452,13 @@
       },
       {
         "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 2500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 2500,
         "pucLobbying": 0,
@@ -74150,6 +74208,33 @@
     ]
   },
   {
+    "id": "1426687",
+    "name": "POLITICIANS AND LEADERS OF TOMORROW GROUP LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 150,
+        "pucLobbying": 0,
+        "lobbiedOn": "Senate Bill 465: Refugees."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 725,
+        "pucLobbying": 0,
+        "lobbiedOn": "Senate Bill 465: Refugees.  SB 532: To prevent massive service cuts at Bart and others."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Senate Bill 465: Refugees.  SB 532: To prevent massive service cuts at Bart and others."
+      }
+    ]
+  },
+  {
     "id": "1444847",
     "name": "PONY.AI",
     "quarters": [
@@ -77361,6 +77446,26 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "id": "1145863",
+    "name": "RENEWABLE FUELS ASSOCIATION (RFA)",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, CA AIR RESOURCES BOARD RE: ETHANOL BLENDED GASOLINE UP TO 15 PERCENT BY VOLUME (E15)"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, CA AIR RESOURCES BOARD RE: ETHANOL BLENDED GASOLINE UP TO 15 PERCENT BY VOLUME (E15)"
       }
     ]
   },
