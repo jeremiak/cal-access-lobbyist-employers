@@ -95057,7 +95057,15 @@
   {
     "id": "1240089",
     "name": "UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Legislature, The Regents of the University of California, The Governor of California, The California Student Aid Commission."
+      }
+    ]
   },
   {
     "id": "1426116",
