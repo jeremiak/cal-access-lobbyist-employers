@@ -14063,6 +14063,13 @@
     "name": "CALABASAS; CITY OF",
     "quarters": [
       {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "2023 Legislative Budget"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
@@ -46478,6 +46485,11 @@
     ]
   },
   {
+    "id": "1464080",
+    "name": "GOEDUCATE INC.",
+    "quarters": []
+  },
+  {
     "id": "1353336",
     "name": "GOLD COAST HEALTH PLAN",
     "quarters": [
@@ -54702,14 +54714,14 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 36605,
+        "generalLobbying": 41004,
         "pucLobbying": 0,
         "lobbiedOn": "AB 676; CALIFORNIA NATURAL RESOURCES AGENCY AND DEPARTMENT OF WATER RESOURCES RE: AERIAL SNOW OBSERVATORY PERMANENT FUNDING"
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 38146.95,
+        "generalLobbying": 683300.75,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
@@ -79763,6 +79775,20 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -96195,6 +96221,11 @@
   {
     "id": "1290569",
     "name": "VERA INSTITUTE OF JUSTICE, INC.",
+    "quarters": []
+  },
+  {
+    "id": "1464362",
+    "name": "VERDANE FUND MANAGER AB",
     "quarters": []
   },
   {
