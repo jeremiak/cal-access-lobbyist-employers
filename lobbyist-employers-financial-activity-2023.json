@@ -9764,6 +9764,11 @@
     ]
   },
   {
+    "id": "1464412",
+    "name": "AVENTIV TECHNOLOGIES, LLC",
+    "quarters": []
+  },
+  {
     "id": "1348299",
     "name": "AVENUE CAPITAL MANAGEMENT II, L.P. AND ITS AFFILIATES",
     "quarters": [
@@ -20965,6 +20970,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "State Legislature AB  47 AB  48 AB  99 AB  249 SB 445 AB  611 SB  625 AB  659 AB  1466 AB  418 AB  1751 AB  907 AB  496 SB 302 SB  499"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 48, AB 99, AB 249, SB 445, AB 611, AB 659, AB 1466, AB 418, AB 907, AB 496, SB 302, SB 499, SB 625"
       }
     ]
   },
@@ -28770,9 +28782,23 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 6000,
+        "generalLobbying": 21000,
         "pucLobbying": 0,
-        "lobbiedOn": "California Legislature for funding"
+        "lobbiedOn": "FUNDING: LEGISLATURE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 48000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 460, 1567; SB 389, 867; WATER BUDGET REQUEST: LEGISLATURE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
       }
     ]
   },
@@ -31278,6 +31304,11 @@
         "lobbiedOn": "Department of Toxic Substance Control Board of Environmental Safety re: Permit appeals process, permitting, hazardous waste management, enforcement. Participated in BES Workshop."
       }
     ]
+  },
+  {
+    "id": "1464413",
+    "name": "CLEAN LABEL PROJECT",
+    "quarters": []
   },
   {
     "id": "1415321",
@@ -35762,6 +35793,33 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
+    "id": "1377395",
+    "name": "CROSSBAY CAPITAL PARTNERS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -48464,6 +48522,11 @@
     ]
   },
   {
+    "id": "1464433",
+    "name": "HAYWARD CORPORATION",
+    "quarters": []
+  },
+  {
     "id": "1143849",
     "name": "HAYWARD; CITY OF",
     "quarters": [
@@ -49788,6 +49851,11 @@
         "lobbiedOn": "NONE"
       }
     ]
+  },
+  {
+    "id": "1464434",
+    "name": "HOMIUM",
+    "quarters": []
   },
   {
     "id": "1224426",
@@ -53786,33 +53854,6 @@
     ]
   },
   {
-    "id": "1380385",
-    "name": "JANA SPECIAL SITUATIONS MANAGEMENT, LP",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 39.06,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalPERS"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 58.59,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalPERS UC Regents"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 27.34,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalPERS UC Regents"
-      }
-    ]
-  },
-  {
     "id": "1456856",
     "name": "JAPAN SAKE AND SHOCHU MAKERS ASSN.",
     "quarters": []
@@ -54188,7 +54229,7 @@
   },
   {
     "id": "1463735",
-    "name": "JOSHCO GROUP, LLC DBA VETERANS BENEFIT GUIDE",
+    "name": "JOSHCO GROUP, LLC DBA VETERANS BENEFITS GUIDE",
     "quarters": []
   },
   {
@@ -83374,6 +83415,33 @@
         "generalLobbying": 60250,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE RE: CA DEPT OF CORRECTIONS AND REHABILITATION BUDGET"
+      }
+    ]
+  },
+  {
+    "id": "1458376",
+    "name": "SAPPHIRE VENTURES, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 4706.36,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: proposed investments"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3782.84,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: proposed investments"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 240,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: proposed investments"
       }
     ]
   },
