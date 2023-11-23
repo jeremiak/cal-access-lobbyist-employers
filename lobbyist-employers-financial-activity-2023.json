@@ -25725,6 +25725,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1074"
       }
     ]
   },
