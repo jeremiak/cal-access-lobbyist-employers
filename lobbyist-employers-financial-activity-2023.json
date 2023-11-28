@@ -12701,6 +12701,33 @@
     ]
   },
   {
+    "id": "1336006",
+    "name": "BREVAN HOWARD ASSET MANAGEMENT LLP",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
     "id": "1440905",
     "name": "BRIDGE INVESTMENT GROUP HOLDINGS LLC AND AFFILIATED ENTITIES",
     "quarters": [
@@ -29761,6 +29788,33 @@
         "generalLobbying": 3866296.3,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
+      }
+    ]
+  },
+  {
+    "id": "1367282",
+    "name": "CHEYNE CAPITAL US, LP",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 144.23,
+        "pucLobbying": 0,
+        "lobbiedOn": "Seeking to manage investments: CalSTRS."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 144.23,
+        "pucLobbying": 0,
+        "lobbiedOn": "Seeking to manage investments: CalSTRS."
       }
     ]
   },
@@ -86269,6 +86323,13 @@
         "generalLobbying": 30258,
         "pucLobbying": 0,
         "lobbiedOn": "Project Immigrant Defense Advocates: CA Solitary Bill, AB280; AB260; SB519 Transformative In-Prison Workgroup: Budget request for $25 million for rehabilitative programming, AB 1104, AB 581, AB 15, AB 1260, AB 733, AB 280, AB 974, AB 1226, AB 912, AB 958, AB 1595, AB 581, AB 1306, AB 60, AB 544, AB 702, SB 94, SB 474, SB 799, ACA 4"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 41347,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 280, AB 15, AB 1260, AB 733, AB 280, AB 974, AB 1226 , AB 912, AB 958, AB 1595, AB 581, AB 1306, AB 60, AB 544, AB 702, SB 94, SB 474, SB 799, ACA 4, AB958, AB1186, AB 1104"
       }
     ]
   },
@@ -86282,6 +86343,13 @@
         "generalLobbying": 13602,
         "pucLobbying": 0,
         "lobbiedOn": "AB 509, 524; SB 73, 703"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 37790,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 509, AB 524, SB 73, SB 616, SB 703, SB 881"
       },
       {
         "quarter": "3rd",
