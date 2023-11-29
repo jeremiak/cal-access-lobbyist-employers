@@ -22050,6 +22050,20 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -25237,7 +25251,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "HIGH-SPEED RAIL BILLS; Railroad Safety; long trains; Off-Track Vehicle transportation Safety;"
       }
@@ -29987,7 +30001,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 2725,
+        "generalLobbying": 3266.94,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor's Office, Dept Finance, CA Dept of Education, Dept of Healthcare Services, Dept of Public Health, Health & Human Services and its agencies re: AB 51, AB 85, AB 555, AB 596, AB 1057, SB 380, SB 635, CalAIM, Budget, the Brown Act, Early Childhood Development, CalFresh, CalWorks, Child Care, Child Health,"
       },
@@ -32387,6 +32401,11 @@
     ]
   },
   {
+    "id": "1147004",
+    "name": "COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS",
+    "quarters": []
+  },
+  {
     "id": "1422040",
     "name": "COALITION OF PROFESSIONAL PHOTOCOPIERS",
     "quarters": [
@@ -33343,6 +33362,13 @@
     "id": "1461505",
     "name": "COMPUTER & COMMUNICATIONS INDUSTRY ASSOCIATION",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Regarding AB 331, AB 787, AB 873, AB 886, AB 1027, AB 1546, SB 287."
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -45245,6 +45271,11 @@
     ]
   },
   {
+    "id": "1464331",
+    "name": "FTV MANAGEMENT COMPANY L.P.",
+    "quarters": []
+  },
+  {
     "id": "1254639",
     "name": "FUELCELL ENERGY INC.",
     "quarters": [
@@ -51316,7 +51347,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 341805.12,
+        "generalLobbying": 92538.82,
         "pucLobbying": 0,
         "lobbiedOn": "CA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS IN AVAILABILITY OF PROPERTY INSURANCE AND AUTO INSURANCE AND SB 263; CA STATE LEGISLATURE RE: AB 451, 970, 984, 1578, SB 263, 278, 505, 553, 867"
       },
@@ -61908,7 +61939,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 1268.5,
         "pucLobbying": 0,
         "lobbiedOn": "Marketing of commingled vehicles and separate account investment advisory services to CalSTRS and CalPERS."
       }
@@ -61940,6 +61971,11 @@
         "lobbiedOn": "None."
       }
     ]
+  },
+  {
+    "id": "1418339",
+    "name": "MICHAEL J. FOX FOUNDATION FOR PARKINSON'S RESEARCH; THE",
+    "quarters": []
   },
   {
     "id": "1433269",
@@ -61991,7 +62027,7 @@
         "session": "2023-2024",
         "generalLobbying": 27345,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -71136,6 +71172,33 @@
     ]
   },
   {
+    "id": "1460157",
+    "name": "PAPER RECEIPTS CONVERTING ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1347"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1347"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1347"
+      }
+    ]
+  },
+  {
     "id": "1425943",
     "name": "PARADISE IRRIGATION DISTRICT",
     "quarters": [
@@ -75554,6 +75617,33 @@
         "generalLobbying": 1194,
         "pucLobbying": 0,
         "lobbiedOn": "CONTACTED CALPERS, CALSTRS, AND UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
+      }
+    ]
+  },
+  {
+    "id": "1453864",
+    "name": "PROVIDENCE GROUP, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 46500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2079"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 46500,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 47067.96,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 525"
       }
     ]
   },
@@ -92067,6 +92157,11 @@
     ]
   },
   {
+    "id": "1464445",
+    "name": "TIXR INC.",
+    "quarters": []
+  },
+  {
     "id": "1349867",
     "name": "TJC, L.P.",
     "quarters": [
@@ -100017,6 +100112,33 @@
         "generalLobbying": 9750,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Administration & State Water Resources Control Board Re: Matters related to the Town?s water, wastewater, and energy goals.  AB 480, ACA 13 SB 4, 101, 103, 423, 747"
+      }
+    ]
+  },
+  {
+    "id": "1450141",
+    "name": "WINDWARD FUND",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 593, AB 1198, AB 1664, SB 48, SB 394, SB 410, SB 527, SB 755, SB 795; Promoting electrification and decarbonization, State Legislature Budget Committees and Governor's Office"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 593, AB 1198, AB 1664, SB 48, SB 394, SB 410, SB 527, SB 755, SB 795, AB 247"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 593, AB 1198, AB 1664, SB 48, SB 394, SB 410, SB 527, SB 755, SB 795, AB 247"
       }
     ]
   },
