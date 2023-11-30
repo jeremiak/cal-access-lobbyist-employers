@@ -1551,7 +1551,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 28725,
+        "generalLobbying": 52725,
         "pucLobbying": 0,
         "lobbiedOn": "AB 40, AB 424, AB 869, AB 1091, AB 1316; LEGISLATURE RE: STATE BUDGET"
       },
@@ -1567,7 +1567,7 @@
         "session": "2023-2024",
         "generalLobbying": 19150,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 40, AB 424, AB 869; SB 525, 786; LEGISLATURE RE: STATE BUDGET"
+        "lobbiedOn": "AB 40, AB 759, AB 869, AB 1316; SB 525; LEGISLATURE RE: STATE BUDGET"
       }
     ]
   },
@@ -3602,6 +3602,11 @@
         "lobbiedOn": "NONE THIS PERIOD."
       }
     ]
+  },
+  {
+    "id": "1464214",
+    "name": "ALPINE; COUNTY OF",
+    "quarters": []
   },
   {
     "id": "1301705",
@@ -56189,6 +56194,11 @@
     ]
   },
   {
+    "id": "1464316",
+    "name": "LANDIFY",
+    "quarters": []
+  },
+  {
     "id": "1456145",
     "name": "LANGUAGE ACCESS FOR INJURED WORKERS",
     "quarters": [
@@ -56492,7 +56502,7 @@
         "session": "2023-2024",
         "generalLobbying": 1700.5,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "? CalPERS ? CalSTRS ? LACERA ? LACERS ? CEA"
       }
     ]
   },
@@ -67805,6 +67815,13 @@
     "name": "OAK PARK UNIFIED SCHOOL DISTRICT",
     "quarters": [
       {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature and Governor's Administration on District of Choice Program"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
@@ -73070,9 +73087,23 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 60000,
         "pucLobbying": 0,
-        "lobbiedOn": "Senate Bill No. 884; Assembly Bill No. 1249."
+        "lobbiedOn": "Legislature RE: Fire Victim trust work. "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature RE: Fire Victim trust work. "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office RE: Fire Victim trust work. "
       }
     ]
   },
@@ -73225,7 +73256,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 278292.38,
+        "generalLobbying": 278562.38,
         "pucLobbying": 0,
         "lobbiedOn": "SB 786, 873"
       }
@@ -79896,6 +79927,11 @@
         "lobbiedOn": "Legislature: Maternal Mental Health, Serious Mental Illness, AB 1437, SB 873"
       }
     ]
+  },
+  {
+    "id": "1223062",
+    "name": "SAINT AGNES MEDICAL CENTER",
+    "quarters": []
   },
   {
     "id": "1460683",
@@ -91041,6 +91077,11 @@
     ]
   },
   {
+    "id": "1464576",
+    "name": "TEACH COALITION",
+    "quarters": []
+  },
+  {
     "id": "1367152",
     "name": "TEACH FOR AMERICA, INC. ",
     "quarters": [
@@ -97697,6 +97738,13 @@
     "id": "1144110",
     "name": "WALNUT VALLEY UNIFIED SCHOOL DISTRICT",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature and Governor's Administration on District of Choice Program"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
