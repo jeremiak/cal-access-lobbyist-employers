@@ -3604,6 +3604,60 @@
     ]
   },
   {
+    "id": "1360455",
+    "name": "ALPHADYNE ASSET MANAGEMENT LP",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SeaJin Huh, John Rustum and Katie Carroll did not engage in any direct communications during the period."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SeaJin Huh, John Rustum and Katie Carroll did not engage in any direct communications during the period."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SeaJin Huh, John Rustum and Katie Carroll did not engage in any direct communications during the period."
+      }
+    ]
+  },
+  {
+    "id": "1360455",
+    "name": "ALPHADYNE ASSET MANAGEMENT LP",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SeaJin Huh, John Rustum and Katie Carroll did not engage in any direct communications during the period."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SeaJin Huh, John Rustum and Katie Carroll did not engage in any direct communications during the period."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SeaJin Huh, John Rustum and Katie Carroll did not engage in any direct communications during the period."
+      }
+    ]
+  },
+  {
     "id": "1464214",
     "name": "ALPINE; COUNTY OF",
     "quarters": []
@@ -10876,6 +10930,33 @@
     ]
   },
   {
+    "id": "1144229",
+    "name": "BERKELEY RENT STABILIZATION BOARD; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 466"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 466, SB 567, AB 846, SB 594, SB 712, AB 1620"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 846, 1620; SB 594, 712, 466, 567"
+      }
+    ]
+  },
+  {
     "id": "1143160",
     "name": "BERKELEY; CITY OF",
     "quarters": [
@@ -12568,6 +12649,13 @@
     "id": "1336782",
     "name": "BRANDYWINE GLOBAL INVESTMENT MANAGEMENT, LLC",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -17427,7 +17515,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 36809.02,
+        "generalLobbying": 46556.78,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
@@ -18346,6 +18434,60 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "State Legislature and Administration: Gambling related legislation; State Gambling Control Commission on gambling regulations."
+      }
+    ]
+  },
+  {
+    "id": "1428263",
+    "name": "CALIFORNIA COALITION FOR COMMUNITY INVESTMENT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 885, SB 336,  Ab 860, SB 557,AB 696, AB 619, AB 590, SB 33, SB 225 CA Polution Control Finance Agency re: Implemenation of budget bill."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 885, 860, 696, 619, 590; SB 336, 557, 33, 225"
+      }
+    ]
+  },
+  {
+    "id": "1144770",
+    "name": "CALIFORNIA COALITION FOR RURAL HOUSING",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 18, AB 578, AB 1053, AB 346, AB 84, SB 225,SB 267, SB 341 HCD re: funding programs"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 18, AB 578, AB 1053, AB 346, AB 84, SB 225,SB 267, SB 341"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 578, 1053, 346, 84; SB 18, 225,267, 341; HOUSING AND COMMUNITY DEVELOPMENT RE: SELF-HELP HOUSING PROGRAM RULES"
       }
     ]
   },
@@ -19476,7 +19618,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 205724.16,
+        "generalLobbying": 205978.62,
         "pucLobbying": 0,
         "lobbiedOn": "AB 231, AB 331, AB 386, AB 984, AB 950, AB 1100, AB 1143, AB 1404, AB 1546; SB 95, SB 261, SB 263, SB 278, SB 291, SB 375, SB 399, SB 478, SB 616, SB 696, SB 809, SB 1404; LEGISLATURE & OFFICE OF ATTORNEY GENERAL RE: SB 1311 IMPLEMENTATION"
       },
@@ -23916,6 +24058,33 @@
         "generalLobbying": 59.9,
         "pucLobbying": 0,
         "lobbiedOn": "AB 604"
+      }
+    ]
+  },
+  {
+    "id": "1302329",
+    "name": "CALIFORNIA REINVESTMENT COALITION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 594, AB 919"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 594, SB 567"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
       }
     ]
   },
@@ -57373,6 +57542,19 @@
     ]
   },
   {
+    "id": "1437905",
+    "name": "LIFT TO RISE",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
+      }
+    ]
+  },
+  {
     "id": "1146940",
     "name": "LILLY USA",
     "quarters": [
@@ -59322,6 +59504,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "INTERNET POKER"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 2200,
         "pucLobbying": 0,
         "lobbiedOn": "INTERNET POKER"
       }
@@ -65005,6 +65194,33 @@
     ]
   },
   {
+    "id": "1425639",
+    "name": "NATIONAL HOUSING LAW PROJECT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 653, AB 1418, AB 12, AB 920, SB 225, SB 460, AB 486, AB 257, SB 31"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 653, AB 1418, AB 12, AB 920, SB 225, SB 460, AB 486, AB 257, SB 31"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 653, 1418, 12, 920, 486, 257; SB 225, 460, 31"
+      }
+    ]
+  },
+  {
     "id": "1437917",
     "name": "NATIONAL INDEPENDENT  VENUE ASSOCIATION OF CALIFORNIA ",
     "quarters": []
@@ -65686,6 +65902,13 @@
     "id": "1459736",
     "name": "NETCHOICE",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the legislature regarding AB 331, AB 1027, AB 1394, SB 287, and SB 244"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -75841,6 +76064,33 @@
     ]
   },
   {
+    "id": "1425641",
+    "name": "PUBLIC INTEREST LAW PROJECT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 480, AB 1218, SB 439, AB 1287, SB 405,SB 31, SB 693, SB 634, AB 1418 HCD: Housing Element enforcement"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 480, AB 1218, SB 439, AB 1287, SB 405,SB 31, SB 693, SB 634, AB 1418"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 480, 1218, 1287, 1418; SB 439, 405, 31, 693, 634"
+      }
+    ]
+  },
+  {
     "id": "1453533",
     "name": "PUBLIC MEDIA GROUP OF SOUTHERN CALIFORNIA",
     "quarters": [
@@ -79184,6 +79434,33 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Discussions with CalSTRs and CalPERs regarding investment strategy (no specific legislation or administrative action)."
+      }
+    ]
+  },
+  {
+    "id": "1222729",
+    "name": "RURAL COMMUNITY ASSISTANCE CORPORATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 18, SB 336 DGS re: SB 336"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 18, SB 336"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 18, 336"
       }
     ]
   },
@@ -83444,6 +83721,33 @@
     ]
   },
   {
+    "id": "1143026",
+    "name": "SANTA MONICA RENT CONTROL BOARD",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 13224,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 466"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 13224,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 466, SB 567"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 13224,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 466, 567"
+      }
+    ]
+  },
+  {
     "id": "1142948",
     "name": "SANTA MONICA; CITY OF",
     "quarters": [
@@ -84599,6 +84903,33 @@
         "generalLobbying": 66000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 6, 7, 102, 558, 744; SB 122, 123, 124, 125, 145, 146, 147, 149, 617; GOVERNOR'S OFFICE RE: BUDGET AND TRANSPORTATION ISSUES; TRANSPORTATION AGENCY RE: TRANSPORTATION ISSUES; DEPARTMENT OF TRANSPORTATION RE: TRANSPORTATION ISSUES; CA TRANSPORTATION COMMISSION RE: TRANSPORTATION ISSUES; AIR RESOURCE BOARD RE: TRANSPORTATION ISSUES "
+      }
+    ]
+  },
+  {
+    "id": "1384467",
+    "name": "SELF-HELP ENTERPRISES ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature & DGS re:SB 336"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 336"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 336; HOUSING AND COMMUNITY DEVELOPMENT RE: SELF-HELP HOUSING PROGRAM RULES"
       }
     ]
   },
@@ -99073,7 +99404,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 27500,
+        "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 524, SB 330, SB 616, SB 809"
       },
@@ -99255,7 +99586,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 148973.87,
+        "generalLobbying": 158973.87,
         "pucLobbying": 0,
         "lobbiedOn": "SEE MEMO."
       },
@@ -101279,7 +101610,7 @@
         "session": "2023-2024",
         "generalLobbying": 20000,
         "pucLobbying": 0,
-        "lobbiedOn": "Transportation Agency, Department of Motor Vehicles, California Highway Patrol re: Autonomous Vehicle Applications, participated in workshop on developing regulations for alternative registration devices."
+        "lobbiedOn": "Participated in workshop on developing regulations for alternative registration devices; California Public Utilities Commission re: New data reporting requirements for autonomous vehicles."
       },
       {
         "quarter": "3rd",
