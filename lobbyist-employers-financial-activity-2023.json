@@ -10347,6 +10347,33 @@
     ]
   },
   {
+    "id": "1336197",
+    "name": "BARINGS LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "University of California Board of Regents, CalPERS, CalSTRS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "University of California Board of Regents, CalPERS, CalSTRS"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "University of California Board of Regents, CalPERS, CalSTRS"
+      }
+    ]
+  },
+  {
     "id": "1459454",
     "name": "BARNETT SOUTHERN",
     "quarters": [
@@ -33533,7 +33560,7 @@
     ]
   },
   {
-    "id": "1461505",
+    "id": "1286548",
     "name": "COMPUTER & COMMUNICATIONS INDUSTRY ASSOCIATION",
     "quarters": [
       {
@@ -75124,6 +75151,13 @@
         "quarter": "1st",
         "session": "2023-2024",
         "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
