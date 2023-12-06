@@ -3028,6 +3028,33 @@
     ]
   },
   {
+    "id": "1355967",
+    "name": "ALGERT GLOBAL LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1146557",
     "name": "ALHAMBRA; CITY OF",
     "quarters": [
@@ -45779,6 +45806,33 @@
     ]
   },
   {
+    "id": "1343449",
+    "name": "GAM USA INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1340530",
     "name": "GAMCO ASSET MANAGEMENT INC.",
     "quarters": [
@@ -65701,6 +65755,13 @@
         "lobbiedOn": "None"
       },
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 36000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 36000,
@@ -73731,7 +73792,29 @@
   {
     "id": "1146430",
     "name": "PICO RIVERA; CITY OF",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Local Government issues before the state legislature,including SB 867 and AB 1567"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: local government issues,AB 1588,AB 102,SB 867"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 12500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Local Government issues before the state legislature,including AB 102,AB 1562 and SB 867"
+      }
+    ]
   },
   {
     "id": "1439807",
@@ -98125,6 +98208,11 @@
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 418, AB 647, AB 1286, AB 1341, AB 1347, AB 1748, SB 253, SB 261, SB 410, SB 524, SB 553, SB 707 AND SB 777."
       }
     ]
+  },
+  {
+    "id": "1418209",
+    "name": "WALNUT LLC.",
+    "quarters": []
   },
   {
     "id": "1144110",
