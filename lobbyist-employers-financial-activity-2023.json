@@ -1546,7 +1546,7 @@
   },
   {
     "id": "1145668",
-    "name": "ADVENTIST HEALTH",
+    "name": "ADVENTIST HEALTH SYSTEM/WEST",
     "quarters": [
       {
         "quarter": "1st",
@@ -30236,7 +30236,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 67776,
+        "generalLobbying": 111201.57,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor's Office, Dept Finance, CA Dept of Education, Dept of Healthcare Services, Dept of Public Health, Health & Human Services and its agencies re: AB 51, AB 85, AB 555, AB 596, AB 1015, AB 1057, SB 380, SB 282, SB 635, CalAIM, Budget, the Brown Act, Early Childhood Development, CalFresh, CalWorks, Child Care, Child Health,"
       },
@@ -44025,6 +44025,19 @@
     ]
   },
   {
+    "id": "1146356",
+    "name": "FISERV, INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 9250,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable lobbying activity.  Reporting final 2022 payment made to lobbying firm."
+      }
+    ]
+  },
+  {
     "id": "1368245",
     "name": "FISHER INVESTMENTS",
     "quarters": [
@@ -54603,7 +54616,7 @@
   },
   {
     "id": "1463735",
-    "name": "JOSHCO GROUP, LLC DBA VETERANS BENEFITS GUIDE",
+    "name": "JOSHCO GROUP, LLC DBA VETERAN BENEFITS GUIDE",
     "quarters": []
   },
   {
@@ -57319,6 +57332,11 @@
         "lobbiedOn": "None This Period"
       }
     ]
+  },
+  {
+    "id": "1464637",
+    "name": "LET GROW",
+    "quarters": []
   },
   {
     "id": "1458971",
@@ -94429,6 +94447,33 @@
     ]
   },
   {
+    "id": "1419502",
+    "name": "TWITTER, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 25600,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 886"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 886, 1394"
+      }
+    ]
+  },
+  {
     "id": "1384208",
     "name": "TWO SIGMA INVESTMENTS, LP AND ITS AFFILIATES, TWO SIGMA ADVISERS, LP, TWO SIGMA VENTURES, LP AND TSPI, LP",
     "quarters": [
@@ -94941,6 +94986,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "SB 81 + state budget funding request"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 81"
       }
     ]
   },
