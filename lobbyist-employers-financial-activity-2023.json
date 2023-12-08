@@ -4287,6 +4287,33 @@
     ]
   },
   {
+    "id": "1425741",
+    "name": "AMERICAN ASSOCIATION FOR DEBT RESOLUTION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 27000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding Department of Financial Protection and Innovation Regulations."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 54000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1348577",
     "name": "AMERICAN ASSOCIATION OF PAYERS, ADMINISTRATORS AND NETWORKS (AAPAN)",
     "quarters": [
@@ -4796,33 +4823,6 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "A.B.302: Department of Technology: high-risk automated decision systems: inventory, A.B.331: Automated decision tools, A.B.1587: Financial transactions: firearms merchants: merchant category code, S.B.253: Climate Corporate Data Accountability Act, S.B.261: Greenhouse gases: climate-related financial risk, S.B.362: Data brokers: privacy"
-      }
-    ]
-  },
-  {
-    "id": "1425741",
-    "name": "AMERICAN FAIR CREDIT COUNCIL",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 18000,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 27000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature regarding Department of Financial Protection and Innovation Regulations."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 54000,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
       }
     ]
   },
@@ -50904,6 +50904,11 @@
     ]
   },
   {
+    "id": "1464900",
+    "name": "I80 GROUP LP",
+    "quarters": []
+  },
+  {
     "id": "1460080",
     "name": "ICAN LEGISLATE",
     "quarters": [
@@ -55466,7 +55471,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 48, AB 869, AB 1001, AB 1007, AB 1091, AB 1092, AB 1156, AB 1356, AB 1392, AB 1471, SB 525, SB 598, SB 759, SB 870"
       }
@@ -77207,6 +77212,11 @@
         "lobbiedOn": "SB 33, SB 666"
       }
     ]
+  },
+  {
+    "id": "1464891",
+    "name": "RAUSCHENBERGER PARTNERS, LLC",
+    "quarters": []
   },
   {
     "id": "1450558",
