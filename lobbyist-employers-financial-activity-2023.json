@@ -38673,6 +38673,19 @@
     ]
   },
   {
+    "id": "1463930",
+    "name": "DIVERT INC.",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "DEPARTMENT OF RESOURCES RECYCLING AND RECOVERY (CALRECYCLE) RE: ZERO WASTE PLAN, SB 1383 IMPLEMENTATION"
+      }
+    ]
+  },
+  {
     "id": "1380146",
     "name": "DJI TECHNOLOGY, INC.",
     "quarters": [
@@ -44090,6 +44103,11 @@
         "lobbiedOn": "AB 65, AB 1172, AB 1373, AB 1533, AB 914; LEGISLATURE, GOVERNOR'S OFFICE, DEPT OF FINANCE RE: SAFE NUCLEAR POWER"
       }
     ]
+  },
+  {
+    "id": "1464936",
+    "name": "FIVE ARROWS MANAGERS LLP",
+    "quarters": []
   },
   {
     "id": "1426736",
@@ -73806,7 +73824,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 173968.41,
+        "generalLobbying": 174343.41,
         "pucLobbying": 0,
         "lobbiedOn": "AB 842, 1167, 1305, 1465, 1614; SB 253, 261, 308, 422, 438, 674; SBX 1-2; : A.19-11-019, A.22-05-015, A.22-09-018, I.17-02-002, R.18-12-005, R.20-07-013: CALIFORNIA PUBLIC UTILITIES COMMISSION; CAP AND TRADE: CALIFORNIA AIR RESOURCES BOARD"
       }
@@ -98085,9 +98103,31 @@
     ]
   },
   {
-    "id": "1460673",
+    "id": "1143607",
     "name": "VSP VISION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: New representatives HQ and manufacturing site familiarization."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB1091, AB1092, SB582, new representatives HQ and manufacturing site familiarization."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB1092, SB582, new representatives HQ and manufacturing site familiarization."
+      }
+    ]
   },
   {
     "id": "1297574",
@@ -101132,7 +101172,15 @@
   {
     "id": "1463171",
     "name": "WORLD-WIDE AGGLOMERATED STONE MANUFACTURERS ASSOCIATION DBA A.ST.A WORLD-WIDE",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
   },
   {
     "id": "1446807",
