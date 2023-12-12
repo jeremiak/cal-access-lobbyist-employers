@@ -12678,6 +12678,13 @@
         "generalLobbying": 97.12,
         "pucLobbying": 0,
         "lobbiedOn": "SB 410 (Becker), SB 84/AB 241, AB 2127 (Ting, CEC), AB 579 (Ting)."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 32.03,
+        "pucLobbying": 0,
+        "lobbiedOn": "CPUC - Energy Management"
       }
     ]
   },
@@ -36366,6 +36373,11 @@
         "lobbiedOn": "CA STATE LEGISLATURE REGARDING AB 478, AB 641, AB 703, AB 917, AB 1519, AB 1578, SB 8, SB 55, SB 263, SB 505, SB 581, SB 743, SB 793."
       }
     ]
+  },
+  {
+    "id": "1464779",
+    "name": "CSASZAR; ORS",
+    "quarters": []
   },
   {
     "id": "1314785",
@@ -78637,6 +78649,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California Public Employees' Retirement System (CalPers)     San Joaquin County Employees' Retirement Association     California Community Foundation     California State Teachers' Retirement System    Contra Costa Employees' Retirement Association     Los Angeles City Employees' Retirement System"
+      }
+    ]
+  },
+  {
+    "id": "1463952",
+    "name": "RIDWELL, INC.",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "DEPARTMENT OF RESOURCES RECYCLING AND RECOVERY (CALRECYCLE) RE: SB 54 IMPLEMENTATION\t"
       }
     ]
   },
