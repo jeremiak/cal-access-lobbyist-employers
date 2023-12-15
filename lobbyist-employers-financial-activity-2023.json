@@ -1652,7 +1652,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 115191.73,
+        "generalLobbying": 111403.98,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
@@ -7301,7 +7301,7 @@
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -12909,6 +12909,33 @@
     ]
   },
   {
+    "id": "1339980",
+    "name": "BRIDGEPOINT ADVISERS LIMITED",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 640,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees Retirement System"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 320,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees Retirement System"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 320,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees Retirement System"
+      }
+    ]
+  },
+  {
     "id": "1344246",
     "name": "BRIDGEWATER ASSOCIATES, LP",
     "quarters": [
@@ -17777,7 +17804,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 37024,
+        "generalLobbying": 41359.85,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A "
       }
@@ -20352,14 +20379,14 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 10252.02,
+        "generalLobbying": 10461.41,
         "pucLobbying": 0,
         "lobbiedOn": "AB 421, 538, 631, 652, 844, 1000, 1181,  1550, 1567, 1633, 1705, 1748; SB 3, 4, 49, 69, 149, 225, 227 ,233,  253, 306, 308, 355, 393, 423, 438, 549, 555, 556, 567, 674, 688, 704, 709, 755, 846, 867, 1045, 1167; Legislature: Budget"
       },
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 9362.02,
+        "generalLobbying": 16429.63,
         "pucLobbying": 0,
         "lobbiedOn": "AB 421, 1167, 1373, 1550, 1567, 1633; SB 4, 69, 253, 423, 555, 567, 674, 704, 867"
       }
@@ -34741,6 +34768,11 @@
         "lobbiedOn": "NONE THIS REPORTING PERIOD"
       }
     ]
+  },
+  {
+    "id": "1465028",
+    "name": "COREBRIDGE FINANCIAL",
+    "quarters": []
   },
   {
     "id": "1417494",
@@ -64149,6 +64181,11 @@
     ]
   },
   {
+    "id": "1463206",
+    "name": "MUDRICK CAPITAL MANAGEMENT LP",
+    "quarters": []
+  },
+  {
     "id": "1438058",
     "name": "MULTIPLIER",
     "quarters": [
@@ -64483,6 +64520,11 @@
         "lobbiedOn": "AB 280, 459, 518, 524, 531, 665, 1029, 1316, 1412; SB 37, 43, 282, 326, 363, 509, 513"
       }
     ]
+  },
+  {
+    "id": "1464601",
+    "name": "NANODX",
+    "quarters": []
   },
   {
     "id": "1360156",
@@ -88154,6 +88196,11 @@
     ]
   },
   {
+    "id": "1465007",
+    "name": "SOUTHERN CALIFORNIA HEALTH & REHABILITATION PROGRAM, INC.",
+    "quarters": []
+  },
+  {
     "id": "1145113",
     "name": "SOUTHERN CALIFORNIA PUBLIC POWER AUTHORITY",
     "quarters": [
@@ -93135,7 +93182,7 @@
         "session": "2023-2024",
         "generalLobbying": 35005.37,
         "pucLobbying": 0,
-        "lobbiedOn": "Senate, House, Governor?s office: SB 362"
+        "lobbiedOn": "Senate, House, Governor's office: SB 362"
       }
     ]
   },
