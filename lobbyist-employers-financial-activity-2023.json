@@ -13383,6 +13383,20 @@
         "generalLobbying": 45000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Governor?s office and the Legislature on issues relating to land use, commercial and residential property development, and renewable energy."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -78582,7 +78596,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 34000,
+        "generalLobbying": 50943.19,
         "pucLobbying": 0,
         "lobbiedOn": "AB 416, 518, 524, 546, 575, 593, 594, 840, 853, 1076, 1088, 1213, 1217, 1228, 1294, 1355, 1356, 1448, 1668, 1673; SB 76, 253, 261, 269, 277, 353, 388, 392, 399, 403, 430, 461, 476, 495, 497, 498, 572, 627, 723, 788,  844 "
       }
@@ -84273,6 +84287,11 @@
         "lobbiedOn": "AB 1099; SB 675"
       }
     ]
+  },
+  {
+    "id": "1465151",
+    "name": "SAVE MOUNT DIABLO",
+    "quarters": []
   },
   {
     "id": "1411116",
