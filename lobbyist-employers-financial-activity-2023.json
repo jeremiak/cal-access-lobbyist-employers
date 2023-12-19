@@ -39149,6 +39149,11 @@
     ]
   },
   {
+    "id": "1267684",
+    "name": "DRY CREEK RANCHERIA BAND OF POMO INDIANS",
+    "quarters": []
+  },
+  {
     "id": "1426414",
     "name": "DTE ENERGY COMPANY",
     "quarters": [
@@ -77797,6 +77802,11 @@
     ]
   },
   {
+    "id": "1145489",
+    "name": "REDDING RANCHERIA",
+    "quarters": []
+  },
+  {
     "id": "1145165",
     "name": "REDDING; CITY OF",
     "quarters": [
@@ -91234,7 +91244,22 @@
   {
     "id": "1143806",
     "name": "TABLE MOUNTAIN RANCHERIA",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   },
   {
     "id": "1347752",
@@ -91449,6 +91474,26 @@
         "generalLobbying": 20107.85,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: In-state manufacturing/research expansion; plasma collection site expansion; CDPH: in-state expansion issues; DHCS: Medi-Cal Rx implementation; GO-BIZ: in-state manufacturing/research expansion."
+      }
+    ]
+  },
+  {
+    "id": "1435852",
+    "name": "TAKI YOKUT TRIBE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -94302,6 +94347,11 @@
         "lobbiedOn": "SB 14, SB 265, SB 389, SB 525, AB 120, AB 460, AB 505, AB 1168, AB 1337."
       }
     ]
+  },
+  {
+    "id": "1146172",
+    "name": "TULE RIVER TRIBE",
+    "quarters": []
   },
   {
     "id": "1426776",
@@ -97386,6 +97436,11 @@
         "lobbiedOn": "Legislature, Governor's Office re: climate innovation funding."
       }
     ]
+  },
+  {
+    "id": "1401645",
+    "name": "VETCBD",
+    "quarters": []
   },
   {
     "id": "1460155",
