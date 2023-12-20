@@ -17633,7 +17633,29 @@
   {
     "id": "1146098",
     "name": "CALIFORNIA BICYCLE COALITION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable activity"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable activity"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative: AB 825, AB 251, AB 413, AB 645, AB 819, SB 695"
+      }
+    ]
   },
   {
     "id": "1146255",
@@ -33343,6 +33365,11 @@
         "lobbiedOn": "AB 341, 1271; SB 549"
       }
     ]
+  },
+  {
+    "id": "1465074",
+    "name": "COMMUNITY ACTION PARTNERSHIP OF ORANGE COUNTY; THE",
+    "quarters": []
   },
   {
     "id": "1146217",
@@ -54966,6 +54993,11 @@
     ]
   },
   {
+    "id": "1465259",
+    "name": "KARUNA THERAPEUTICS, INC.",
+    "quarters": []
+  },
+  {
     "id": "1394476",
     "name": "KBI GLOBAL INVESTORS (NORTH AMERICA) LTD",
     "quarters": [
@@ -57698,6 +57730,11 @@
         "lobbiedOn": "SB 282; TRACKING HEALTH CARE AND FEDERALLY QUALIFIED HEALTH CENTERS RELATED BILLS: LEGISLATURE"
       }
     ]
+  },
+  {
+    "id": "1465263",
+    "name": "LIFESTANCE HEALTH",
+    "quarters": []
   },
   {
     "id": "1414637",
@@ -75092,6 +75129,11 @@
     ]
   },
   {
+    "id": "1465227",
+    "name": "POWERPAC.ORG",
+    "quarters": []
+  },
+  {
     "id": "1418160",
     "name": "PPM AMERICA, INC.",
     "quarters": [
@@ -91254,6 +91296,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 30000,
         "pucLobbying": 0,
