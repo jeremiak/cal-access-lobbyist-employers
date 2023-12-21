@@ -20597,7 +20597,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 122097.87,
+        "generalLobbying": 132707.95,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
       },
@@ -26809,7 +26809,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 65902.14,
+        "generalLobbying": 66430.14,
         "pucLobbying": 0,
         "lobbiedOn": "AB 68, 281, 309, 358, 835, 894, 976, 1287, 1307, 1308, 1317, 1334, 1485, 1630, 1633, 1661; ACA 1; SB 4, 83, 225, 294, 393, 423, 450, 569, 684, 794."
       },
@@ -62476,6 +62476,13 @@
         "generalLobbying": 27345,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 8800,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -90354,6 +90361,11 @@
         "lobbiedOn": "Legislature: AB 1437."
       }
     ]
+  },
+  {
+    "id": "1464423",
+    "name": "SUMMA EQUITY AB",
+    "quarters": []
   },
   {
     "id": "1339496",
