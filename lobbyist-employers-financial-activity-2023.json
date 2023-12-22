@@ -55911,7 +55911,7 @@
         "session": "2023-2024",
         "generalLobbying": 19500,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "No lobbying activity this period"
       }
     ]
   },
@@ -95523,7 +95523,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 93363.8,
+        "generalLobbying": 107879.8,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
       },
