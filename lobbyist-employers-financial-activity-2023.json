@@ -29649,7 +29649,7 @@
         "session": "2023-2024",
         "generalLobbying": 48000,
         "pucLobbying": 0,
-        "lobbiedOn": "legislature RE: budget"
+        "lobbiedOn": "NONE."
       }
     ]
   },
@@ -31003,7 +31003,7 @@
         "session": "2023-2024",
         "generalLobbying": 24000,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -41772,6 +41772,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: SB 225 AB 1319  DOF Governor\u0012s Office HCD RE: SB 225 and budget"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 225 AB 1319  DOF Governor\u0012s Office HCD RE: SB 225 and budget"
       }
     ]
   },
@@ -44216,6 +44223,13 @@
         "generalLobbying": 50000,
         "pucLobbying": 0,
         "lobbiedOn": "DOF Governor\u0012s Office EDD California Workforce Development Board re: 2022-2023 budget appropriation."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 40000,
+        "pucLobbying": 0,
+        "lobbiedOn": "DOF Governor\u0012s Office EDD California Workforce Development Board re: 2022-2023 budget appropriation."
       }
     ]
   },
@@ -45840,6 +45854,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Budget Governor\u0012s Office and DOF re: Budget"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10240,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: Budget Governor\u0012s Office and DOF re: Budget"
       }
@@ -50562,7 +50583,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 14385.25,
+        "generalLobbying": 27935.25,
         "pucLobbying": 0,
         "lobbiedOn": "SEE MEMO"
       }
@@ -57421,6 +57442,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE  GOVERNORS OFFICE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
       }
     ]
   },
@@ -85668,6 +85696,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature RE: HCD programs"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature RE: HCD programs"
       }
     ]
   },
@@ -87030,6 +87065,11 @@
         "lobbiedOn": "AB 787, 836, 1027, 1394; SB 646, 680"
       }
     ]
+  },
+  {
+    "id": "1464332",
+    "name": "SNOWFLAKE INC.",
+    "quarters": []
   },
   {
     "id": "1146531",
@@ -89638,6 +89678,13 @@
         "generalLobbying": 36000,
         "pucLobbying": 0,
         "lobbiedOn": "CARB regarding Regulatory Issue"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CARB regarding Regulatory Issue"
       }
     ]
   },
@@ -90265,6 +90312,13 @@
         "generalLobbying": 240,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -100416,6 +100470,13 @@
         "quarter": "2nd",
         "session": "2023-2024",
         "generalLobbying": 9200,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE AB 39"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE RE AB 39"
       }
