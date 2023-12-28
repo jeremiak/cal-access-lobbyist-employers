@@ -28983,6 +28983,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "We have supported the following bills: AB 363, AB 404, AB 405, AB 406, AB 408, AB 418, AB 552, AB 652, AB 899, AB 1042, SB 348 and SB 709.  Agency actions: We are engaged with the Low Carbon Fuel Standards Rulemaking at CARB.  Oxitec permit application for GE Mosquitoes Release at DPR."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "We have supported the following bill: SB 709.  Agency actions: We are engaged with the Low Carbon Fuel Standards Rulemaking at CARB.  Oxitec permit application for GE Mosquitoes Release at DPR."
       }
     ]
   },
@@ -44527,6 +44534,11 @@
         "lobbiedOn": "AB 309, 480, ACA 13 SB 35, 101, 103, 423, 747"
       }
     ]
+  },
+  {
+    "id": "1465440",
+    "name": "FONDO DE SOLIDARIDAD DE MOUNTAIN VIEW",
+    "quarters": []
   },
   {
     "id": "1144428",
@@ -76179,6 +76191,33 @@
         "generalLobbying": 45109.81,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 40, AB 242, AB 869 AND SB 525."
+      }
+    ]
+  },
+  {
+    "id": "1334636",
+    "name": "PROVIDENCE EQUITY PARTNERS L.L.C.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 2575,
+        "pucLobbying": 0,
+        "lobbiedOn": "CONTACTED CALPERS AND UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 1575,
+        "pucLobbying": 0,
+        "lobbiedOn": "CONTACTED CALPERS, CALSTRS, AND UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 1194,
+        "pucLobbying": 0,
+        "lobbiedOn": "CONTACTED CALPERS, CALSTRS, AND UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
       }
     ]
   },
