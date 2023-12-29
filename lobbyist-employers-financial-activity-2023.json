@@ -1076,6 +1076,33 @@
     ]
   },
   {
+    "id": "1337878",
+    "name": "ACT / THE APP ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "n/a"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "n/a"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "n/a"
+      }
+    ]
+  },
+  {
     "id": "1433540",
     "name": "ACTEIGHT, LLC",
     "quarters": [
@@ -12986,6 +13013,13 @@
         "generalLobbying": 2400,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS portfolio management."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS portfolio management."
       }
     ]
   },
@@ -13540,6 +13574,11 @@
         "lobbiedOn": "None"
       }
     ]
+  },
+  {
+    "id": "1465473",
+    "name": "BTG PACTUAL TIMBERLAND INVESTMENT GROUP, LLC",
+    "quarters": []
   },
   {
     "id": "1459930",
@@ -85040,7 +85079,7 @@
   },
   {
     "id": "1410577",
-    "name": "SECURE FINANCE NETWORK",
+    "name": "SECURED FINANCE NETWORK",
     "quarters": [
       {
         "quarter": "1st",
