@@ -15176,6 +15176,13 @@
         "generalLobbying": 12750,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and Administrative Office of the Courts, re:  State Budget."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Administrative Office of the Courts, re:  State Budget."
       }
     ]
   },
@@ -94259,6 +94266,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 250,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 250,
         "pucLobbying": 0,
