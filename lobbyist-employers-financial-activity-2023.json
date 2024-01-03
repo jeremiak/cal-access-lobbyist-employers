@@ -6093,6 +6093,11 @@
     ]
   },
   {
+    "id": "1460160",
+    "name": "AMERICANS FOR PATIENT ACCESS ",
+    "quarters": []
+  },
+  {
     "id": "1287330",
     "name": "AMERIPRISE FINANCIAL",
     "quarters": [
@@ -10766,6 +10771,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -12753,6 +12765,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -16870,6 +16889,13 @@
         "generalLobbying": 43839,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature DHCS CDSS CHHSA DOF State Budget IHSS issues, Administration, AB 102, SB 102, AB 101, SB 101, AB 120, SB 120,  AB 138, SB 138, SB 37, AB 557, aB 1005, AB 1006, AB 1157, AB 1672,"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 42500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature CDSS, state budget issues, IHSS, AB 817, public authorities"
       }
     ]
   },
@@ -17754,6 +17780,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "Budget Advocacy (State Legislature & Governor's Office)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 2500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -29784,6 +29817,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -35727,6 +35767,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "University of California"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "University of California"
       }
     ]
   },
@@ -38154,6 +38201,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 508"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 508, HCD - mobilehome oversight and enforcement programs, Attorney General - Cannabis enforcement programs"
       }
     ]
   },
@@ -42001,6 +42055,13 @@
     "id": "1317945",
     "name": "ENVIRONMENTAL WORKING GROUP",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 41625,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs:3,48,99,234,244,246,249,261,347,363,408,418,421,460,496,499,538,541,631,643,652,660,664,707,718,727,828,838,863,899,1042,1059,1167,1290,1347,1423,1521,1573,1628,1660. SBs: 3,12,49,233,244,252,253,315,378,556,674,622,707 Admin: Sign On Letters:CalGEM - regulation; DPR on SPM prog.; Sen. Rules appt of Y. Garcia to CalEPA; PUC - biomass; Budget comms - anti-incineration; DPH -?CLLPP"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -57270,6 +57331,26 @@
     ]
   },
   {
+    "id": "1342117",
+    "name": "LEE PARTNERS, L.P.; THOMAS H.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 145,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1463866",
     "name": "LEFT LANE CAPITAL LLC",
     "quarters": []
@@ -57886,6 +57967,33 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE."
+      }
+    ]
+  },
+  {
+    "id": "1460191",
+    "name": "LIGHTHOUSE COMMUNITY PUBLIC SCHOOLS ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1604; CA STATE LEGISLATURE RE: EDUCATION, CHARTER SCHOOLS AND FUNDING ISSUES"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 13705,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1604; CA STATE LEGISLATURE RE: EDUCATION, CHARTER SCHOOLS AND FUNDING ISSUES"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 13705,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1604; CA STATE LEGISLATURE RE: EDUCATION, CHARTER SCHOOLS AND FUNDING ISSUES"
       }
     ]
   },
@@ -59183,6 +59291,11 @@
         "lobbiedOn": "No Bills Actively Lobbied."
       }
     ]
+  },
+  {
+    "id": "1464624",
+    "name": "LOS ANGELES LGBT CENTER",
+    "quarters": []
   },
   {
     "id": "1374044",
@@ -68926,6 +69039,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "OEP Capital Advisors, L.P.'s California registered lobbyists, David Lippin and Grace Ma, solicited private equity investment opportunities to multiple California public pension plans during the reporting period. The CA public pension plans included CalPERS, CalSTRS, and SFERS."
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -78882,6 +79002,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California Public Employees' Retirement System (CalPers)     San Joaquin County Employees' Retirement Association     California Community Foundation     California State Teachers' Retirement System    Contra Costa Employees' Retirement Association     Los Angeles City Employees' Retirement System"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees' Retirement System (CalPers)      San Joaquin County Employees' Retirement Association      California Community Foundation      California State Teachers' Retirement System     Contra Costa Employees' Retirement Association      Los Angeles City Employees' Retirement System"
       }
     ]
   },
@@ -93914,6 +94041,19 @@
         "generalLobbying": 12331.38,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "id": "1427160",
+    "name": "TRICOLOR HOLDINGS",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 40000,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A: FILING TO REPORT PAYMENTS MADE IN PRIOR PERIODS."
       }
     ]
   },
