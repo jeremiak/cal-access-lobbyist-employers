@@ -2127,6 +2127,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -7538,6 +7545,11 @@
     ]
   },
   {
+    "id": "1464252",
+    "name": "ARGA INVESTMENT MANAGEMENT, LP",
+    "quarters": []
+  },
+  {
     "id": "1382541",
     "name": "ARGAND PARTNERS, LP",
     "quarters": [
@@ -7613,6 +7625,13 @@
         "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 588.95,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 336.54,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS"
       }
@@ -14394,6 +14413,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -18637,6 +18663,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "State Legislature and Administration: Gambling related legislation; State Gambling Control Commission on gambling regulations."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature and Administration: Gambling related legislation; State Gambling Control Commission on gambling regulations."
       }
     ]
   },
@@ -19568,6 +19601,13 @@
         "generalLobbying": 1000,
         "pucLobbying": 0,
         "lobbiedOn": "State Legislature; Administration, State Board of Education and Department of Education: History/Social Studies policies, regulations, legislation including AB's 431, 526, 1081, 1161, 1456, 984, 1520, 787, 873 and 1354, and SB 342."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 1000,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature; Administration, State Board of Education and Department of Education: History/Social Studies policies, regulations, legislation including AB's 431, 526, 1081, 1161, 1456, 984, 1520, 787, 873 and 1354, and SB 342."
       }
     ]
   },
@@ -19645,6 +19685,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 2400,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature: legislation dealing with marketing, distribution and sale of alcoholic beverages; ABC Department regulations of same, including AB 840, 929, 1217 and SB 76, 277 and 495, and ABC emergency Covid-related regulations."
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 2400,
         "pucLobbying": 0,
@@ -25658,6 +25705,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1673, AB 476, AB 1175, AB 1415"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1673, AB 1175, AB 1415"
       }
     ]
   },
@@ -28060,6 +28114,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -35269,6 +35330,13 @@
         "generalLobbying": 16250,
         "pucLobbying": 0,
         "lobbiedOn": "Meetings with the Senate Budget Committee regarding funding for County Law Libraries.  Meetings with Assembly and Senante Appropriations Committees regarding SB 71."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 13000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Meetings with the Governor's office to discuss funding for law libraries in the 2024/25 budget."
       }
     ]
   },
@@ -41341,6 +41409,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -41364,6 +41439,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -52590,6 +52672,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 2, AB 1373, SB 253"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -55235,6 +55324,13 @@
         "generalLobbying": 51563,
         "pucLobbying": 0,
         "lobbiedOn": "SB 362; Legislature regarding privacy policy."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 362, Legislature regarding privacy policy"
       }
     ]
   },
@@ -55629,6 +55725,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -59289,6 +59392,13 @@
         "generalLobbying": 2250,
         "pucLobbying": 0,
         "lobbiedOn": "No Bills Actively Lobbied."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 2250,
+        "pucLobbying": 0,
+        "lobbiedOn": "No Bills Actively Lobbied."
       }
     ]
   },
@@ -62346,6 +62456,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -62587,6 +62704,13 @@
         "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 1268.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "Marketing of commingled vehicles and separate account investment advisory services to CalSTRS and CalPERS."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 2155.9,
         "pucLobbying": 0,
         "lobbiedOn": "Marketing of commingled vehicles and separate account investment advisory services to CalSTRS and CalPERS."
       }
@@ -70432,7 +70556,7 @@
         "session": "2023-2024",
         "generalLobbying": 3245,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "Investment fund solicitation from CalPERS"
       }
     ]
   },
@@ -74209,6 +74333,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 270.43,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS: Investments."
       }
     ]
   },
@@ -76018,6 +76149,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Legislature and Department of Consumer Affairs (State Board of Barbering & Cosmetology) on several issues related to beauty industry policies and regulations, including AB 1328 and SB 247, 384, 451, and 817."
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 4500,
         "pucLobbying": 0,
@@ -79480,6 +79618,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
       }
     ]
   },
@@ -80278,6 +80423,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Regents of the University of California, Calpers, Calstrs"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regents of the University of California, Calpers, Calstrs, LACERS, LACERA, OCERS, SCERS"
       }
     ]
   },
@@ -81674,6 +81826,11 @@
         "lobbiedOn": "SB 790"
       }
     ]
+  },
+  {
+    "id": "1465585",
+    "name": "SAN DIEGO MILITARY ADVISORY COUNCIL",
+    "quarters": []
   },
   {
     "id": "1143146",
@@ -94616,6 +94773,13 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "CA Dept of Transportation and CalSTA re: State Route 99 Funding"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA Dept of Transportation and CalSTA re: State Route 99 Funding"
       }
     ]
   },
@@ -95516,6 +95680,11 @@
         "lobbiedOn": "SB 81"
       }
     ]
+  },
+  {
+    "id": "1465582",
+    "name": "UNDERDOG FANTASY",
+    "quarters": []
   },
   {
     "id": "1234283",
