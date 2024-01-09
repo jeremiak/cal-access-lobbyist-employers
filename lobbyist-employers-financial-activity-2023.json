@@ -4284,6 +4284,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: Issues related to airlines, SB 253, SB 261, and SB 720.  Legislature, Attorney General: SB 478.  Legislature, CDTFA: Jet fuel taxation.  Legislature, CARB: Sustainable aviation fuel."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: Issues regarding jet fuel taxes.   Office of the Governor: Issues regarding airlines, SB 253, SB 261, and SB 478.   Legislature, CARB: Issues regarding sustainable aviation fuel."
       }
     ]
   },
@@ -5782,6 +5789,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "SB No. 696"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California Legislature was in recess"
       }
     ]
   },
@@ -16829,6 +16843,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "California Department of Education re: ESSA Equitable Services, EANS, AB 1503"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Education re: ESSA Equitable Services, EANS, AB 1503"
       }
     ]
   },
@@ -18658,6 +18679,13 @@
         "generalLobbying": 40536,
         "pucLobbying": 0,
         "lobbiedOn": "AB 101, AB 221, AB 269, AB 425, AB 1741, SB 496, SB 525, SB 625, SB 570, SB 598"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 20268,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB352, AB425, AB632, AB1013, AB1481, AB1741, SB496, SB525, SB770."
       }
     ]
   },
@@ -23298,6 +23326,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "No Bills Actively Lobbied."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No Bills Actively Lobbied."
       }
     ]
   },
@@ -24314,6 +24349,33 @@
     ]
   },
   {
+    "id": "1142903",
+    "name": "CALIFORNIA RADIOLOGICAL SOCIETY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 24346.03,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 257, 598; CA STATE SENATE RE: HEALTH COMMITTEE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 23251.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 257, 598; CA STATE SENATE RE: HEALTH COMMITTEE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 11985.81,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 257, 598; CA STATE SENATE RE: HEALTH COMMITTEE"
+      }
+    ]
+  },
+  {
     "id": "1144377",
     "name": "CALIFORNIA REAL ESTATE INSPECTION ASSOCIATION, INC.",
     "quarters": [
@@ -24549,6 +24611,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 3000,
         "pucLobbying": 0,
@@ -25201,6 +25270,33 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 33, 317, 425, 663, 782, 816, 948, 1021, 1060, 1241, 1286, 1288, 1341, 1557; SB 19, 90, 302, 339, 345, 694; GOVERNOR'S OFFICE RE: PHARMACY ISSUES, MEDI-CAL, MEDICATION MANAGEMENT"
+      }
+    ]
+  },
+  {
+    "id": "1142912",
+    "name": "CALIFORNIA SOCIETY OF PATHOLOGISTS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 19307.39,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15161.13,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10952.97,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -27121,6 +27217,13 @@
         "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 8162.52,
+        "pucLobbying": 0,
+        "lobbiedOn": "Assembly Bills: 246, 249, 287, 324, 347, 348, 407, 408, 421, 493, 495, 530, 552, 573, 590, 660, 678, 861, 863, 895, 891, 981, 99.  Senate Bills: 12, 244, 253, 271, 303, 353, 367, 378, 414, 552, 556, 560, 568, 613, 615, 665, 707, 728, 777, 854."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 3716.75,
         "pucLobbying": 0,
         "lobbiedOn": "Assembly Bills: 246, 249, 287, 324, 347, 348, 407, 408, 421, 493, 495, 530, 552, 573, 590, 660, 678, 861, 863, 895, 891, 981, 99.  Senate Bills: 12, 244, 253, 271, 303, 353, 367, 378, 414, 552, 556, 560, 568, 613, 615, 665, 707, 728, 777, 854."
       }
@@ -29128,6 +29231,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "The purpose of the lobbying efforts is to provide consultation and strategic advice for the Center for Elders' Independence regarding improving the eligibility and participation rate for PACE consumers at CEI with the California Department of Health Care Services."
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 9000,
         "pucLobbying": 0,
@@ -33212,6 +33322,13 @@
         "generalLobbying": 90.14,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 20.03,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS University of California Retirement System"
       }
     ]
   },
@@ -42641,6 +42758,13 @@
         "generalLobbying": 7318,
         "pucLobbying": 0,
         "lobbiedOn": "AB 101, AB 573, AB 595, AB 972, AB 1490, AB 1532, AB 1708, SB 43, SB 69, SB 363, SB 423, SB 751."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 11136,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB40, AB 281, AB349, AB434, AB480, AB531, AB764, AB821, AB894, AB932, AB965, AB1218, AB1285, AB1308, AB1734, ACA13, SB4, SB34, SB69, SB229, SB329, SB411, SB423, SB469."
       }
     ]
   },
@@ -43669,7 +43793,22 @@
   {
     "id": "1144354",
     "name": "FEDERATED HERMES, INC. (FORMERLY FEDERATED INVESTORS, INC.)",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2200,
+        "pucLobbying": 0,
+        "lobbiedOn": "Retention by Calpers as Placement Agent"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 2200,
+        "pucLobbying": 0,
+        "lobbiedOn": "Retention by Calpers as Placement Agent"
+      }
+    ]
   },
   {
     "id": "1319269",
@@ -51945,6 +52084,13 @@
         "generalLobbying": 25028.97,
         "pucLobbying": 0,
         "lobbiedOn": "AB1562  AB1569 AB1579 AB 1593  SB797 and Lithium Valley"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 58148.14,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -52080,6 +52226,11 @@
         "lobbiedOn": "SB 728"
       }
     ]
+  },
+  {
+    "id": "1465687",
+    "name": "INDEED",
+    "quarters": []
   },
   {
     "id": "1146451",
@@ -56226,7 +56377,7 @@
         "session": "2023-2024",
         "generalLobbying": 292.5,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -60337,6 +60488,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -63248,6 +63406,13 @@
         "generalLobbying": 10168,
         "pucLobbying": 0,
         "lobbiedOn": "No Bills Actively Lobbied."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 15252,
+        "pucLobbying": 0,
+        "lobbiedOn": "No Bills Actively Lobbied."
       }
     ]
   },
@@ -64688,6 +64853,13 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "Cal-OSHA (Silica Regulations)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Cal-OSHA (Silica Regulations)"
       }
     ]
   },
@@ -65859,6 +66031,11 @@
         "lobbiedOn": "Legislature regarding SB 707."
       }
     ]
+  },
+  {
+    "id": "1436308",
+    "name": "NATIONAL COUNSEL OF JEWISH WOMEN - LOS ANGELES",
+    "quarters": []
   },
   {
     "id": "1306605",
@@ -71154,6 +71331,13 @@
         "generalLobbying": 8295,
         "pucLobbying": 0,
         "lobbiedOn": "AB 101, AB 573, AB 595, AB 972, AB 1168, AB 1490, AB 1532, AB 1708, SB 43, SB 69, SB 363, SB 423, SB 751."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 20177,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB40, AB72, AB281, AB349, AB434, AB480, AB531, AB716, AB764, AB821, AB882, AB894, AB932, AB965, AB1218, AB1285, AB1308, AB1485, AB1490, AB1734, ACA13, SB4, SB34, SB69, SB229, SB329, SB411, SB423, SB469, SB704."
       }
     ]
   },
@@ -78633,6 +78817,13 @@
         "generalLobbying": 10752,
         "pucLobbying": 0,
         "lobbiedOn": "AB 101, AB 573, AB 595, AB 972, AB 1490, AB 1532, AB 1708, SB 43, SB 69, SB 363, SB 423, SB 751."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 10752,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB3, AB40, AB281, AB349, AB434, AB480, AB531, AB764, AB821, AB882, AB894, AB932, AB965, AB1218, AB1285, AB1308, AB1734, ACA13, SB4, SB34, SB69, SB229, SB329, SB411, SB423, SB469."
       }
     ]
   },
@@ -91820,6 +92011,13 @@
         "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature for bills and deferred interest financing"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 27000,
+        "pucLobbying": 0,
+        "lobbiedOn": "DOJ for financial services"
       }
     ]
   },
