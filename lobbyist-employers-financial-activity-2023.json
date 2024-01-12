@@ -3052,6 +3052,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -12005,6 +12012,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -20443,6 +20457,13 @@
         "generalLobbying": 37500,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -28067,6 +28088,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -36347,6 +36375,13 @@
         "generalLobbying": 36.17,
         "pucLobbying": 0,
         "lobbiedOn": "CALSTRS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 281.54,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALSTRS CALPERS UC Regents"
       }
     ]
   },
@@ -58004,6 +58039,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -58086,6 +58128,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -63851,6 +63900,13 @@
         "generalLobbying": 33892.14,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature reg AB 43, AB 1250, AB 1705, SB 261, SB 253, SB 308, SB 682. Air Resources Board reg AB 32, SB 596 implementation, carbon neutrality, cap and trade, SB 596 Workshop, Updated Scoping Plan implementation, Cap-and-Trade Regulation Workshops. State Water Resources Control Board reg hexavalent chromium."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 20982.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature reg SB 253, SB 261, SB 308. Legislature, CalRecycle, Air Resources Board reg alternative fuels. Air Resources Board reg cap and trade regulation workshops/implementation, AB 32 implementation, SB 596 workshop/implementation, SB 905 implementation, updated scoping plan implementation, CCUS and carbon neutrality."
       }
     ]
   },
@@ -68307,6 +68363,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "SB 353"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 353"
       }
     ]
   },
@@ -68438,6 +68501,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -91602,6 +91672,13 @@
         "generalLobbying": 1922.4,
         "pucLobbying": 0,
         "lobbiedOn": "CPUC Proceeding A.21-08-011; A.23-01-001"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 48630.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "CPUC Proceeding A.23-01-001; A.23-05-001"
       }
     ]
   },
