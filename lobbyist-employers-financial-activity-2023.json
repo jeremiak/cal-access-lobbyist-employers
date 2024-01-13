@@ -1582,6 +1582,13 @@
         "generalLobbying": 1770,
         "pucLobbying": 0,
         "lobbiedOn": "Office of the Treasurer of the Regents - University of California, CalPERS (California Public Employees' Retirement System), CalSTRS (California State Teachers' Retirement System)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 3068,
+        "lobbiedOn": "Office of the Treasurer of the Regents - University of California, CalPERS (California Public Employees' Retirement System), CalSTRS (California State Teachers' Retirement System)"
       }
     ]
   },
@@ -2110,6 +2117,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NIL"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -9100,6 +9114,13 @@
         "generalLobbying": 16104.41,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature reg AB 1489, SB 303, SB 665, SB 777. CalRecycle reg SB 54 implementation; plastic market development payment, comingled rate, SB 1013 implementation, general recycling, SB 343 implementation."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 15769.74,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, CalRecycle reg plastic bags and film plastic. CalRecycle reg SB 54 implementation, SB 343 implementation, SB 1013 implementation."
       }
     ]
   },
@@ -13554,6 +13575,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "UC Regents, CalSTRS and CalPERS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents, CalSTRS and CalPERS"
       }
     ]
   },
@@ -13718,6 +13746,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -14259,6 +14294,11 @@
         "lobbiedOn": "ABs 460, 1337; SB 389"
       }
     ]
+  },
+  {
+    "id": "1465951",
+    "name": "C&C NORTH AMERICA, INC. DBA COSENTINO",
+    "quarters": []
   },
   {
     "id": "1456348",
@@ -15177,6 +15217,11 @@
     ]
   },
   {
+    "id": "1465840",
+    "name": "CALIFORNIA ALLIANCE OF FAMILY BUSINESSES",
+    "quarters": []
+  },
+  {
     "id": "1338924",
     "name": "CALIFORNIA ALLIANCE OF TAXPAYER ADVOCATES",
     "quarters": [
@@ -15804,6 +15849,13 @@
         "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 77878.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: Legislature and the Governors Office regarding AB 90, AB 137, AB 815, AB 816, AB 1029, SB 137, SB 260, SB 357 and SB 385. Lobbied the Department of Health Care Services regarding Med-Cal provider manual."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 77956.86,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, re: Legislature and the Governors Office regarding AB 90, AB 137, AB 815, AB 816, AB 1029, SB 137, SB 260, SB 357 and SB 385. Lobbied the Department of Health Care Services regarding Med-Cal provider manual."
       }
@@ -27654,6 +27706,13 @@
         "generalLobbying": 35000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 421"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -28126,8 +28185,20 @@
         "generalLobbying": 808,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS, CalPERS: Investments"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 269,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS: Investments"
       }
     ]
+  },
+  {
+    "id": "1335357",
+    "name": "CAPVEST PARTNERS LLP",
+    "quarters": []
   },
   {
     "id": "1450569",
@@ -29894,6 +29965,13 @@
         "generalLobbying": 22761.5,
         "pucLobbying": 0,
         "lobbiedOn": "AB 8, 309, 480, 1637, ACA 13, SB 101, 103, 423, 747"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 309, 1637 ACA 13 SB 423"
       }
     ]
   },
@@ -29917,6 +29995,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 1075,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: INVESTMENTS; CalPERS: INVESTMENTS"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 1075,
         "pucLobbying": 0,
@@ -40835,6 +40920,13 @@
         "generalLobbying": 11250,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIAS STATE LEGISLATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE BUDGET"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIAS STATE LEGISLATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE BUDGET"
       }
     ]
   },
@@ -42743,6 +42835,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -44201,6 +44300,13 @@
         "generalLobbying": 65250,
         "pucLobbying": 0,
         "lobbiedOn": "NALOXONE DISTRIBUTION: DEPARTMENT OF HEALTHCARE SERVICES"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 65250,
+        "pucLobbying": 0,
+        "lobbiedOn": "California's CalRx Naloxone Access Initiative - Naloxone distribution--Department of Health Care Access & Information"
       }
     ]
   },
@@ -46225,6 +46331,13 @@
         "generalLobbying": 29011,
         "pucLobbying": 0,
         "lobbiedOn": "AB 3, AB 249, AB 280, AB 363, AB 443, AB 496, AB 505, AB 574, AB 600, AB 652, , AB 1082, AB 1104, AB 1118, AB 1125, AB 1167, AB 1306, AB 1310, AB 1423, AB 1510, AB 1584, AB 1628, SB 3, SB 48, SB 49, SB 50, SB 81, SB 94, SB 253, SB 261, SB 306, SB 474, SB 749, SB 799, Asked State Water Board to take steps to utilize federal funds for lead service replacement lines see also memo"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 17270,
+        "pucLobbying": 0,
+        "lobbiedOn": "Re FY 2024-25 Budget ECE rates? asked Gov. Newsom to adopt Alternative Methodology in January budget proposal and continue the roll out of the 200,000 Early Care and Education (ECE) spaces, per the commitment made in 2021-2022 budget in current year?s budget. See memo for more."
       }
     ]
   },
@@ -46715,6 +46828,13 @@
         "generalLobbying": 19084,
         "pucLobbying": 0,
         "lobbiedOn": "SB 707, Legislature regarding retail issues, organized retail crime issues."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 707, Legislature regarding retail issues, organized retail crime issues"
       }
     ]
   },
@@ -56629,6 +56749,13 @@
         "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 292.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 195,
         "pucLobbying": 0,
         "lobbiedOn": "None."
       }
@@ -70591,6 +70718,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -71662,6 +71796,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD."
       }
     ]
   },
@@ -71775,6 +71916,13 @@
         "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 2639,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS, CalPERS, and Office of the Treasurer of the Regents, University of California - Communications with listed plans to solicit an allocation to an alternative investment solution."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 14243,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS, CalPERS, and Office of the Treasurer of the Regents, University of California - Communications with listed plans to solicit an allocation to an alternative investment solution."
       }
@@ -79895,6 +80043,13 @@
         "generalLobbying": 50943.19,
         "pucLobbying": 0,
         "lobbiedOn": "AB 416, 518, 524, 546, 575, 593, 594, 840, 853, 1076, 1088, 1213, 1217, 1228, 1294, 1355, 1356, 1448, 1668, 1673; SB 76, 253, 261, 269, 277, 353, 388, 392, 399, 403, 430, 461, 476, 495, 497, 498, 572, 627, 723, 788,  844 "
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 25500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 348, 518, 593, 747, 929, 1045, 1301, 1372, 1391, 1397, 1527, 1626, 1719. SB 277, 330, 399, 430, 495, 572, 592, 809."
       }
     ]
   },
@@ -80196,6 +80351,13 @@
         "generalLobbying": 32618.71,
         "pucLobbying": 0,
         "lobbiedOn": "SB 2, SB 50, SB 58, SB 75, SB 377, SB 514, SB 602, SB 641, SCR 16, SCR 25, AB 33, AB 88, AB 92, AB 280, AB 296, AB 301, AB 791, AB 1027, AB 1034, AB 1463."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 32633.55,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 2, SB 50, SB 58, & AB 89."
       }
     ]
   },
@@ -91751,6 +91913,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 480.76,
+        "lobbiedOn": "CalPERS, CalSTRS"
       }
     ]
   },
@@ -101711,6 +101880,13 @@
         "generalLobbying": 3084.33,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature reg AB 1489, SB 303, SB 665, SB 777. CalRecycle reg SB 54 implementation."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 3711.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, CalRecycle reg plastic bags and film plastic. CalRecycle reg SB 54 implementation, SB 343 implementation, SB 1013 implementation."
       }
     ]
   },
