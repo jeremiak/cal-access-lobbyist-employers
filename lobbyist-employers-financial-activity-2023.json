@@ -14546,6 +14546,13 @@
         "generalLobbying": 28500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 52, AB 365, AB 425, SB 70, SB 90, SB 253, SB 257, SB 339, SB 496, SB 786, SB 873, Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable activity."
       }
     ]
   },
@@ -20855,6 +20862,13 @@
         "generalLobbying": 76500,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies: Legislature and Administration Issues: Title Protection, Budget, workforce issues, HiCAP related to workforce issues, dental anesthesia issues, BRN, DBC, SB 487, SB 667, AB 1707, AB 663, AB 765"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 255000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies: Legislature and Administration Issues: Title Protection, Budget, workforce issues, HiCAP related to workforce issues, dental anesthesia issues, BRN, DBC, SB 487, SB 667, AB 1707, AB 663, AB 765, CRNA week resolution"
       }
     ]
   },
@@ -31931,7 +31945,7 @@
         "session": "2023-2024",
         "generalLobbying": 233877.12,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 33, AB 78, AB 112, AB 118, AB 119, AB 262, AB 269, AB 286, AB 452, AB 504, AB 531, AB 537, AB 551, AB 557, AB 620, AB 637, AB 702, AB 764, AB 817, AB 910, AB 1020, AB 1047, AB 1057, AB 1168, AB 1213, AB 1248, AB 1484, AB 1499, AB 1504, AB 1637, AB 1701, AB 1713, ACA 1, ACA 13, SB 19, SB 35, SB 43, SB 96, SB 428, SB 282, SB 326, SB 525, SB 548, SB 551, SB 553, SB 558, SB 623, SB 799,"
+        "lobbiedOn": "AB 33, AB 78, AB 112, AB 118, AB 119, AB 262, AB 269, AB 286, AB 452, AB 504, AB 531, AB 537, AB 551, AB 557, SB 620, AB 637, AB 702, AB 764, AB 817, AB 910, AB 1020, AB 1047, AB 1057, AB 1168, AB 1213, AB 1248, AB 1484, AB 1499, AB 1504, AB 1637, AB 1701, AB 1713, ACA 1, ACA 13, SB 19, SB 35, SB 43, SB 96, SB 428, SB 282, SB 326, SB 525, SB 548, SB 551, SB 553, SB 558, SB 623, SB 799,"
       }
     ]
   },
@@ -37719,6 +37733,13 @@
         "generalLobbying": 16000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 28"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -39229,7 +39250,7 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 30000,
+        "generalLobbying": 75000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature on SB 598.  Lobbied the Department of Insurance on insurance related issues."
       }
@@ -62847,6 +62868,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1008; INTENDED USE PLAN: CALIFORNIA STATE WATER RESOURCES CONTROL BOARD"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 2500,
+        "pucLobbying": 0,
+        "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
       }
     ]
   },
@@ -70668,7 +70696,7 @@
   },
   {
     "id": "1146958",
-    "name": "KOCH GOVERNMENT AFFAIRS, LLC AND AFFILIATES",
+    "name": "KOCH GOVERNMENT AFFAIRS, LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -91404,6 +91432,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 101, 102"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 101, 102"
       }
     ]
   },
@@ -96526,9 +96561,16 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 8402.28,
         "pucLobbying": 0,
         "lobbiedOn": "AB 57, 67, 85, 99, 249, 311, 408, 418, 470, 608, 616, 762, 799, 912, 935, 958, 985, 1028, 1110, 1178, 1207, 1226, 1306, 1451 ACA 8 SB 11, 43, 225, 238, 245, 287, 291, 333, 348, 372, 410, 435, 469, 509, 525, 551, 567, 657, 673, 694"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 11657.3,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
