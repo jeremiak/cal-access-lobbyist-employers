@@ -22642,6 +22642,13 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 687 (Hart)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -70089,14 +70096,14 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 34558.24,
+        "generalLobbying": 30058.24,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 473; SB 478; Electrification Goals; California Air Resources Board: Electrification Goals; Governor's Office, GoBiz: Electrification Goals; Department of Transport: Electrification Goals"
       },
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 60058.24,
+        "generalLobbying": 25500,
         "pucLobbying": 0,
         "lobbiedOn": "Governor's Office: AB 473, SB 253; GoBiz: Electric Vehicle Issues"
       }
@@ -124615,7 +124622,7 @@
         "session": "2023-2024",
         "generalLobbying": 37500,
         "pucLobbying": 0,
-        "lobbiedOn": "Governor's Office re: AB 1817; Department of Toxic Substances Control, Office of Environmental Health Hazard Assessment, State Water Resources Control Board, California Air Resources Board, CalRecycle, Cal-EPA, Governor?s Office, re: environmental issues."
+        "lobbiedOn": "Governor's Office re: AB 1817; Department of Toxic Substances Control, Office of Environmental Health Hazard Assessment, State Water Resources Control Board, California Air Resources Board, CalRecycle, Cal-EPA, Governor?s Office, re: environmental issues. AB 1290."
       },
       {
         "quarter": "4th",
@@ -125983,9 +125990,9 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 30000,
+        "generalLobbying": 84603.06,
         "pucLobbying": 0,
-        "lobbiedOn": "BOARD OF REGISTERED NURSING, CA HEALTH AND HUMAN SERVICES AGENCY, DEPARTMENT OF COMMUNITY AFFAIRS (DCA) RE: ENROLLMENT APPLICATION FOR WEST COAST UNIVERSITY"
+        "lobbiedOn": "BOARD OF REGISTERED NURSING, CA HEALTH AND HUMAN SERVICES AGENCY, DEPARTMENT OF COMMUNITY AFFAIRS (DCA) RE: ENROLLMENT APPLICATION FOR WEST COAST UNIVERSITY; LEGISLATURE, DEPARTMENT OF CONSUMER AFFAIRS, BUSINESS AND CONSUMER SERVICES AND HOUSING AGENCY, HEALTH & HUMAN SERVICES AGENCY, GOVERNOR'S OFFICE RE BOARD OF REGISTERED NURSING ENROLLMENT APPROVALS"
       }
     ]
   },
