@@ -189,7 +189,7 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 30000,
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE."
       }
@@ -49967,6 +49967,13 @@
         "generalLobbying": 17886.05,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1099, AB 1197, AB 1563, AB 1657, AB 1763, AB 287, AB 305, AB 404, AB 405, AB 406, AB 408, AB 552, AB 585, AB 652, AB 68, AB 720, AB 779, AB/SB 102 , AB/SB 143, AB 2377, SB 102, SB 227, SB 253, SB 310, SB 337, SB 485, SB 675, SB 688, SB 709, Budget, CDFA re: AMMP, HSP, SWEEP Implementation,  (continued below in memo field)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 41256.02,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 406, AB 408, SB 675, AB 1757 Implementation, Budget Implementation, Climate Smart Agriculture program Implementation, CDFA Climate Smart Agriculture TA Program Implementation, CEC Climate Innovation Program"
       }
     ]
   },
