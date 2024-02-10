@@ -44343,7 +44343,7 @@
   },
   {
     "id": "1461236",
-    "name": "CORSAIR CAPITAL LLC",
+    "name": "CORSAIR CAPITAL LLC AND AFFILIATED ENTITY INVESTCORP CORSAIR INFRASTRUCTURE PARTNERS, L.P.",
     "quarters": [
       {
         "quarter": "3rd",
@@ -57546,7 +57546,7 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 8019.53,
+        "generalLobbying": 8109.53,
         "pucLobbying": 0,
         "lobbiedOn": ""
       }
@@ -59162,6 +59162,13 @@
         "quarter": "3rd",
         "session": "2023-2024",
         "generalLobbying": 27402.79,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor: AB 246, AB 251, AB 400, AB 480, AB 519, AB 645, AB 821, AB 972, AB 976, AB 1015, AB 1203, AB 1317, AB 1432, ACA 13, SB 4, SB 257, SB 423, SB 706, SB 734, SB 747"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and Governor: AB 246, AB 251, AB 400, AB 480, AB 519, AB 645, AB 821, AB 972, AB 976, AB 1015, AB 1203, AB 1317, AB 1432, ACA 13, SB 4, SB 257, SB 423, SB 706, SB 734, SB 747"
       }
@@ -66707,6 +66714,26 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "FAIR POLITICAL PRACTICES COMMISSION REGARDING PROPOSED LEGISLATION ON LOBBYING AUDITS."
+      }
+    ]
+  },
+  {
+    "id": "1436285",
+    "name": "INSTITUTIONAL VENTURE PARTNERS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 186223,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 186091,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
       }
     ]
   },
@@ -120032,6 +120059,13 @@
         "generalLobbying": 200,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature/DOF/GoBiz: Budget request for supporting worker ownership hub"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
