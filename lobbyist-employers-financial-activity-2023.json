@@ -68777,6 +68777,40 @@
     ]
   },
   {
+    "id": "1380385",
+    "name": "JANA PARTNERS MANAGEMENT, LP.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 39.06,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 58.59,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS UC Regents"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 27.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS UC Regents"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 125,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1456856",
     "name": "JAPAN SAKE AND SHOCHU MAKERS ASSN.",
     "quarters": []
@@ -75095,14 +75129,14 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 492369.55,
+        "generalLobbying": 500642.55,
         "pucLobbying": 0,
         "lobbiedOn": "AB 3 5 12 28 67 93 253 307 311 360 369 400 549 562 605 620 645 718 732 733 776 785 825 875 881 906 957 963 1037 1057 1156 1168 1181 1207 1261 1306 1322 1351 1377 1382 1386 1387 1431 1512 1536 1538 1565 1620 1638 1645 1738 ACA 4 5 SB 2 50 51 96 227 241 244 245 291 307 333 386 407 408 434 600 642 701 706 749 783"
       },
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 469869.55,
+        "generalLobbying": 578498.42,
         "pucLobbying": 0,
         "lobbiedOn": "none"
       }
@@ -109014,6 +109048,40 @@
     ]
   },
   {
+    "id": "1146843",
+    "name": "SIERRA CLUB",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 153608,
+        "pucLobbying": 0,
+        "lobbiedOn": "See Attached"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 283223,
+        "pucLobbying": 0,
+        "lobbiedOn": "See Attached"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 272305,
+        "pucLobbying": 0,
+        "lobbiedOn": "See Attached"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 461425,
+        "pucLobbying": 0,
+        "lobbiedOn": "See Attached"
+      }
+    ]
+  },
+  {
     "id": "1434318",
     "name": "SIERRA CONSORTIUM",
     "quarters": [
@@ -125885,6 +125953,40 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: ENERGY ISSUES"
+      }
+    ]
+  },
+  {
+    "id": "1335004",
+    "name": "WELLINGTON MANAGEMENT COMPANY LLP AND AFFILIATE WELLINGTON FUNDS DISTRIBUTORS INC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 25089.78,
+        "pucLobbying": 0,
+        "lobbiedOn": "INVESTMENTS - CALPERS, CALSTRS, UC REGENTS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2384.86,
+        "pucLobbying": 0,
+        "lobbiedOn": "INVESTMENTS - CALPERS, CALSTRS, UC REGENTS"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 28201.3,
+        "pucLobbying": 0,
+        "lobbiedOn": "INVESTMENTS - CALPERS, CALSTRS, UC REGENTS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 6663.11,
+        "pucLobbying": 0,
+        "lobbiedOn": "INVESTMENTS - CALPERS, CALSTRS, UC REGENTS"
       }
     ]
   },
