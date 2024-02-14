@@ -6939,6 +6939,11 @@
     ]
   },
   {
+    "id": "1384906",
+    "name": "AMERICAN PETROLEUM & CONVENIENCE STORE ASSOCIATION ",
+    "quarters": []
+  },
+  {
     "id": "1319004",
     "name": "AMERICAN PISTACHIO GROWERS ",
     "quarters": [
@@ -56187,6 +56192,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "State budget priority request for infrastructure project to office of Assemblymember Chris Ward and support request to Senator Pro Tem Toni Atkins"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied legislature on infrastructure improvements, increasing STEM exhibit access at the Fleet Science Center, and SB 104"
       }
     ]
   },
@@ -59866,7 +59878,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 98862.58,
+        "generalLobbying": 124086.07,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied on AB1128, AB1498, SB227, SB348, AB310, SB2567, ACA10.   Lobbied Legislature and Governor to impact state budget, re: Earned Income and Young Child Tax Credits."
       },
@@ -75507,6 +75519,11 @@
         "lobbiedOn": "CALSTRS: INVESTMENTS; UC RETIREMENT PLAN: INVESTMENTS"
       }
     ]
+  },
+  {
+    "id": "1465880",
+    "name": "LUNDBECK PHARMACEUTICALS LLC",
+    "quarters": []
   },
   {
     "id": "1143145",
@@ -96666,7 +96683,7 @@
         "session": "2023-2024",
         "generalLobbying": 11657.3,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "AB57, 85, 249, 608, 616, 912, 985, 1027, 1306, 1451 SB 435, 509, 551, 657, 694"
       }
     ]
   },
@@ -100335,6 +100352,11 @@
         "lobbiedOn": "None."
       }
     ]
+  },
+  {
+    "id": "1467015",
+    "name": "RMS, INC. ",
+    "quarters": []
   },
   {
     "id": "1244463",
@@ -123824,6 +123846,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -128363,7 +128392,15 @@
   {
     "id": "1465326",
     "name": "WOODSIDE ENERGY",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 75000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS QUARTER."
+      }
+    ]
   },
   {
     "id": "1412499",
