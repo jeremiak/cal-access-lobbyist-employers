@@ -9237,6 +9237,13 @@
         "generalLobbying": 2688,
         "pucLobbying": 0,
         "lobbiedOn": "Investments: CalPERS and CalSTRS."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 7304.63,
+        "pucLobbying": 0,
+        "lobbiedOn": "Investments: CalPERS; CalSTRS; UC Regents"
       }
     ]
   },
@@ -18210,6 +18217,11 @@
     ]
   },
   {
+    "id": "1467051",
+    "name": "CALICHE DEVELOPMENT PARTNERS, II, LLC",
+    "quarters": []
+  },
+  {
     "id": "1462759",
     "name": "CALIDI BIOTHERAPEUTICS INC ",
     "quarters": [
@@ -23815,7 +23827,7 @@
   },
   {
     "id": "1147089",
-    "name": "CALIFORNIA COMMUNICATIONS (CALCOM) ",
+    "name": "CALIFORNIA COMMUNICATIONS ASSOCIATION ",
     "quarters": [
       {
         "quarter": "1st",
@@ -25360,6 +25372,40 @@
         "generalLobbying": 54670.11,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor's Office, Department of Finance, Health and Human Services Agency, Department of Developmental Services, Department of Rehabilitation, Department of Health Care Services"
+      }
+    ]
+  },
+  {
+    "id": "1144213",
+    "name": "CALIFORNIA DISPUTE RESOLUTION COUNCIL (CDRC)",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 2000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 42 SB 365 AB 924"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 40 SB 42 SB 365 AB 924"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 40 SB 42 SB 365 AB 924"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 2000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -57735,40 +57781,6 @@
     ]
   },
   {
-    "id": "1377230",
-    "name": "FRM INVESTMENT MANAGEMENT (USA) LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE"
-      },
-      {
-        "quarter": "4th",
-        "session": "2023-2024",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE"
-      }
-    ]
-  },
-  {
     "id": "1364188",
     "name": "FRONTIER COMMUNICATIONS ",
     "quarters": [
@@ -73152,6 +73164,11 @@
     ]
   },
   {
+    "id": "1467087",
+    "name": "LIFESPOT TECHNOLOGY INC.",
+    "quarters": []
+  },
+  {
     "id": "1465263",
     "name": "LIFESTANCE HEALTH",
     "quarters": [
@@ -76532,6 +76549,40 @@
     ]
   },
   {
+    "id": "1377230",
+    "name": "MAN SOLUTIONS LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1449290",
     "name": "MANATT HOUSING SOLUTIONS LLC",
     "quarters": [
@@ -78408,6 +78459,13 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "DOT RE: TRANSPORTATION AND ECONOMIC DEVELOPMENT FUNDS"
+      },
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Transportation re: Merced County SHOPP Project Governor?s Office of Planning and Research, California Department of Transportation, California Transportation Commissionre & California State Transportation Agency: SR 99"
       }
     ]
   },
@@ -102709,6 +102767,11 @@
         "lobbiedOn": "SEE ATTACHMENT A"
       }
     ]
+  },
+  {
+    "id": "1143635",
+    "name": "SAN BERNARDINO; CITY OF",
+    "quarters": []
   },
   {
     "id": "1143534",
