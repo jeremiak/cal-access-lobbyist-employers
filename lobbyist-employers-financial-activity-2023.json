@@ -37336,7 +37336,7 @@
   },
   {
     "id": "1444095",
-    "name": "CERRITOS COLLEGE",
+    "name": "CERRITOS COMMUNITY COLLEGE DISTRICT",
     "quarters": [
       {
         "quarter": "1st",
@@ -66198,6 +66198,11 @@
     ]
   },
   {
+    "id": "1399307",
+    "name": "INFRAVIA CAPITAL PARTNERS",
+    "quarters": []
+  },
+  {
     "id": "1459858",
     "name": "INGEVITY",
     "quarters": [
@@ -66752,6 +66757,11 @@
         "lobbiedOn": "AB 1228; SB 253, 261"
       }
     ]
+  },
+  {
+    "id": "1465839",
+    "name": "INSTITUTE FOR COLLEGE ACCESS & SUCCESS; THE",
+    "quarters": []
   },
   {
     "id": "1449472",
@@ -91625,7 +91635,7 @@
   },
   {
     "id": "1357315",
-    "name": "PASADENA CITY COLLEGE",
+    "name": "PASADENA AREA COMMUNITY COLLEGE DISTRICT",
     "quarters": [
       {
         "quarter": "1st",
@@ -94701,6 +94711,11 @@
         "lobbiedOn": "SB 549; LEGISLATURE, GOVERNOR'S OFFICE, BUREAU OF GAMBLING CONTROL, DEPT OF JUSTICE, GAMBLING CONTROL COMMISSION RE: ISSUES RELATED TO CASINOS AND CARDROOMS IN CALIFORNIA"
       }
     ]
+  },
+  {
+    "id": "1465863",
+    "name": "PLAYWORKS",
+    "quarters": []
   },
   {
     "id": "1370474",
@@ -116654,7 +116669,7 @@
   },
   {
     "id": "1466296",
-    "name": "TECHEQIUTY ACTION",
+    "name": "TECHEQUITY ACTION",
     "quarters": []
   },
   {
