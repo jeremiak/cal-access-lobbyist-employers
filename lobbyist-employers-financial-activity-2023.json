@@ -14447,6 +14447,19 @@
     ]
   },
   {
+    "id": "1465904",
+    "name": "BHE RENEWABLES",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 360,
+        "pucLobbying": 0,
+        "lobbiedOn": "Energy Division, California Public Utilities Commission regarding green energy issues; legislature regarding implementation of AB 1373."
+      }
+    ]
+  },
+  {
     "id": "1232121",
     "name": "BI INCORPORATED, DBA BI CORRECTIONAL SERVICES",
     "quarters": [
@@ -33678,6 +33691,19 @@
     ]
   },
   {
+    "id": "1419340",
+    "name": "CALIFORNIA WATER UTILITY COUNCIL",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 458.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "None - Terminated 9/30/22"
+      }
+    ]
+  },
+  {
     "id": "1146990",
     "name": "CALIFORNIA WATERFOWL ASSOCIATION",
     "quarters": [
@@ -36346,40 +36372,6 @@
         "generalLobbying": 46320,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA LEGISLATURE REGARDING: AB 40, AB 977, AB 1316, SB 525"
-      }
-    ]
-  },
-  {
-    "id": "1307891",
-    "name": "CEDARWOOD-YOUNG COMPANY DBA ALLAN COMPANY",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 25500,
-        "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHED"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 25740,
-        "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHED"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 50000,
-        "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHED"
-      },
-      {
-        "quarter": "4th",
-        "session": "2023-2024",
-        "generalLobbying": 34000,
-        "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHED"
       }
     ]
   },
@@ -54798,6 +54790,11 @@
     ]
   },
   {
+    "id": "1467268",
+    "name": "FANTASY SPORTS ALLIANCE",
+    "quarters": []
+  },
+  {
     "id": "1224318",
     "name": "FAR WEST EQUIPMENT DEALERS ASSOCIATION",
     "quarters": [
@@ -67506,6 +67503,11 @@
         "lobbiedOn": "AB 43, California Building Standards Commission re: building codes"
       }
     ]
+  },
+  {
+    "id": "1452401",
+    "name": "INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS, LOCAL 26",
+    "quarters": []
   },
   {
     "id": "1143798",
@@ -112575,6 +112577,13 @@
         "generalLobbying": 198685.68,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS:  Investments, UC Regents:Investments"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 126908.96,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS:  Investments, UC Regents:Investments"
       }
     ]
   },
@@ -114920,6 +114929,40 @@
         "generalLobbying": 12093,
         "pucLobbying": 0,
         "lobbiedOn": "None. "
+      }
+    ]
+  },
+  {
+    "id": "1245200",
+    "name": "SUNPOWER CORPORATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 60100,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION, GOVERNOR'S OFFICE RE: NET ENERGY METERING (NEM); CA ENERGY COMMISSION RE: DEMAND SIDE GRID SUPPORT (DSGS); AB 2, AB 643, AB 1132, AB 1238; SB 49, SB 410"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 30905,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2, 643, 1132, 1238; SB 49, 410; CA PUBLIC UTILITIES COMMISSION, GOVERNOR'S OFFICE RE: NET ENERGY METERING (NEM); CA ENERGY COMMISSION RE: DEMAND SIDE GRID SUPPORT (DSGS)"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2, 643, 1132, 1238; SB 49, 410; CA PUBLIC UTILITIES COMMISSION, GOVERNOR'S OFFICE RE: NET ENERGY METERING (NEM); CA ENERGY COMMISSION RE: DEMAND SIDE GRID SUPPORT (DSGS)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 25807.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION, GOVERNOR'S OFFICE RE: VIRTUAL NET ENERGY METERING (VNEM), FIXED CHARGE, ROOFTOP SOLAR, BATTERY POLICY"
       }
     ]
   },
@@ -120975,6 +121018,11 @@
         "lobbiedOn": "AB 636, 775; Legislature: Identifying state funds for Life Long Clinics."
       }
     ]
+  },
+  {
+    "id": "1143878",
+    "name": "UNION OF CONCERNED SCIENTISTS",
+    "quarters": []
   },
   {
     "id": "1146885",
