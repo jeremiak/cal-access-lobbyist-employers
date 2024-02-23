@@ -833,7 +833,7 @@
         "lobbiedOn": "California State Teachers Retirement Plan  California Public Employees' Retirement System"
       },
       {
-        "quarter": "8th",
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -9300,6 +9300,11 @@
         "lobbiedOn": "NONE"
       }
     ]
+  },
+  {
+    "id": "1466867",
+    "name": "ARCADIA ",
+    "quarters": []
   },
   {
     "id": "1423861",
@@ -83122,6 +83127,40 @@
     ]
   },
   {
+    "id": "1335492",
+    "name": "NATIONAL HOME SERVICE CONTRACT ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None. "
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
     "id": "1425639",
     "name": "NATIONAL HOUSING LAW PROJECT",
     "quarters": [
@@ -109608,7 +109647,7 @@
   },
   {
     "id": "1342139",
-    "name": "SILICON VALLEY COMMUNITY FOUNDATION; THE",
+    "name": "SILICON VALLEY COMMUNITY FOUNDATION AND ITS AFFILIATES",
     "quarters": [
       {
         "quarter": "1st",
