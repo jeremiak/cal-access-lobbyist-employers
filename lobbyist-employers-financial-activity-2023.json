@@ -5520,6 +5520,11 @@
     ]
   },
   {
+    "id": "1420341",
+    "name": "AMERICAN ASSOCIATION OF ORTHODONTISTS (AAO)",
+    "quarters": []
+  },
+  {
     "id": "1348577",
     "name": "AMERICAN ASSOCIATION OF PAYERS, ADMINISTRATORS AND NETWORKS (AAPAN)",
     "quarters": [
@@ -25727,6 +25732,11 @@
     ]
   },
   {
+    "id": "1467007",
+    "name": "CALIFORNIA EMERGENCY RESPONSE RESILIENCY VENUES AND FAIRGROUNDS",
+    "quarters": []
+  },
+  {
     "id": "1385968",
     "name": "CALIFORNIA EMERGING TECHNOLOGY FUND",
     "quarters": [
@@ -37160,6 +37170,11 @@
         "lobbiedOn": "None"
       }
     ]
+  },
+  {
+    "id": "1467111",
+    "name": "CENTRAL VALLEY CIRCULAR",
+    "quarters": []
   },
   {
     "id": "1281961",
@@ -56697,6 +56712,11 @@
     ]
   },
   {
+    "id": "1146556",
+    "name": "FOOTHILL TRANSIT",
+    "quarters": []
+  },
+  {
     "id": "1146820",
     "name": "FORD MOTOR COMPANY AND ITS AFFILIATES",
     "quarters": [
@@ -63553,6 +63573,11 @@
         "lobbiedOn": "AB 524, AB 594, SB 616, SB 365, AB 1356, SB 525, SB 799; GOVERNOR'S OFFICE, DEPT OF FINANCE, LEGISLATURE, DIVISION OF LABOR STANDARDS ENFORCEMENT, LABOR AND WORKFORCE DEVELOPMENT AGENCY RE: LABOR & EMPLOYEMENT ISSUES"
       }
     ]
+  },
+  {
+    "id": "1402471",
+    "name": "HOLLYWOOD FOREVER",
+    "quarters": []
   },
   {
     "id": "1375609",
@@ -90319,6 +90344,19 @@
     ]
   },
   {
+    "id": "1466472",
+    "name": "PACIFICA; CITY OF ",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1145547",
     "name": "PACIFICORP",
     "quarters": [
@@ -114649,6 +114687,11 @@
     ]
   },
   {
+    "id": "1382101",
+    "name": "STUDENTS MATTER",
+    "quarters": []
+  },
+  {
     "id": "1223398",
     "name": "STYRENE INFORMATION AND RESEARCH CENTER, INC. (SIRC)",
     "quarters": [
@@ -120306,6 +120349,11 @@
         "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
       }
     ]
+  },
+  {
+    "id": "1467342",
+    "name": "TYLER TECHNOLOGIES, INC.",
+    "quarters": []
   },
   {
     "id": "1146093",
