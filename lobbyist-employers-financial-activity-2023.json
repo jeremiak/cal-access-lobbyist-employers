@@ -37848,9 +37848,9 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 24000,
+        "generalLobbying": 88000,
         "pucLobbying": 0,
-        "lobbiedOn": "none"
+        "lobbiedOn": "No Legislation or administrative actions lobbied this quarter."
       }
     ]
   },
@@ -50086,7 +50086,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 30717.04,
+        "generalLobbying": 27217.04,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1757 (C. Garcia and R. Rivas, 2022) implementation , AB 408, AB 552, SB 675, AB 404, AB 405, SB 227, Budget, SB 675, SB 485, AB 652, AB 1197, AB 1099, AB 1563, SB 688, Fire Prevention Grants Program, State Water Efficiency & Enhancement Program implementation, SALCP implementation, Healthy Soils Program block grant implementation"
       },
@@ -50100,7 +50100,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 17886.05,
+        "generalLobbying": 21386.05,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1099, AB 1197, AB 1563, AB 1657, AB 1763, AB 287, AB 305, AB 404, AB 405, AB 406, AB 408, AB 552, AB 585, AB 652, AB 68, AB 720, AB 779, AB/SB 102 , AB/SB 143, AB 2377, SB 102, SB 227, SB 253, SB 310, SB 337, SB 485, SB 675, SB 688, SB 709, Budget, CDFA re: AMMP, HSP, SWEEP Implementation,  (continued below in memo field)"
       },
@@ -54412,6 +54412,33 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 101, 105, 114, 141; Legislature, Department of Finance Re: State Budget"
+      }
+    ]
+  },
+  {
+    "id": "1145878",
+    "name": "EXPLORE INFORMATION SERVICES, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "DMV records access."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "DMV records access."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "DMV records access."
       }
     ]
   },
@@ -79716,7 +79743,7 @@
   },
   {
     "id": "1444934",
-    "name": "MIND OC",
+    "name": "MIND OC (BEWELL OC)",
     "quarters": [
       {
         "quarter": "1st",
@@ -82846,6 +82873,11 @@
         "lobbiedOn": "SB 271; LEGISLATURE, GOVERNOR'S OFFICE RE: SERVICE AND REPAIR ISSUES; DEPARTMENT OF HEALTH CARE SERVICES (DHCS) RE: PRIOR AUTHORIZATION FOR SERVICES AND REPAIR; CALIFORNIA DEPARTMENT OF FINANCE (DOF) RE: RATE REIMBURSEMENT, REPAIR ISSUES "
       }
     ]
+  },
+  {
+    "id": "1359260",
+    "name": "NATIONAL COFFEE ASSOCIATION; THE",
+    "quarters": []
   },
   {
     "id": "1460074",
@@ -123234,6 +123266,11 @@
         "lobbiedOn": "N/A"
       }
     ]
+  },
+  {
+    "id": "1467122",
+    "name": "VARCOMM",
+    "quarters": []
   },
   {
     "id": "1347508",
