@@ -2624,6 +2624,11 @@
     ]
   },
   {
+    "id": "1467307",
+    "name": "AGC AMERICA INC. AND SUBSIDIARIES",
+    "quarters": []
+  },
+  {
     "id": "1338618",
     "name": "AGF INVESTMENTS AMERICA INC.",
     "quarters": [
@@ -41098,6 +41103,11 @@
     ]
   },
   {
+    "id": "1467112",
+    "name": "COALITION FOR AFFORDABLE FAMILY FUN",
+    "quarters": []
+  },
+  {
     "id": "1442996",
     "name": "COALITION FOR CALIFORNIA CLIMATE AMBITION",
     "quarters": [
@@ -44199,9 +44209,9 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 5000,
-        "pucLobbying": 5000,
-        "lobbiedOn": ""
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor's Office/Legislature - SB 263"
       }
     ]
   },
@@ -59556,6 +59566,11 @@
     ]
   },
   {
+    "id": "1467449",
+    "name": "GLOBAL KRATOM COALITION",
+    "quarters": []
+  },
+  {
     "id": "1290486",
     "name": "GLOBAL MEDICAL RESPONSE (AFFILIATES AMERICAN MEDICAL RESPONSE & REACH AIR)",
     "quarters": [
@@ -59690,6 +59705,11 @@
         "lobbiedOn": "State Legislature Regarding: SB 54; SB 403"
       }
     ]
+  },
+  {
+    "id": "1420074",
+    "name": "GLYDWAYS, INC. ",
+    "quarters": []
   },
   {
     "id": "1426939",
@@ -64475,6 +64495,11 @@
   {
     "id": "1461922",
     "name": "HUDSON BAY CAPITAL MANAGEMENT LP",
+    "quarters": []
+  },
+  {
+    "id": "1467349",
+    "name": "HUDSON TECHNOLOGIES",
     "quarters": []
   },
   {
@@ -69784,6 +69809,11 @@
         "lobbiedOn": "NONE."
       }
     ]
+  },
+  {
+    "id": "1467283",
+    "name": "KARMA AUTOMOTIVE, LLC",
+    "quarters": []
   },
   {
     "id": "1413726",
@@ -89389,7 +89419,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 4289.64,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 399, AB 1594, SB 366 AND ACA 13."
       },
@@ -111141,6 +111171,11 @@
     ]
   },
   {
+    "id": "1466693",
+    "name": "SOLVD HEALTH",
+    "quarters": []
+  },
+  {
     "id": "1395867",
     "name": "SOMA EQUITY PARTNERS, LP",
     "quarters": [
@@ -114734,6 +114769,11 @@
     "quarters": []
   },
   {
+    "id": "1466866",
+    "name": "STX COMMODITIES, LLC ",
+    "quarters": []
+  },
+  {
     "id": "1223398",
     "name": "STYRENE INFORMATION AND RESEARCH CENTER, INC. (SIRC)",
     "quarters": [
@@ -116584,7 +116624,7 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 15200.17,
+        "generalLobbying": 15632.41,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS: investments, CalSTRS: investments, UC Regents: investments"
       }
