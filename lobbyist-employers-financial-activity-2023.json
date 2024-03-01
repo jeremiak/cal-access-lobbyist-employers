@@ -36401,6 +36401,40 @@
     ]
   },
   {
+    "id": "1307891",
+    "name": "CEDARWOOD-YOUNG COMPANY DBA ALLAN COMPANY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 25500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHED"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 25740,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHED"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHED"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 34000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHED"
+      }
+    ]
+  },
+  {
     "id": "1362778",
     "name": "CELEBRITY CASINOS ",
     "quarters": [
@@ -36433,6 +36467,11 @@
         "lobbiedOn": "AB 341"
       }
     ]
+  },
+  {
+    "id": "1467534",
+    "name": "CELL-ED, INC.",
+    "quarters": []
   },
   {
     "id": "1143554",
@@ -52508,11 +52547,6 @@
     ]
   },
   {
-    "id": "1465801",
-    "name": "END POVERTY IN CALIFORNIA ACTION AKA EPIC ACTION, A PROJECT OF TIDES ADVOCACY",
-    "quarters": []
-  },
-  {
     "id": "1245582",
     "name": "ENDANGERED HABITATS LEAGUE",
     "quarters": [
@@ -53291,6 +53325,11 @@
         "lobbiedOn": "AB 2, 3, 30, 38, 43, 45, 344, 585, 998; CA State Legislature re: Climate and Environmental Impact Issues; Ca State Legislature, Governor's Office re: Energy, Environment"
       }
     ]
+  },
+  {
+    "id": "1465801",
+    "name": "EPIC ACTION, A PROJECT OF TIDES ADVOCACY",
+    "quarters": []
   },
   {
     "id": "1459627",
@@ -73076,7 +73115,36 @@
   {
     "id": "1416198",
     "name": "LEXINGTON LAW FIRM",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
   },
   {
     "id": "1458005",
@@ -96519,7 +96587,36 @@
   {
     "id": "1416197",
     "name": "PROGREXION ASG, INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
   },
   {
     "id": "1451511",
@@ -118717,6 +118814,11 @@
     ]
   },
   {
+    "id": "1467290",
+    "name": "TRANSFORMCA (DBA TRANSFORM)",
+    "quarters": []
+  },
+  {
     "id": "1460082",
     "name": "TRANSFR, INC.",
     "quarters": [
@@ -124034,6 +124136,11 @@
   {
     "id": "1401645",
     "name": "VETCBD",
+    "quarters": []
+  },
+  {
+    "id": "1467517",
+    "name": "VETERANS GURDIAN VA CLAIM CONSULTING LLC",
     "quarters": []
   },
   {
