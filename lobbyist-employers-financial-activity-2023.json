@@ -2629,6 +2629,40 @@
     "quarters": []
   },
   {
+    "id": "1455994",
+    "name": "AGE OF LEARNING",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1338618",
     "name": "AGF INVESTMENTS AMERICA INC.",
     "quarters": [
@@ -9791,6 +9825,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "University of California Regents"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "- CalPERS - CalSTRS - LACERS - University of California Regents"
       }
     ]
   },
@@ -11857,6 +11898,11 @@
         "lobbiedOn": "CPUC Proceedings: COLR A.23-03-003"
       }
     ]
+  },
+  {
+    "id": "1467559",
+    "name": "ATA ACTION, CORP.",
+    "quarters": []
   },
   {
     "id": "1399085",
@@ -20851,6 +20897,40 @@
         "generalLobbying": 56703,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies:  Governor's Office Issues:  SB 372, SB 373    Agencies:  Legislature Issues:  SB 372, SB 373, AB 232, SB 766, AB 452, AB 665, ACA 5, ACR 70, HR 31, HR 33, SR 33, SB 331   SB 525, SB 43, AB 1058, AB 280"
+      }
+    ]
+  },
+  {
+    "id": "1143147",
+    "name": "CALIFORNIA ASSOCIATION OF MEDICAL PRODUCT SUPPLIERS (CAMPS)",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 23474.85,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MEDI-CAL REIMBURSEMENTS, PEIATRIC HEALTH FACILITIES, MEDI-CAL RATE INCREASE, MEDICAL SUPPLIES & DURABLE MEDICAL EQUIPMENT"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20342.86,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL RATES, BUDGET"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10446.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL RATES, BUDGET"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 13839.19,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -34727,6 +34807,11 @@
     ]
   },
   {
+    "id": "1467106",
+    "name": "CAMPUS CLINIC, LLC",
+    "quarters": []
+  },
+  {
     "id": "1460099",
     "name": "CAMSTON WRATHER LLC",
     "quarters": [
@@ -42697,7 +42782,7 @@
   },
   {
     "id": "1231658",
-    "name": "COMPASSION & CHOICES",
+    "name": "COMPASSION AND CHOICES ACTION NETWORK (CCAN)",
     "quarters": [
       {
         "quarter": "1st",
@@ -64211,6 +64296,11 @@
         "lobbiedOn": "PG&E ENERGIZATION; SB 284, AB 990"
       }
     ]
+  },
+  {
+    "id": "1467488",
+    "name": "HOUSING AND ECONOMIC RIGHTS ADVOCATES (HERA)",
+    "quarters": []
   },
   {
     "id": "1147052",
@@ -94349,6 +94439,11 @@
     ]
   },
   {
+    "id": "1467577",
+    "name": "PIONEER POINT PARTNERS LLP",
+    "quarters": []
+  },
+  {
     "id": "1387369",
     "name": "PISMO BEACH; CITY OF",
     "quarters": [
@@ -100163,6 +100258,11 @@
     ]
   },
   {
+    "id": "1467489",
+    "name": "RIDE",
+    "quarters": []
+  },
+  {
     "id": "1146203",
     "name": "RIDGECREST; CITY OF",
     "quarters": []
@@ -102739,6 +102839,11 @@
         "lobbiedOn": "None"
       }
     ]
+  },
+  {
+    "id": "1467441",
+    "name": "SAMUEL MERRITT UNIVERSITY",
+    "quarters": []
   },
   {
     "id": "1349139",
@@ -108244,6 +108349,11 @@
     ]
   },
   {
+    "id": "1467564",
+    "name": "SECURUS TECHNOLOGIES",
+    "quarters": []
+  },
+  {
     "id": "1361554",
     "name": "SEDGWICK CLAIMS MANAGEMENT SERVICES, INC.",
     "quarters": [
@@ -113331,6 +113441,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California Energy Commission re: Energy Assessments - Docket No. 23-IEPR-03 CEC IEPR Demand Forecast Inputs and Assumptions; Governor's office re: Energy Infrastructure - EO N-8-23; Legislature re: Energy Infrastructure."
+      }
+    ]
+  },
+  {
+    "id": "1285956",
+    "name": "STANBRIDGE UNIVERSITY",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 17500,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
       }
     ]
   },
@@ -124140,7 +124263,7 @@
   },
   {
     "id": "1467517",
-    "name": "VETERANS GURDIAN VA CLAIM CONSULTING LLC",
+    "name": "VETERANS GUARDIAN VA CLAIM CONSULTING LLC",
     "quarters": []
   },
   {
@@ -124552,6 +124675,11 @@
         "lobbiedOn": "NONE"
       }
     ]
+  },
+  {
+    "id": "1307413",
+    "name": "VINYL INSTITUTE",
+    "quarters": []
   },
   {
     "id": "1144492",
@@ -127927,6 +128055,11 @@
         "lobbiedOn": "CA STATE LEGISLATURE RE: AB 363; DEPT OF PESTICIDE REGULATION RE: MILL ASSESSMENT STUDY, CA-SPECIFIC CERTIFICATION & TRAINING REQUIREMENTS; DEPT OF TOXIC SUBSTANCES CONTROL RE: TREATED WOOD WASTE REPORTING PURSUANT TO AB 332; CA AIR RESOURCES BOARD RE: ZERO-EMISSION FORKLIFT, HEAVY DUTY INSPECTION & MAINTENANCE PROGRAM"
       }
     ]
+  },
+  {
+    "id": "1364186",
+    "name": "WESTERVELT ECOLOGICAL SERVICES",
+    "quarters": []
   },
   {
     "id": "1416022",
