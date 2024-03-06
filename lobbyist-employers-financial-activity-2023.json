@@ -9390,6 +9390,11 @@
     ]
   },
   {
+    "id": "1467675",
+    "name": "ARCADIAN INFRACOM, INC.",
+    "quarters": []
+  },
+  {
     "id": "1327359",
     "name": "ARCHER DANIELS MIDLAND",
     "quarters": [
@@ -36396,6 +36401,40 @@
     ]
   },
   {
+    "id": "1334485",
+    "name": "CBRE INVESTMENT MANAGEMENT, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 791,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 2373,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 1808,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 2712,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
+      }
+    ]
+  },
+  {
     "id": "1338645",
     "name": "CDH INVESTMENTS MANAGEMENT (HONG KONG) LIMITED",
     "quarters": [
@@ -37107,6 +37146,11 @@
     ]
   },
   {
+    "id": "1466669",
+    "name": "CENTRAL AMERICAN RESOURCE CENTER - CARECEN - OF CALIFORNIA",
+    "quarters": []
+  },
+  {
     "id": "1143799",
     "name": "CENTRAL BASIN MUNICIPAL WATER DISTRICT",
     "quarters": [
@@ -37701,6 +37745,11 @@
         "lobbiedOn": "CA Secretary of State; CA State Treasurer; CA Dept of Social Services; CA State Governor's office; CA State Legislature; CA Department of Finance, CalHR Re: Info Solutions; California Secretary of State Re: Supplemental Security Income Program"
       }
     ]
+  },
+  {
+    "id": "1467433",
+    "name": "CHABAD OF CAMARILLO",
+    "quarters": []
   },
   {
     "id": "1461821",
@@ -43428,6 +43477,11 @@
         "lobbiedOn": "NONE"
       }
     ]
+  },
+  {
+    "id": "1466907",
+    "name": "CONSORTIUM ON REACHING EXCELLENCE IN EDUCATION, INC. (CORE)",
+    "quarters": []
   },
   {
     "id": "1279056",
@@ -57464,6 +57518,19 @@
     ]
   },
   {
+    "id": "1418339",
+    "name": "FOX FOUNDATION FOR PARKINSON'S RESEARCH; THE MICHAEL J.",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1143658",
     "name": "FRAGRANCE CREATORS ASSOCIATION",
     "quarters": [
@@ -65321,6 +65388,11 @@
     ]
   },
   {
+    "id": "1351270",
+    "name": "III CAPITAL MANAGEMENT",
+    "quarters": []
+  },
+  {
     "id": "1384466",
     "name": "ILLUMINA",
     "quarters": [
@@ -65421,6 +65493,11 @@
         "lobbiedOn": "None This Period"
       }
     ]
+  },
+  {
+    "id": "1466751",
+    "name": "IMMIGRANT LEGAL DEFENSE",
+    "quarters": []
   },
   {
     "id": "1458434",
@@ -71906,6 +71983,40 @@
         "generalLobbying": 25000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1145632",
+    "name": "LANCASTER, CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 6, 7, 31, 53, 334, 400, 463, 499, 1335, 1550, 1702; SB 4, 5, 7; GOVERNOR'S OFFICE, CA ENERGY COMMISSION RE: HYDROGEN FUEL"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 6, 7, 31, 53, 334, 400, 463, 499, 1335, 1550, 1702; SB 4, 5, 7, 122, 123, 124, 125, 145, 146, 147, 149; GOVERNOR'S OFFICE, CA ENERGY COMMISSION RE: HYDROGEN FUEL"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 35000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 6, 7, 31, 53, 334, 400, 463, 499, 1335, 1550, 1702; SB 4, 5, 7, 122, 123, 124, 125, 145, 146, 147, 149; GOVERNOR'S OFFICE, CA ENERGY COMMISSION RE: HYDROGEN FUEL"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 6, 7, 31, 53, 334, 400, 463, 499, 1335, 1550, 1702; SB 4, 5, 7, 122, 123, 124, 125, 145, 146, 147, 149; LEGISLATURE RE: MONITORING HYDRO ENERGY; GOVERNOR'S OFFICE, CA ENERGY COMMISSION RE: HYDROGEN FUEL"
       }
     ]
   },
@@ -79530,19 +79641,6 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
-      }
-    ]
-  },
-  {
-    "id": "1418339",
-    "name": "MICHAEL J. FOX FOUNDATION FOR PARKINSON'S RESEARCH; THE",
-    "quarters": [
-      {
-        "quarter": "4th",
-        "session": "2023-2024",
-        "generalLobbying": 20000,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
       }
     ]
   },
@@ -98740,6 +98838,11 @@
     ]
   },
   {
+    "id": "1467567",
+    "name": "REAL JOURNEY ACADEMIES",
+    "quarters": []
+  },
+  {
     "id": "1339766",
     "name": "RECEIVABLES MANAGEMENT ASSOCIATION INTERNATIONAL (RMAI)",
     "quarters": [
@@ -103867,16 +103970,16 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 30750,
+        "generalLobbying": 45750,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: AB 3 AB 45 AB 953 AB 970 AB 1597 SB 410 SB 517 SB 605 SB 867; State Lands Commission re Budget port issues Resource Bonds"
+        "lobbiedOn": "Legislature re: AB 3 AB 45 AB 953 AB 970 AB 1597 SB 410 SB 517 SB 605 SB 867; Legislature Coastal Conservancy re AB 1567 SB 867; State Lands Commission re Budget port issues Resource Bonds"
       },
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 43878.06,
+        "generalLobbying": 59579.73,
         "pucLobbying": 0,
-        "lobbiedOn": "None for the period."
+        "lobbiedOn": "Legislature Coastal Conservancy re AB 1567 SB 867"
       }
     ]
   },
@@ -112747,6 +112850,11 @@
     ]
   },
   {
+    "id": "1467639",
+    "name": "SOUTHWESTERN LAW SCHOOL",
+    "quarters": []
+  },
+  {
     "id": "1356697",
     "name": "SPACE EXPLORATION TECHNOLOGIES CORP. (SPACEX)",
     "quarters": [
@@ -112818,6 +112926,11 @@
         "lobbiedOn": "NONE"
       }
     ]
+  },
+  {
+    "id": "1466889",
+    "name": "SPARK CAPITAL PARTNERS, LLC",
+    "quarters": []
   },
   {
     "id": "1465603",
