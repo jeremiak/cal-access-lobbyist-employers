@@ -14889,6 +14889,11 @@
     ]
   },
   {
+    "id": "1467727",
+    "name": "BISHOP; CITY OF",
+    "quarters": []
+  },
+  {
     "id": "1402813",
     "name": "BLACK WOMEN FOR WELLNESS ACTION PROJECT",
     "quarters": [
@@ -22549,6 +22554,11 @@
     ]
   },
   {
+    "id": "1467692",
+    "name": "CALIFORNIA BLOCKCHAIN ADVOCACY COALITION; THE",
+    "quarters": []
+  },
+  {
     "id": "1329794",
     "name": "CALIFORNIA BLUEBERRY COMMISSION",
     "quarters": [
@@ -29327,6 +29337,11 @@
         "lobbiedOn": "AB 886; Legislature: journalism in the digital age."
       }
     ]
+  },
+  {
+    "id": "1438026",
+    "name": "CALIFORNIA NORML",
+    "quarters": []
   },
   {
     "id": "1460656",
@@ -37146,6 +37161,40 @@
     ]
   },
   {
+    "id": "1335106",
+    "name": "CENTERSQUARE INVESTMENT MANAGEMENT LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1466669",
     "name": "CENTRAL AMERICAN RESOURCE CENTER - CARECEN - OF CALIFORNIA",
     "quarters": []
@@ -39099,6 +39148,11 @@
         "lobbiedOn": "Legislature re: FY24-25 Budget Funding"
       }
     ]
+  },
+  {
+    "id": "1467730",
+    "name": "CHINO VALLEY FIRE DISTRICT",
+    "quarters": []
   },
   {
     "id": "1283733",
@@ -44825,6 +44879,11 @@
         "lobbiedOn": "AB 82"
       }
     ]
+  },
+  {
+    "id": "1467425",
+    "name": "COUNCIL OF AUTISM SERVICE PROVIDERS (CASP)",
+    "quarters": []
   },
   {
     "id": "1143072",
@@ -55033,6 +55092,11 @@
         "lobbiedOn": "NONE"
       }
     ]
+  },
+  {
+    "id": "1378105",
+    "name": "FANDUEL GROUP INC.",
+    "quarters": []
   },
   {
     "id": "1467268",
@@ -69695,6 +69759,11 @@
     ]
   },
   {
+    "id": "1365664",
+    "name": "JOSEPH GALLO FARMS",
+    "quarters": []
+  },
+  {
     "id": "1463735",
     "name": "JOSHCO GROUP, LLC DBA VETERAN BENEFITS GUIDE",
     "quarters": [
@@ -80739,6 +80808,11 @@
         "lobbiedOn": "None."
       }
     ]
+  },
+  {
+    "id": "1467732",
+    "name": "MONTE VISTA WATER DISTRICT",
+    "quarters": []
   },
   {
     "id": "1143351",
@@ -102142,6 +102216,40 @@
     ]
   },
   {
+    "id": "1285853",
+    "name": "SACRAMENTO AREA SEWER DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 867 (Allen) Climate Bond, AB 1567 (Garcia) Climate Bond, SB 882 (Senate G&F Committee) State Water Resources Control Board ? CWSRF IUP; Enforcement Policy"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 12897.29,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 867 (Allen) Climate Bond, AB 1567 (Garcia) Climate Bond, SB 882 (Senate G&F Committee) State Water Resources Control Board - CWSRF IUP; Enforcement Policy"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 60676,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable activity this quarter."
+      }
+    ]
+  },
+  {
     "id": "1440473",
     "name": "SACRAMENTO ASIAN-PACIFIC CHAMBER OF COMMERCE",
     "quarters": [
@@ -102410,40 +102518,6 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
-      }
-    ]
-  },
-  {
-    "id": "1285853",
-    "name": "SACRAMENTO REGIONAL COUNTY SANITATION DISTRICT",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 16000,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 867 (Allen) Climate Bond, AB 1567 (Garcia) Climate Bond, SB 882 (Senate G&F Committee) State Water Resources Control Board ? CWSRF IUP; Enforcement Policy"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 12897.29,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 867 (Allen) Climate Bond, AB 1567 (Garcia) Climate Bond, SB 882 (Senate G&F Committee) State Water Resources Control Board - CWSRF IUP; Enforcement Policy"
-      },
-      {
-        "quarter": "4th",
-        "session": "2023-2024",
-        "generalLobbying": 60676,
-        "pucLobbying": 0,
-        "lobbiedOn": "No reportable activity this quarter."
       }
     ]
   },
@@ -104515,6 +104589,11 @@
         "lobbiedOn": "ABs 460, 1337; Legislature re: utility ratepayer arrearage funding, Governor's Office re: utility ratepayer arrearage funding"
       }
     ]
+  },
+  {
+    "id": "1467721",
+    "name": "SAN FRANCISCO SAFEHOUSE",
+    "quarters": []
   },
   {
     "id": "1146467",
@@ -125745,7 +125824,7 @@
         "session": "2023-2024",
         "generalLobbying": 110969.12,
         "pucLobbying": 0,
-        "lobbiedOn": "STATE LEGISLATURE REGARDING: AB 132, AB 613, SB 132, SB 644.      STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRODUCTION TAX CREDIT."
+        "lobbiedOn": "STATE LEGISLATURE REGARDING: AB 132, AB 613, SB 132, SB 644.        STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRODUCTION TAX CREDIT."
       },
       {
         "quarter": "3rd",
