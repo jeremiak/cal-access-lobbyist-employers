@@ -10040,6 +10040,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Department of Education, The California Department of Corrections and Rehabilitation, Governor's office, Health & Human Services Agencies, the Employment Development Department, Department of Health Care Services, and the State Legislature."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 111818.81,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Education, The California Department of Corrections and Rehabilitation, Governor's office, Health & Human Services Agencies, the Employment Development Department, Department of Health Care Services, and the State Legislature."
       }
     ]
   },
@@ -17295,6 +17302,13 @@
         "generalLobbying": 11243.75,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATION RELATING TO PROMOTING THE DEVELOPMENT OF NEW HOUSING"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 17500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Housing project streamlining legislation."
       }
     ]
   },
@@ -29447,7 +29461,7 @@
   },
   {
     "id": "1144677",
-    "name": "CALIFORNIA NURSE MIDWIVES ASSOCIATION",
+    "name": "CALIFORNIA NURSE-MIDWIVES ASSOCIATION",
     "quarters": [
       {
         "quarter": "1st",
@@ -96018,6 +96032,13 @@
         "generalLobbying": 40000,
         "pucLobbying": 0,
         "lobbiedOn": "No activity this quarter."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No activity this quarter."
       }
     ]
   },
@@ -125400,6 +125421,11 @@
         "lobbiedOn": "CARB and CEC regarding electric vehicle issues and Low Carbon Fuel Standard rule-making."
       }
     ]
+  },
+  {
+    "id": "1467735",
+    "name": "VOLTERA POWER LLC",
+    "quarters": []
   },
   {
     "id": "1441652",
