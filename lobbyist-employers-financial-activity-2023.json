@@ -8221,6 +8221,11 @@
     ]
   },
   {
+    "id": "1467760",
+    "name": "ANEW CARBON DEVELOPMENT, LLC",
+    "quarters": []
+  },
+  {
     "id": "1336777",
     "name": "ANGELO GORDON & CO. L.P.",
     "quarters": [
@@ -57414,7 +57419,7 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 31950.08,
+        "generalLobbying": 32540.08,
         "pucLobbying": 0,
         "lobbiedOn": "Tickets -- Legislature"
       }
@@ -72985,7 +72990,15 @@
   {
     "id": "1463866",
     "name": "LEFT LANE CAPITAL LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   },
   {
     "id": "1447727",
@@ -96081,6 +96094,11 @@
         "lobbiedOn": "LEGISLATURE: ISSUES RELATED TO LAND USE AND HOUSING"
       }
     ]
+  },
+  {
+    "id": "1467758",
+    "name": "PRETEND CITY CHILDREN'S MUSEUM",
+    "quarters": []
   },
   {
     "id": "1396813",
@@ -125018,6 +125036,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 575,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -129905,6 +129930,33 @@
     "id": "1466554",
     "name": "YWCA GLA URBAN CAMPUS DEVELOPMENT CORP.",
     "quarters": []
+  },
+  {
+    "id": "1448800",
+    "name": "YWCA OF THE HARBOR AREA & SOUTH BAY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature RE: state budget"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature RE: state budget"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature RE: state budget"
+      }
+    ]
   },
   {
     "id": "1351513",
