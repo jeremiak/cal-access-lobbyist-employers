@@ -6920,6 +6920,11 @@
     ]
   },
   {
+    "id": "1467818",
+    "name": "AMERICAN MODERN INSURANCE GROUP, INC.",
+    "quarters": []
+  },
+  {
     "id": "1144963",
     "name": "AMERICAN MOTORCYCLE ASSOCIATION, DISTRICT 36",
     "quarters": [
@@ -8730,26 +8735,6 @@
         "generalLobbying": 12196.3,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
-      }
-    ]
-  },
-  {
-    "id": "1462415",
-    "name": "ANTIOCH; UNIVERSITY OF",
-    "quarters": [
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 10007.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "GOVERNOR'S OFFICE, DEPARTMENT OF FINANCE, LEGISLATURE RE: LABOR CODE AND ADJUNCT PROFESSORS"
-      },
-      {
-        "quarter": "4th",
-        "session": "2023-2024",
-        "generalLobbying": 10036.96,
-        "pucLobbying": 0,
-        "lobbiedOn": "GOVERNOR'S OFFICE, DEPARTMENT OF FINANCE, LEGISLATURE RE: LABOR CODE AND ADJUNCT PROFESSORS"
       }
     ]
   },
@@ -31307,6 +31292,11 @@
     ]
   },
   {
+    "id": "1467810",
+    "name": "CALIFORNIA RURAL LEGAL ASSISTANCE, INC.",
+    "quarters": []
+  },
+  {
     "id": "1460189",
     "name": "CALIFORNIA SAND AND GRAVEL COMPANY, LLC",
     "quarters": [
@@ -35900,6 +35890,11 @@
         "lobbiedOn": "Dept. of Finance Re: 2023-24 Annual Recognized Obligation Payment Schedule, ROPS.  ACA 13, SB 423"
       }
     ]
+  },
+  {
+    "id": "1467803",
+    "name": "CARTON COUNCIL OF NORTH AMERICA",
+    "quarters": []
   },
   {
     "id": "1427645",
@@ -41658,6 +41653,26 @@
     ]
   },
   {
+    "id": "1462415",
+    "name": "COALITION FOR THE COMMON GOOD DBA ANTIOCH UNIVERSITY",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 10007.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "GOVERNOR'S OFFICE, DEPARTMENT OF FINANCE, LEGISLATURE RE: LABOR CODE AND ADJUNCT PROFESSORS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 10036.96,
+        "pucLobbying": 0,
+        "lobbiedOn": "GOVERNOR'S OFFICE, DEPARTMENT OF FINANCE, LEGISLATURE RE: LABOR CODE AND ADJUNCT PROFESSORS"
+      }
+    ]
+  },
+  {
     "id": "1462188",
     "name": "COALITION FOR TICKET FAIRNESS",
     "quarters": [
@@ -43423,7 +43438,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 3750,
+        "generalLobbying": 2500,
         "pucLobbying": 0,
         "lobbiedOn": "None this period."
       },
@@ -79639,6 +79654,11 @@
     ]
   },
   {
+    "id": "1467769",
+    "name": "METTLER PACKAGING, LLC",
+    "quarters": []
+  },
+  {
     "id": "1385908",
     "name": "MFG ASSET MANAGEMENT AND ITS AFFILIATE MFG SERVICES LLC",
     "quarters": [
@@ -87926,6 +87946,11 @@
         "lobbiedOn": "NONE."
       }
     ]
+  },
+  {
+    "id": "1467842",
+    "name": "OFFERUP INC.",
+    "quarters": []
   },
   {
     "id": "1347905",
@@ -106686,7 +106711,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 1000,
+        "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "None this period."
       },
@@ -111172,7 +111197,7 @@
   },
   {
     "id": "1366123",
-    "name": "SOCIETY FOR HUMAN RESOURCE MANAGEMENT",
+    "name": "SOCIETY FOR HUMAN RESOURCE MANAGEMENT (SHRM)",
     "quarters": [
       {
         "quarter": "1st",
