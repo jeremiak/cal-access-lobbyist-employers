@@ -8469,6 +8469,11 @@
     ]
   },
   {
+    "id": "1467863",
+    "name": "ANIMAL POLICY GROUP",
+    "quarters": []
+  },
+  {
     "id": "1439966",
     "name": "ANTARA CAPITAL LP",
     "quarters": [
@@ -35701,6 +35706,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -101603,6 +101615,11 @@
     ]
   },
   {
+    "id": "1466289",
+    "name": "ROOT & REBOUND",
+    "quarters": []
+  },
+  {
     "id": "1143034",
     "name": "ROSEMEAD; CITY OF",
     "quarters": [
@@ -124230,6 +124247,11 @@
         "lobbiedOn": "AB 702"
       }
     ]
+  },
+  {
+    "id": "1467431",
+    "name": "VERA ACTION, INC.",
+    "quarters": []
   },
   {
     "id": "1290569",
