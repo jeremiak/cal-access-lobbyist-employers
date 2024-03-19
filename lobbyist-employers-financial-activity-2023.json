@@ -48951,9 +48951,9 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 7000,
+        "generalLobbying": 11455,
         "pucLobbying": 0,
-        "lobbiedOn": "None"
+        "lobbiedOn": "AB 375, 502, 518, 546, 575, 926, 1217, 1336, 1489; SB 277"
       }
     ]
   },
@@ -117879,7 +117879,7 @@
         "session": "2023-2024",
         "generalLobbying": 45000,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -119724,7 +119724,7 @@
         "session": "2023-2024",
         "generalLobbying": 649.02,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None."
       }
     ]
   },
