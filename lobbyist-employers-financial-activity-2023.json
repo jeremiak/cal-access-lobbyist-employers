@@ -12893,6 +12893,11 @@
     ]
   },
   {
+    "id": "1467691",
+    "name": "B. BRAUN MEDICAL, INC.",
+    "quarters": []
+  },
+  {
     "id": "1437912",
     "name": "BACKCOUNTRY HUNTERS & ANGLERS ",
     "quarters": [
@@ -38439,7 +38444,7 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 4924088.01,
+        "generalLobbying": 4894088.01,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A"
       },
@@ -44504,6 +44509,19 @@
     ]
   },
   {
+    "id": "1465488",
+    "name": "CORENERGY INFRASTRUCTURE TRUST, INC.",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
+      }
+    ]
+  },
+  {
     "id": "1417494",
     "name": "CORNELL CAPITAL LLC",
     "quarters": [
@@ -50420,6 +50438,11 @@
         "lobbiedOn": "AB 406, AB 408, SB 675, AB 1757 Implementation, Budget Implementation, Climate Smart Agriculture program Implementation, CDFA Climate Smart Agriculture TA Program Implementation, CEC Climate Innovation Program"
       }
     ]
+  },
+  {
+    "id": "1467949",
+    "name": "EARTHGRID PBC",
+    "quarters": []
   },
   {
     "id": "1394967",
@@ -72681,7 +72704,7 @@
         "session": "2023-2024",
         "generalLobbying": 850.25,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "none"
       },
       {
         "quarter": "3rd",
@@ -82791,6 +82814,11 @@
         "lobbiedOn": "SYAS:  SB 44, SB 706, AB 18, AB 297, AB 505, AB 701, AB 1057.  Platinum:  NONE"
       }
     ]
+  },
+  {
+    "id": "1467951",
+    "name": "NAPHCARE, INC.",
+    "quarters": []
   },
   {
     "id": "1356539",
@@ -101338,6 +101366,11 @@
     ]
   },
   {
+    "id": "1467950",
+    "name": "ROBINHOOD MARKET, INC.",
+    "quarters": []
+  },
+  {
     "id": "1455614",
     "name": "ROBLOX CORPORATION",
     "quarters": []
@@ -105175,7 +105208,7 @@
         "session": "2023-2024",
         "generalLobbying": 10133.33,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "Gov's Office and California State Transportation Agency, re:  SB 125 Implementation."
       }
     ]
   },
