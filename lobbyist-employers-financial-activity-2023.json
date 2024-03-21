@@ -13975,6 +13975,11 @@
     ]
   },
   {
+    "id": "1467985",
+    "name": "BENCHMARK EDUCATION COMPANY LLC",
+    "quarters": []
+  },
+  {
     "id": "1467597",
     "name": "BENEFI360, LLC",
     "quarters": []
@@ -24216,6 +24221,11 @@
     ]
   },
   {
+    "id": "1146603",
+    "name": "CALIFORNIA COMMUNITY COLLEGES EXTENDED OPPORTUNITY PROGRAMS & SERVICES ASSOCIATION",
+    "quarters": []
+  },
+  {
     "id": "1446240",
     "name": "CALIFORNIA COMMUNITY FOUNDATION",
     "quarters": [
@@ -27715,7 +27725,7 @@
         "session": "2023-2024",
         "generalLobbying": 18000,
         "pucLobbying": 0,
-        "lobbiedOn": "AIR RESOURCES BOARD, CA ENERGY COMMISSION, PUBLIC UTILITY COMMISSION RE: ELECTRICAL GRID ISSUES"
+        "lobbiedOn": "LEGISLATURE, AIR RESOURCES BOARD, CA ENERGY COMMISSION, PUBLIC UTILITY COMMISSION RE: ELECTRICAL GRID ISSUES"
       }
     ]
   },
@@ -42203,6 +42213,20 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -116343,6 +116367,11 @@
     ]
   },
   {
+    "id": "1467991",
+    "name": "SYCAMORE PARTNERS MANAGEMENT, L.P. ",
+    "quarters": []
+  },
+  {
     "id": "1436278",
     "name": "SYCAMORE TREE CAPITAL PARTNERS, L.P.",
     "quarters": [
@@ -121760,6 +121789,11 @@
         "lobbiedOn": "NONE"
       }
     ]
+  },
+  {
+    "id": "1468010",
+    "name": "UNIDOSUS",
+    "quarters": []
   },
   {
     "id": "1146849",
