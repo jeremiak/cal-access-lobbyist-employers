@@ -52610,7 +52610,7 @@
     ]
   },
   {
-    "id": "1468020",
+    "id": "1293482",
     "name": "EMERGENT BIOSOLUTIONS INC. (EBSI)",
     "quarters": []
   },
@@ -69919,7 +69919,7 @@
         "session": "2023-2024",
         "generalLobbying": 40077.48,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "Legislature and Attorney General's Office re: Veteran's benefit assistance. No regulatory activity was conducted."
       }
     ]
   },
@@ -71069,9 +71069,31 @@
     ]
   },
   {
-    "id": "1462830",
+    "id": "1460990",
     "name": "KINGS III OF AMERICA",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 40000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Department of Public Health: swimming pool safety regulation"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: swimming pool safety regulation"
+      }
+    ]
   },
   {
     "id": "1145600",
