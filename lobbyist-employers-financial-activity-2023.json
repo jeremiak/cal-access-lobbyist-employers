@@ -22958,7 +22958,7 @@
         "session": "2023-2024",
         "generalLobbying": 180328.96,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "'none'"
       }
     ]
   },
@@ -45811,11 +45811,6 @@
         "lobbiedOn": "CalSTRS: Investments"
       }
     ]
-  },
-  {
-    "id": "1352938",
-    "name": "CREDIT VALUE PARTNERS, LLC",
-    "quarters": []
   },
   {
     "id": "1394094",
