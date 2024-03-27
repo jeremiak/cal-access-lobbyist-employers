@@ -2982,7 +2982,7 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 1200,
         "pucLobbying": 0,
         "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
       }
@@ -3718,7 +3718,7 @@
         "session": "2023-2024",
         "generalLobbying": 621891.7,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -10813,7 +10813,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 32592.1,
+        "generalLobbying": 46835.32,
         "pucLobbying": 0,
         "lobbiedOn": "AB 40, 242, 286, 480, 504, 524, 557, 918, 1202, 1484; ACA 1; SB 34, 299, 525, 747, 799"
       },
@@ -36029,6 +36029,11 @@
         "lobbiedOn": "None."
       }
     ]
+  },
+  {
+    "id": "1468155",
+    "name": "CAST & CREW LLC",
+    "quarters": []
   },
   {
     "id": "1361813",
@@ -71641,6 +71646,11 @@
     ]
   },
   {
+    "id": "1338012",
+    "name": "KSL ADVISORS, LLC DBA KSL CAPITAL PARTNERS",
+    "quarters": []
+  },
+  {
     "id": "1465964",
     "name": "KYA GROUP; THE",
     "quarters": []
@@ -77109,40 +77119,6 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 20100,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      }
-    ]
-  },
-  {
-    "id": "1415265",
-    "name": "MALLINCKRODT, LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 26600,
-        "pucLobbying": 0,
-        "lobbiedOn": "Implementation of CalRx- California Department of Health Care Access and Information"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 33100,
-        "pucLobbying": 0,
-        "lobbiedOn": "Implementation of CalRx- California Department of Health Care Access and Information Addiction Treatment- California Department of Corrections and Rehabilitation"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 13600,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "4th",
-        "session": "2023-2024",
-        "generalLobbying": 13600,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -113265,6 +113241,40 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None this period."
+      }
+    ]
+  },
+  {
+    "id": "1415265",
+    "name": "SPECGX LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 26600,
+        "pucLobbying": 0,
+        "lobbiedOn": "Implementation of CalRx- California Department of Health Care Access and Information"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 33100,
+        "pucLobbying": 0,
+        "lobbiedOn": "Implementation of CalRx- California Department of Health Care Access and Information Addiction Treatment- California Department of Corrections and Rehabilitation"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 13600,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 13600,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
