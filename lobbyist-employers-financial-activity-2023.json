@@ -7373,7 +7373,22 @@
   {
     "id": "1464300",
     "name": "AMERICAN SECURITIES LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
+      }
+    ]
   },
   {
     "id": "1143447",
@@ -19289,6 +19304,13 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Administrative Office of the Courts, re:  State Budget."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 12750,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and Administrative Office of the Courts, re:  State Budget."
       }
@@ -36815,6 +36837,11 @@
         "lobbiedOn": "SEE ATTACHMENT A"
       }
     ]
+  },
+  {
+    "id": "1466974",
+    "name": "CENTER FOR AI SAFETY ACTION FUND",
+    "quarters": []
   },
   {
     "id": "1317774",
@@ -99199,7 +99226,7 @@
         "session": "2023-2024",
         "generalLobbying": 12000,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -113965,6 +113992,11 @@
         "lobbiedOn": "NONE."
       }
     ]
+  },
+  {
+    "id": "1264857",
+    "name": "STANDARD FUSEE CORPORATION D/B/A ORION SAFETY PRODUCTS",
+    "quarters": []
   },
   {
     "id": "1399071",
