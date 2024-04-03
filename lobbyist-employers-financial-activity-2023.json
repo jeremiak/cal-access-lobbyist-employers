@@ -9725,6 +9725,13 @@
         "generalLobbying": 336.54,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 138.22,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS"
       }
     ]
   },
@@ -13771,6 +13778,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -14397,6 +14411,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 630,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative: Issues related to data brokers"
       }
     ]
   },
@@ -21312,6 +21333,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "California Department of Education re: ESSA Equitable Services, EANS, AB 1503"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Education re: ESSA Equitable Services, AB 1864, AB 2226, AB 2724, SB 1203, SB 1345, SB 1378."
       }
     ]
   },
@@ -22888,11 +22916,18 @@
         "lobbiedOn": "AB 687 (Hart)"
       },
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 687 (Hart); State Budget"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 18000,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "AB 657 (Hart); State Budget"
       }
     ]
   },
@@ -42266,6 +42301,13 @@
         "generalLobbying": 20.03,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS University of California Retirement System"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -46423,6 +46465,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -54101,6 +54150,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -66138,6 +66194,20 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS, CalSTRS, SFERS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, SFERS"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -78400,6 +78470,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS: Investments CalSTRS: Investments San Jose Retirement System and other CA local/state investment plans as applicable"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS: Investments CalSTRS: Investments San Jose Retirement System and other CA local/state investment plans as applicable"
       }
     ]
   },
@@ -80068,6 +80145,13 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 8800,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
       }
@@ -83017,6 +83101,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 240,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents: Investments."
       }
     ]
   },
@@ -88102,6 +88193,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -88166,6 +88264,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "OEP Capital Advisors, L.P.'s California registered lobbyists, David Lippin and Grace Ma, solicited private equity investment opportunities to multiple California public pension plans during the reporting period. The CA public pension plans included CalPERS, CalSTRS, and SFERS."
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -93512,6 +93617,13 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 27.04,
+        "pucLobbying": 0,
+        "lobbiedOn": "Seeking to manage investments: CalPERS and CalSTRS."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 53.97,
         "pucLobbying": 0,
         "lobbiedOn": "Seeking to manage investments: CalPERS and CalSTRS."
       }
@@ -109882,6 +109994,11 @@
     ]
   },
   {
+    "id": "1467869",
+    "name": "SHENKMAN & HUGHES PC",
+    "quarters": []
+  },
+  {
     "id": "1457907",
     "name": "SHIFTSMART",
     "quarters": [
@@ -116991,6 +117108,20 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
       }
     ]
   },
@@ -117092,7 +117223,7 @@
         "session": "2023-2024",
         "generalLobbying": 4000,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "No reportable activity"
       }
     ]
   },
@@ -119443,7 +119574,7 @@
         "session": "2023-2024",
         "generalLobbying": 20000,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -120506,6 +120637,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 250,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 250,
         "pucLobbying": 0,
