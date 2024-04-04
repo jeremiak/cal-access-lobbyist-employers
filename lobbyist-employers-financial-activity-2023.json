@@ -9691,6 +9691,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
       }
     ]
   },
@@ -12687,6 +12694,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -14058,6 +14072,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 365.97,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
       }
     ]
   },
@@ -25864,6 +25885,13 @@
         "generalLobbying": 37500,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -32734,6 +32762,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "HIGH-SPEED RAIL BILLS; Railroad Safety; long trains; Off-Track Vehicle transportation Safety;"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "HIGH-SPEED RAIL BILLS; Railroad Safety; long trains; Off-Track Vehicle transportation Safety; Autonomous Vehicles"
       }
     ]
   },
@@ -40331,6 +40366,11 @@
         "lobbiedOn": "STATE LEGISLATURE REGARDING: AB 1757, SB 365, SB 581."
       }
     ]
+  },
+  {
+    "id": "1468299",
+    "name": "CJ AMERICA, INC.",
+    "quarters": []
   },
   {
     "id": "1335456",
@@ -62420,6 +62460,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -64977,6 +65024,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 28750,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teacher's Retirement System ('CalSTRS') and The California Public Employees' Retirement System ('CalPERS'), San Diego County Employee Retirement System, San Jose Federated City Employees' Retirement System, Los Angeles Water & Power Employees Retirement Plan, San Francisco Employees' Retirement System"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 28750,
         "pucLobbying": 0,
@@ -87977,7 +88031,7 @@
         "session": "2023-2024",
         "generalLobbying": 23426.23,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 1407, 1489, 1628; SB 303; LEGISLATURE, OCEAN PROTECTION COUNCIL, DEPARTMENT OF FISH AND WILDLIFE, FISH AND GAME COMMISSION RE: FISHERIES POLICY, PLASTICS REDUCTION POLICY; CALRECYCLE RE: SB 54 IMPLEMENTATION"
+        "lobbiedOn": "AB 1407, 1489, 1628; SB 303; LEGISLATURE, OCEAN PROTECTION COUNCIL, DEPARTMENT OF FISH AND WILDLIFE, FISH AND GAME COMMISSION RE: FISHERIES POLICY, PLASTICS REDUCTION POLICY, PORTS & SHIPPING POLLUION; CALRECYCLE RE: SB 54 IMPLEMENTATION; AIR RESOURCES BOARD RE: SHIPPING AND VESSELL EMISSIONS."
       }
     ]
   },
@@ -97613,6 +97667,13 @@
         "generalLobbying": 1825,
         "pucLobbying": 0,
         "lobbiedOn": "CONTACTED CALPERS, CALSTRS, AND UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 385,
+        "pucLobbying": 0,
+        "lobbiedOn": "CONTACTED CALPERS, CALSTRS, AND UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
       }
     ]
   },
@@ -98552,6 +98613,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -101812,6 +101880,13 @@
         "generalLobbying": 7584.59,
         "pucLobbying": 0,
         "lobbiedOn": "There were investor meetings with UC Regents, CalPERS & CalSTRS during the fourth quarter."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "There were no investor meetings with California State Agencies during the quarter."
       }
     ]
   },
@@ -129027,6 +129102,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
