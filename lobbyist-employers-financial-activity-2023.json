@@ -29610,6 +29610,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "No Bills Actively Lobbied."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 381 AB 509 AB 644 AB 764 AB 1189 AB 1390 AB 1411 AB 1630 AB 1666 AB 2510"
       }
     ]
   },
@@ -35685,9 +35692,9 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 49500,
+        "generalLobbying": 58500,
         "pucLobbying": 0,
-        "lobbiedOn": "CDE DOF SBE Governor\u0012s Office State Legislature Re: State Budget; AB 2573 AB 2058"
+        "lobbiedOn": "State Legislature Governor's Office CA Dept. of Ed. CA Dept. of Fin. SSPI SBE Re: State Budget "
       }
     ]
   },
@@ -50084,6 +50091,13 @@
         "generalLobbying": 44500,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 19500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -54337,6 +54351,13 @@
         "generalLobbying": 11136,
         "pucLobbying": 0,
         "lobbiedOn": "AB40, AB 281, AB349, AB434, AB480, AB531, AB764, AB821, AB894, AB932, AB965, AB1218, AB1285, AB1308, AB1734, ACA13, SB4, SB34, SB69, SB229, SB329, SB411, SB423, SB469."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 49456,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 817 AB 1335 AB 1792 AB 1932 AB 2089 AB 2291 AB 2361 AB 2479 AB 2502 AB 2825 AB 3135 SB 450 SB 867 SB 1052 SB 1408 SB 1512"
       }
     ]
   },
@@ -57415,6 +57436,11 @@
         "lobbiedOn": "California Public Utilities Commission on issues pertaining to distributed solar and storage. Legislature regarding budget items related to the RES-BCT program."
       }
     ]
+  },
+  {
+    "id": "1417996",
+    "name": "FORESITE CAPITAL MANAGEMENT, LLC",
+    "quarters": []
   },
   {
     "id": "1336504",
@@ -62338,6 +62364,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor's Office, Franchise Tax Board regarding tax preparer legislation, earned income tax credit and SB 565, AB 1002"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding tax preparer policies."
       }
     ]
   },
@@ -67033,9 +67066,9 @@
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 0,
+        "generalLobbying": 5500,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -71294,6 +71327,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 48, AB 869, AB 1001, AB 1007, AB 1091, AB 1092, AB 1156, AB 1356, AB 1392, AB 1471, SB 525, SB 598, SB 759, SB 870"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 412, AB 869, AB 1001, AB 2200, AB 2297, AB 2549, AB 2899, AB 3129, AB 3162, AB 3232, SB 112, SB 598, SB 759, SB 1119, SB 1432"
       }
     ]
   },
@@ -73107,6 +73147,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -75888,6 +75935,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 2250,
+        "pucLobbying": 0,
+        "lobbiedOn": "No Bills Actively Lobbied."
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 2250,
         "pucLobbying": 0,
@@ -79788,6 +79842,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -80177,28 +80238,28 @@
       {
         "quarter": "1st",
         "session": "2023-2024",
-        "generalLobbying": 25600,
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "generalLobbying": 26400,
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
       },
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 27345,
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
       },
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "generalLobbying": 8800,
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
       },
@@ -82753,6 +82814,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -89279,6 +89347,13 @@
         "generalLobbying": 36800,
         "pucLobbying": 0,
         "lobbiedOn": "DEPARTMENT OF INSURANCE REGARDING CAR SHARE LEGISLATIURE REGARDING; AB 1095"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 42167.47,
+        "pucLobbying": 0,
+        "lobbiedOn": "DEPARTMENT OF INSURANCE REGARDING CAR SHARING LEGISLATION; LEGISLATURE REGARDING AB 1095"
       }
     ]
   },
@@ -92422,6 +92497,13 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS and CalSTRS"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 721.15,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS and CalSTRS"
       }
@@ -103406,6 +103488,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -119054,6 +119143,13 @@
         "generalLobbying": 1081.74,
         "pucLobbying": 0,
         "lobbiedOn": "Investment Management: CalPERS, UC Regents"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -120909,6 +121005,13 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 36,
+        "pucLobbying": 0,
+        "lobbiedOn": "University of California Regents and CalSTRS: Investments"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 31.5,
         "pucLobbying": 0,
         "lobbiedOn": "University of California Regents and CalSTRS: Investments"
       }
