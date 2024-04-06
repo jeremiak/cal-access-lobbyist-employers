@@ -6048,6 +6048,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "CalOSHA regarding worker health and safety standards including exposure limits."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalOSHA regarding worker health and safety standards including exposure limits."
       }
     ]
   },
@@ -6751,6 +6758,13 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 18541.67,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -10628,6 +10642,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature regarding uncrewed aviation / drone legislation and regulations, AB 740.  Lobbied Governor?s office regarding AB 96, AB 1016 and SB 800."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding uncrewed aviation / drone legislation and regulations, AB 740, AB 2014, AB 2554, and AB 2681."
       }
     ]
   },
@@ -14974,7 +14995,15 @@
   {
     "id": "1467727",
     "name": "BISHOP; CITY OF",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 2000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
+      }
+    ]
   },
   {
     "id": "1402813",
@@ -18330,6 +18359,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -35017,6 +35053,11 @@
         "lobbiedOn": "California State Teachers Retirement System ('CalSTRS'), Orange County Employees Retirement System"
       }
     ]
+  },
+  {
+    "id": "1468380",
+    "name": "CAMPO KUMEYAAY NATION",
+    "quarters": []
   },
   {
     "id": "1467106",
@@ -53358,6 +53399,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -56260,6 +56308,11 @@
     ]
   },
   {
+    "id": "1467269",
+    "name": "FINANCIAL COUNSELING ASSOCIATION OF AMERICA (FCAA)",
+    "quarters": []
+  },
+  {
     "id": "1144544",
     "name": "FINANCIAL INDUSTRY REGULATORY AUTHORITY (FINRA)",
     "quarters": [
@@ -57436,11 +57489,6 @@
         "lobbiedOn": "California Public Utilities Commission on issues pertaining to distributed solar and storage. Legislature regarding budget items related to the RES-BCT program."
       }
     ]
-  },
-  {
-    "id": "1417996",
-    "name": "FORESITE CAPITAL MANAGEMENT, LLC",
-    "quarters": []
   },
   {
     "id": "1336504",
@@ -63578,6 +63626,13 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "Department of Parks and Recreation, Natural Resources Agency re: Parks Funding; Legislature Re: Budget; CA Department of Justice re: Grant Funding"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
       }
     ]
   },
@@ -81308,7 +81363,15 @@
   {
     "id": "1467732",
     "name": "MONTE VISTA WATER DISTRICT",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
+      }
+    ]
   },
   {
     "id": "1143351",
@@ -89177,6 +89240,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -90245,6 +90315,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -94073,6 +94150,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Governors Office and Legislature regarding alcohol legislation, direct to consumer policies, AB 1088, SB 277."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied Legislature regarding alcohol policies, direct to consumer shipping legislation, and SB 277."
       }
     ]
   },
@@ -95524,6 +95608,40 @@
         "generalLobbying": 150852.06,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
+      }
+    ]
+  },
+  {
+    "id": "1146778",
+    "name": "PLANNING AND CONSERVATION LEAGUE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 1615.39,
+        "pucLobbying": 0,
+        "lobbiedOn": "Bills/action:  AB 285 (2020) implementation, CAPTI/Executive Order N-19-19 implementation, SB 743 (2013) implementation, Federal Infrastructure Investment Act implementation, AB 460, AB 1337, SB 389, SB 571 SB 670, AB 1287, AB 68, SB423, SB270, AB 1633"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 3519.09,
+        "pucLobbying": 0,
+        "lobbiedOn": "Bills/action:  AB 285 (2020) implementation, CAPTI/Executive Order N-19-19 implementation, SB 743 (2013) implementation, Federal Infrastructure Investment Act implementation, AB 460, AB 1337, SB 389, SB 571, SB 670, AB 1287, AB 68, SB423, SB270, AB 1633, SB 393, AB 6, AB 7, SB 337, SB 781, AB 122, AB 124, AB 126, SB 145, SB 146, SB 147, SB 149, SB 150"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 1134.57,
+        "pucLobbying": 0,
+        "lobbiedOn": "Bills/action: AB 285 (2020) imp., CAPTI/Executive Order N-19-19 imp., SB 743 (2013) imp., Fed Infrastructure Investment Act imp., AB 460, AB 1337, SB 389, SB 571, SB 670, AB 1287, AB 68, SB423, SB270, AB 1633, SB 393, AB 6, AB 7, SB 337, SB 781, AB 122, AB 124, AB 126, SB 145, SB 146, SB 147, SB 149, SB 150, SB 253, SB 233, SB, AB 1567, SB 867, AB 241, AB 1628, AB 1407, SB 244, AB 418"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 365.37,
+        "pucLobbying": 0,
+        "lobbiedOn": "Bills/action: AB 285 (2020) imp., CAPTI/Executive Order N-19-19 imp., SB 743 (2013) imp., Fed Infrastructure Investment Act imp., AB 460, AB 1337, SB 571, SB 670"
       }
     ]
   },
@@ -100603,6 +100721,11 @@
         "lobbiedOn": "SEE ATTACHMENT A"
       }
     ]
+  },
+  {
+    "id": "1468374",
+    "name": "RESOURCE LEGACY FUND",
+    "quarters": []
   },
   {
     "id": "1145607",
@@ -106077,7 +106200,15 @@
   {
     "id": "1447180",
     "name": "SAN JUAN BAUTISTA; CITY OF",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 1250,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
+      }
+    ]
   },
   {
     "id": "1365582",
@@ -112873,6 +113004,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Nothing to report this quarter."
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -122024,7 +122162,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "generalLobbying": 25000,
+        "generalLobbying": 26009.76,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: ACA 6"
       },
@@ -125187,6 +125325,11 @@
     ]
   },
   {
+    "id": "1468375",
+    "name": "VERTICAL AVIATION INTERNATIONAL (VAI)",
+    "quarters": []
+  },
+  {
     "id": "1449435",
     "name": "VERTIMASS LLC",
     "quarters": [
@@ -125832,6 +125975,13 @@
         "generalLobbying": 36832,
         "pucLobbying": 0,
         "lobbiedOn": "State legislature, Governor's offices, Department of Health Care Access an Information: Promotoras Funding"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "State budget: promotores de salud capacity building funding, CHW funding Regulatory: Health and Human Services Agency, Department of Health Care Services, Department of Health Care Access and Information: promotores de salud capacity building funding, CHW certification"
       }
     ]
   },
@@ -129138,6 +129288,11 @@
         "lobbiedOn": "NONE."
       }
     ]
+  },
+  {
+    "id": "1395970",
+    "name": "WESTLANDS SOLAR PARK HOLDINGS, LLC, A DELAWARE LIMITED LIABILITY COMPANY",
+    "quarters": []
   },
   {
     "id": "1226414",
