@@ -3820,6 +3820,13 @@
         "generalLobbying": 400,
         "pucLobbying": 0,
         "lobbiedOn": "UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 225,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
       }
     ]
   },
@@ -4553,6 +4560,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS Re: Private Credit; CaLPERS Re: Sustainable Equity and FI Strategies"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "LACERS Re: Private Credit;  Legislature Re: Small Cap Value an existing account for an account review; Kern County Legislature Re: on Small Cap Value for an account review"
       }
     ]
   },
@@ -5107,6 +5121,13 @@
         "generalLobbying": 11026,
         "pucLobbying": 0,
         "lobbiedOn": "AB 21, SB 639; Legislature Re: Budget Items"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 7989,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 540, SB 639, AB 2680, AB 2689, AB 1968, SB 1285, AB 2207, AB 2620, AB 2636, AB 1993, AB 2075, AB 2148, AB 2356, AB 2428, AB 2541, AB 2549, AB 2704, SB 37, SB 1249"
       }
     ]
   },
@@ -9276,6 +9297,13 @@
         "generalLobbying": 78000,
         "pucLobbying": 0,
         "lobbiedOn": "Permit Assistance -- GO-Biz"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 59000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Workforce training -- Labor and Workforce Development Agency; Permit Assistance -- GO-Biz"
       }
     ]
   },
@@ -10350,6 +10378,13 @@
     "quarters": [
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -26580,6 +26615,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None Quarter 4, 2023"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2141 AB 2288 SB 1521"
       }
     ]
   },
@@ -42895,7 +42937,7 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 0,
-        "pucLobbying": 0,
+        "pucLobbying": 33750,
         "lobbiedOn": "Legislature, Attorney General"
       }
     ]
@@ -43994,6 +44036,13 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature regarding Recycling issues, SB 353, SB 277"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Recycling issues with the State Legislature, SB 277"
       }
     ]
   },
@@ -56786,6 +56835,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS CalSTRS University California Regents (California Institute of Technology)"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS CalSTRS University California Regents (California Institute of Technology)"
       }
     ]
   },
@@ -61796,6 +61852,11 @@
     ]
   },
   {
+    "id": "1468423",
+    "name": "GREEN PARENT HOLDCO, LLC (AFFILIATED WITH KOHLBERG KRAVIS ROBERTS & CO. L.P.)",
+    "quarters": []
+  },
+  {
     "id": "1464112",
     "name": "GREENGENSTORAGE LLC",
     "quarters": [
@@ -61968,6 +62029,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 340,
+        "pucLobbying": 0,
+        "lobbiedOn": "1/18: CalPERS - Meeting with multifamily team to review CalPERS? 2024 priorities (Jane Delfendahl, Robert Eberhardt, Liya Cornelius, Kaleigh Davis)  2/12- CalPERS - Meeting with multifamily team regarding Greystar Equity Partners Europe II 3/19- CalPERS - Meeting to review CalPERS requested global asset allocation proposal"
       }
     ]
   },
@@ -67212,6 +67280,11 @@
     ]
   },
   {
+    "id": "1393855",
+    "name": "INFRASTRUCTURE CAPITAL MANAGEMENT",
+    "quarters": []
+  },
+  {
     "id": "1399307",
     "name": "INFRAVIA CAPITAL PARTNERS",
     "quarters": []
@@ -68160,6 +68233,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -70098,6 +70178,11 @@
         "lobbiedOn": "CalSTRS"
       }
     ]
+  },
+  {
+    "id": "1467807",
+    "name": "JEWISH COMMUNITY RELATIONS COUNCIL OF SAN FRANCISCO MARIN AND THE PENINSULA",
+    "quarters": []
   },
   {
     "id": "1457066",
@@ -73263,6 +73348,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -73388,6 +73480,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 850.25,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 850.25,
         "pucLobbying": 0,
@@ -94358,6 +94457,11 @@
     ]
   },
   {
+    "id": "1421260",
+    "name": "PERIMETER SOLUTIONS LP",
+    "quarters": []
+  },
+  {
     "id": "1460081",
     "name": "PERK ADVOCACY",
     "quarters": [
@@ -96833,6 +96937,11 @@
         "lobbiedOn": "None"
       }
     ]
+  },
+  {
+    "id": "1395315",
+    "name": "POWERSCHOOL",
+    "quarters": []
   },
   {
     "id": "1418160",
@@ -101771,6 +101880,13 @@
         "generalLobbying": 32633.55,
         "pucLobbying": 0,
         "lobbiedOn": "SB 2, SB 50, SB 58, & AB 89."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 36153.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 21, SB 912, SB 989 ,  SB 011,  SB 1020,  SB 1026, SB 1126, SB 1219, AB 1299, AB 1772, AB 1972, AB 2002, AB 2807, & AB 3038."
       }
     ]
   },
@@ -102139,6 +102255,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -102994,6 +103117,11 @@
         "lobbiedOn": "See Attachment 1."
       }
     ]
+  },
+  {
+    "id": "1467771",
+    "name": "RWE OFFSHORE WIND HOLDINGS, LLC",
+    "quarters": []
   },
   {
     "id": "1460072",
@@ -105665,7 +105793,15 @@
   {
     "id": "1467721",
     "name": "SAN FRANCISCO SAFEHOUSE",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 963, AB 1956"
+      }
+    ]
   },
   {
     "id": "1146467",
@@ -109450,6 +109586,26 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 55000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "id": "1447886",
+    "name": "SECURE IDENTITY LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -116393,6 +116549,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied Cal OSHA regarding exposure limits"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied Cal OSHA regarding exposure limits"
       }
     ]
   },
@@ -116427,6 +116590,13 @@
         "generalLobbying": 48630.5,
         "pucLobbying": 0,
         "lobbiedOn": "CPUC Proceeding A.23-01-001; A.23-05-001"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 63038.68,
+        "pucLobbying": 0,
+        "lobbiedOn": "CPUC Proceeding A.23-01-001"
       }
     ]
   },
@@ -118389,6 +118559,26 @@
         "generalLobbying": 23000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "id": "1461360",
+    "name": "TEACHERS' CURRICULUM INSTITUTE (TCI)",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIAS STATE LEGISATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE BUDGET "
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 5500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
       }
     ]
   },
@@ -120774,6 +120964,13 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 649.02,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
       }
@@ -127517,6 +127714,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -130242,6 +130446,13 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature regarding recycling issues, SB 353, SB 277"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Recycling issues with the State Legislature, SB 277"
       }
     ]
   },
