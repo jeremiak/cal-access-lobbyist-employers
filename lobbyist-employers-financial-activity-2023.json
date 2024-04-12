@@ -1481,6 +1481,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -2366,6 +2373,13 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 338.94,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -7232,6 +7246,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -8106,6 +8127,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -10609,6 +10637,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 22500,
         "pucLobbying": 0,
@@ -13289,6 +13324,13 @@
         "generalLobbying": 47499.99,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE: SB 278"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 47499.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
       }
     ]
   },
@@ -15373,6 +15415,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -16969,6 +17018,13 @@
         "generalLobbying": 17000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature Re: Education, workforce needs for ICFs and homecare, provider rates;"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 17000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: Provider rates, proposed delay and ICF funding"
       }
     ]
   },
@@ -18311,6 +18367,40 @@
         "quarter": "4th",
         "session": "2023-2024",
         "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "id": "1425704",
+    "name": "CAHUILLA BAND OF INDIANS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: HYDROGEN PROJECT"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 549"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 549; GOVERNOR'S OFFICE RE: WATER SETTLEMENT AND GAMING COMPONENT"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 45000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -22804,6 +22894,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 2500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 2500,
         "pucLobbying": 0,
@@ -35114,6 +35211,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -35699,6 +35803,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -35733,6 +35844,13 @@
         "generalLobbying": 269,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS: Investments"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 680,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS: Investments"
       }
     ]
   },
@@ -37300,6 +37418,13 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "The purpose of the lobbying efforts is to provide consultation and strategic advice for the Center for Elders' Independence regarding improving the eligibility and participation rate for PACE consumers at CEI with the California Department of Health Care Services."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "The purpose of the lobbying efforts is to provide consultation and strategic advice for the Center for Elders' Independence regarding improving the eligibility and participation rate for PACE consumers at CEI with the California Department of Health Care Services."
       }
     ]
   },
@@ -37691,7 +37816,7 @@
         "session": "2023-2024",
         "generalLobbying": 12499.98,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -39567,7 +39692,15 @@
   {
     "id": "1467730",
     "name": "CHINO VALLEY FIRE DISTRICT",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 3600,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
+      }
+    ]
   },
   {
     "id": "1283733",
@@ -40126,6 +40259,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -40990,6 +41130,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -45574,6 +45721,13 @@
         "generalLobbying": 10306,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 21077,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -46017,6 +46171,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "University of California"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -56801,6 +56962,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -64026,6 +64194,40 @@
     ]
   },
   {
+    "id": "1430542",
+    "name": "HIDDEN HILLS, CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: BROWN ACT"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1351691",
     "name": "HIDDEN VILLA RANCH",
     "quarters": [
@@ -65400,6 +65602,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -67938,6 +68147,13 @@
         "generalLobbying": 186091,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS CalPERS"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 341347,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
       }
     ]
   },
@@ -68366,6 +68582,13 @@
         "generalLobbying": 28000,
         "pucLobbying": 20930,
         "lobbiedOn": "CalRecycle re: AB 793 SB 54 Implementation"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1147, SB 551, AB 2648, AB 3192"
       }
     ]
   },
@@ -72032,6 +72255,13 @@
         "generalLobbying": 195,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -73968,6 +74198,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -77844,40 +78081,6 @@
     ]
   },
   {
-    "id": "1356445",
-    "name": "MALLINCKRODT, LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2023-2024",
-        "generalLobbying": 7100,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2023-2024",
-        "generalLobbying": 20100,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2023-2024",
-        "generalLobbying": 26600,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "4th",
-        "session": "2023-2024",
-        "generalLobbying": 20100,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      }
-    ]
-  },
-  {
     "id": "1456833",
     "name": "MAMMOTH MAIN LODGE REDEVELOPMENT LLC",
     "quarters": [
@@ -81212,6 +81415,11 @@
     ]
   },
   {
+    "id": "1468535",
+    "name": "MIT45, INC",
+    "quarters": []
+  },
+  {
     "id": "1144130",
     "name": "MITSUBISHI CEMENT CORPORATION",
     "quarters": [
@@ -81502,6 +81710,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Department of Health Care Services regarding non-emergency and non-medical transportation provider enrollment issues."
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -82833,6 +83048,13 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "Governor?s office and CA Energy Commission regarding mineral issues and economic development issues."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 12515.58,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2400, Governor?s office, and California Energy Commission regarding mineral issues and economic development issues."
       }
     ]
   },
@@ -83923,6 +84145,13 @@
         "generalLobbying": 2170,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 7520,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2416, AB 2996, AB 3040, AB 3067, SB 946, SB 1060, SB 1296, Legislative Re: Completed Rate Application Proposed Regulations, Use of CAT Models Proposed Regulations"
       }
     ]
   },
@@ -86439,6 +86668,11 @@
     ]
   },
   {
+    "id": "1439090",
+    "name": "NIKOLA CORPORATION",
+    "quarters": []
+  },
+  {
     "id": "1371565",
     "name": "NINETY ONE NORTH AMERICA, INC.",
     "quarters": [
@@ -88894,6 +89128,11 @@
         "lobbiedOn": "NONE."
       }
     ]
+  },
+  {
+    "id": "1145264",
+    "name": "OFF ROAD VEHICLE LEGISLATIVE COALITION",
+    "quarters": []
   },
   {
     "id": "1467842",
@@ -93409,6 +93648,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -96739,6 +96985,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -99133,6 +99386,13 @@
       },
       {
         "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "5th",
         "session": "2023-2024",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -108218,6 +108478,13 @@
         "generalLobbying": 17100,
         "pucLobbying": 0,
         "lobbiedOn": "Govs Office and California State Transportation Agency, re: SB 125 Implementation."
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 17100,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: Maintenance of Budget Act of 2023-24 Transit Funding."
       }
     ]
   },
@@ -114851,6 +115118,40 @@
     ]
   },
   {
+    "id": "1356445",
+    "name": "ST SHARED SERVICES LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "generalLobbying": 7100,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "generalLobbying": 20100,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "generalLobbying": 26600,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "generalLobbying": 20100,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1415322",
     "name": "ST. JOHN'S COMMUNITY HEALTH (FORMERLY ST. JOHN'S WELL CHILD AND FAMILY CENTER) ",
     "quarters": [
@@ -116759,6 +117060,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -117608,6 +117916,13 @@
         "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "DOJ for financial services"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 28080,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1061, SB 1286"
       }
     ]
   },
@@ -125664,6 +125979,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS - California Public Employees' Retirement System"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 240,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS - California Public Employees' Retirement System CalSTRS: California State Teachers' Retirement System"
       }
     ]
   },
@@ -126272,6 +126594,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
       }
     ]
   },
