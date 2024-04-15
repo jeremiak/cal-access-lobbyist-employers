@@ -81453,6 +81453,13 @@
         "generalLobbying": 11000,
         "pucLobbying": 0,
         "lobbiedOn": "SB709"
+      },
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 828, AB 1864, AB 2870, SB 709, ACA 16"
       }
     ]
   },
