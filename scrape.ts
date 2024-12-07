@@ -96,7 +96,7 @@ async function scrapeLobbyistEmployerFinancialActivity(id: string): Promise<Quar
     const paymentCells = paymentRows[i].querySelectorAll('td')
     const quarter = paymentCells[1].innerText.trim()
     const session = paymentCells[0].innerText.trim()
-    const generalLobbying = +paymentCells[2].innerText.replaceAll(',', '').replace('$', '')
+    const generalLobbying = +paymentCells[2].innerText.replaceAll(',', '').replace('$', '').replaceAll('(', '').replaceAll(')', '') * (paymentCells[2].innerText.includes('(') ? -1 : 1)
     const pucLobbying = +paymentCells[3].innerText.replaceAll(',', '').replace('$', '')
 
     const lobbiedRow = lobbiedRows.find(row => row.innerText.includes(quarter))
