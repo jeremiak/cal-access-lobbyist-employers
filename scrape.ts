@@ -29,7 +29,7 @@ const employerQueue = new Queue({ concurrency })
 const employers: Employer[] = []
 const financialActivityQueue = new Queue({ concurrency })
 const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0'
-const session = args.session ? +args.session : 2023
+const session = args.session ? +args.session : 2025
 
 async function scrapeLobbyistEmployersForLetter(letter: string): Promise<Employer> {
   console.log(`Scraping lobbyist employers for ${letter}`)
