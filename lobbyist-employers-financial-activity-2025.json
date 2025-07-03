@@ -460,6 +460,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -1821,6 +1828,13 @@
         "generalLobbying": 19500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: Issues related to airlines, Issues related to wage statement policies; AB 325, AB 431, AB 839, AB 1065, AB 1109, AB 1150, AB 1221, AB 1331, SB 7, SB 95, SB 348, SB 763."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 19500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: Issues related to airlines, Issues related to wage statement policies; AB 325, AB 431, AB 839, AB 1065, AB 1109, AB 1150, AB 1221, AB 1293, AB 1331, SB 7, SB 95, SB 237, SB 238, SB 348, SB 763.   Governor's Office: Issues related to airline operations and aviation jobs."
       }
     ]
   },
@@ -6269,19 +6283,6 @@
     ]
   },
   {
-    "id": "1334632",
-    "name": "BROOKFIELD PRIVATE ADVISORS LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "UC Regents, CalSTRS and CalPERS"
-      }
-    ]
-  },
-  {
     "id": "1437592",
     "name": "BROOKFIELD PROPERTIES USA LLC",
     "quarters": [
@@ -7095,6 +7096,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 12750,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Administrative Office of the Courts, re:  State Budget."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 12750,
         "pucLobbying": 0,
@@ -17173,6 +17181,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -18683,6 +18698,11 @@
         "lobbiedOn": "SEE ATTACHMENT A    "
       }
     ]
+  },
+  {
+    "id": "1481757",
+    "name": "EARTH FUNERAL GROUP, INC.",
+    "quarters": []
   },
   {
     "id": "1467949",
@@ -22285,6 +22305,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -23298,6 +23325,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 11500,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -27963,7 +27997,15 @@
   {
     "id": "1468253",
     "name": "LONG BEACH CONTAINER TERMINAL",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
   },
   {
     "id": "1144307",
@@ -29449,19 +29491,6 @@
     ]
   },
   {
-    "id": "1473970",
-    "name": "MCCOURT PARTNERS REAL ESTATE LLC AND ITS AFFILIATES, CHAVEZ RAVINE LAND COMPANY LLC AND AERIAL RAPID TRANSIT TECHNOLOGIES LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 98795.4,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: SB 71, SB 629, SB 44 (2021) extension. California Department of Parks and Recreation re: LA Aerial Rapid Transit General Plan Amendment."
-      }
-    ]
-  },
-  {
     "id": "1245114",
     "name": "MCDONALD'S USA, LLC",
     "quarters": [
@@ -29942,6 +29971,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -31628,6 +31664,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 314.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 314.75,
         "pucLobbying": 0,
@@ -36358,6 +36401,13 @@
         "generalLobbying": 75,
         "pucLobbying": 0,
         "lobbiedOn": "CONTACTED CALPERS, CALSTRS, AND UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 50,
+        "pucLobbying": 0,
+        "lobbiedOn": "CONTACTED CALPERS AND CALSTRS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
       }
     ]
   },
@@ -36658,6 +36708,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -37969,6 +38026,13 @@
         "generalLobbying": 9289.35,
         "pucLobbying": 0,
         "lobbiedOn": "There were investor meetings with CalSTRS, CalPERS and UC Regents during the first quarter."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "There were no investor meetings with California State Agencies during the second quarter."
       }
     ]
   },
@@ -47179,6 +47243,11 @@
   {
     "id": "1476789",
     "name": "VSS FUND MANAGEMENT",
+    "quarters": []
+  },
+  {
+    "id": "1482136",
+    "name": "VSS GROUP",
     "quarters": []
   },
   {
