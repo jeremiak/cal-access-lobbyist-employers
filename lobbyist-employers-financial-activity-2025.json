@@ -811,6 +811,11 @@
     ]
   },
   {
+    "id": "1482182",
+    "name": "AFSCME LOCAL 1967",
+    "quarters": []
+  },
+  {
     "id": "1467307",
     "name": "AGC AMERICA INC. AND SUBSIDIARIES",
     "quarters": [
@@ -2344,6 +2349,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Travel Insurance"
+      }
+    ]
+  },
+  {
+    "id": "1405787",
+    "name": "AMERICAN INVESTMENT COUNCIL",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 45150,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding AB 1415, and SB 351."
       }
     ]
   },
@@ -6279,6 +6297,19 @@
         "generalLobbying": 45000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: AB 303, AB 1156, SB 283, SB 302, SB 540, IRA tax conformity, cap and trade, energy markets, battery storage, transmission, solar."
+      }
+    ]
+  },
+  {
+    "id": "1334632",
+    "name": "BROOKFIELD PRIVATE ADVISORS LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents, CalSTRS and CalPERS"
       }
     ]
   },
@@ -12092,6 +12123,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "HIGH-SPEED RAIL BILLS; Railroad Safety; long trains; Off-Track Vehicle transportation Safety; Autonomous Vehicles"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "HIGH-SPEED RAIL BILLS; Railroad Safety; long trains; Off-Track Vehicle transportation Safety; Autonomous Vehicles"
       }
     ]
   },
@@ -14553,6 +14591,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 496.07,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees' Retirement System (CalPERS) California State Teachers' Retirement System (CalSTRS) Regents of the University of California (UCOP)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 479.4,
         "pucLobbying": 0,
         "lobbiedOn": "California Public Employees' Retirement System (CalPERS) California State Teachers' Retirement System (CalSTRS) Regents of the University of California (UCOP)"
       }
@@ -22504,6 +22549,13 @@
         "generalLobbying": 2211.57,
         "pucLobbying": 0,
         "lobbiedOn": "Providing investment management services to California public retirement systems (CalSTRS and CalPERS)."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Providing investment management services to California public retirement systems (CalSTRS and CalPERS) and California Regents."
       }
     ]
   },
@@ -24420,6 +24472,11 @@
     ]
   },
   {
+    "id": "1481764",
+    "name": "IGNITE READING",
+    "quarters": []
+  },
+  {
     "id": "1324823",
     "name": "IGPS LOGISTICS, LLC",
     "quarters": [
@@ -25439,6 +25496,11 @@
   {
     "id": "1458641",
     "name": "INTERNATIONAL INTERIOR DESIGN ASSOCIATION, NORTHERN CALIFORNIA CHAPTER, INC.",
+    "quarters": []
+  },
+  {
+    "id": "1460289",
+    "name": "INTERNATIONAL LEGAL FINANCE ASSOCIATION",
     "quarters": []
   },
   {
@@ -28004,6 +28066,13 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CARB"
       }
     ]
   },
@@ -28677,6 +28746,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 165.87,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: Investments."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 365,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS: Investments."
       }
@@ -32470,19 +32546,6 @@
     "quarters": []
   },
   {
-    "id": "1145670",
-    "name": "NORTHERN CALIFORNIA WATER ASSOCIATION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 84218.12,
-        "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHMENT A.      "
-      }
-    ]
-  },
-  {
     "id": "1347895",
     "name": "NORTHERN TRUST INVESTMENTS, INC.",
     "quarters": []
@@ -33136,6 +33199,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -33266,6 +33336,13 @@
         "generalLobbying": 576.92,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS: Investments."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -33577,6 +33654,11 @@
         "lobbiedOn": "Legislature: Wildfire preparedness, homeowners insurance, infrastructure funding; AB 1, AB 279, AB 306, AB 544, AB 650, AB 906, AB 1456, SB 74, SB 79, SB 90, SB 239, SB 315, SB 456, SB 496, SB 569, SB 634, SB 677, SB 707"
       }
     ]
+  },
+  {
+    "id": "1481535",
+    "name": "ORORATECH USA INC.",
+    "quarters": []
   },
   {
     "id": "1479376",
@@ -38068,6 +38150,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -44932,6 +45021,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 1950,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS investments"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 1950,
         "pucLobbying": 0,
