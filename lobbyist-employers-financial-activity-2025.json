@@ -6154,6 +6154,13 @@
         "generalLobbying": 840,
         "pucLobbying": 0,
         "lobbiedOn": "California Public Employees Retirement System"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 960,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees Retirement System"
       }
     ]
   },
@@ -35463,6 +35470,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
