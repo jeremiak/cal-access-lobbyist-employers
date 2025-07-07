@@ -20320,7 +20320,15 @@
   {
     "id": "1480798",
     "name": "EVEZ CHARGING FOUNDATIONS",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature reg AB 39, AB 1132. Energy Commission reg IOU contracting."
+      }
+    ]
   },
   {
     "id": "1395446",
