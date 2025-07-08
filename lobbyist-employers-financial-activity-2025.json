@@ -838,6 +838,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NIL"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NIL"
       }
     ]
   },
@@ -5196,6 +5203,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California Public Employee?s Retirement System (CalPERS), California State Teachers Retirement Systems (CalSTRS), and the Regents of the University of California (Cal Regents)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employee?s Retirement System (CalPERS), California State Teachers Retirement Systems (CalSTRS), and the Regents of the University of California (Cal Regents)"
       }
     ]
   },
@@ -6110,6 +6124,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -6313,6 +6334,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents, CalSTRS and CalPERS"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -7883,6 +7911,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "California Department of Education re: ESSA Equitable Services, EANS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Education re: ESSA Equitable Services, EANS"
       }
     ]
   },
@@ -8015,6 +8050,11 @@
         "lobbiedOn": "DEPARTMENT OF JUSTICE RE: FLAVORED TOBACCO REGULATION     "
       }
     ]
+  },
+  {
+    "id": "1142868",
+    "name": "CALIFORNIA ASSOCIATION OF SANITATION AGENCIES",
+    "quarters": []
   },
   {
     "id": "1144835",
@@ -13330,6 +13370,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Budget Requests"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
       }
     ]
   },
@@ -17526,6 +17573,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -18657,6 +18711,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -19440,6 +19501,13 @@
     "id": "1418677",
     "name": "ELECTRONIC TRANSACTIONS ASSOCIATION",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 19500,
+        "pucLobbying": 0,
+        "lobbiedOn": "General Assembly, State Senate"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -20676,6 +20744,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -27876,6 +27951,13 @@
         "generalLobbying": 9215,
         "pucLobbying": 0,
         "lobbiedOn": "Housing Issues - Assembly: AB 317, AB 404, AB 609, AB 623, AB 712. Senate: SB 63, SB 74, SB 79, SB 328, SB 424, SB 429, SB 522, SB 607, SB 611."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 6666,
+        "pucLobbying": 0,
+        "lobbiedOn": "Housing Issues - Assembly: AB 11, AB 87, AB 130, AB 131, AB 306, AB 317, AB 623, AB 712, AB 818, AB 1152. Senate: SB 63, SB 71, SB 79, SB 233, SB 262, SB 328, SB 424, SB 429, SB 522, SB 543, SB 607, SB 715."
       }
     ]
   },
@@ -31171,6 +31253,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 240,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents: Investments."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 240,
         "pucLobbying": 0,
@@ -35087,6 +35176,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied Legislature regarding alcohol policies and taxes, delivery, direct to consumer shipping legislation, SB 495 and SB 277."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied Legislature regarding alcohol policies, AB 1246, and SB 45.  Lobbied the Governor?s Office, Legislature, and Calrecycle regarding CRV labeling statute."
       }
     ]
   },
@@ -35136,7 +35232,7 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 22641.14,
+        "generalLobbying": 22557.86,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 60, AB 823, AB 728, SB 236, SB 682 Lobbying on issues affecting the personal care industry."
       }
@@ -36009,6 +36105,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -43992,6 +44095,19 @@
     ]
   },
   {
+    "id": "1357607",
+    "name": "TA ASSOCIATES MANAGEMENT, L.P.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1143806",
     "name": "TABLE MOUNTAIN RANCHERIA",
     "quarters": [
@@ -45354,6 +45470,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 27,
+        "pucLobbying": 0,
+        "lobbiedOn": "University of California Regents and CalSTRS: Investments"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 27,
         "pucLobbying": 0,
