@@ -1772,6 +1772,13 @@
         "generalLobbying": 1094.36,
         "pucLobbying": 0,
         "lobbiedOn": "SB 412, SB 470, SB 250, AB 617, AB 403, AB 315, AB 83, Budget Request: California Alzheimer's Disease Centers (CADCs), Budget Request: Community Based Adult Services (CBAS)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 3531.54,
+        "pucLobbying": 0,
+        "lobbiedOn": "Please see memo text for list of legislative and agency actions lobbied."
       }
     ]
   },
@@ -2129,7 +2136,7 @@
         "session": "2025-2026",
         "generalLobbying": 24113.83,
         "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 823, AB 1304, SB 501, AB 682, CAL-RECYCLE DIRECTOR APPOINTMENT; CAL-RECYCLE REGARDING: SB 1143 IMPLEMENTATION; CALIFORNIA AIR RESOURCES BOARD REGARDING: AIR QUALITY REGULATORY ACTIVITY.    "
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 823, AB 1304, SB 501, SB 682, CAL-RECYCLE DIRECTOR APPOINTMENT; CAL-RECYCLE REGARDING: SB 1143 IMPLEMENTATION; CALIFORNIA AIR RESOURCES BOARD REGARDING: AIR QUALITY REGULATORY ACTIVITY.        "
       }
     ]
   },
@@ -2142,7 +2149,7 @@
         "session": "2025-2026",
         "generalLobbying": 24113.83,
         "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 823, AB 1304, SB 501, AB 682, CAL-RECYCLE DIRECTOR APPOINTMENT; CAL-RECYCLE REGARDING: SB 1143 IMPLEMENTATION; CALIFORNIA AIR RESOURCES BOARD REGARDING: AIR QUALITY REGULATORY ACTIVITY.    "
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 823, AB 1304, SB 501, SB 682, CAL-RECYCLE DIRECTOR APPOINTMENT; CAL-RECYCLE REGARDING: SB 1143 IMPLEMENTATION; CALIFORNIA AIR RESOURCES BOARD REGARDING: AIR QUALITY REGULATORY ACTIVITY.        "
       }
     ]
   },
@@ -3130,6 +3137,13 @@
         "generalLobbying": 96.85,
         "pucLobbying": 0,
         "lobbiedOn": "UC Regents: coinvestment in CityFibre; CalSTRS: proposed investment in Gator Co-Invest II."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 49.08,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS: proposed investment in CityFiber preferred equity opportunity; CalSTRS: proposed investment in Origis asset sales opportunity."
       }
     ]
   },
@@ -3454,6 +3468,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -4153,6 +4174,11 @@
     ]
   },
   {
+    "id": "1482337",
+    "name": "ASSOCIATION OF PROBATION SUPERVISORS, SEIU 721 BARGAINING UNIT 702, THE",
+    "quarters": []
+  },
+  {
     "id": "1393546",
     "name": "ASSOCIATION OF PROFESSIONAL LANDSCAPE DESIGNERS - CALIFORNIA CHAPTER",
     "quarters": [
@@ -4646,6 +4672,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -6275,6 +6308,13 @@
         "generalLobbying": 661.21,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS: proposed investment in Bridge Renewable Energy Fund Manager, Bridge Logistics Value Fund Manager; CalPERS: proposed investment in Bridge Renewable Energy Fund Manager, Bridge Logistics Value Fund Manager, and WF III."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -6334,6 +6374,19 @@
         "generalLobbying": 16500,
         "pucLobbying": 0,
         "lobbiedOn": "Nothing to Report."
+      }
+    ]
+  },
+  {
+    "id": "1460430",
+    "name": "BRIGHTLINE DEFENSE PROJECT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature - AB 1417"
       }
     ]
   },
@@ -7520,6 +7573,13 @@
         "generalLobbying": 27966.44,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, re: AB 583, SB 29 and AB 1450."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 52545.13,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: AB 346, AB 489, AB 583, AB 876, AB 1215, AB 1450, SB 29, SB 68, SB 497 and SB 626."
       }
     ]
   },
@@ -7738,6 +7798,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1288, AB 993, AB 1459, SB 635, SB 592, CDPH, CalEPA, DTSC"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 17864,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 28, AB 70, AB 372, AB 411, AB 518, AB 592, AB 626, AB 671, AB 696, AB 855, AB 993, AB 998, AB 1003, AB 1102, AB 1288,  AB 1459, AB 1470, SB 45, SB 68, SB 90, SB 404, SB 454, SB 561, SB 615, SB 635, SB 764, CDPH, CalEPA, DTSC"
       }
     ]
   },
@@ -7920,6 +7987,13 @@
         "generalLobbying": 56134,
         "pucLobbying": 0,
         "lobbiedOn": "AB 489, AB 779, SB 28, SB 579, BBS Sunset Review, MFT Workforce challenges"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 51788,
+        "pucLobbying": 0,
+        "lobbiedOn": "Issues:  AB 489, AB 510, AB 539, AB 779, SB 81, SB 497, SB 579,SB 775, BBS Sunset Review, MFT Workforce challenges"
       }
     ]
   },
@@ -13262,6 +13336,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "No reportable lobbying activity. This report is for the purpose of reporting payments received for work done in the 2023-2024 Session."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable lobbying activity. This report is for the purpose of reporting payments received for work done in the 2025-2025 Session."
       }
     ]
   },
@@ -16852,6 +16933,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -17781,6 +17869,13 @@
         "generalLobbying": 2153.31,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS: Investment management opportunities."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 409.44,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: Investment management opportunities. CalPERS: Investment management opportunities."
       }
     ]
   },
@@ -17904,6 +17999,11 @@
         "lobbiedOn": "NONE  "
       }
     ]
+  },
+  {
+    "id": "1481913",
+    "name": "DARIUS LABS INC.",
+    "quarters": []
   },
   {
     "id": "1388565",
@@ -19577,6 +19677,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable lobbying activity."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 40000,
         "pucLobbying": 0,
         "lobbiedOn": "No reportable lobbying activity."
       }
@@ -22110,6 +22217,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -27072,6 +27186,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies:  Legislature Issues:"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies:  Legislature Issues:"
       }
     ]
   },
@@ -27308,6 +27429,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 130,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
       }
@@ -33102,6 +33230,11 @@
     ]
   },
   {
+    "id": "1482132",
+    "name": "NORTH FORK KINGS GROUNDWATER SUSTAINABILITY AGENCY",
+    "quarters": []
+  },
+  {
     "id": "1145833",
     "name": "NORTH LAKE TAHOE RESORT ASSOCIATION, INC. DBA NORTH TAHOE COMMUNITY ALLIANCE",
     "quarters": [
@@ -33608,6 +33741,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature regarding AB 1009, AB 517 and AB 348."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding AB 517, AB 348, AB 489 and AB 346.  Lobbied the Legislature and Governors Office regarding AB 1009.  Lobbied the Department of Motor Vehicles regarding authority for occupational therapists to provide disability placards for eligible individuals."
       }
     ]
   },
@@ -34494,6 +34634,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD.      "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.        "
       }
     ]
   },
@@ -35759,6 +35906,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 4828.4,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS/CalSTRS - solicited CalPERS/CalSTRS for an investment in the fund/co-investment opportunities"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 6861.1,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS/CalSTRS - solicited CalPERS/CalSTRS for an investment in the fund/co-investment opportunities"
       }
@@ -37971,6 +38125,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -38803,6 +38964,11 @@
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 499; CALIFORNIA STATE LEGISLATURE, OFFICE OF THE GOVERNOR, DEPT. OF FINANCE, DEPT. OF HEALTH AND HUMAN SERVICES RE: STATE BUDGET, FARM WORKER HEALTH CARE COVERAGE        "
       }
     ]
+  },
+  {
+    "id": "1482335",
+    "name": "ROBERTS FAMILY DEVELOPMENT CENTER (RFDC), THE",
+    "quarters": []
   },
   {
     "id": "1380448",
@@ -39830,6 +39996,13 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1150"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 29198,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1150 AB 1331"
       }
     ]
   },
@@ -41880,6 +42053,13 @@
         "generalLobbying": 2250,
         "pucLobbying": 0,
         "lobbiedOn": "AB 2103; Legislature, Wildlife Conservation Board, Natural Resources Agency, State Costal Conservancy, Dept. of Fish and Wildlife, Dept. of Parks and Recreation: Natural resources, nature-based solutions, wildfire."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 2250,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 679, AB 900, SB 427, SB 653; Legislature, Wildlife Conservation Board, Natural Resources Agency, State Costal Conservancy, Dept. of Fish and Wildlife, Dept. of Parks and Recreation: Natural resources, nature-based solutions, wildfire."
       }
     ]
   },
@@ -42603,14 +42783,14 @@
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE"
+        "lobbiedOn": "SB 221, AB 347, AB 631, AB 478, AB 724, AB 793, AB 1382, AB 1482, AB 454, AB 506, AB 516, AB 519, AB 691, AB 867, AB 892, AB 902, AB 928, AB 1038, SB 312, SB 602, SB 818"
       },
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 0,
+        "generalLobbying": 26100,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE"
+        "lobbiedOn": "SB 221, AB 347, AB 631, AB 478, AB 724, AB 793, AB 1382, AB 1482, AB 454, AB 506, AB 516, AB 519, AB 691, AB 867, AB 892, AB 902, AB 928, AB 1038, SB 312, SB 602, SB 818"
       }
     ]
   },
@@ -46048,6 +46228,13 @@
         "generalLobbying": 12435.73,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS and CalSTRS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS and CalSTRS"
       }
     ]
   },
@@ -46072,6 +46259,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 220.32,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS"
       }
@@ -47960,6 +48154,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
