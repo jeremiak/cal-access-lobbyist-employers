@@ -2425,6 +2425,13 @@
         "generalLobbying": 45150,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature regarding AB 1415, and SB 351."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 45150,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding AB 1415, and SB 351."
       }
     ]
   },
@@ -5583,6 +5590,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "DHCS: Reimbursement rates; Legislature: Reimbursement rates, AMR Resolution."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "DHCS: Reimbursement rates; Legislature: Reimbursement rates, ACR94."
       }
     ]
   },
@@ -7684,6 +7698,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -23610,6 +23631,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature and Franchise Tax Board regarding tax preparation policies."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature and Franchise Tax Board regarding tax preparation policies."
       }
     ]
   },
@@ -29759,6 +29787,13 @@
         "generalLobbying": 45000,
         "pucLobbying": 0,
         "lobbiedOn": "Natural Resources Agency, Energy Commission re: linear generators, ARB re: Low Carbon Fuel Standard, Legislature re: SB 57, SB 58, SB 88, SB 377, AB 740"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Natural Resources Agency, Energy Commission re: linear generators, ARB re: Low Carbon Fuel Standard, Legislature re: SB 57, SB 58, SB 88, SB 377, AB 740, Energy Budget"
       }
     ]
   },
@@ -45143,6 +45178,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 30516.84,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature; CDPH:  AB 725; in-state manufacturing expansion; plasma collection site expansion; plasma statute promotion."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 33072.13,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature; CDPH:  AB 725; in-state manufacturing expansion; plasma collection site expansion; plasma statute promotion."
       }
