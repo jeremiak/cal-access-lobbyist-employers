@@ -3466,6 +3466,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD.    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.      "
       }
     ]
   },
@@ -15441,6 +15448,13 @@
         "generalLobbying": 1422.81,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS, CalSTRS, UC Retirement Plan: INVESTMENTS    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 1077.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS, UC Retirement Plan: INVESTMENTS      "
       }
     ]
   },
@@ -17086,6 +17100,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD.      "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.        "
       }
     ]
   },
@@ -24204,6 +24225,13 @@
         "generalLobbying": 75000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 8"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 75000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 8, SB 378"
       }
     ]
   },
@@ -28185,6 +28213,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD.    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.      "
       }
     ]
   },
@@ -40225,6 +40260,13 @@
         "generalLobbying": 32000.01,
         "pucLobbying": 0,
         "lobbiedOn": "ABs:  304, 481; SB 339"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 32000.01,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs:  229, 242, 304, 325, 481, 1145 SBs:  25, 53, 297, 310, 339, 351, 763 Legislature, Governor?s Office Re: State Budget regarding Department of Public Health Lab Fees"
       }
     ]
   },
@@ -44302,6 +44344,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "No Reportable Activity"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "No Reportable Activity"
       }
