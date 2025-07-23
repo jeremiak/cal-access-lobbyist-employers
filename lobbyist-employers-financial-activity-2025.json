@@ -1059,6 +1059,13 @@
         "generalLobbying": 75000,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE AND GOVERNOR'S OFFICE REGARDING AB 221; AB 362; STATE BUDGET.  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 100000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE REGARDING AB 52, AB 221, AB 362, AB 1004, AND STATE BUDGET."
       }
     ]
   },
@@ -1111,7 +1118,15 @@
   {
     "id": "1481855",
     "name": "AI SALON",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding AB 1018 and AB 412"
+      }
+    ]
   },
   {
     "id": "1147197",
@@ -1619,6 +1634,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -2035,6 +2057,13 @@
         "generalLobbying": 51332.1,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A        "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 60785.78,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A          "
       }
     ]
   },
@@ -3870,6 +3899,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -4308,6 +4344,13 @@
         "generalLobbying": 47200,
         "pucLobbying": 0,
         "lobbiedOn": "AB 259, 339, 340, 533, 614, 1109, 1331, 1337; SB 29, 239, 246, 669, 812; DEPARTMENT OF HEALTH CARE ACCESS AND INFORMATION RE: AB 869 IMPLEMENTATION; DEPARTMENT OF HEALTH CARE SERVICES, BEHAVIORAL HEALTH SERVICES OVERSIGHT & ACCOUNTABILITY RE: BEHAVIORAL HEALTH TRANSFORMATION  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 46500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 259, 339, 340, 370, 533, 614, 810, 1109, 1113, 1331, 1337; SB 7, 29, 239, 246, 596, 632, 669, 707, 812; DEPARTMENT OF HEALTH CARE ACCESS AND INFORMATION RE: AB 869 IMPLEMENTATION; DEPARTMENT OF HEALTH CARE SERVICES, BEHAVIORAL HEALTH SERVICES OVERSIGHT & ACCOUNTABILITY RE: BEHAVIORAL HEALTH TRANSFORMATION; LEGISLATURE, GOVERNOR'S OFFICE RE: BUDGET    "
       }
     ]
   },
@@ -4426,6 +4469,13 @@
         "generalLobbying": 16027.13,
         "pucLobbying": 0,
         "lobbiedOn": "SB 607, AB 609, CEQA issues"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 607, AB 609, AB 130, SB 131, CEQA issues"
       }
     ]
   },
@@ -5092,6 +5142,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB1156, SB302, SB540; LEGISLATURE: ENERGY POLICY; CA DEPT OF TRANSPORTATION: PROJECT PERMITTING.    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB1156, SB302"
       }
     ]
   },
@@ -5352,7 +5409,14 @@
         "session": "2025-2026",
         "generalLobbying": 19516.08,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE THIS REPORTING PERIOD"
+        "lobbiedOn": "NONE THIS REPORTING PERIOD  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE:  BUILDERS RECIPROCAL INSURANCE EXCHANGE CERTIFICATE OF AUTHORITY  "
       }
     ]
   },
@@ -5415,6 +5479,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "University of California Board of Regents, CalPERS, CalSTRS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 326.92,
         "pucLobbying": 0,
         "lobbiedOn": "University of California Board of Regents, CalPERS, CalSTRS"
       }
@@ -5833,6 +5904,13 @@
         "generalLobbying": 200,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS: Pension Fund Investments"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 100,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents: Pension Fund Investments"
       }
     ]
   },
@@ -6480,6 +6558,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 19500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 19500,
         "pucLobbying": 0,
@@ -7559,6 +7644,13 @@
         "generalLobbying": 8438.82,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 95, AB 313, AB 791, AB 850, SB 98, SB 271, SB 323, SB 416, SB 761, Budget. Governor's Office: AB 95, AB 313, AB 791, AB 850, SB 98, SB 271, SB 323, SB 416, SB 761, Budget."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15938.82,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 95, AB 313, AB 323, AB 791, AB 850, AB 1098, SB 98, SB 271, SB 323, SB 416, SB 761, Budget. Governor's Office: Budget."
       }
     ]
   },
@@ -7671,6 +7763,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA DEPARTMENT OF CONSERVATION RE: UNDERGROUND GAS AND CARBON STORAGE    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS REPORTING PERIOD    "
       }
     ]
   },
@@ -7781,6 +7880,13 @@
         "generalLobbying": 25500,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SENATE AND ASSEMBLY BUSINESS & PROFESSIONS SUNSET REVIEW BILL  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 8500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SUNSET REVIEW ISSUES REGARDING PRACTICE AGREEMENT AND RATIOS, SB 1501"
       }
     ]
   },
@@ -7820,6 +7926,13 @@
         "generalLobbying": 2727.73,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature regarding data and accountability, outcomes, adult education teacher credentialing, Adult Education Program COLA; Governor?s Office & Legislature regarding Cradle to Career Data System, Master Plan for Career Education; SB 275, SB 670, AB 988, AB 401, SB 48, AB 49, ACR 42."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 10910.92,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature regarding data and accountability, outcomes, adult education teacher credentialing, Adult Education Program COLA; Governor?s Office & Legislature regarding Cradle to Career Data System, Master Plan for Career Education; SB 275, SB 670, SB 48, AB 49."
       }
     ]
   },
@@ -8101,6 +8214,13 @@
         "generalLobbying": 4800,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 764, 773, 823, 900, 1319, 1322, 1413; SB's 475, 856  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 4800,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 764, 773, 823, 900, 1319, 1322, 1433; SB's 475, 856    "
       }
     ]
   },
@@ -8264,6 +8384,13 @@
         "generalLobbying": 8323.18,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 304, AB 481  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 13625,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 304, 481        "
       }
     ]
   },
@@ -8582,6 +8709,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 267208.12,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE FORM 635 NOTES/MEMO."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 328318.92,
         "pucLobbying": 0,
         "lobbiedOn": "SEE FORM 635 NOTES/MEMO."
       }
@@ -9328,6 +9462,13 @@
         "generalLobbying": 130945.26,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 260858.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A      "
       }
     ]
   },
@@ -9387,6 +9528,13 @@
         "generalLobbying": 24154.71,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 513, 1191 AND SB's 86, 88  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 36000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 706 AND SB's 86, 88    "
       }
     ]
   },
@@ -9442,6 +9590,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025 State Budget Act.  California Fish and Game Commission and California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and archery hunting opportunity."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 5000,
         "pucLobbying": 0,
@@ -9658,6 +9813,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025/2026 State Budget Act.  California Fish and Game Commission and California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and hunting opportunity."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -10601,6 +10763,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB  1316, SB 427, SB 649, SB 818, 2025/26 State Budget Act.  California Fish and Game Commission and  California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy,  wildlife conservation policy, hunting access, and hunting opportunity."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB  1316, SB 427, SB 649, SB 818, 2025/26 State Budget Act.  California Fish and Game Commission and  California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy,  wildlife conservation policy, hunting access, and hunting opportunity."
       }
     ]
   },
@@ -10775,6 +10944,13 @@
         "generalLobbying": 71309.26,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 61605.41,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A    "
       }
     ]
   },
@@ -10938,6 +11114,13 @@
         "generalLobbying": 35185.81,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 69, 226, 234 AND SB 525  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 52500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 69, 226, 235, 290 AND SB 525    "
       }
     ]
   },
@@ -11047,6 +11230,13 @@
         "generalLobbying": 23625,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 773, 807, 900, 1056, 1101, 1218, 1245, 1330; SB's 521, 856     "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 7850,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 773, 807, 900, 1056, 1101, 1218, 1245, 1330; SB's 521, 856       "
       }
     ]
   },
@@ -11267,6 +11457,13 @@
         "generalLobbying": 2500,
         "pucLobbying": 0,
         "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025/26 State Budget Act. California Fish and Game Commission and Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and hunting opportunity, and falconry related policy issues."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025/26 State Budget Act. California Fish and Game Commission and Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and hunting opportunity, and falconry related policy issues."
       }
     ]
   },
@@ -11345,6 +11542,13 @@
         "generalLobbying": 6250,
         "pucLobbying": 0,
         "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025 State Budget Act.  California Fish and Game Commission and California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and hunting opportunity."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 6250,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature regarding AB 519, AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025 State Budget Act.  California Fish and Game Commission and California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and hunting opportunity."
       }
     ]
   },
@@ -11395,6 +11599,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None this period."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "None this period."
       }
@@ -11501,6 +11712,13 @@
         "generalLobbying": 35000.01,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: WILDFIRE MITIGATION AND SOUTHERN CA WILDFIRES   "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 41250.01,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS REPORTING PERIOD    "
       }
     ]
   },
@@ -13035,6 +13253,13 @@
         "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS REPORTING PERIOD      "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 36508.73,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 446       "
       }
     ]
   },
@@ -13139,6 +13364,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1048, AB 1125, AB 1293, AB 1329, AB 1398, SB 668"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1048, AB 1498, SB 668"
       }
     ]
   },
@@ -13189,6 +13421,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 98580.49,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 91676.7,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
       }
@@ -13603,6 +13842,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 404, ELECTRIC RATE AFFORDABILITY AND DECARBONIZATION    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 19000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: CAP AND TRADE REAUTHORIZATION        "
       }
     ]
   },
@@ -14197,6 +14443,13 @@
         "generalLobbying": 74460.9,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and Department of Fish and Wildlife on Western Joshua Tree, Legislature on resiliency of building materials, cap and trade, regulatory reform; sales tax exemption on manufacturing equipment, climate change policies, CEQA, housing and construction materials, SB 684, AB 1243."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 46691.26,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Department of Fish and Wildlife on Western Joshua Tree, Legislature on resiliency of building materials, cap and trade reauthorization, regulatory reform; sales tax exemption on manufacturing equipment, climate change policies, CEQA, housing and construction materials, SB 684, AB 1243. AB 1331, SB 310, SB 526."
       }
     ]
   },
@@ -14881,6 +15134,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "CA GOVERNOR'S OFFICE,CA AIR RESOURCES BOARD,STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE,CA AIR RESOURCES BOARD,STATE LEGISLATURE: CAP-AND-TRADE POLICY  "
       }
     ]
   },
@@ -16493,6 +16753,13 @@
         "generalLobbying": 36000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature and the Department of Resources, Recycling and Recovery (CalRecycle) regarding compostable biopolymers, SB 54 (2022) and AB 1201 (2021)."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 36000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Department of Resources, Recycling and Recovery (CalRecycle) regarding SB 54 (Chaptered, 2022) Regulations. Lobbied the Legislature and the Department of Resources, Recycling and Recovery (CalRecycle) regarding AB 1201 (Chaptered, 2021) and compostable packaging issues."
       }
     ]
   },
@@ -17263,6 +17530,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "African American AP Day, computer science for all effort, A-G Completion Grant Program extension, personal finance course inclusion issue, AB 1159, AB 887, SB 835, SB 343, AB 1043, AB 811, AB 1064, AB 1018, SB 612, AB 401."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "African American AP Day, computer science for all effort, A-G Completion Grant Program extension, personal finance course inclusion issue, AB 1159, AB 887, SB 835, SB 343, AB 1043, AB 811, AB 1064, AB 1018, SB 612, AB 401."
       }
     ]
   },
@@ -17586,6 +17860,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD.    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.      "
       }
     ]
   },
@@ -17750,6 +18031,13 @@
         "generalLobbying": 4000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature regarding AB 566. Lobbied the California Privacy Protection Agency regarding proposed regulations for Automated Decision-Making Technology (ADMT)."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 23750,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding AB 566 and AB 1018."
       }
     ]
   },
@@ -18171,6 +18459,13 @@
         "generalLobbying": 42047,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 514, SB 31, SB 937, IMPACT FEES CLEAN-UP    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 35517,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 339, 514, 532, 620 AND SB's 31, 72, 350, 394, 454, 601, 650      "
       }
     ]
   },
@@ -19130,6 +19425,13 @@
         "generalLobbying": 24000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied legislative offices."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied legislative offices."
       }
     ]
   },
@@ -19272,6 +19574,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 4471,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Teachers Retirement System (CalSTRS), California Public Employees' Retirement System (CalPERS)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 8325,
         "pucLobbying": 0,
         "lobbiedOn": "California State Teachers Retirement System (CalSTRS), California Public Employees' Retirement System (CalPERS)"
       }
@@ -19519,6 +19828,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 15000,
         "pucLobbying": 0,
@@ -19777,6 +20093,13 @@
         "generalLobbying": 5839.56,
         "pucLobbying": 0,
         "lobbiedOn": "Monitored Governor's press conference on the proposed 2025-2026 State Budget. Monitored hearings of the Budget Committees and Budget Subcommittees on Education Finance. Monitored Assembly Education Comittee hearings."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 5839.56,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA State Assembly Bills 419, 422, 684, 811, 833, 1119, 1123, 1128, 1348"
       }
     ]
   },
@@ -19790,6 +20113,13 @@
         "generalLobbying": 36.46,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS: INVESTMENTS; CalPERS: INVESTMENTS    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.  "
       }
     ]
   },
@@ -20186,6 +20516,13 @@
         "generalLobbying": 28899.99,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature on alcohol taxes, reforms to CRV program, Alcohol Delivery, DTC Shipping, implementation of SB 1013 and SB 54, Alcohol Tariffs, AB 366, SB 674, AB 1246, SB 45."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 28899.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature on alcohol taxes, reforms to CRV program, DTC Shipping, Ready-to-Drink Cocktails, implementation of SB 1013 and SB 54, Alcohol Tariffs, AB 366, SB 674, AB 1246, SB 45."
       }
     ]
   },
@@ -21635,6 +21972,13 @@
         "generalLobbying": 8940,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS:  Pension Fund Investments"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 26010,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS, CalPERS, UC Regents:  Pension Fund Investments"
       }
     ]
   },
@@ -22385,6 +22729,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Nothing to Report."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1104"
       }
     ]
   },
@@ -23052,6 +23403,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -23349,7 +23707,15 @@
   {
     "id": "1481278",
     "name": "FOOTHILL MUNICIPAL WATER DISTRICT",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 9750,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 100, SB 101, SB 102, AB 227, SB 65"
+      }
+    ]
   },
   {
     "id": "1146556",
@@ -23920,6 +24286,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATUR AND ADMINISTRATION RE: AB's 233, 342, 344, 509, 828, 1101, 1246, 1274, SB's 633, 674, 675  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 17000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATUR AND ADMINISTRATION RE: SB 674 AND BEVERAGE CONTAINER LABELING REQUIREMENTS  "
       }
     ]
   },
@@ -24012,6 +24385,13 @@
         "generalLobbying": 9500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 405, SB 22"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 36375,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 405, SB 22, AB 446"
       }
     ]
   },
@@ -24153,6 +24533,13 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: FUNDING FOR CALOES PREPARE CALIFORNIA   "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: FUNDING FOR CALOES PREPARE CALIFORNIA     "
       }
     ]
   },
@@ -24218,6 +24605,13 @@
         "generalLobbying": 12500,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 473, 800, 856, 890, 936, 937, 973, 1042, 1046, 1048, 1049, 1083, 1086, 1211, 1264, 1330, 1402; SB's 72, 442, 444  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 12500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 473, 800, 856, 890, 936, 937, 973, 1042, 1046, 1048, 1049, 1083, 1086, 1211, 1264, 1330, 1402; SB's 72, 442, 444    "
       }
     ]
   },
@@ -25529,6 +25923,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "No reportable lobbying activity."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 28000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable lobbying activity."
       }
     ]
   },
@@ -25784,6 +26185,13 @@
         "generalLobbying": 42000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISALTURE RE: SB 783; CALIFORNIA DEPARTMENT OF JUSTICE, BUREAU OF GAMBLING CONTROL RE: BLACKJACK PROPOSAL AND ROTATION PROPOSAL    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 19727.21,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISALTURE RE: AB's 831, 1331 AND SB 783; CALIFORNIA DEPARTMENT OF JUSTICE, BUREAU OF GAMBLING CONTROL RE: BLACKJACK PROPOSAL AND ROTATION PROPOSAL      "
       }
     ]
   },
@@ -26988,6 +27396,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "Governor?s office, GoBiz and Resources Agency regarding LDES project issues"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor?s office, GoBiz and Resources Agency regarding LDES project issues; AB 915"
       }
     ]
   },
@@ -27014,6 +27429,13 @@
         "generalLobbying": 27682.22,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS, CalSTRS, UC Retirement: INVESTMENTS    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 14884.6,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS: INVESTMENTS      "
       }
     ]
   },
@@ -27187,6 +27609,13 @@
         "generalLobbying": 45000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1121 -- Legislature"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1454 -- Legislature"
       }
     ]
   },
@@ -27362,6 +27791,13 @@
         "generalLobbying": 89547.36,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 244, AB 485, AB 596, AB 643, AB 840, AB 1148, AB 1326, AB 1329, AB 1330, SB 22, SB 68, SB 294, SB 310, SB 464, SB 642, SB 783, SB 854; CALIFORNIA AIR RESOURCES BOARD RE: SB 253 REGULATION; DEPARTMENT OF INDUSTRIAL RELATIONIS RE: FAST FOOD COUNCIL    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 66302.51,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 244, AB 485, AB 596, AB 643, AB 840, AB 1148, AB 1326, AB 1329, AB 1330, SB 22, SB 68, SB 294, SB 310, SB 464, SB 642, SB 783, SB 854; CALIFORNIA AIR RESOURCES BOARD RE: SB 253 REGULATION; DEPARTMENT OF INDUSTRIAL RELATIONS RE: FAST FOOD COUNCIL      "
       }
     ]
   },
@@ -27647,6 +28083,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies: Legislature Issues: AB 1445"
       }
     ]
   },
@@ -27700,6 +28143,13 @@
         "generalLobbying": 3600,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SB 279    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 3600,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, OFFICE OF THE GOVERNOR AND CALRECYLCE RE: SB 279, DRAFT SB 54 REGULATIONS AND CA LAW REVIEW COMMISSION'S WORK ON POTENTIAL ANTITRUST LAW REFORM  "
       }
     ]
   },
@@ -28748,6 +29198,13 @@
         "generalLobbying": 4630.75,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS: INVESTMENTS  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 3125,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, UC Retirement: INVESTMENTS    "
       }
     ]
   },
@@ -29193,6 +29650,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 224.36,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
       }
     ]
   },
@@ -29721,6 +30185,13 @@
         "generalLobbying": 355,
         "pucLobbying": 0,
         "lobbiedOn": "California Public Employees' Retirement Systems University of California Retirement System"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees' Retirement Systems, University of California Retirement System"
       }
     ]
   },
@@ -29829,6 +30300,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SB 442        "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 127901.74,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 446, SB 442, SB 753    "
       }
     ]
   },
@@ -29937,6 +30415,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 16509.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 35471.57,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
       }
@@ -30444,6 +30929,13 @@
         "generalLobbying": 18561.16,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 20468.81,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -30885,6 +31377,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, and UC Board of Regents: Littlejohn update and capital raising discussions."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 500,
         "pucLobbying": 0,
@@ -31525,6 +32024,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SB 279      "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, OFFICE OF THE GOVERNOR AND CALRECYLCE RE: SB 279, DRAFT SB 54 REGULATIONS AND CA LAW REVIEW COMMISSION'S WORK ON POTENTIAL ANTITRUST LAW REFORM        "
       }
     ]
   },
@@ -31610,7 +32116,15 @@
   {
     "id": "1481616",
     "name": "LOS ANGELES PARKS ALLIANCE",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 71"
+      }
+    ]
   },
   {
     "id": "1146147",
@@ -31825,6 +32339,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -33605,6 +34126,13 @@
         "generalLobbying": 3626,
         "pucLobbying": 0,
         "lobbiedOn": "CALSTRS: INVESTMENTS.    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 2223,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALSTRS: INVESTMENTS.      "
       }
     ]
   },
@@ -33755,6 +34283,13 @@
         "generalLobbying": 500,
         "pucLobbying": 0,
         "lobbiedOn": "Proposed Investments: UC Regents; California Public Employees' Retirement System; California State Teachers' Retirement System"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 200,
+        "pucLobbying": 0,
+        "lobbiedOn": "Proposed Investments: UC Regents; California State Teachers' Retirement System"
       }
     ]
   },
@@ -34020,6 +34555,13 @@
         "generalLobbying": 60000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 31, 32, 52, 221, 362, 479, 562, 977, 989, 1004, 1378"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 80000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 31, 32, 52, 221, 362, 470, 479, 562, 831, 977, 989, 1004, 1378 AND SB's 4, 507; ADMINISTRATION RE: FEATHER ALERT; OFFICE OF THE GOVERNOR AND DEPARTMENT OF JUSTICE RE: TRIBAL ISSUES  "
       }
     ]
   },
@@ -36501,7 +37043,14 @@
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "None"
+        "lobbiedOn": "CalPERs, CalSTRS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 173.07,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS"
       }
     ]
   },
@@ -36515,6 +37064,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD.     "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.       "
       }
     ]
   },
@@ -36994,7 +37550,14 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 0,
+        "generalLobbying": 11021.64,
+        "pucLobbying": 0,
+        "lobbiedOn": "Servicing existing investments and marketing new products to CalSTRS and the University of California Board of Regents.  Marketing new products to CalPERS."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 16646.64,
         "pucLobbying": 0,
         "lobbiedOn": "Servicing existing investments and marketing new products to CalSTRS and the University of California Board of Regents.  Marketing new products to CalPERS."
       }
@@ -37309,6 +37872,13 @@
         "generalLobbying": 48000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 259, 794, 810 SB 72, 454, 496, 599, 601  Legislation and Administration Re: Safe, clean, affordable and accessible drinking water, water resiliency, water recycling and PFAS mitigation program."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 56000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor, Legislature and Administration Re:  Clean Water Action.  AB 259, 514,794, 810, 1319,1413, SB 31, 72, 454, 496, 599, 601"
       }
     ]
   },
@@ -37678,6 +38248,13 @@
         "generalLobbying": 24353.23,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND THE CALIFORNIA DEPARTMENT OF INSURANCE REGARDING: AB 75, AB 226, AB 597, AB 815, AB 1018, SB 354, SB 495, SB 547, SB 616, RATE FILING ISSUES AND THE SUSTAINABLE INSURANCE STRATEGY.      "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND THE CALIFORNIA DEPARTMENT OF INSURANCE REGARDING: AB 75, AB 226, AB 597, AB 815, AB 1018, AB 1236, SB 354, SB 495, SB 547, SB 616, RATE FILING ISSUES AND THE SUSTAINABLE INSURANCE STRATEGY.            "
       }
     ]
   },
@@ -38293,9 +38870,9 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 15000,
+        "generalLobbying": 20000,
         "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING LOCAL RESTURANT PERMITTING ISSUES.      "
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING LOCAL RESTAURANT PERMITTING ISSUES.        "
       }
     ]
   },
@@ -40959,6 +41536,13 @@
         "generalLobbying": 3750,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS REPORTING PERIOD    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 3750,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS REPORTING PERIOD      "
       }
     ]
   },
@@ -40972,6 +41556,13 @@
         "generalLobbying": 24000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 242, AB 356, AB 435, AB 1005, SB 68, SB 530  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: STATE BUDGET, AB 242, AB 356, AB 435, AB  951, AB 1005, AB 1460; SB 68, SB 530, SB 632"
       }
     ]
   },
@@ -41586,6 +42177,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 48000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable lobbying activity."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 24000,
         "pucLobbying": 0,
         "lobbiedOn": "No reportable lobbying activity."
       }
@@ -42372,6 +42970,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025/2026 State Budget Act.  California Fish and Game Commission and California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and hunting opportunity."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025/2026 State Budget Act.  California Fish and Game Commission and California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and hunting opportunity."
       }
     ]
   },
@@ -42504,6 +43109,13 @@
         "generalLobbying": 6750,
         "pucLobbying": 0,
         "lobbiedOn": "SB 72, SB 260, SB 350"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 6750,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 259, AB475, AB 778, SB 72, SB 350, and State Budget"
       }
     ]
   },
@@ -42649,6 +43261,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "Issues generally related to regulation of voluntary carbon credit registries in the California Senate"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 71225.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS REPORTING PERIOD    "
       }
     ]
   },
@@ -42691,6 +43310,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regents of the University of California, Calpers, Calstrs, LACERS, LACERA, OCERS, SCERS"
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -43003,6 +43629,13 @@
         "generalLobbying": 4711,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: Senate Bill 626, Maternal Mental Health"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 1802,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: Senate Bill 626, Maternal Mental Health"
       }
     ]
   },
@@ -43281,6 +43914,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 71, AB 30, AB 394, AB 334"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 40000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 71, AB 30, AB 394, AB 334"
       }
@@ -43645,6 +44285,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California State Legislature regarding AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025/2026 State Budget Act.  California Fish and Game Commission and California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and hunting opportunity."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature regarding AB 519, AB 764, AB 902, AB 929, AB 933, AB 1038, AB 1169, AB 1187, AB 1316, SB 427, SB 649, SB 818, 2025/2026 State Budget Act.  California Fish and Game Commission and California Department of Fish and Wildlife regarding hunting regulations, wildlife management policy, wildlife conservation policy, hunting access and hunting opportunity."
       }
     ]
   },
@@ -44018,6 +44665,13 @@
         "generalLobbying": 36000,
         "pucLobbying": 0,
         "lobbiedOn": "NO REPORTABLE LOBBY ACTIVITY."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 36000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NO REPORTABLE LOBBY ACTIVITY."
       }
     ]
   },
@@ -44248,6 +44902,13 @@
         "generalLobbying": 18750,
         "pucLobbying": 0,
         "lobbiedOn": "AB 362"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 32, 52, 293, 362, 971, 1004, 1051, 1097; SB 448"
       }
     ]
   },
@@ -44629,6 +45290,13 @@
         "generalLobbying": 13125,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS REPORTING PERIOD      "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 20983.61,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS REPORTING PERIOD        "
       }
     ]
   },
@@ -45446,6 +46114,13 @@
         "generalLobbying": 72351.28,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1466, AB 1413; Letters on the California Air Resources Board?s Cap-and Trade policy to Ben Golombek with CA Chamber of Commerce and Lance Hastings with California Manufacturers & Technology Association; Indian Wells Valley Groundwater Authority Pipeline Project"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 102308.23,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative and CA Air Resources Board discussions surrounding the cap and trade program; AB 1466, AB 1413; Indian Wells Valley Ground Water Authority Pipeline Project"
       }
     ]
   },
@@ -45748,6 +46423,13 @@
         "generalLobbying": 40500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 43, AB 259, AB 263, AB 293, AB339 ,AB362, AB 372,AB 430 AB 580, AB 639, AB 794 AB 846, SB72 ,SB 88 , SB 239, SB 350, SB 601"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 40500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1413, AB 1466, AB 929, SB 601, SB 72"
       }
     ]
   },
@@ -46286,6 +46968,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 794 SB 65"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor, Legislature, and Administration Re: Delta Conveyance Project.  AB 130, 339, 367, 424, 425, 507, 1060, 1061,  SB 79,131, 329,346, 456,599, 634,677"
       }
     ]
   },
@@ -46711,6 +47400,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 72, SB 260, STATE WATER BOARD RE HEALTHY RIVERS AND LANDSCAPES PROGRAM"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 259, AB 362, AB 778, AB 810, AB 1146, SB 72, SB 260, STATE BUDGET"
       }
     ]
   },
@@ -46777,6 +47473,13 @@
         "generalLobbying": 11000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 864"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 16500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 864, Legislature, DTSC on PV recycling"
       }
     ]
   },
@@ -46823,6 +47526,13 @@
         "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SB 279    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 1500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, OFFICE OF THE GOVERNOR AND CALRECYLCE RE: SB 279, DRAFT SB 54 REGULATIONS AND CA LAW REVIEW COMMISSION'S WORK ON POTENTIAL ANTITRUST LAW REFORM      "
       }
     ]
   },
@@ -46867,6 +47577,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -48182,6 +48899,13 @@
         "generalLobbying": 8379.22,
         "pucLobbying": 0,
         "lobbiedOn": "No reportable activity this quarter."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 16379.22,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable activity this quarter."
       }
     ]
   },
@@ -48671,6 +49395,13 @@
         "generalLobbying": 406.48,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: 2025-26 State Budget, AB 452, AB 462, SB 427, SB 741"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 57296.01,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: 2025-26 State Budget, AB 131, AB 452, AB 462, AB 770, AB 1448, SB 131 (CEQA protection), SB 427, SB 484, SB 542, SB 561, SB 741; SB 10; SB 607; AB 1056; SB 601; AB 762; AB 823; SB 54; Protection of Coastal Act and Coastal Commission; SB 630; AJR 16; and OPC 30 x 30 Plan."
       }
     ]
   },
@@ -49111,6 +49842,13 @@
         "generalLobbying": 4922.5,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature reg AB 327, AB 372, AB 830, SB 90, SB 287, SB 427, Prop 4 funding, state budget reg Prop 4 funding and transportation formula request. Natural Resources Agency reg Prop 4 funding."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 6189.73,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature reg AB 372, AB 706, SB 90, SB 101, SB 427, SB 746 water infrastructure for forest fires, forest fuel treatments, defensible space, Prop 4 funding."
       }
     ]
   },
@@ -49599,6 +50337,13 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "SB 710"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 846"
       }
     ]
   },
@@ -49900,6 +50645,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -50737,6 +51489,13 @@
         "generalLobbying": 60000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 221, 831, 794 SB 65  Governor, Legislature & Administration Re: Tribal Gaming Protection, Compacts, Sports Wagering Regulation and Cannabis."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor, Legislature & Administration Re: Tribal Gaming Protection, Compacts, Sports Wagering Regulation, Cannabis and California Indian Nations College Funding.    Natural Resources Agency Re: CalFire Operations.  AB 221, 831"
       }
     ]
   },
@@ -50750,6 +51509,13 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 794 SB 65"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 130 SB 131"
       }
     ]
   },
@@ -51716,6 +52482,11 @@
     "quarters": []
   },
   {
+    "id": "1357051",
+    "name": "UTILITY MANAGEMENT & CONSERVATION ASSOCIATION (UMCA)",
+    "quarters": []
+  },
+  {
     "id": "1143643",
     "name": "UTILITY REFORM NETWORK (TURN); THE",
     "quarters": [
@@ -52103,6 +52874,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "$36.6 million in one time funding in the 2025-2026 budget to fund ?Jails to Jobs,? a three-year employment training and case management pilot program in Los Angeles County. AB 22, AB 37, AB 46, AB 96, AB 238, AB 247, AB 248, AB 271, AB 292, AB 309, AB 321, AB 336, AB 380, AB 433, AB 464, AB 475, AB 479, AB 568, AB 572,"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "$36.6 million in one time funding in the 2025-2026 budget to fund ?Jails to Jobs,? a three-year employment training and case management pilot program in Los Angeles County. AB 22, AB 37, AB 46, AB 96, AB 238, AB 247, AB 248, AB 271, AB 292, AB 309, AB 321, AB 336, AB 380, AB 433, AB 464, AB 475, AB 479, AB 568, AB 572, AB 597, AB 622, AB 633, AB 704, AB 710,"
       }
     ]
   },
@@ -52363,6 +53141,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "Budget (Dpt. of Finance, LAO, Legislature, Chancellor's office of CA Community Colleges), Affordable Student Housing (Dpt. of Finance, Leg., Chancellors Office of the CA Community Colleges), Full Funding of Growth (Admin., Dpt. of Finance, Chancellors office of the CA Community Colleges), AB 90 (Jackson), AB 323 (Fong), AB 335 (Gipson)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget (Dpt. of Finance, LAO, Legislature, Chancellor's office of CA Community Colleges), Affordable Student Housing (Dpt. of Finance, Leg., Chancellors Office of the CA Community Colleges), Full Funding of Growth (Admin., Dpt. of Finance, Chancellors office of the CA Community Colleges), AB 90 (Jackson), AB 323 (Fong), AB 335 (Gipson), AB 695 (Fong), AB 1400 (Soria)"
       }
     ]
   },
@@ -52739,6 +53524,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS REPORTING PERIOD    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS REPORTING PERIOD      "
       }
     ]
   },
@@ -53735,6 +54527,13 @@
         "generalLobbying": 18745.42,
         "pucLobbying": 0,
         "lobbiedOn": "Paraquat Issues, general budget, household hazardous waste proposal, SB 89, CDPR budget and SPM iniitatives, SB 501, AB 823, SB601, AB 295, AB 914, AB 1371, SB 72, SB 222, SB 682, SWRCB issues."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 18789.4,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 222, 501,318,601,54, AB 914,732,1305,1413, Gneral budget, CDPR audit, SprayDays & Well testing kits, CDFA budget, Cap & Trade, tariff issues."
       }
     ]
   },
@@ -54098,6 +54897,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 794 SB 65"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 130 SB 131, 634"
       }
     ]
   },
@@ -54158,6 +54964,13 @@
     "quarters": [
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -54591,6 +55404,13 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 794 SB 65"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 3500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 130 SB 79, 131"
       }
     ]
   },
