@@ -2191,6 +2191,13 @@
         "generalLobbying": 26100,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE REGARDING AB 1117"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 17400,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE REGARDING AB 1117"
       }
     ]
   },
@@ -7690,7 +7697,22 @@
   {
     "id": "1145974",
     "name": "BD",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 682 "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 682   "
+      }
+    ]
   },
   {
     "id": "1396323",
@@ -12034,6 +12056,13 @@
         "generalLobbying": 69000,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies: Legislature and Administration Issues: Title Protection, Budget, workforce issues, BRN, CRNAs on medical staff, protection of CRNA independent practice, CDPH, CRNA Week Resolution, AB 789, AB 1215"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 81000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies: Legislature and Administration Issues: Title Protection, Budget, workforce issues, BRN, CRNAs on medical staff, protection of CRNA independent practice, CDPH, AB 1215"
       }
     ]
   },
@@ -15000,6 +15029,13 @@
         "generalLobbying": 16979.5,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: SB 222, SB 540, SB 684, AB 1243          "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 97063.81,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 222, SB 540, SB 237, SB 601, SB 607, SB 684, SB 655, AB 609, AB 306, AB 1243  NRDC: AB 306      "
       }
     ]
   },
@@ -16384,6 +16420,13 @@
         "generalLobbying": 51689.85,
         "pucLobbying": 0,
         "lobbiedOn": "See Attachments 1 and 2    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 100844.48,
+        "pucLobbying": 0,
+        "lobbiedOn": "See Attachments 1 and 2      "
       }
     ]
   },
@@ -16635,6 +16678,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 800,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -23171,6 +23221,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -28855,7 +28912,15 @@
   {
     "id": "1481757",
     "name": "EARTH FUNERAL GROUP, INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30100,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   },
   {
     "id": "1467949",
@@ -36365,6 +36430,13 @@
         "generalLobbying": 85550,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and Governor's Office: AB 39, AB 306, SB 282, SB 655, GGRF, SB 1221 (2024) Implementation; CA Air Resources Board: Zero emission appliance standards; CA Energy Commission: Equitable Building Decarbonization program; CA Public Utilities Commission: Building energy efficiency"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 7883.93,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor's Office: AB 39, AB 306, SB 282, SB 655, GGRF, SB 1221 (2024) Implementation, Electric Affordability  CA Air Resources Board,  CA Energy Commission, CA Public Utilities Commission: Building Energy Efficiency and Appliance Standards, Energy Affordability and Rates, Equitable Building Decarbonization Program"
       }
     ]
   },
@@ -39638,6 +39710,13 @@
         "generalLobbying": 12933,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 17867.92,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 787, SB 86, SB 615, AB 1016, AB 1331, AB 692, AB 1234, SB 294, SB 7, SB 442, SB 355, California Alternative Energy and Advanced Transportation Financing Authority (CAEATFA) Sales Tax Exemption STE awards, GOBiz CalCompetes tax credit awards, CEC PowerForward awards."
       }
     ]
   },
@@ -52621,7 +52700,22 @@
   {
     "id": "1406684",
     "name": "PACIFIC FOREST TRUST",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 404 (Sanchez), AB 491 (Connolly), AN 687 (Patterson), AB 1457 (Bryan), SB 326 (Becker), SB 375 (Grove)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 404 (Sanchez), AB 491 (Connolly), AN 687 (Patterson), AB 1457 (Bryan), SB 88 (Caballero), SB 131 (Committee on Budget and Fiscal Review), SB 326 (Becker), SB 375 (Grove)"
+      }
+    ]
   },
   {
     "id": "1146888",
@@ -64197,7 +64291,15 @@
   {
     "id": "1353900",
     "name": "SIGULER GUFF & COMPANY, LP",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
   },
   {
     "id": "1414744",
@@ -65623,7 +65725,15 @@
   {
     "id": "1481358",
     "name": "SOUTHERN CALIFORNIA ASSOCIATION OF SCAFFOLD CONTRACTORS",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 6548.85,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 440, SB 61"
+      }
+    ]
   },
   {
     "id": "1479768",
@@ -65692,9 +65802,16 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
+        "generalLobbying": 321265,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 39,476,1182,1408,1423; SB 254,256,263,292,445,540,541,618; LEGISLATURE RE: CAP & TRADE AND AFFORDABILITY,ADVANCED CLEAN FEETS"
+      },
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
         "generalLobbying": 132370,
         "pucLobbying": 0,
-        "lobbiedOn": "State legislative issues lobbied include cap-and-trade reauthorization; Advanced Clean Fleets; wildfire liability; ratepayer affordability; AB 303; AB 476; SB 540; AB 915; AB 1182; AB 39; AB 1423; SB 332; SB 593; SB 496; AB 305; SB 256; SB 292; SB 618; SB 782; SB 263; SB 254"
+        "lobbiedOn": "AB 39,476,1182,1408,1423; SB 254,256,263,292,445,540,541,618; LEGISLATURE RE: CAP & TRADE AND AFFORDABILITY,ADVANCED CLEAN FEETS"
       }
     ]
   },
@@ -69134,7 +69251,15 @@
   {
     "id": "1143002",
     "name": "THOUSAND OAKS; CITY OF",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A  "
+      }
+    ]
   },
   {
     "id": "1427083",
@@ -70982,6 +71107,13 @@
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 534.6,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA underground Safety Board"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 688.25,
         "pucLobbying": 0,
         "lobbiedOn": "CA underground Safety Board"
       }
