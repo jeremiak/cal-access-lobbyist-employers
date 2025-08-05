@@ -22921,6 +22921,11 @@
     ]
   },
   {
+    "id": "1468976",
+    "name": "CITY CONNECT PARTNERS INC",
+    "quarters": []
+  },
+  {
     "id": "1143730",
     "name": "CITY OF HOPE NATIONAL MEDICAL CENTER ",
     "quarters": [
@@ -37515,7 +37520,15 @@
   {
     "id": "1473234",
     "name": "HSC PROPERTY OWNER LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 35000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 92"
+      }
+    ]
   },
   {
     "id": "1433564",
@@ -40391,7 +40404,7 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 33333.34,
+        "generalLobbying": 33683.56,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, CA Dept. of Social Services, CA Dept. of Aging, Governor's Office, CA Victim's Compensation Board, Dept. of Finance, CA Offices of Emergency Services re: Budget Issues; Legislature re: AB 1468."
       },
@@ -41827,26 +41840,6 @@
         "generalLobbying": 30100,
         "pucLobbying": 0,
         "lobbiedOn": "AB 823; SB 263"
-      }
-    ]
-  },
-  {
-    "id": "1418111",
-    "name": "LA 2028",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: AB 1237, AB 1059."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, re: AB 1237, AB 1059; Legislature and Governor, re: State Budget Games Route Network, California Environmental Quality Act, Coastal Act Trailer Bill Language."
       }
     ]
   },
@@ -44158,6 +44151,26 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: Parks, outdoor access, budget, and climate bond."
+      }
+    ]
+  },
+  {
+    "id": "1418111",
+    "name": "LOS ANGELES ORGANIZING COMMITTEE FOR THE OLYMPIC AND PARALYMPIC GAMES 2028 D/B/A LA 28",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 1237, AB 1059."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: AB 1237, AB 1059; Legislature and Governor, re: State Budget Games Route Network, California Environmental Quality Act, Coastal Act Trailer Bill Language."
       }
     ]
   },
@@ -71826,7 +71839,7 @@
         "session": "2025-2026",
         "generalLobbying": 70382.9,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature - AB 246, 402, 543, SB 717, 790; Matters related to Athletics, Street Medicine, Rent Control, Cal Grants, California Solar Canal Initiative; California Department of Public Health ? Licensing"
+        "lobbiedOn": "Legislature - AB 246, 402, 543, SB 717, 790; Matters related to Athletics, Street Medicine, Rent Control, Cal Grants, California Solar Canal Initiative; California Department of Public Health - Licensing"
       },
       {
         "quarter": "2nd",
