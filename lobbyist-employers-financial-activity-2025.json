@@ -32564,6 +32564,11 @@
     ]
   },
   {
+    "id": "1482600",
+    "name": "FOOD INGREDIENT SAFETY COALITION",
+    "quarters": []
+  },
+  {
     "id": "1143399",
     "name": "FOOTHILL EASTERN TRANSPORTATION CORRIDOR AGENCY",
     "quarters": [
@@ -37269,6 +37274,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -41271,6 +41283,11 @@
         "lobbiedOn": "NONE"
       }
     ]
+  },
+  {
+    "id": "1482917",
+    "name": "KILTEARN PARTNERS, INC.",
+    "quarters": []
   },
   {
     "id": "1143444",
@@ -55890,9 +55907,9 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 22500,
+        "generalLobbying": 25451.87,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 256, 282, 323, 413, 542, 595, 648, 863, 1154, 1157, 1243, 1294, 1414, 1442; SB 9, 52, 98, 316, 486, 677, 684  "
+        "lobbiedOn": "AB 265, AB 282, AB 323, AB 413, AB 542, AB 595, AB 648, AB 863, AB 893, AB 1021, AB 1154, AB 1157, AB 1243, AB 1294, AB 1414, AB 1442, SB 9, SB 52, SB 98, SB 316, SB 436, SB 486, SB 635, SB 677, SB 684, AB 1240, SB 281, SB 681"
       }
     ]
   },
