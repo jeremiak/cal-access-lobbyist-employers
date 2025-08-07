@@ -11762,7 +11762,7 @@
         "session": "2025-2026",
         "generalLobbying": 135591,
         "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHMENT A      "
+        "lobbiedOn": "SEE ATTACHMENT A        "
       }
     ]
   },
@@ -16107,7 +16107,7 @@
   },
   {
     "id": "1146794",
-    "name": "CALIFORNIA LABOR FEDERATION, AFL-CIO",
+    "name": "CALIFORNIA LABOR FEDERATION, AFL-CIO DBA CALIFORNIA FEDERATION OF LABOR UNIONS, AFL-CIO",
     "quarters": [
       {
         "quarter": "1st",
@@ -37859,6 +37859,19 @@
     ]
   },
   {
+    "id": "1445690",
+    "name": "ID.ME",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: DIGITAL ID STANDARD FOR STATE  "
+      }
+    ]
+  },
+  {
     "id": "1476041",
     "name": "IEHP FOUNDATION",
     "quarters": [
@@ -41506,6 +41519,26 @@
         "generalLobbying": 24000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 339, SB 16, SB 634, SB 707; Legislature re: budget funding"
+      }
+    ]
+  },
+  {
+    "id": "1467919",
+    "name": "KINSHIP HEALTH",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "DEPT OF HEALTH CARE SERVICES, LEGISLATURE RE: PACE PROGRAM ISSUES   "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "DEPARTMENT OF HEALTH CARE SERVICES, LEGISLATURE RE: PACE PROGRAM ISSUES     "
       }
     ]
   },
@@ -68738,7 +68771,22 @@
   {
     "id": "1481095",
     "name": "TECH OVERSIGHT PROJECT DBA TECH OVERSIGHT CALIFORNIA ",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None for the period"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 1500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Privacy Agency, Attorney General's Office re AB 2, AB 56, AB 316, AB 325, AB 410, AB 446, AB 566, AB 853, AB 1018, AB 1064, AB 1331, AB 1337, AB 1355, SB 53, SB 243; Legislature Privacy Agency, Attorney General's Office re proposed federal redemption on state enforcement of AI laws  "
+      }
+    ]
   },
   {
     "id": "1466296",
@@ -69139,6 +69187,11 @@
         "lobbiedOn": "SB 14, SB 45; CALRECYCLE, GOVERNOR'S OFFICE, CA DEPARTMENT OF FOOD & AGRICULTURE RE: SB 54 & SB 343 IMPLEMENTATION         "
       }
     ]
+  },
+  {
+    "id": "1482877",
+    "name": "TEXEL ENERGY STORAGE",
+    "quarters": []
   },
   {
     "id": "1372240",
@@ -73868,7 +73921,7 @@
   },
   {
     "id": "1480580",
-    "name": "WATER BLUEPRINT OF SAN JOAQUIN VALLEY ADVOCACY FUND ",
+    "name": "WATER BLUEPRINT FOR SAN JOAQUIN VALLEY ADVOCACY FUND ",
     "quarters": [
       {
         "quarter": "1st",
