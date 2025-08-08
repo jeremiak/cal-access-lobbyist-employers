@@ -3265,7 +3265,7 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 0,
+        "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "CalOSHA regarding worker health and safety standards including exposure limits."
       }
@@ -5309,6 +5309,11 @@
     ]
   },
   {
+    "id": "1482905",
+    "name": "AROC ACTION",
+    "quarters": []
+  },
+  {
     "id": "1415643",
     "name": "ARROWHEAD EVALUATION SERVICES",
     "quarters": [
@@ -5360,6 +5365,11 @@
         "lobbiedOn": "Meeting and reporting with CALSTRS regarding public pension fund investments in investment vehicles."
       }
     ]
+  },
+  {
+    "id": "1143690",
+    "name": "ARTESIA; CITY OF",
+    "quarters": []
   },
   {
     "id": "1145594",
@@ -5480,6 +5490,11 @@
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 287, 324, 868, 1072, 1234, 1318, SB'S 42, 101, 266, 249, 335, 436, 554; AJR 5"
       }
     ]
+  },
+  {
+    "id": "1447735",
+    "name": "ASIAN PACIFIC ENVIRONMENTAL NETWORK ACTION",
+    "quarters": []
   },
   {
     "id": "1334770",
@@ -20140,6 +20155,11 @@
         "lobbiedOn": "DURABLE WAYER REPELLENT (DWR) RE: AGGREGATE AND CONCRETE SUPPLIES; CA FORESTRY BOARD, CA DEPARTMENT OF FISH AND WILDLIFE (CDFW) RE: CONSERVATION, PROTECTION, MANAGEMNT OF FISH, WILDLIFE, PLANT HABITAT  "
       }
     ]
+  },
+  {
+    "id": "1481611",
+    "name": "CAPE ANN ASSET MANAGEMENT, INC",
+    "quarters": []
   },
   {
     "id": "1224215",
@@ -42467,6 +42487,26 @@
     ]
   },
   {
+    "id": "1471590",
+    "name": "LEAD EDGE CAPITAL MANAGEMENT, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 3750,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 6533,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
+      }
+    ]
+  },
+  {
     "id": "1457065",
     "name": "LEADERSHIP COUNSEL ACTION, A PROJECT OF TIDES ADVOCACY",
     "quarters": [
@@ -44304,14 +44344,14 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 209185.69,
+        "generalLobbying": 210561.48,
         "pucLobbying": 0,
-        "lobbiedOn": "SYASL Activity: City of LA:  Legislature: SB 611, AB 246, AB 630, AB 1377, Support for Film & Tax Credit. Port of LA: Legislature: AB 1023.; Los Angeles World Airports: Legislature: AB 1150.  City:  AB 91. Mayor Bass' delegation to Sacramento requesting state budget assistance for the City; Governor's office, re:  Port of LA operations."
+        "lobbiedOn": "SYASL Activity: City of LA:  Legislature: SB 611, AB 246, AB 630, AB 1377, Support for Film & Tax Credit. Port of LA: Legislature: AB 1023.; Los Angeles World Airports: Legislature: AB 1150.  City:  AB 91. AB 100, AB 630, AB 770; Mayor Bass' delegation to Sacramento requesting state budget assistance for the City; Governor's office, re:  Port of LA operations."
       },
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 436905.41,
+        "generalLobbying": 441179.28,
         "pucLobbying": 0,
         "lobbiedOn": "See Memo"
       }
@@ -72718,6 +72758,11 @@
         "lobbiedOn": "ABs 711, 882, 1189; DEPT OF CONSUMER AFFAIRS, COURT REPORTERS BOARD RE: CONTINGENCY AGREEMENTS        "
       }
     ]
+  },
+  {
+    "id": "1448363",
+    "name": "VERITION FUND MANAGEMENT LLC",
+    "quarters": []
   },
   {
     "id": "1146823",
