@@ -23496,6 +23496,26 @@
     ]
   },
   {
+    "id": "1469189",
+    "name": "COACHELLA VALLEY PUBLIC CEMETERY DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 3750,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
+      }
+    ]
+  },
+  {
     "id": "1143537",
     "name": "COACHELLA VALLEY WATER DISTRICT",
     "quarters": [
@@ -68468,6 +68488,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
