@@ -1717,7 +1717,7 @@
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE    "
+        "lobbiedOn": "NONE      "
       },
       {
         "quarter": "2nd",
@@ -23468,6 +23468,26 @@
     ]
   },
   {
+    "id": "1461993",
+    "name": "CO BAR SOLAR LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "GOVERNOR'S OFFICE, LEGISLATURE RE: CLEAN ENERGY ISSUES, PROJECT DEVELOPMENT ISSUES, GRID REGIONALIZATION       "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "GOVERNOR'S OFFICE, LEGISLATURE RE: CLEAN ENERGY ISSUES, PROJECT DEVELOPMENT ISSUES, GRID REGIONALIZATION, AFFORDABILITY       "
+      }
+    ]
+  },
+  {
     "id": "1145460",
     "name": "COACHELLA VALLEY ASSOCIATION OF GOVERNMENTS",
     "quarters": [
@@ -35505,7 +35525,7 @@
   },
   {
     "id": "1478422",
-    "name": "GSL GOVERNMENT CONSTULTING LLC",
+    "name": "GSL GOVERNMENT CONSULTING LLC",
     "quarters": []
   },
   {
@@ -37886,6 +37906,26 @@
     ]
   },
   {
+    "id": "1368260",
+    "name": "ICG INVESTMENTS INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 1028.84,
+        "pucLobbying": 0,
+        "lobbiedOn": "February 11th ? Sunil Vaswani had a 1-hour meeting with Benoit Durteste and Tom Baker, Robert Ross, Katherine Rodota, Tyler Rico, Georgia Pappas and Carlos Monfiglio of CalSTRS February 18th ? Sunil Vaswani had a 1-hour VC w/ Marketa Ostadalova and Selina Muasya of CalSTRA ? Infra II w/ Jerome Sousselier"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 591.35,
+        "pucLobbying": 0,
+        "lobbiedOn": "May 15, 2025 - Sunil Vaswani had a with Aizaz Ali of CalSTRS on SE V (60 mins) June 4, 2025 - Sunil Vaswani had a 30-minute meeting w/ Rob Ross and Tom Baker of CalSTRS at SuperReturn w/ on Europe IX"
+      }
+    ]
+  },
+  {
     "id": "1479967",
     "name": "ICIVICS",
     "quarters": []
@@ -39353,26 +39393,6 @@
     ]
   },
   {
-    "id": "1368260",
-    "name": "INTERMEDIATE CAPITAL GROUP, INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 1028.84,
-        "pucLobbying": 0,
-        "lobbiedOn": "February 11th ? Sunil Vaswani had a 1-hour meeting with Benoit Durteste and Tom Baker, Robert Ross, Katherine Rodota, Tyler Rico, Georgia Pappas and Carlos Monfiglio of CalSTRS February 18th ? Sunil Vaswani had a 1-hour VC w/ Marketa Ostadalova and Selina Muasya of CalSTRA ? Infra II w/ Jerome Sousselier"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 591.35,
-        "pucLobbying": 0,
-        "lobbiedOn": "May 15, 2025 - Sunil Vaswani had a with Aizaz Ali of CalSTRS on SE V (60 mins) June 4, 2025 - Sunil Vaswani had a 30-minute meeting w/ Rob Ross and Tom Baker of CalSTRS at SuperReturn w/ on Europe IX"
-      }
-    ]
-  },
-  {
     "id": "1144146",
     "name": "INTERNATIONAL ASSOCIATION OF PLUMBING & MECHANICAL OFFICIALS",
     "quarters": [
@@ -39809,6 +39829,11 @@
         "lobbiedOn": "SB 787, SB 86, SB 615, AB 1016, AB 1331, AB 692, AB 1234, SB 294, SB 7, SB 442, SB 355, California Alternative Energy and Advanced Transportation Financing Authority (CAEATFA) Sales Tax Exemption STE awards, GOBiz CalCompetes tax credit awards, CEC PowerForward awards."
       }
     ]
+  },
+  {
+    "id": "1482961",
+    "name": "INTERNATIONAL UNION, UAW REGION 6",
+    "quarters": []
   },
   {
     "id": "1329053",
@@ -44366,6 +44391,26 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: HORSE RACING ISSUES.      "
+      }
+    ]
+  },
+  {
+    "id": "1146993",
+    "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 52242.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislation impacting the education field."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 109701.79,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor, CDE, DOF, SBE, CTC, DGS, DHCS, LAO"
       }
     ]
   },
@@ -49790,26 +49835,6 @@
     ]
   },
   {
-    "id": "1466100",
-    "name": "NEW CALIFORNIA COALITION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SCA 1, SB 16, HOUSING PRODUCTION ISSUES, GOVERNOR'S OFFICE AND ADMINISTRATION REGARDING BUSINESS CLIMATE CHALLENGES.    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 26765.51,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING ACA 1, SB 16, SB 79 AND SB 606.    "
-      }
-    ]
-  },
-  {
     "id": "1480275",
     "name": "NEW CAPITAL LLC",
     "quarters": [
@@ -49946,6 +49971,11 @@
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
       }
     ]
+  },
+  {
+    "id": "1482206",
+    "name": "NEWMARKET INVESTMENT MANAGEMENT, LP",
+    "quarters": []
   },
   {
     "id": "1142907",
@@ -64530,6 +64560,11 @@
     ]
   },
   {
+    "id": "1417628",
+    "name": "SILVER POINT CAPITAL, L.P.",
+    "quarters": []
+  },
+  {
     "id": "1434414",
     "name": "SILVER ROCK FINANCIAL LP",
     "quarters": []
@@ -66959,6 +66994,26 @@
         "generalLobbying": 33000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 274, AB 295, AB 362, AB 1146, AB 1319, SB 72, SB 224, SB 330, SB 540, State Budget (Legislature, Governor's Office)"
+      }
+    ]
+  },
+  {
+    "id": "1466100",
+    "name": "STATEWIDE CALIFORNIA COALITION DBA NEW CALIFORNIA COALITION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SCA 1, SB 16, HOUSING PRODUCTION ISSUES, GOVERNOR'S OFFICE AND ADMINISTRATION REGARDING BUSINESS CLIMATE CHALLENGES.    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 26765.51,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING ACA 1, SB 16, SB 79 AND SB 606.    "
       }
     ]
   },
