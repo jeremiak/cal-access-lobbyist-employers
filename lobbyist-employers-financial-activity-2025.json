@@ -3819,7 +3819,22 @@
   {
     "id": "1470124",
     "name": "AMERICAN NATIONAL RED CROSS",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
+      }
+    ]
   },
   {
     "id": "1319004",
@@ -15033,7 +15048,7 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 20024.73,
+        "generalLobbying": 20050.38,
         "pucLobbying": 0,
         "lobbiedOn": "AB 25, 35, 61, 609, 684, 787, 806, 839, 881, 914, 1157, 1167, 1243, 1260; SB 24, 131, 222, 237, 254, 299, 332, 419, 526, 540, 607, 609, 655, 684, 784."
       }
@@ -15219,16 +15234,16 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 30000,
+        "generalLobbying": 28500,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "SB 825"
       },
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 30000,
+        "generalLobbying": 28500,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "SB 82, SB 310"
       }
     ]
   },
@@ -39208,7 +39223,7 @@
   },
   {
     "id": "1437941",
-    "name": "INSTRUCTURE",
+    "name": "INSTRUCTURE, INC.",
     "quarters": [
       {
         "quarter": "2nd",
@@ -53669,7 +53684,7 @@
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE     "
+        "lobbiedOn": "NONE       "
       },
       {
         "quarter": "2nd",
@@ -71497,11 +71512,6 @@
     ]
   },
   {
-    "id": "1481817",
-    "name": "UNITED ADMINISTRATORS SOUTHERN CALIFORNIA",
-    "quarters": []
-  },
-  {
     "id": "1395475",
     "name": "UNITED AGRIBUSINESS LEAGUE",
     "quarters": [
@@ -71811,6 +71821,13 @@
         "generalLobbying": 46585.7,
         "pucLobbying": 0,
         "lobbiedOn": "Working in collaboration with various entities, including Association of California Water Agencies and CalChambers, UWCD and its legislative advocates have expressed support for SB 23 (Caballero), SB 366 (Caballero) and SB 651 (Groves); and opposed AB 389 (Allen), AB 429 (Bennett), AB 460 (Bauer-Kahan), AB 560 (Bennett), AB 676 (Bennett), AB 779 (Wilson), AB 1337 (Wicks), AB 1563 (Bennett)."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and California Dept. of Water Resources, State Water Resources Control Board bills: AB 367, AB 1319, AB 1413, AB 1520, SB 72 regarding water, groundwater, dam safety, infrastructure, Delta Conveyance Project, resources bonds, grants, and state budget."
       }
     ]
   },
