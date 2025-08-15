@@ -29333,6 +29333,11 @@
     ]
   },
   {
+    "id": "1483019",
+    "name": "EATON FIRE SURVIVORS NETWORK",
+    "quarters": []
+  },
+  {
     "id": "1481138",
     "name": "EB NATURAL RESOURCES",
     "quarters": [
@@ -32123,6 +32128,26 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 476, 521, 889, 1198, 1331, 1371; SB 61, 310, 440, 755, 799      "
+      }
+    ]
+  },
+  {
+    "id": "1460193",
+    "name": "FIRE & FLOOD EMERGENCY SERVICES ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 9980,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE   "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 7497,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: BUDGET   "
       }
     ]
   },
@@ -46193,6 +46218,19 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 116, 510, 512, 536, 539, 577; SB 116, 363; LEGISLATURE RE: STATE BUDGET     "
+      }
+    ]
+  },
+  {
+    "id": "1482570",
+    "name": "MEDTERRA CBD LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 8; SB 378"
       }
     ]
   },
@@ -68513,7 +68551,7 @@
         "session": "2025-2026",
         "generalLobbying": 1500,
         "pucLobbying": 0,
-        "lobbiedOn": "No reportable activity"
+        "lobbiedOn": "AB 372, AB 706, SB427, SB 101"
       }
     ]
   },
@@ -75957,26 +75995,6 @@
         "generalLobbying": 386.25,
         "pucLobbying": 0,
         "lobbiedOn": "NONE     "
-      }
-    ]
-  },
-  {
-    "id": "1463171",
-    "name": "WORLD-WIDE AGGLOMERATED STONE MANUFACTURERS ASSOCIATION DBA A.ST.A WORLD-WIDE",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 21428.83,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND ADMINISTRATION RE: SB 20  "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 21429,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND ADMINISTRATION RE: SB 20    "
       }
     ]
   },
