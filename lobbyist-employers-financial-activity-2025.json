@@ -21490,7 +21490,7 @@
   },
   {
     "id": "1480227",
-    "name": "CENTRAL CALIFORNIA ENVIRONMENTAL JUSTIC NETWORK (CCEJN)",
+    "name": "CENTRAL CALIFORNIA ENVIRONMENTAL JUSTICE NETWORK (CCEJN)",
     "quarters": [
       {
         "quarter": "2nd",
@@ -24179,11 +24179,6 @@
         "lobbiedOn": "African American AP Day, computer science for all effort, A-G Completion Grant Program extension, personal finance course inclusion issue, AB 1159, AB 887, SB 835, SB 343, AB 1043, AB 811, AB 1064, AB 1018, SB 612, AB 401."
       }
     ]
-  },
-  {
-    "id": "1482636",
-    "name": "COLLIER, SOPHIA",
-    "quarters": []
   },
   {
     "id": "1458690",
@@ -31360,6 +31355,11 @@
     ]
   },
   {
+    "id": "1482820",
+    "name": "EV REALTY HOLDINGS LLC",
+    "quarters": []
+  },
+  {
     "id": "1460014",
     "name": "EVE ENERGY VENTURES INC., D/B/A/ XEAL ENERGY",
     "quarters": [
@@ -34395,7 +34395,7 @@
   },
   {
     "id": "1422356",
-    "name": "GLP CAPITAL PARTNER?S INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
+    "name": "GLP CAPITAL PARTNERS INC. AND AFFILIATED ENTITY GLP CAPITAL PARTNERS",
     "quarters": [
       {
         "quarter": "1st",
@@ -41740,6 +41740,26 @@
     ]
   },
   {
+    "id": "1441475",
+    "name": "KNIGHT LAW GROUP",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 26/AMENDMENTS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE  "
+      }
+    ]
+  },
+  {
     "id": "1146958",
     "name": "KOCH GOVERNMENT AFFAIRS, LLC AND AFFILIATES",
     "quarters": [
@@ -47044,7 +47064,7 @@
   },
   {
     "id": "1253255",
-    "name": "MILPITAS, CITY OF",
+    "name": "MILPITAS; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -47497,7 +47517,7 @@
   },
   {
     "id": "1226615",
-    "name": "MONTEBELLO, CITY OF ",
+    "name": "MONTEBELLO; CITY OF ",
     "quarters": [
       {
         "quarter": "2nd",
@@ -51097,6 +51117,26 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 253; LEGISLATURE RE: URBAN WATER USE OBJECTIVES, WILDFIRE PREVENTION  "
+      }
+    ]
+  },
+  {
+    "id": "1446244",
+    "name": "OAK HC/FT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE            "
       }
     ]
   },
@@ -67702,6 +67742,11 @@
     ]
   },
   {
+    "id": "1483040",
+    "name": "SUNFLOWER INC / STIARSIA",
+    "quarters": []
+  },
+  {
     "id": "1426368",
     "name": "SUNLINE TRANSIT AGENCY",
     "quarters": [
@@ -70556,7 +70601,7 @@
         "session": "2025-2026",
         "generalLobbying": 25357.38,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "SB 1248; AB 2285; SB 1182; AB 1642; SB 867 (Climate Bond); AB 1567; AB 247; SB427"
       }
     ]
   },
