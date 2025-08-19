@@ -4928,14 +4928,14 @@
         "session": "2025-2026",
         "generalLobbying": 6542,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature, California Energy Commission re: AB 1448"
+        "lobbiedOn": "California Energy Commission re: Opt-in permitting process"
       },
       {
         "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 34000,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature, California Energy Commission re: AB 1448"
+        "lobbiedOn": "California Energy Commission re: Opt-in permitting process"
       }
     ]
   },
@@ -21184,6 +21184,26 @@
     ]
   },
   {
+    "id": "1307553",
+    "name": "CENTER FOR BIOLOGICAL DIVERSITY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 51641.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A        "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 92324.18,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB130, AB131, AB609, AB697, AB902, AB1089, AB1448, SB5, SB79, SB130, SB131, SB542, SB574, SB607, SB608, SB715, SB772, SB779, SB815, SB818, SB1137; SUPERFUND PROGRAM    "
+      }
+    ]
+  },
+  {
     "id": "1480372",
     "name": "CENTER FOR CLIMATE INTEGRITY",
     "quarters": []
@@ -32132,7 +32152,7 @@
     ]
   },
   {
-    "id": "1460193",
+    "id": "1449363",
     "name": "FIRE & FLOOD EMERGENCY SERVICES ",
     "quarters": [
       {
@@ -49928,9 +49948,24 @@
     ]
   },
   {
-    "id": "1480960",
+    "id": "1481151",
     "name": "NEW ENERGY EQUITY LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 5538.63,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1260."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 13333.32,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1260, community solar proposals."
+      }
+    ]
   },
   {
     "id": "1480648",
@@ -52043,6 +52078,11 @@
         "lobbiedOn": "SB 660; ELECTRONIC MEDICAL RECORDS: LEGISLATURE    "
       }
     ]
+  },
+  {
+    "id": "1483172",
+    "name": "ORANGE CHARGER",
+    "quarters": []
   },
   {
     "id": "1450346",
@@ -67740,11 +67780,6 @@
         "lobbiedOn": ""
       }
     ]
-  },
-  {
-    "id": "1483040",
-    "name": "SUNFLOWER INC / STIARSIA",
-    "quarters": []
   },
   {
     "id": "1426368",
