@@ -3212,26 +3212,6 @@
     ]
   },
   {
-    "id": "1146385",
-    "name": "AMERICAN COATINGS ASSOCIATION AND AFFILIATED COMPANIES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 24113.83,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 823, AB 1304, SB 501, SB 682, CAL-RECYCLE DIRECTOR APPOINTMENT; CAL-RECYCLE REGARDING: SB 1143 IMPLEMENTATION; CALIFORNIA AIR RESOURCES BOARD REGARDING: AIR QUALITY REGULATORY ACTIVITY.        "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 24625.74,
-        "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHMENT A    "
-      }
-    ]
-  },
-  {
     "id": "1146961",
     "name": "AMERICAN COLLEGE OF OBSTETRICIANS & GYNECOLOGISTS - DISTRICT IX",
     "quarters": [
@@ -9493,7 +9473,7 @@
   },
   {
     "id": "1336006",
-    "name": "BREVAN HOWARD ASSET MANAGEMENT LLP",
+    "name": "BREVAN HOWARD INVESTMENT MANAGEMENT LIMITED",
     "quarters": [
       {
         "quarter": "1st",
@@ -21204,11 +21184,6 @@
     ]
   },
   {
-    "id": "1480372",
-    "name": "CENTER FOR CLIMATE INTEGRITY",
-    "quarters": []
-  },
-  {
     "id": "1398378",
     "name": "CENTER FOR EARLY INTERVENTION ON DEAFNESS",
     "quarters": [
@@ -23062,6 +23037,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Treasurer's Office re: marketing.  Lobbied the Legislature re: AB 449"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, Dept of Finance, Commission for Behavioral Health re youth suicide prevention campaigns, Live Beyond and Never a Bother, and budget funding     "
       }
     ]
   },
@@ -32801,7 +32783,15 @@
   {
     "id": "1326714",
     "name": "FOREST LAWN MORTUARY",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 109500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA ENVIRONMENTAL QUALITY ACT ISSUES: LEGISLATURE, GOVERNOR'S ADMINISTRATION AND OFFICE; HIGHWAY  ROAD ACCESS: LEGISLATURE"
+      }
+    ]
   },
   {
     "id": "1146444",
@@ -66422,26 +66412,6 @@
         "generalLobbying": 152213.19,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS:  Investments, UC Regents:Investments"
-      }
-    ]
-  },
-  {
-    "id": "1409835",
-    "name": "SPLUNK INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 10000,
-        "pucLobbying": 0,
-        "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER      "
       }
     ]
   },
