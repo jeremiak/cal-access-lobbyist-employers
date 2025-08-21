@@ -16972,7 +16972,7 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 109506.09,
+        "generalLobbying": 109505.64,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
       },
@@ -38700,7 +38700,22 @@
   {
     "id": "1481006",
     "name": "INDIAN WELLS VALLEY WATER DISTRICT",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re AB 1413, AB 1466; DWR re groundwater issues."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 20107.65,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re AB 1413, AB 1466; DWR re: AB 1413; Governor's office re: AB 1413."
+      }
+    ]
   },
   {
     "id": "1143255",
