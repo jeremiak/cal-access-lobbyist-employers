@@ -45770,8 +45770,16 @@
   },
   {
     "id": "1481848",
-    "name": "MARN DDS DENTAL PRACTICE, P.C., DBA",
-    "quarters": []
+    "name": "MARN DDS DENTAL PRACTICE, P.C., DBA BIG SMILES DENTAL",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding Prop. 56 supplemental dental payments in state budget."
+      }
+    ]
   },
   {
     "id": "1143570",
@@ -56234,6 +56242,11 @@
   {
     "id": "1402821",
     "name": "PPC INVESTMENT PARTNERS LP DBA PRITZKER PRIVATE CAPITAL",
+    "quarters": []
+  },
+  {
+    "id": "1482133",
+    "name": "PPG INDUSTRIES",
     "quarters": []
   },
   {
@@ -67767,6 +67780,11 @@
     ]
   },
   {
+    "id": "1483040",
+    "name": "SUNFLOWER INC / STIARSIA",
+    "quarters": []
+  },
+  {
     "id": "1426368",
     "name": "SUNLINE TRANSIT AGENCY",
     "quarters": [
@@ -71588,9 +71606,9 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 32400,
+        "generalLobbying": 54538,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE      "
+        "lobbiedOn": "AB 33, 87, 316, 698, 858, 1097, 1109, 1221, 1331; ACA 3; SB 7, 92, 346, 442, 607, 648, 675, 716, 747, 838  "
       }
     ]
   },
