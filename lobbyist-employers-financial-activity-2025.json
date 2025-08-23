@@ -4070,6 +4070,11 @@
     ]
   },
   {
+    "id": "1480171",
+    "name": "AMERICAN SOYBEAN ASSOCIATION",
+    "quarters": []
+  },
+  {
     "id": "1243880",
     "name": "AMERICAN STAFFING ASSOCIATION",
     "quarters": [
@@ -8313,6 +8318,11 @@
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING FEDERAL FUNDING CUTS, STATE BUDGET AND CALVIP.  "
       }
     ]
+  },
+  {
+    "id": "1279364",
+    "name": "BIG LAGOON RANCHERIA",
+    "quarters": []
   },
   {
     "id": "1264854",
@@ -37452,6 +37462,11 @@
     "quarters": []
   },
   {
+    "id": "1483318",
+    "name": "HOTWIRE COMMUNICATIONS",
+    "quarters": []
+  },
+  {
     "id": "1143117",
     "name": "HOUSEHOLD AND COMMERCIAL PRODUCTS ASSOCIATION",
     "quarters": [
@@ -44387,6 +44402,11 @@
     ]
   },
   {
+    "id": "1482236",
+    "name": "LOS ANGELES ORGANIZING COMMITTEE FOR THE OLYMPIC AND PARALYMPIC GAMES 2028",
+    "quarters": []
+  },
+  {
     "id": "1418111",
     "name": "LOS ANGELES ORGANIZING COMMITTEE FOR THE OLYMPIC AND PARALYMPIC GAMES 2028 D/B/A LA 28",
     "quarters": [
@@ -48390,6 +48410,11 @@
         "lobbiedOn": ""
       }
     ]
+  },
+  {
+    "id": "1482922",
+    "name": "MY CHARACTER REFERENCES LLC",
+    "quarters": []
   },
   {
     "id": "1455389",
@@ -72153,6 +72178,26 @@
     ]
   },
   {
+    "id": "1240089",
+    "name": "UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 20749.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Legislature, The Regents of the University of California, The Governor of California, The California Student Aid Commission."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Legislature, The Regents of the University of California, The Governor of California, The California Student Aid Commission."
+      }
+    ]
+  },
+  {
     "id": "1143187",
     "name": "UNIVERSITY OF PHOENIX, INC; THE",
     "quarters": [
@@ -73977,6 +74022,11 @@
     ]
   },
   {
+    "id": "1482318",
+    "name": "WALLEYE CAPITAL LLC",
+    "quarters": []
+  },
+  {
     "id": "1223813",
     "name": "WALMART INC.,  ",
     "quarters": [
@@ -75621,6 +75671,11 @@
         "lobbiedOn": "None"
       }
     ]
+  },
+  {
+    "id": "1483300",
+    "name": "WHITE SUMMIT CAPITAL MANAGEMENT, S.G.E.I.C., S.A.U.",
+    "quarters": []
   },
   {
     "id": "1417749",
