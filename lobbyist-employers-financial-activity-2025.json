@@ -8115,6 +8115,11 @@
     ]
   },
   {
+    "id": "1483362",
+    "name": "BEST ONLINE TRAFFIC SCHOOL",
+    "quarters": []
+  },
+  {
     "id": "1479248",
     "name": "BET INFORMATION SYSTEMS INC. DBA SURVEY.COM",
     "quarters": [
@@ -8523,6 +8528,11 @@
         "lobbiedOn": "NONE.    "
       }
     ]
+  },
+  {
+    "id": "1483022",
+    "name": "BLACK FREEDOM FUND",
+    "quarters": []
   },
   {
     "id": "1402813",
@@ -10515,7 +10525,7 @@
   },
   {
     "id": "1467051",
-    "name": "CALICHE DEVELOPMENT PARTNERS, II, LLC",
+    "name": "CALICHE DEVELOPMENT PARTNERS, III, LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -13068,6 +13078,11 @@
         "lobbiedOn": "SEE ATTACHMENT 'A' AND 'B'.      "
       }
     ]
+  },
+  {
+    "id": "1142874",
+    "name": "CALIFORNIA BUS ASSOCIATION",
+    "quarters": []
   },
   {
     "id": "1146887",
@@ -29017,7 +29032,7 @@
         "session": "2025-2026",
         "generalLobbying": 30100,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "FUNERAL AND BURIAL SERVICES REGULATION. AGENCIES LOBBIED: LEGISLATURE, GOVERNOR'S OFFICE, CONSUMER SERVICES AGENCY, DEPT. OF PUBLIC HEALTH, DEPT. OF CONSUMER AFFAIRS."
       }
     ]
   },
@@ -41004,6 +41019,11 @@
     ]
   },
   {
+    "id": "1460120",
+    "name": "KAPLAN NORTH AMERICA, LLC",
+    "quarters": []
+  },
+  {
     "id": "1467283",
     "name": "KARMA AUTOMOTIVE, LLC",
     "quarters": [
@@ -46687,26 +46707,6 @@
         "generalLobbying": 2829.6,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS: Investments."
-      }
-    ]
-  },
-  {
-    "id": "1335460",
-    "name": "MESIROW FINANCIAL SERVICES, INC. AND/OR SUBSIDIARIES ",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
       }
     ]
   },
@@ -64839,6 +64839,26 @@
     ]
   },
   {
+    "id": "1457983",
+    "name": "SINGLE DISTRICT COE CONSORTIUM",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      }
+    ]
+  },
+  {
     "id": "1343438",
     "name": "SIRIS CAPITAL GROUP, LLC",
     "quarters": [
@@ -64997,6 +65017,11 @@
         "lobbiedOn": "None"
       }
     ]
+  },
+  {
+    "id": "1483134",
+    "name": "SLAVE 2 NOTHING",
+    "quarters": []
   },
   {
     "id": "1142967",
@@ -73222,6 +73247,11 @@
     ]
   },
   {
+    "id": "1482962",
+    "name": "VGW CORPORATE SERVICES AUSTRALIA PTY LTD",
+    "quarters": []
+  },
+  {
     "id": "1480341",
     "name": "VIA CARE",
     "quarters": [
@@ -74465,6 +74495,11 @@
         "lobbiedOn": "AB 33, AB 1018, AB 1043, AB 1281, AB 1355, AB 1379, AB 1421, AB 1499, SB 11, SB 480, SB 511; Governors Office  Permits; DMV  Autonomous Vehicle Regulations; CPUC - R.12.12.011; R.19.02.012; R.21.11.014                      "
       }
     ]
+  },
+  {
+    "id": "1483338",
+    "name": "WAYSTAR, INC.",
+    "quarters": []
   },
   {
     "id": "1441172",
@@ -76155,6 +76190,11 @@
         "lobbiedOn": "SBs 501, 561; Legislature re: SB 1280 Implementation; CalRecycle re: SB  1280 Implementation  "
       }
     ]
+  },
+  {
+    "id": "1483166",
+    "name": "WPT ENTERPRISES, INC.",
+    "quarters": []
   },
   {
     "id": "1145951",
