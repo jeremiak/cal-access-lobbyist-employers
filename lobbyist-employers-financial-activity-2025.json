@@ -10677,6 +10677,11 @@
     ]
   },
   {
+    "id": "1142881",
+    "name": "CALIFORNIA ACADEMY OF NUTRITION AND DIETETICS",
+    "quarters": []
+  },
+  {
     "id": "1146333",
     "name": "CALIFORNIA ACADEMY OF PAS",
     "quarters": [
@@ -33672,7 +33677,7 @@
         "session": "2025-2026",
         "generalLobbying": 21000,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests"
+        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests  "
       }
     ]
   },
@@ -35204,6 +35209,11 @@
         "lobbiedOn": "AB 57, AB 62, AB 348, AB 475, AB 742, AB 766, AB 785, AB 801, AB 935, AB 992; SB 437, SB 464, SB 503, SB 510, SB 518, SB 562, SB 645, SB 758  "
       }
     ]
+  },
+  {
+    "id": "1483370",
+    "name": "GREEN BUILDING INITIATIVE",
+    "quarters": []
   },
   {
     "id": "1146997",
@@ -49575,6 +49585,11 @@
     ]
   },
   {
+    "id": "1483364",
+    "name": "NATURA LIFE + SCIENCE",
+    "quarters": []
+  },
+  {
     "id": "1445881",
     "name": "NATURAL PRODUCTS ASSOCIATION",
     "quarters": [
@@ -55060,6 +55075,11 @@
     ]
   },
   {
+    "id": "1483278",
+    "name": "PHARMACEUTICAL REFORM ALLIANCE",
+    "quarters": []
+  },
+  {
     "id": "1144281",
     "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
     "quarters": [
@@ -55446,7 +55466,7 @@
         "session": "2025-2026",
         "generalLobbying": 18000,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests; AB 650, SB 16, SB 346, SB 455, SB 457, SB 496, SB 569, SB 634  "
+        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests; AB 650, SB 16, SB 346, SB 455, SB 457, SB 496, SB 569, SB 634      "
       }
     ]
   },
@@ -65921,6 +65941,11 @@
     ]
   },
   {
+    "id": "1483032",
+    "name": "SOUTH CORD MANAGEMENT LLC",
+    "quarters": []
+  },
+  {
     "id": "1240017",
     "name": "SOUTH DELTA WATER AGENCY",
     "quarters": [
@@ -69752,6 +69777,26 @@
     ]
   },
   {
+    "id": "1381964",
+    "name": "TIG ADVISORS, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1437366",
     "name": "TIGER GLOBAL MANAGEMENT, LLC",
     "quarters": [
@@ -72379,6 +72424,11 @@
         "lobbiedOn": "AB 8; SB 378  "
       }
     ]
+  },
+  {
+    "id": "1456034",
+    "name": "US MEGAFIRE RESPONSE ACTION",
+    "quarters": []
   },
   {
     "id": "1222742",
