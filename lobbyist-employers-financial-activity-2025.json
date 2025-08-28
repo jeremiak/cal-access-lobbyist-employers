@@ -23073,7 +23073,7 @@
         "session": "2025-2026",
         "generalLobbying": 20000,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor's Office, Dept of Finance, Commission for Behavioral Health re youth suicide prevention campaigns, Live Beyond and Never a Bother, and budget funding     "
+        "lobbiedOn": "Legislature, Governor's Office, Dept of Finance, Commission for Behavioral Health re youth suicide prevention campaigns, Live Beyond and Never a Bother, and budget funding         "
       }
     ]
   },
@@ -34829,6 +34829,26 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, re: SB 71, SB 239, SB 283, SB 346, SB 569, AB 14, AB 259, AB 306, AB 472, AB 544, AB 650, AB 736, AB 954, AB 1127, AB 1143, AB 1448;  Budget: Support for Homeless Housing Assistance Program."
+      }
+    ]
+  },
+  {
+    "id": "1451403",
+    "name": "GOLUB CAPITAL LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CONTACTED CALPERS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE "
       }
     ]
   },
@@ -50798,6 +50818,26 @@
     "quarters": []
   },
   {
+    "id": "1145670",
+    "name": "NORTHERN CALIFORNIA WATER ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 84218.12,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A.      "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 64328.27,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A.        "
+      }
+    ]
+  },
+  {
     "id": "1347895",
     "name": "NORTHERN TRUST INVESTMENTS, INC.",
     "quarters": []
@@ -58880,26 +58920,6 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND ADMINISTRATION RE: SB 530 AND SB 668    "
-      }
-    ]
-  },
-  {
-    "id": "1436121",
-    "name": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "California Public Employees' Retirement System (CalPers)           San Joaquin County Employees' Retirement Association           California Community Foundation           California State Teachers' Retirement System          Contra Costa Employees' Retirement Association          Los Angeles City Employees' Retirement System"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "California Public Employees' Retirement System (CalPers)            San Joaquin County Employees' Retirement Association            California Community Foundation            California State Teachers' Retirement System          Contra Costa Employees' Retirement Association           Los Angeles City Employees' Retirement System"
       }
     ]
   },
