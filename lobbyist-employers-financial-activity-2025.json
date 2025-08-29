@@ -118,6 +118,11 @@
     ]
   },
   {
+    "id": "1483405",
+    "name": "29 DIVERSIFIED, LLC",
+    "quarters": []
+  },
+  {
     "id": "1419543",
     "name": "2U, INC.",
     "quarters": [
@@ -9910,6 +9915,11 @@
   {
     "id": "1465473",
     "name": "BTG PACTUAL TIMBERLAND INVESTMENT GROUP, LLC",
+    "quarters": []
+  },
+  {
+    "id": "1483171",
+    "name": "BU BREGAL UNTERNEHMERKAPITAL UK LIMITED",
     "quarters": []
   },
   {
@@ -32184,6 +32194,11 @@
     ]
   },
   {
+    "id": "1483429",
+    "name": "FIRE ASIDE, INC",
+    "quarters": []
+  },
+  {
     "id": "1143204",
     "name": "FIRE DISTRICTS ASSOCIATION OF CALIFORNIA",
     "quarters": [
@@ -40703,6 +40718,11 @@
         "lobbiedOn": "AB: 431; SB: 86  "
       }
     ]
+  },
+  {
+    "id": "1483439",
+    "name": "JOE TORRE SAFE AT HOME FOUNDATION",
+    "quarters": []
   },
   {
     "id": "1364399",
@@ -54198,6 +54218,26 @@
     ]
   },
   {
+    "id": "1357927",
+    "name": "PATRIA INVESTMENTS US LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 28974.77,
+        "pucLobbying": 0,
+        "lobbiedOn": "PROVISION OF INFORMATION TO CALPERS, CALSTRS, AND UC REGENTS IN CONNECTION WITH AN INVESTMENT IN A PRIVATE EQUITY FUND    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 29648.6,
+        "pucLobbying": 0,
+        "lobbiedOn": "PROVISION OF INFORMATION TO CALPERS, CALSTRS, AND UC REGENTS IN CONNECTION WITH AN INVESTMENT IN A PRIVATE EQUITY FUND      "
+      }
+    ]
+  },
+  {
     "id": "1378191",
     "name": "PATTERSON IRRIGATION DISTRICT",
     "quarters": [
@@ -54347,6 +54387,26 @@
         "generalLobbying": 274007.93,
         "pucLobbying": 0,
         "lobbiedOn": "AB 63, AB 237, AB 284, AB 285, AB 288, AB 340, AB 400, AB 572, AB 622, AB 868, AB 992, AB 1057, AB 1071, AB 1376, AB 1383, AB 1388, AB 1489, SB 357, SB 385, SB 459, SB 487, SB 524, SB 627, SB 734, SB 758."
+      }
+    ]
+  },
+  {
+    "id": "1399267",
+    "name": "PEAK ROCK CAPITAL LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS QUARTER.     "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS QUARTER.       "
       }
     ]
   },
@@ -64537,6 +64597,11 @@
     ]
   },
   {
+    "id": "1483433",
+    "name": "SIERRA COLLEGE",
+    "quarters": []
+  },
+  {
     "id": "1434318",
     "name": "SIERRA CONSORTIUM",
     "quarters": [
@@ -68541,6 +68606,11 @@
     ]
   },
   {
+    "id": "1483348",
+    "name": "SYSTEM PAVERS",
+    "quarters": []
+  },
+  {
     "id": "1445365",
     "name": "SYSTEMATICA INVESTMENTS US LLC AND ITS AFFILIATES, SYSTEMATICA INVESTMENTS LIMITED AND SYSTEMATICA\nINVESTMENTS UK LLP",
     "quarters": [
@@ -70757,6 +70827,11 @@
         "lobbiedOn": "SB 1248; AB 2285; SB 1182; AB 1642; SB 867 (Climate Bond); AB 1567; AB 247; SB427"
       }
     ]
+  },
+  {
+    "id": "1483426",
+    "name": "TRUV, INC",
+    "quarters": []
   },
   {
     "id": "1466027",
@@ -73689,6 +73764,13 @@
         "generalLobbying": 32519,
         "pucLobbying": 0,
         "lobbiedOn": "Legislative: AB 3149, State budget: CHW funding Regulatory: Health and Human Services Agency, Department of Health Care Services, Department of Health Care Access and Information: promotores de salud capacity building funding, CHW certification"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 82528,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
