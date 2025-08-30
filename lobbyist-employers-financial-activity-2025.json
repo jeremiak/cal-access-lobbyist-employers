@@ -22130,9 +22130,9 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 3889906.98,
+        "generalLobbying": 4396428.58,
         "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHMENT A          "
+        "lobbiedOn": "SEE ATTACHMENT A              "
       }
     ]
   },
@@ -22310,7 +22310,7 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 10249.73,
+        "generalLobbying": 10999.73,
         "pucLobbying": 0,
         "lobbiedOn": "AB 42, AB 49, AB 65, AB 81, AB 89, AB224, AB 249, AB 280, AB 291, AB 350, AB 363, AB 373, AB 462, AB 589, AB 601, AB 607, AB 689, AB 791, AB 800, AB 804, AB 898, AB 904, AB 916, AB 988, AB 1032, AB 1043, AB 1096, AB 1129, AB 1161, AB 1230, AB 1242, AB 1264, AB 1376, AB 1454, SB 39, SB 48, SB 62, SB 81, SB 87, SB 271, SB 363, SB378, SB 418, SB 438, SB 452, SB 462, SB 492, SB 497, SB 530, SB 625,"
       }
@@ -42241,6 +42241,26 @@
     ]
   },
   {
+    "id": "1466473",
+    "name": "LA PALMA; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 11000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests, Federal Funding Support Letters  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 11000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests, Federal Funding Support Letters    "
+      }
+    ]
+  },
+  {
     "id": "1316961",
     "name": "LA PUENTE; CITY OF",
     "quarters": [
@@ -43439,6 +43459,26 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "CA AIR RESOURCES BOARD RE: CAP-AND-TRADE, LOW CARBON FUEL STANDARD, SB 1075 REPORT; CA ENERGY COMMISSION RE: INTEGRATED ENERGY POLICY REPORT (IEPR), SB 1075 REPORT, CLEAN TRANSPORTATION PROGRAM; GOVERNOR'S OFFICE RE: MARKET READINESS STRATEGY  "
+      }
+    ]
+  },
+  {
+    "id": "1473048",
+    "name": "LINDEN MANAGER LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE         "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE             "
       }
     ]
   },
@@ -47650,9 +47690,9 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 17090,
+        "generalLobbying": 21125,
         "pucLobbying": 0,
-        "lobbiedOn": "ATTACHMENT A      "
+        "lobbiedOn": "ATTACHMENT A        "
       }
     ]
   },
@@ -54399,14 +54439,14 @@
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE THIS QUARTER.     "
+        "lobbiedOn": "NONE THIS QUARTER.       "
       },
       {
         "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE THIS QUARTER.       "
+        "lobbiedOn": "NONE THIS QUARTER.           "
       }
     ]
   },
@@ -64744,6 +64784,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -68990,7 +69037,7 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 171208.47,
+        "generalLobbying": 214408.47,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1264; SB 824, 832; Legislature, Governor: State Budget, School Nutrition; Department of Financial Protection and Innovation/Division of Consumer Financial Protection: Consumer Financial Protection Bureau Closure."
       },
