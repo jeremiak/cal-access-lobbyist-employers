@@ -40,6 +40,19 @@
     ]
   },
   {
+    "id": "1447924",
+    "name": "160 DRIVING ACADEMY",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1480230",
     "name": "160 DRIVING ACADEMY",
     "quarters": []
@@ -2003,26 +2016,6 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "Funding request California Legislature."
-      }
-    ]
-  },
-  {
-    "id": "1463329",
-    "name": "ALIBABA GROUP HOLDINGS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 15538.82,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
       }
     ]
   },
@@ -7272,6 +7265,11 @@
     ]
   },
   {
+    "id": "1483504",
+    "name": "BABY2BABY",
+    "quarters": []
+  },
+  {
     "id": "1437912",
     "name": "BACKCOUNTRY HUNTERS & ANGLERS ",
     "quarters": [
@@ -8511,6 +8509,19 @@
         "generalLobbying": 25000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE      "
+      }
+    ]
+  },
+  {
+    "id": "1482802",
+    "name": "BLACK BEAR PICTURES, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE & GOVERNOR'S OFFICE RE: FILM TAX CREDITS"
       }
     ]
   },
@@ -26865,6 +26876,19 @@
     ]
   },
   {
+    "id": "1244146",
+    "name": "CUBIC TRANSPORTATION SYSTEMS, INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1292921",
     "name": "CUCAMONGA VALLEY WATER DISTRICT",
     "quarters": [
@@ -45187,6 +45211,11 @@
     ]
   },
   {
+    "id": "1483522",
+    "name": "MACKENZIE FINANCIAL CORPORATION",
+    "quarters": []
+  },
+  {
     "id": "1335099",
     "name": "MACQUARIE INFRASTRUCTURE AND REAL ASSETS INC.",
     "quarters": [
@@ -49054,6 +49083,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB1633 workgroup;AB2216 implementation;foster care; Loan Forgiveness for Public Interest Lawyers;State Budget and Title IV-E waiver"
+      }
+    ]
+  },
+  {
+    "id": "1482842",
+    "name": "NATIONAL CENTER FOR YOUTH LAW",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Re: AB 1376; Legislature"
       }
     ]
   },
@@ -56926,6 +56968,11 @@
     ]
   },
   {
+    "id": "1483448",
+    "name": "PROGYNY, INC.",
+    "quarters": []
+  },
+  {
     "id": "1385220",
     "name": "PROJECT LEAD THE WAY",
     "quarters": [
@@ -64729,6 +64776,11 @@
     ]
   },
   {
+    "id": "1483453",
+    "name": "SIGNAL HILL PETROLEUM",
+    "quarters": []
+  },
+  {
     "id": "1348275",
     "name": "SIGNAL HILL; CITY OF",
     "quarters": [
@@ -66923,6 +66975,11 @@
         "lobbiedOn": "LEGISLATURE RE: MEDI-CAL PROGRAM OF ALL-INCLUSIVE CARE FOR THE ELDERLY (PACE) ISSUES    "
       }
     ]
+  },
+  {
+    "id": "1483506",
+    "name": "ST. VINCENT BEHAVIORAL HEALTH CAMPUS LLC",
+    "quarters": []
   },
   {
     "id": "1449873",
@@ -70185,6 +70242,11 @@
         "lobbiedOn": "AB 130 SB 79, 131, 634"
       }
     ]
+  },
+  {
+    "id": "1483534",
+    "name": "TOTAL WINE & MORE ",
+    "quarters": []
   },
   {
     "id": "1350730",
