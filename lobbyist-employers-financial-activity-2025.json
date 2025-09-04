@@ -111,6 +111,11 @@
     ]
   },
   {
+    "id": "1483537",
+    "name": "24 HOUR HOME CARE ",
+    "quarters": []
+  },
+  {
     "id": "1459444",
     "name": "26NORTH PARTNERS LP",
     "quarters": [
@@ -3108,6 +3113,11 @@
         "lobbiedOn": "AB 278, 512, 573, 974, 703, 886, 717, 1312; SB 508."
       }
     ]
+  },
+  {
+    "id": "1483586",
+    "name": "AMERICAN CANYON 1, LLC",
+    "quarters": []
   },
   {
     "id": "1265637",
@@ -32923,6 +32933,11 @@
     ]
   },
   {
+    "id": "1338804",
+    "name": "FORT WASHINGTON INVESTMENT ADVISORS, INC.",
+    "quarters": []
+  },
+  {
     "id": "1479239",
     "name": "FORTESCUE GLOBAL ASSET MANAGEMENT LLC",
     "quarters": []
@@ -57315,6 +57330,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None this period."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 18509.54,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature - SB 36, SB 709, AB 380"
       }
     ]
   },
@@ -59074,6 +59096,26 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND ADMINISTRATION RE: SB 530 AND SB 668    "
+      }
+    ]
+  },
+  {
+    "id": "1436121",
+    "name": "RIDGEMONT PARTNERS MANAGEMENT, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees' Retirement System (CalPers)           San Joaquin County Employees' Retirement Association           California Community Foundation           California State Teachers' Retirement System          Contra Costa Employees' Retirement Association          Los Angeles City Employees' Retirement System"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees' Retirement System (CalPers)            San Joaquin County Employees' Retirement Association            California Community Foundation            California State Teachers' Retirement System          Contra Costa Employees' Retirement Association           Los Angeles City Employees' Retirement System"
       }
     ]
   },
