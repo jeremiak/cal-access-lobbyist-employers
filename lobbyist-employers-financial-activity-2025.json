@@ -2025,6 +2025,26 @@
     ]
   },
   {
+    "id": "1463329",
+    "name": "ALIBABA GROUP HOLDINGS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15538.82,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
     "id": "1341986",
     "name": "ALKERMES, INC.",
     "quarters": [
@@ -6444,6 +6464,11 @@
         "lobbiedOn": "Legislature re: AB 432"
       }
     ]
+  },
+  {
+    "id": "1483538",
+    "name": "ASTHMA AND ALLERGY FOUNDATION OF AMERICA",
+    "quarters": []
   },
   {
     "id": "1405987",
@@ -21945,6 +21970,26 @@
     ]
   },
   {
+    "id": "1440344",
+    "name": "CHAMBER OF PROGRESS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 83552.38,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1018 AB 1349  AB 1355 AB 2 AB 316 AB 325 AB 33 AB 364 AB 412 AB 56 AB 566 AB 578 AB 93 SB 259 SB 295 SB 346 SB 420 SB 468 SB 480 SB 53 SB 57 SB 7 SB 833 AB 253 AB 270 AB 301 AB 67 SB 486 SB 524 SB 11; California Privacy Protection Agency: ADMT Regulations; California Law Revision Commission: Antitrust Study"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 104870,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB33,AB412,AB1043,AB1345,SB259,AB2,SB420,AB1355,AB1340,SB833,AB236,AB325,AB316,SB486,SB7,AB1018,AB253,AB301,AB578,AB56,AB1064,AB67,AB410,AB1405,SB238,SB243,SB446,SB52,SB579,AB736,SB371,AB1349,SB346,SB813,SB540,SB607,SB79,SB677,SB53,SB11,AB93,SB295,SB468,SB480,SB524,AB566,SB57,AB270,AB1137,AB370,AB489,AB853,AB869,AB940,SB361,SB511,SB417,AB364,SB690,AB446,SB771,AB45"
+      }
+    ]
+  },
+  {
     "id": "1317386",
     "name": "CHANGENT",
     "quarters": [
@@ -27907,6 +27952,11 @@
         "lobbiedOn": "LEGISLATURE RE: GOODS MOVEMENT"
       }
     ]
+  },
+  {
+    "id": "1483610",
+    "name": "DERMOT COMPANY, LP; THE",
+    "quarters": []
   },
   {
     "id": "1450608",
@@ -43689,6 +43739,11 @@
     ]
   },
   {
+    "id": "1483574",
+    "name": "LOAN SYNDICATIONS AND TRADING ASSOCIATION (LSTA)",
+    "quarters": []
+  },
+  {
     "id": "1476067",
     "name": "LOCAL 148 LA COUNTY PUBLIC DEFENDERS UNION",
     "quarters": []
@@ -50061,6 +50116,19 @@
         "generalLobbying": 19084.91,
         "pucLobbying": 0,
         "lobbiedOn": "Governor: California site expansion; California Department of Health Care Services & Legislature: Medication-induced movement disorder screening; Legislature: AB 641, SCR 68, medication-induced movement disorder screening"
+      }
+    ]
+  },
+  {
+    "id": "1482312",
+    "name": "NEVADA COUNTY SUPERINTENDENT OF SCHOOLS",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 2000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget"
       }
     ]
   },
@@ -65406,6 +65474,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "No reportable lobbying activity."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 60578.39,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Governors Office regarding Delta Conveyance Project and May Budget Revision to include the $10M budget request from California Indian Nations College. Lobbied the Legislature regarding AB 221, AB 362, AB 609, AB 1004 and SB 507. Lobbied the California State Water Resources Control Board regarding Septic-to-Sewer grant."
       }
     ]
   },
@@ -72026,6 +72101,11 @@
         "lobbiedOn": "Aviation apprenticeships -- Dept. of Industrial Relations.  Cap & Trade -- Legislature.  Voluntary Offsets -- Legislature.  Antitrust -- CA Law Revision Commission. Operations Permit -- CA Department of Public Health.  Legislation: AB 237, AB 431, AB 446, AB 735, AB 839, AB 1065, AB 1331, SB 95, SB 237, SB 415, SB 661."
       }
     ]
+  },
+  {
+    "id": "1261853",
+    "name": "UNITED AUBURN INDIAN COMMUNITY ",
+    "quarters": []
   },
   {
     "id": "1459255",
