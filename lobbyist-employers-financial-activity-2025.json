@@ -8030,7 +8030,15 @@
   {
     "id": "1480585",
     "name": "BERG HOLDINGS",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Assembly"
+      }
+    ]
   },
   {
     "id": "1144229",
@@ -8815,6 +8823,26 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 1029, AB 1052; SB 97      "
+      }
+    ]
+  },
+  {
+    "id": "1354270",
+    "name": "BLOOD CANCER UNITED, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 21810,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 242 (Blakespear) AB 1312 (Schiavo)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 24186,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 242 (Blakespear), AB 1312 (Schiavo), AB 1415 (Private Equity)"
       }
     ]
   },
@@ -43257,26 +43285,6 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "None This Period"
-      }
-    ]
-  },
-  {
-    "id": "1354270",
-    "name": "LEUKEMIA & LYMPHOMA SOCIETY",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 21810,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 242 (Blakespear) AB 1312 (Schiavo)"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 24186,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 242 (Blakespear), AB 1312 (Schiavo), AB 1415 (Private Equity)"
       }
     ]
   },
