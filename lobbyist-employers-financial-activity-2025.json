@@ -12656,6 +12656,11 @@
     ]
   },
   {
+    "id": "1319834",
+    "name": "CALIFORNIA ASSOCIATION OF SUPERVISORS OF CHILD WELFARE AND ATTENDANCE (CASCWA)",
+    "quarters": []
+  },
+  {
     "id": "1275573",
     "name": "CALIFORNIA ASSOCIATION OF VETERAN SERVICE AGENCIES",
     "quarters": [
@@ -20461,6 +20466,11 @@
         "lobbiedOn": ""
       }
     ]
+  },
+  {
+    "id": "1417251",
+    "name": "CAR REGISTRATION, INC.",
+    "quarters": []
   },
   {
     "id": "1480291",
@@ -29307,6 +29317,11 @@
         "lobbiedOn": "Legislature: State Budget, Proposition 4"
       }
     ]
+  },
+  {
+    "id": "1483683",
+    "name": "EAST LOS ANGELES CHAMBER OF COMMERCE",
+    "quarters": []
   },
   {
     "id": "1391951",
@@ -63070,6 +63085,11 @@
     ]
   },
   {
+    "id": "1434269",
+    "name": "SANTA CRUZ BEACH BOARDWALK",
+    "quarters": []
+  },
+  {
     "id": "1355173",
     "name": "SANTA CRUZ COUNTY OFFICE OF EDUCATION",
     "quarters": [
@@ -66878,6 +66898,26 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor's Office re: Privacy Issues."
+      }
+    ]
+  },
+  {
+    "id": "1438829",
+    "name": "SPORTFISHING ASSOCIATION OF CALIFORNIA",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA AIR RESOURCES BOARD RE: HARBOR CRAFT RULE AS PERTAINS TO THE COMMERCIAL PASSENGER VESSEL FLEET, CARL MOYER PROGRAM; FISH AND GAME COMMISSION RE: SANDBASS REGULATIONS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA AIR RESOURCES BOARD RE: HARBOR CRAFT RULE AS PERTAINS TO THE COMMERCIAL PASSENGER VESSEL FLEET, CARL MOYER PROGRAM; FISH AND GAME COMMISSION RE: SANDBASS REGULATIONS  "
       }
     ]
   },
