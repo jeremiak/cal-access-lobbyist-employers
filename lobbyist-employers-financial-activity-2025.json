@@ -7345,6 +7345,11 @@
     ]
   },
   {
+    "id": "1483693",
+    "name": "BAI CONNECT ",
+    "quarters": []
+  },
+  {
     "id": "1337900",
     "name": "BAIN CAPITAL, LP",
     "quarters": [
@@ -75618,9 +75623,24 @@
     ]
   },
   {
-    "id": "1480621",
+    "id": "1478563",
     "name": "WESTERN GRAZERS ASSOCIATION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE  "
+      }
+    ]
   },
   {
     "id": "1146857",
@@ -76271,22 +76291,36 @@
     ]
   },
   {
-    "id": "1460066",
-    "name": "WILLDAN",
+    "id": "1254799",
+    "name": "WILLDAN GROUP, INC.",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 14000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No Reportable activity this quarter."
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
         "generalLobbying": 10500,
         "pucLobbying": 0,
-        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION RE: ENERGY EFFICIENCY  "
+        "lobbiedOn": "No Reportable activity this quarter."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Departments of Public Health Re: Providing permits to replace natural gas water heater(s) with heat pump water heaters (HPWH).  SB 635"
       },
       {
         "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 30000,
         "pucLobbying": 0,
-        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION RE: ENERGY EFFICIENCY    "
+        "lobbiedOn": "Departments of Public Health Re: Providing permits to replace natural gas water heater(s) with heat pump water heaters (HPWH).  SB 635"
       }
     ]
   },
