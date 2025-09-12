@@ -1366,6 +1366,26 @@
     ]
   },
   {
+    "id": "1417592",
+    "name": "AGIS CAPITAL LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1462925",
     "name": "AGL CREDIT MANAGEMENT LLC",
     "quarters": [
@@ -24870,6 +24890,26 @@
         "generalLobbying": 16000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 748, SB 777, SB 757, AB 63, AB 650, SB 457, SB 634, SB 616, AB 306, AB 259, SB 239, SB 707, SB 74, SB 346, SB 456, AB 379, SB 777, SB 748, SB 757, SB 569, SB 16, AB 130, AB 13; Legislature re: Support Letters, State Budget Requests"
+      }
+    ]
+  },
+  {
+    "id": "1286548",
+    "name": "COMPUTER & COMMUNICATIONS INDUSTRY ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature related to Artificial intelligence (AI) and the California Consumer Privacy Act of 2018 (CCPA)/ the California Privacy Rights Act (CPRA), AB 2, AB 56, AB 412, AB 566, AB 1018, AB 1064, AB 1355, SB 11, SB 243, and SB 420. The California Privacy Protection Agency (CPPA) Board on automated decision-making technology (ADMT) regulations."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature related to Artificial intelligence (AI) and the California Consumer Privacy Act of 2018 (CCPA)/ the California Privacy Rights Act (CPRA), AB 2, AB 56,  AB 322, AB 412, AB 566, AB 656, AB 796, AB 853, AB 1018, AB 1064, AB 1137, AB 1355, AB 1405, SB 11, SB 243, SB 378, SB 420 and SB 771."
       }
     ]
   },
@@ -68383,6 +68423,11 @@
     ]
   },
   {
+    "id": "1318956",
+    "name": "SUNSET EXPLORATION, INC.",
+    "quarters": []
+  },
+  {
     "id": "1478418",
     "name": "SUNTORY GLOBAL SPIRITS",
     "quarters": []
@@ -75140,6 +75185,11 @@
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 784, BUDGET; CALIFORNIA STATE LEGISLATURE DEPT. OF EDUCATION, DEPT. OF HEALTH CARE SERVICES RE: SPECIAL EDUCATION, NONPUBLIC SCHOOLS, DEAF AND HARD OF HEARING    "
       }
     ]
+  },
+  {
+    "id": "1483738",
+    "name": "WEISS TECHNIK NORTH AMERICA",
+    "quarters": []
   },
   {
     "id": "1398898",
