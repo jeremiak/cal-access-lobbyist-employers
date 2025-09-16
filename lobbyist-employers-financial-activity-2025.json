@@ -21958,6 +21958,26 @@
     ]
   },
   {
+    "id": "1144782",
+    "name": "CFI LOCAL 39000",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 288, AB 465, AB 792"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 288, AB 465, AB 792,   Governor's office regarding budget bills pertaining to interpreters"
+      }
+    ]
+  },
+  {
     "id": "1396950",
     "name": "CFM INTERNATIONAL INC.",
     "quarters": [
@@ -27501,6 +27521,11 @@
         "lobbiedOn": "AB 1082; SB 242, 1236; CA DEPT OF PUBLIC HEALTH AND DEPT OF HEALTH CARE SERVICES RE: PATIENT ACCESS TO CARE AND PROVIDER ENROLLMENT/REIMBURSEMENT ISSUES; GOVERNOR'S OFFICE, LEGISLATURE RE: ALL BUDGET RELATED LEGISLATION; CA DEPT OF PUBLIC HEALTH RE: INPATIENT DIALYSIS STANDARDS AND CLAIFICATION   "
       }
     ]
+  },
+  {
+    "id": "1483769",
+    "name": "DAWN PROJECT LLC; THE",
+    "quarters": []
   },
   {
     "id": "1399390",
@@ -44491,6 +44516,26 @@
     ]
   },
   {
+    "id": "1147173",
+    "name": "LOS ANGELES COUNTY OFFICE OF EDUCATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 48167,
+        "pucLobbying": 0,
+        "lobbiedOn": "Please see memo reference: 1 at the bottom of the report."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 49329,
+        "pucLobbying": 0,
+        "lobbiedOn": "Please see memo reference: 1 at the bottom of the report."
+      }
+    ]
+  },
+  {
     "id": "1143171",
     "name": "LOS ANGELES COUNTY PROBATION OFFICERS' UNION, AFSCME LOCAL 685",
     "quarters": [
@@ -50823,6 +50868,11 @@
         "lobbiedOn": "LEGISLATURE RE: EDUCATION ON RESEARCH, RURAL HEALTHCARE ACCESS AND EDUCATION ISSUES  "
       }
     ]
+  },
+  {
+    "id": "1446592",
+    "name": "NORCO; CITY OF",
+    "quarters": []
   },
   {
     "id": "1427664",
@@ -66204,6 +66254,11 @@
         "lobbiedOn": "NONE THIS PERIOD.      "
       }
     ]
+  },
+  {
+    "id": "1483480",
+    "name": "SOUNDTHINKING INC.",
+    "quarters": []
   },
   {
     "id": "1459272",
