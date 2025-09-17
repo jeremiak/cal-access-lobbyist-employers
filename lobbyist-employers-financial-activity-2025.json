@@ -7573,6 +7573,11 @@
     ]
   },
   {
+    "id": "1483758",
+    "name": "BASALT INFRASTRUCTURE PARTNERS, LLC",
+    "quarters": []
+  },
+  {
     "id": "1143504",
     "name": "BATTERY COUNCIL INTERNATIONAL",
     "quarters": [
@@ -14311,6 +14316,11 @@
         "lobbiedOn": "SEE ATTACHMENT A        "
       }
     ]
+  },
+  {
+    "id": "1483799",
+    "name": "CALIFORNIA CONTRACTORS NETWORK (CCN)",
+    "quarters": []
   },
   {
     "id": "1144128",
@@ -32015,6 +32025,11 @@
     ]
   },
   {
+    "id": "1483790",
+    "name": "FARMWORKERS INSTITUTE OF EDUCATION & LEADERSHIP DEVELOIPMENT",
+    "quarters": []
+  },
+  {
     "id": "1467048",
     "name": "FASANARA CAPITAL LTD",
     "quarters": [
@@ -45569,6 +45584,26 @@
     ]
   },
   {
+    "id": "1143305",
+    "name": "MAGELLAN HEALTH",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 27248.58,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature regarding behavioral health issues, AB 280, AB 375, AB 951, AB 1032, AB 402."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: behavioral health issues, AB 280, AB 375, AB 951, AB 1032, AB 402."
+      }
+    ]
+  },
+  {
     "id": "1377410",
     "name": "MAGNA LEGAL SERVICES",
     "quarters": [
@@ -48389,6 +48424,11 @@
         "lobbiedOn": "AB 706, AB 846, AB 687; SB 72, SB 233, SB 496; LEGISLATURE, GOVERNOR'S OFFICE, NATIONAL RESOURCES AGENCY, CA AIR RESOURCE BOARD RE: WATER ISSUES  "
       }
     ]
+  },
+  {
+    "id": "1483821",
+    "name": "MOUNTAIN HOUSE; CITY OF",
+    "quarters": []
   },
   {
     "id": "1479498",
@@ -54927,6 +54967,11 @@
         "lobbiedOn": "AB 544, 545, 875, 891, 954, 965, 1014; SB 455, 586, 720"
       }
     ]
+  },
+  {
+    "id": "1483782",
+    "name": "PEOPLES FARMING LLC",
+    "quarters": []
   },
   {
     "id": "1143332",
