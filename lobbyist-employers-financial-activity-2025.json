@@ -2815,6 +2815,26 @@
     ]
   },
   {
+    "id": "1277561",
+    "name": "AMERESCO",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 19050,
+        "pucLobbying": 0,
+        "lobbiedOn": "Plastics Recycling, FY2025-2026 State Budget, Greenhouse Gas Reduction Funding, State Water Project Electrification, High-Speed Rail, Port Electrification, Renewable Energy (in general); CA. Energy Commission re: Discussion regarding potential project and whether it requires a small power plant exemption request"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 19050,
+        "pucLobbying": 0,
+        "lobbiedOn": "Plastics Recycling, FY2025-2026 State Budget, Greenhouse Gas Reduction Funding, State Water Project Electrification, High-Speed Rail, Port Electrification, Renewable Energy (in general); CA. Energy Commission re: Small Power Plan Exemption"
+      }
+    ]
+  },
+  {
     "id": "1143908",
     "name": "AMERICA'S HEALTH INSURANCE PLANS (AHIP)",
     "quarters": [
@@ -47045,6 +47065,26 @@
     ]
   },
   {
+    "id": "1335460",
+    "name": "MESIROW FINANCIAL SERVICES, INC. AND/OR SUBSIDIARIES ",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1328005",
     "name": "META PLATFORMS, INC.",
     "quarters": [
@@ -58473,6 +58513,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -76298,6 +76345,11 @@
         "lobbiedOn": "None"
       }
     ]
+  },
+  {
+    "id": "1143370",
+    "name": "WEYERHAEUSER COMPANY",
+    "quarters": []
   },
   {
     "id": "1483300",
