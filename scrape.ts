@@ -30,11 +30,14 @@ const employers: Employer[] = []
 const financialActivityQueue = new Queue({ concurrency })
 const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0'
 const session = args.session ? +args.session : 2025
+const headers = {
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0'
+}
 
 async function scrapeLobbyistEmployersForLetter(letter: string): Promise<Employer> {
   console.log(`Scraping lobbyist employers for ${letter}`)
   const url = `https://cal-access.sos.ca.gov/Lobbying/Employers/list.aspx?letter=${letter}&session=${session}`
-  const response = await fetch(url)
+  const response = await fetch(url, { headers })
   const html = await response.text()
   const { status } = response
   const doc: HTMLDocument | null = new DOMParser().parseFromString(
@@ -71,7 +74,7 @@ async function scrapeLobbyistEmployersForLetter(letter: string): Promise<Employe
 async function scrapeLobbyistEmployerFinancialActivity(id: string): Promise<Quarter> {
   console.log(`Scraping financial history for ${id}`)
   const url = `https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=${id}&view=activity&session=${session}`
-  const response = await fetch(url)
+  const response = await fetch(url, { headers })
   const html = await response.text()
   const document: HTMLDocument | null = new DOMParser().parseFromString(
     html,
