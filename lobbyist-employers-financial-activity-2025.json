@@ -4022,6 +4022,11 @@
     ]
   },
   {
+    "id": "1484752",
+    "name": "AMERICAN AI FORUM, DBA THE AI EDUCATION PROJECT; THE",
+    "quarters": []
+  },
+  {
     "id": "1146656",
     "name": "AMERICAN AIRLINES, INC.",
     "quarters": [
@@ -7347,7 +7352,15 @@
   {
     "id": "1482905",
     "name": "AROC ACTION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 715"
+      }
+    ]
   },
   {
     "id": "1415643",
@@ -12399,9 +12412,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 180410,
+        "generalLobbying": 185410,
         "pucLobbying": 0,
-        "lobbiedOn": "See attached.   "
+        "lobbiedOn": "See attached.     "
       }
     ]
   },
@@ -16723,7 +16736,7 @@
         "session": "2025-2026",
         "generalLobbying": 19500,
         "pucLobbying": 0,
-        "lobbiedOn": "CA ASSEMBLY AB 876; DENTAL BOARD OF CALIFORNIA"
+        "lobbiedOn": "CA ASSEMBLY AB 876; DENTAL BOARD OF CALIFORNIA  "
       },
       {
         "quarter": "2nd",
@@ -32913,6 +32926,33 @@
     ]
   },
   {
+    "id": "1282774",
+    "name": "COAST LONGSHORE DIVISION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 303,   AB 605,  AB 1023"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 605 (Muratsuchi)   AB 914 (Garcia)   AB 1023 (Gipson)   AB 1409 (Gipson)   SB 34 (Richardson)   SB 263 (Lena)  SB 298 (Caballero)   SB 826 (Richardson)  SB 304 (Arreguin)  SB 703 (Richardson)    SB 828 (Cabaldon)"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 605 (Muratsuchi)   AB 914 (Garcia)   AB 1023 (Gipson)   AB 1409 (Gipson)   SB 34 (Richardson)   SB 263 (Lena)  SB 298 (Caballero)   SB 826 (Richardson)  SB 304 (Arreguin)  SB 703 (Richardson)    SB 828 (Cabaldon)"
+      }
+    ]
+  },
+  {
     "id": "1319170",
     "name": "COASTSIDE FISHING CLUB",
     "quarters": [
@@ -33494,6 +33534,13 @@
         "generalLobbying": 23608.33,
         "pucLobbying": 0,
         "lobbiedOn": "AB 79, 636, 936; SB 225, 353, 411, 1254; STATE BUDGET REGARDING STATE FUNDING FOR DIAPER BANK NETWORK AND CALFOOD: LEGISLATURE, GOVERNOR'S OFFICE/ADMINISTRATION  "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 1401.33,
+        "pucLobbying": 0,
+        "lobbiedOn": "STATE BUDGET REGARDING STATE FUNDING FOR DIAPER BANK NETWORK: LEGISLATURE, GOVERNOR'S OFFICE/ADMINISTRATION"
       }
     ]
   },
@@ -35245,6 +35292,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -37322,6 +37376,13 @@
         "generalLobbying": 66000,
         "pucLobbying": 0,
         "lobbiedOn": "CALRECYCLE RE: SB 54 REGULATIONS    "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 66000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALRECYCLE RE: SB 54 REGULATIONS       "
       }
     ]
   },
@@ -42342,7 +42403,15 @@
   {
     "id": "1336828",
     "name": "EQT PARTNERS INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 4088.88,
+        "pucLobbying": 0,
+        "lobbiedOn": "CONTACTED CALPERS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUND.  "
+      }
+    ]
   },
   {
     "id": "1146097",
@@ -51555,6 +51624,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS - investment in a fund"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS - investment in a fund"
       }
     ]
   },
@@ -52218,33 +52294,6 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 25; Legislature RE: AI in health data research, Anti-Trust Issues,  Company familiarization, HQ site visits; CA Dept. of Public Health RE:  Prenatal Screening Program  "
-      }
-    ]
-  },
-  {
-    "id": "1282774",
-    "name": "ILWU COAST LONGSHORE DIVISION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 303,   AB 605,  AB 1023"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 605 (Muratsuchi)   AB 914 (Garcia)   AB 1023 (Gipson)   AB 1409 (Gipson)   SB 34 (Richardson)   SB 263 (Lena)  SB 298 (Caballero)   SB 826 (Richardson)  SB 304 (Arreguin)  SB 703 (Richardson)    SB 828 (Cabaldon)"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 605 (Muratsuchi)   AB 914 (Garcia)   AB 1023 (Gipson)   AB 1409 (Gipson)   SB 34 (Richardson)   SB 263 (Lena)  SB 298 (Caballero)   SB 826 (Richardson)  SB 304 (Arreguin)  SB 703 (Richardson)    SB 828 (Cabaldon)"
       }
     ]
   },
@@ -53347,7 +53396,7 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 88327.56,
+        "generalLobbying": 89782.28,
         "pucLobbying": 0,
         "lobbiedOn": "AB 259, 339, 523, 532, 580, 794 SB 31, 72, 105, 239, 394, 445, 454, 601, 682"
       }
@@ -54727,7 +54776,15 @@
   {
     "id": "1457073",
     "name": "INVESTCORP ABSOLUTE RETURN INVESTMENTS LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   },
   {
     "id": "1145653",
@@ -64083,9 +64140,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 362777.05,
+        "generalLobbying": 3462777.05,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 2, AB 56, AB 322, AB 410, AB 412, AB 621, AB 656, AB 853, AB 1018, AB 1043, AB 1064, AB 1405; SB 53, SB 243, SB 259, SB 295, SB 384, SB 420, SB 503, SB 690, SB 771; California Privacy Protection Agency: Automated Decision-making Technology, Risk Assessments, Cybersecurity Audits.    "
+        "lobbiedOn": "AB 2, AB 56, AB 322, AB 410, AB 412, AB 621, AB 656, AB 853, AB 1018, AB 1043, AB 1064, AB 1405; SB 53, SB 243, SB 259, SB 295, SB 384, SB 420, SB 503, SB 690, SB 771; California Privacy Protection Agency: Automated Decision-making Technology, Risk Assessments, Cybersecurity Audits.      "
       }
     ]
   },
@@ -103023,7 +103080,7 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 90750.03,
+        "generalLobbying": 96756.37,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 239, 246, 380, 391, 456, 635, 760, 768, 806, 813, 863, 874, 925, 1157, 1206  SBs 381, 436, 522, 525, 610, 748, 749"
       },
