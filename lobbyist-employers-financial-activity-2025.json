@@ -16750,7 +16750,7 @@
         "session": "2025-2026",
         "generalLobbying": 1897.09,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE"
+        "lobbiedOn": "NONE  "
       }
     ]
   },
@@ -51522,7 +51522,7 @@
         "session": "2025-2026",
         "generalLobbying": 32000,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "No reportable activity."
       },
       {
         "quarter": "3rd",
@@ -53607,7 +53607,15 @@
   {
     "id": "1478590",
     "name": "INSTAGRID INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   },
   {
     "id": "1465839",
@@ -54303,6 +54311,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 130, AB 131, AB 306, AB 716"
+      },
+      {
+        "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 22500,
         "pucLobbying": 0,
@@ -60821,6 +60836,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "SB 41, AB 1460, AB 102, AB 116, State budget related to health equity initiative and Medi-Cal funding"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 41, AB 1460, AB 554, SB 418, AB 727, AB 1084, SB 497, SB 59, AB 82, State budget related to health equity initiative and Medi-Cal funding"
       }
     ]
   },
@@ -67635,7 +67657,15 @@
   {
     "id": "1468036",
     "name": "NATIONAL REAL ESTATE ADVISORS LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 3706.69,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS"
+      }
+    ]
   },
   {
     "id": "1401519",
@@ -82905,33 +82935,6 @@
     ]
   },
   {
-    "id": "1466864",
-    "name": "SALUDA GRADE ASSET MANAGEMENT LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 1452.4,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS: Investments. CalPERS: Investments. UC Regents: Investments."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 336.54,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS: Investments. CalPERS: Investments. UC Regents: Investments."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 168.27,
-        "pucLobbying": 0,
-        "lobbiedOn": "UC Regents: Investments."
-      }
-    ]
-  },
-  {
     "id": "1373741",
     "name": "SAMSUNG SEMICONDUCTOR, INC.",
     "quarters": [
@@ -82948,6 +82951,13 @@
         "generalLobbying": 27000,
         "pucLobbying": 0,
         "lobbiedOn": "GoBiz RE: Cal Competes credit and business incentives"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 27000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Govenor's Office of Business Development RE: Cal Competes  Bills Lobbied: AB 153"
       }
     ]
   },
@@ -99167,9 +99177,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 0,
+        "generalLobbying": 98224,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE"
+        "lobbiedOn": "State budget:  CDPH, DPH, CEQA, HR 1, Special Election Funding, Transportation.  ABs:? 144, 339, 340, 346, 416, 418, 538, 607, 610, 690, 699, 836, 902, 1018, 1048, 1109, 1288, 294, 1331, 1400, 1430; SBs: 7, 72, 144, 303, 346, 413, 445, 464, 483, 485, 487, 617, 635, 707, 777, 802."
       }
     ]
   },
