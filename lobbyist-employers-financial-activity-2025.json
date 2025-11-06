@@ -31966,6 +31966,11 @@
     ]
   },
   {
+    "id": "1484772",
+    "name": "CLEANTECH SAN DIEGO",
+    "quarters": []
+  },
+  {
     "id": "1254594",
     "name": "CLEAR CHANNEL OUTDOOR, LLC",
     "quarters": [
@@ -35647,6 +35652,13 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "Department of Healthcare Services RE: Behavioral Health Treatment Bills lobbied: AB 277,951,143 and SB 363,402,143"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Managed Health Care, Department of Healthcare Services RE: Behavioral Health Treatment Bills lobbied: SB 951,402,363"
       }
     ]
   },
@@ -40774,6 +40786,13 @@
         "generalLobbying": 60.09,
         "pucLobbying": 0,
         "lobbiedOn": "Seeking to manage investments: UC Regents."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -41656,6 +41675,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -46036,7 +46062,7 @@
         "session": "2025-2026",
         "generalLobbying": 21000,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests, Cap and Trade Discussions  "
+        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests, Cap and Trade Discussions      "
       }
     ]
   },
@@ -54762,6 +54788,33 @@
     ]
   },
   {
+    "id": "1303368",
+    "name": "INVENERGY, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 139540.86,
+        "pucLobbying": 0,
+        "lobbiedOn": "CPUC, CEC, CSLC, GO-Biz, CNRA, CDFW CLWDA, State Legislature, CAISO, and the Governor?s Office SB 298, SB 302, AB 1417, Legislature - Budget for Prop 4 Offshore wind funding"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 152411.65,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regulatory matters related to offshore wind, transmission and renewable energy development at the CPUC, CEC, CSLC, GO-Biz, CNRA, CDFW CLWDA, State Legislature, CAISO, and the Governor?s Office, AB 3 report, Prop 4, AB 1156, AB 825, SB 330, SB 254, SB 298, SB 302, AB 443, AB 531"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 64000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regulatory matters related to offshore wind, transmission and renewable energy development at the CPUC, CEC, State Legislature, CAISO, and the Governor's Office, SB 298, SB 302, AB 1417, AB 443, AB 531, AB 1156, Prop 4"
+      }
+    ]
+  },
+  {
     "id": "1334582",
     "name": "INVESCO ADVISERS, INC.",
     "quarters": [
@@ -55006,7 +55059,7 @@
         "session": "2025-2026",
         "generalLobbying": 15000,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 650, SB 634, SB 616, SB 707, SB 346, SB 456, SB 79, SB 63; Legislature re: Homeless Housing Assistance and Preventions (HHAP)and Funding and Housing program dollars; AB 130, AB 131, SB 158, SB 840, AB 1207"
+        "lobbiedOn": "AB 650, SB 634, SB 616, SB 707, SB 346, SB 456, SB 79, SB 63; Legislature re: Homeless Housing Assistance and Preventions (HHAP)and Funding and Housing program dollars; AB 130, AB 131, SB 158, SB 840, AB 1207  "
       }
     ]
   },
@@ -59686,7 +59739,29 @@
   {
     "id": "1476067",
     "name": "LOCAL 148 LA COUNTY PUBLIC DEFENDERS UNION",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 248, AB 321, AB 622, AB 812, AB 802, AB 1231, AB 1279, SB 396, SB 553, SB 562, AB 38, AB 85, AB 237, AB 292, AB 297, AB 324, AB 327, AB 336, AB 383, AB 394, AB 468, AB 479, AB 528, AB 568, AB 710, AB 848, AB 991, AB 1011, AB 1094, SB 19, SB 758, SB 122, SB 421, SB 431, SB 432, SB 490, SB 680, SB 758, SB 691"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 248, AB 321, AB 622, AB 812, AB 802, AB 1231, AB 1279, SB 396, SB 553, SB 562, AB 38, AB 85, AB 237, AB 292, AB 297, AB 324, AB 327, AB 336, AB 383, AB 394, AB 468, AB 479, AB 528"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 248, AB 321, AB 622, AB 812, AB 802, AB 1231, AB 1279, SB 396, SB 553, SB 562, AB 38, AB 85, AB 237, AB 292, AB 297, AB 324, AB 327, AB 336, AB 383, AB 394, AB 468, AB 479, AB 528, AB 568, AB 710"
+      }
+    ]
   },
   {
     "id": "1146625",
@@ -72905,9 +72980,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 0,
+        "generalLobbying": 61300,
         "pucLobbying": 0,
-        "lobbiedOn": "SB 34"
+        "lobbiedOn": "LEGISLATURE: SB 34, SB 263; CALIFORNIA STATE TRANSPORTATION AGENCY, CALIFORNIA AIR RESOURCES BOARD, GOVERNOR'S OFFICE OF ECONOMIC DEVELPMENT: SB 34, PORTS AND GOODS MOVEMENT POLICY  "
       }
     ]
   },
@@ -82129,6 +82204,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Regents of the University of California, Calpers, Calstrs, LACERS, LACERA, OCERS, SCERS"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regents of the University of California, Calpers, Calstrs, LACERS, LACERA, OCERS, SCERS"
       }
     ]
   },
@@ -83651,6 +83733,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature on ticketing issues and AB 1291, AB 1349, AB 342, SB 295. Lobbied the Governor and Legislature on workers' compensation issues"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 2500,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -85705,9 +85794,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 26250,
+        "generalLobbying": 182943.96,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE THIS REPORTING PERIOD          "
+        "lobbiedOn": "NONE THIS REPORTING PERIOD            "
       }
     ]
   },
@@ -102823,7 +102912,7 @@
         "session": "2025-2026",
         "generalLobbying": 15000,
         "pucLobbying": 0,
-        "lobbiedOn": "DEPARTMENT OF INDUSTRIAL RELATIONS REGARDING: CAR WASH BOND  "
+        "lobbiedOn": "DEPARTMENT OF INDUSTRIAL RELATIONS REGARDING: CAR WASH BOND    "
       },
       {
         "quarter": "3rd",
