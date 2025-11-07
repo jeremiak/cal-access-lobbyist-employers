@@ -36982,16 +36982,16 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 158622.7,
+        "generalLobbying": 159242.5,
         "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 510, AB 512, AB 539, AB 574, AB 682, AB 910, AB 1474, SB 41, SB 306, SB 363    "
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 510, AB 512, AB 539, AB 574, AB 682, AB 910, AB 1474, SB 41, SB 306, SB 363          "
       },
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 141927.31,
+        "generalLobbying": 142547.11,
         "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 116, AB 510, AB 512, AB 536, AB 539, AB 574, AB 682, AB 910, AB 1474, AB 1503, SB 41, SB 306, SB 363        "
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 116, AB 510, AB 512, AB 536, AB 539, AB 574, AB 682, AB 910, AB 1474, AB 1503, SB 41, SB 306, SB 363          "
       },
       {
         "quarter": "3rd",
@@ -53640,6 +53640,20 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -54636,6 +54650,13 @@
         "generalLobbying": 17867.92,
         "pucLobbying": 0,
         "lobbiedOn": "SB 787, SB 86, SB 615, AB 1016, AB 1331, AB 692, AB 1234, SB 294, SB 7, SB 442, SB 355, California Alternative Energy and Advanced Transportation Financing Authority (CAEATFA) Sales Tax Exemption STE awards, GOBiz CalCompetes tax credit awards, CEC PowerForward awards."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 27611.7,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 787, SB 131, SB 86, SB 63, SB 615, AB 1319, AB 1016, AB 1331, AB 692, AB 1234, SB 294, SB 7, SB 442, SB 355, California Alternative Energy and Advanced Transportation Financing Authority (CAEATFA) Sales Tax Exemption (STE) awards, GOBiz CalCompetes tax credit awards, CEC PowerForward awards."
       }
     ]
   },
@@ -58546,7 +58567,7 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 29053.78,
+        "generalLobbying": 29432.57,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
       }
@@ -62103,9 +62124,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 18062.49,
+        "generalLobbying": 20325.11,
         "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: SB 298; CALIFORNIA STATE LEGISLATURE, THE OFFICE OF THE GOVERNOR, GOVERNORS OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT AND CALIFORNIA STATE TRANSPORTATION AGENCY REGARDING: SB 34"
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: SB 298; CALIFORNIA STATE LEGISLATURE, THE OFFICE OF THE GOVERNOR, GOVERNORS OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT AND CALIFORNIA STATE TRANSPORTATION AGENCY REGARDING: SB 34    "
       }
     ]
   },
@@ -64994,6 +65015,13 @@
         "generalLobbying": 87380.88,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the legislature regarding Medi-Cal funding. Lobbied the Department of Health Care Services regarding supplemental payments."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 69000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the legislature regarding SB 596 and Medi-Cal funding. Lobbied the Department of Health Care Services regarding supplemental payments."
       }
     ]
   },
@@ -83017,6 +83045,33 @@
     ]
   },
   {
+    "id": "1466864",
+    "name": "SALUDA GRADE ASSET MANAGEMENT LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 1452.4,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: Investments. CalPERS: Investments. UC Regents: Investments."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 336.54,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: Investments. CalPERS: Investments. UC Regents: Investments."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 168.27,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents: Investments."
+      }
+    ]
+  },
+  {
     "id": "1373741",
     "name": "SAMSUNG SEMICONDUCTOR, INC.",
     "quarters": [
@@ -84255,9 +84310,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 40855,
+        "generalLobbying": 40000,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 44, 263, 303, 362, 430, 532, 615, 823, 825,1017, 1095, 1117, 1146, 1238, 1260, 1302, 1342, 1347, 1373, 1401; SBs  254, 283, 330, 350, 445, 500, 540, 541, 559, 593, 601, 620, 682, 697, 842     "
+        "lobbiedOn": "AB 44, 263, 303, 362, 430, 532, 615, 823, 825,1017, 1095, 1117, 1146, 1238, 1260, 1302, 1342, 1347, 1373, 1401; SBs  254, 283, 330, 350, 445, 500, 540, 541, 559, 593, 601, 620, 682, 697, 842       "
       }
     ]
   },
