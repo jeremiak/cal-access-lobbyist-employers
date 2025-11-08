@@ -14512,7 +14512,7 @@
         "session": "2025-2026",
         "generalLobbying": 311031.07,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 39, 222, 1065; SB 781  "
+        "lobbiedOn": "AB 39, 222, 1065; SB 781    "
       }
     ]
   },
@@ -51299,6 +51299,11 @@
     ]
   },
   {
+    "id": "1359134",
+    "name": "HOTCHKIS & WILEY CAPITAL MANAGEMENT, LLC",
+    "quarters": []
+  },
+  {
     "id": "1481909",
     "name": "HOTEL 101 LOS ANGELES, LLC",
     "quarters": []
@@ -67762,6 +67767,20 @@
     "name": "NATIONAL REAL ESTATE ADVISORS LLC",
     "quarters": [
       {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 428.08,
+        "pucLobbying": 0,
+        "lobbiedOn": "Discussions with CalSTRS regarding potential investment in privately offered fund."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 1337.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "Discussions with CalSTRS regarding potential investment in privately offered fund."
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 3706.69,
@@ -75493,7 +75512,7 @@
         "session": "2025-2026",
         "generalLobbying": 109713.77,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 116, AB 224, AB 280, AB 512, AB 577, AB 910, AB 1113, AB 1460, AB 1503; SB 40, SB 41, SB 62, SB 306, SB 363, SB 439, SB 497, SB 503, SB 535, SB 717.        "
+        "lobbiedOn": "AB 116, AB 144, AB 224, AB 280, AB 512, AB 577, AB 910, AB 1113, AB 1460, AB 1474, AB 1503; SB 40, SB 41, SB 62, SB 144, SB 306, SB 363, SB 439, SB 497, SB 503, SB 535, SB 717.            "
       }
     ]
   },
@@ -79233,7 +79252,7 @@
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "Tom Martin-  April 1, 2025 follow email communication with CALPERS regarding vehicle options for the potential EM Transitions mandates."
+        "lobbiedOn": ""
       }
     ]
   },
@@ -82087,16 +82106,16 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 30000,
+        "generalLobbying": 10000,
         "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 1516, SB 302, SB 573, SB 587, SB 711, SB 789, SB 799 AND TAX POLICY; CALIFORNIA STATE LEGISLATURE, GOVERNOR'S OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT AND TREASURER'S OFFICE REGARDING: CAL-COMPETES; BOARD OF EQUALIZATION REGARDING: PROPERTY TAX POLICIES."
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 1516, SB 302, SB 573, SB 587, SB 711, SB 789, SB 799 AND TAX POLICY; CALIFORNIA STATE LEGISLATURE, GOVERNOR'S OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT AND TREASURER'S OFFICE REGARDING: CAL-COMPETES; BOARD OF EQUALIZATION REGARDING: PROPERTY TAX POLICIES.  "
       },
       {
         "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 30000,
         "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHMENT 1"
+        "lobbiedOn": "SEE ATTACHMENT 1  "
       },
       {
         "quarter": "3rd",
@@ -94093,7 +94112,7 @@
         "session": "2025-2026",
         "generalLobbying": 105103.04,
         "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHMENT 1    "
+        "lobbiedOn": "SEE ATTACHMENT 1      "
       },
       {
         "quarter": "3rd",
@@ -103180,9 +103199,9 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 174743.13,
+        "generalLobbying": 196435.13,
         "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHMENT 1            "
+        "lobbiedOn": "SEE ATTACHMENT 1              "
       },
       {
         "quarter": "3rd",
@@ -103904,6 +103923,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
+      },
+      {
+        "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
