@@ -54400,7 +54400,22 @@
   {
     "id": "1458641",
     "name": "INTERNATIONAL INTERIOR DESIGN ASSOCIATION, NORTHERN CALIFORNIA CHAPTER, INC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND ADMINISTRATION REGARDING ACR - 28 AND SCR 30."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE,TERMINATED 06/30/2025."
+      }
+    ]
   },
   {
     "id": "1460289",
