@@ -21622,6 +21622,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Hospice Education Services Waste Fraud and Abuse CDPH DHCS California Senate and Assembly. Provide resources and consultation on hospice and grief and advanced directives."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Hospice Education Services Waste Fraud and Abuse CDPH DHCS California Senate and Assembly. Provide resources and consultation on hospice and grief and advanced directives."
       }
     ]
   },
@@ -70096,7 +70103,15 @@
   {
     "id": "1483997",
     "name": "NOVIG SWEEPS LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 6762,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 831"
+      }
+    ]
   },
   {
     "id": "1316616",
@@ -89597,6 +89612,13 @@
         "generalLobbying": 27493,
         "pucLobbying": 0,
         "lobbiedOn": "IDA: AB 1261, SB 509, AB 701, SB 509, SB 1132 TPW: AB 464, AB 243, AB 746, SB 498, SB 551, AB 1424 CLICC: AB 656, SB 82, SB 766. SB 784, AB 1365, AB 747, SB 766, AB 446,"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 22327,
+        "pucLobbying": 0,
+        "lobbiedOn": "IDA: AB 1261, SB 509, CLICC: AB 236, AB 238, AB 251, AB 325, AB 380, AB 446, AB 483, AB 559, AB 561, AB 656, AB 692, AB 747, AB 774, AB 850, AB 871, AB 1018, AB 1065, AB 1179, AB 1248, AB 1312, AB 1365, AB 1374, SB 22, SB 29, SB 82, SB 362, SB 636, SB 757, SB 766, SB 784, and SB 825"
       }
     ]
   },
