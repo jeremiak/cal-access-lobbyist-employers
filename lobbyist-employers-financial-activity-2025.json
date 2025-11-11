@@ -5160,7 +5160,7 @@
   },
   {
     "id": "1404094",
-    "name": "AMERICAN KIDNEY FUND",
+    "name": "AMERICAN KIDNEY FUND, INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -21737,6 +21737,33 @@
         "generalLobbying": 34120,
         "pucLobbying": 0,
         "lobbiedOn": "Governor?s Office: Budget/AB507/AB538/AB650/AB712/AB726/AB736/AB920/AB963/AB1207/AB1339/SB21/SB417/SB686/AB480/AB1207/SB840 Legislature: Above plus AB6/AB39/AB628/AB660/AB913/AB1276/AB1294/SB 328/SB489 CA Dept. of Finance: State Budget"
+      }
+    ]
+  },
+  {
+    "id": "1401854",
+    "name": "CALIFORNIA HOUSING PARTNERSHIP CORPORATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 17640.67,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, California Housing Finance Agency, California Tax Credit Allocation. Regulatory comments for SuperNOFA, HCD, TCAC, CDLAC and CalHFA programs, briefed Governor's office on Roadmap policy proposals and other housing related bills. Specific bills include: AB 1288, 948, 84, 330, 2006, 1850, 1961, 4."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 11468.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, California Housing Finance Agency, California Tax Credit Allocation. Regulatory comments for SuperNOFA, HCD, TCAC, CDLAC and CalHFA programs, briefed Governor's office on Roadmap policy proposals and other housing related bills. Specific bills include: AB 1288, 948, 84, 330, 2006, 1850, 1961, 4."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 5865.02,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, California Housing Finance Agency, California Tax Credit Allocation. Regulatory comments for SuperNOFA, HCD, TCAC, CDLAC and CalHFA programs, briefed Governor's office on Roadmap policy proposals and other housing related bills. Specific bills include: AB 1288, 948, 84, 330, 2006, 1850, 1961, 4."
       }
     ]
   },
@@ -40076,6 +40103,11 @@
     ]
   },
   {
+    "id": "1348081",
+    "name": "EAST WEST BANK",
+    "quarters": []
+  },
+  {
     "id": "1468850",
     "name": "EASTERN CONTRA COSTA TRANSIT AUTHORITY",
     "quarters": [
@@ -47610,7 +47642,7 @@
         "session": "2025-2026",
         "generalLobbying": 9000,
         "pucLobbying": 0,
-        "lobbiedOn": "Legislature, re: SB 71, SB 283, AB 346, SB 456, SB 580, SB 707, AB 14, AB 650, AB 736, AB 1127, AB 1143, Cap-and-Trade."
+        "lobbiedOn": "Legislature, re: SB 71, SB 283, AB 346, SB 456, SB 569, SB 580, SB 606, SB 627, SB 707, SB 805, AB 14, AB 544, AB 650, AB 736, AB 954, AB 1127, AB 1143, AB 1448; Cap-and-Trade."
       }
     ]
   },
@@ -48290,6 +48322,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
+    "id": "1440314",
+    "name": "GREENBELT ALLIANCE",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 4871.94,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 79"
       }
     ]
   },
@@ -53190,7 +53235,7 @@
         "session": "2025-2026",
         "generalLobbying": 29272.19,
         "pucLobbying": 0,
-        "lobbiedOn": "None to Report"
+        "lobbiedOn": "State Legislature - Bills: AB 698, SB 423 Governor's Office - Bills: AB 698, SB 423"
       }
     ]
   },
@@ -75708,9 +75753,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 0,
+        "generalLobbying": 796873.3,
         "pucLobbying": 0,
-        "lobbiedOn": "NONE"
+        "lobbiedOn": "NONE  "
       }
     ]
   },
@@ -79182,6 +79227,33 @@
         "generalLobbying": 14000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 237, 253, 299, 440, 538, 712, 735; SB 79, 346, 358, 415, 423, 499, 569, 635, 800  "
+      }
+    ]
+  },
+  {
+    "id": "1143473",
+    "name": "RANCHO MIRAGE; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding AB 1112."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature regarding AB 1112."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied Legislature regarding AB 1112 and on municipal, infrastructure, transportation, tourism, and economic development budget issues impacting the City of Rancho Mirage and greater Coachella Valley."
       }
     ]
   },
