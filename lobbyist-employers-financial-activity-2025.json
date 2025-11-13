@@ -27809,9 +27809,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 0,
+        "generalLobbying": 24500,
         "pucLobbying": 0,
-        "lobbiedOn": "California Strategies & Advocacy: No bills lobbied this quarter. Political Solutions, LLC: $20,000 lobbied this quarter."
+        "lobbiedOn": "California Strategies & Advocacy: No bills lobbied this quarter.   Political Solutions, LLC: Legislature: transit issues/potential legislation"
       }
     ]
   },
@@ -92394,6 +92394,11 @@
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING ACA 1, SB 16, SB 79, SB 606 AND SB 611.      "
       }
     ]
+  },
+  {
+    "id": "1484949",
+    "name": "STEERSAFE PARTNERSHIP",
+    "quarters": []
   },
   {
     "id": "1376993",
