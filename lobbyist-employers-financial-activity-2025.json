@@ -42560,6 +42560,11 @@
     ]
   },
   {
+    "id": "1484994",
+    "name": "EQUINOX HOLDINGS, INC.",
+    "quarters": []
+  },
+  {
     "id": "1376650",
     "name": "EQUITABLE FINANCIAL LIFE INSURANCE COMPANY ",
     "quarters": [
@@ -43529,6 +43534,19 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "No Lobbying activity took place in the third quarter."
+      }
+    ]
+  },
+  {
+    "id": "1441528",
+    "name": "FBG ENTERPRISES OPCO, LLC",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 2500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Sports betting and online gaming          "
       }
     ]
   },
@@ -49515,6 +49533,11 @@
         "lobbiedOn": "CALIFORNIA HIGHWAY PATROL RE: WINSHIELD SPECIFICATIONS  "
       }
     ]
+  },
+  {
+    "id": "1484900",
+    "name": "HARROW, INC.",
+    "quarters": []
   },
   {
     "id": "1303334",
