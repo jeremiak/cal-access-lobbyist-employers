@@ -19753,7 +19753,7 @@
         "session": "2025-2026",
         "generalLobbying": 192997.23,
         "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHMENT A          "
+        "lobbiedOn": "SEE ATTACHMENT A            "
       }
     ]
   },
@@ -33420,6 +33420,11 @@
         "lobbiedOn": "AB 104 SB 79, 105"
       }
     ]
+  },
+  {
+    "id": "1417214",
+    "name": "COMMERCIAL METALS COMPANY ",
+    "quarters": []
   },
   {
     "id": "1476386",
@@ -48582,6 +48587,13 @@
         "generalLobbying": 472.5,
         "pucLobbying": 0,
         "lobbiedOn": "4.11.25 Met the CalPERS Investment Team for 1.5hrs, Jane Delfendahl, Investment Director, Real Assets; Virtual CalPERS attendees: Eric Schlenker (Investment Manager), Robert Eberhardt (Investment Manager), Omar Martin, Liya Cornelius (Investment Officer III). Topic discussed were Greystar's APAC Platform (GEPA I venture, and GEPA II strategy), and Greystar's GEP Series and the GEPE II venture."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 140,
+        "pucLobbying": 0,
+        "lobbiedOn": "On July 15, 2025, Greystar?s in-house lobbyist Lani Goodman and team met with CalSTRS representatives Chris Preston and Renyi Wang for one hour to present the Build-for-Rent investment opportunity."
       }
     ]
   },
@@ -89684,9 +89696,9 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 0,
+        "generalLobbying": 418576.64,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "AB 31"
       },
       {
         "quarter": "3rd",
@@ -103596,6 +103608,19 @@
         "generalLobbying": 41425,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, re: SB 222, SB 295, SB 318, SB 501, AB 34, AB 442, AB 555, AB 852, AB 914, AB 1238, AB 1243, ACR 15."
+      }
+    ]
+  },
+  {
+    "id": "1484706",
+    "name": "WESTERN RIVERSIDE COUNTY REGIONAL CONSERVATION AUTHORITY",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 2052,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 427      "
       }
     ]
   },
