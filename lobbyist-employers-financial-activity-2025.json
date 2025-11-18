@@ -10856,6 +10856,11 @@
     ]
   },
   {
+    "id": "1485023",
+    "name": "BEAUMONT-CHERRY VALLEY RECREATION AND PARK DISTRICT",
+    "quarters": []
+  },
+  {
     "id": "1236708",
     "name": "BEAUMONT; CITY OF",
     "quarters": [
@@ -30887,6 +30892,33 @@
         "generalLobbying": 19500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: State Budget Requests; AB 131, AB 339, AB 370, AB 650, SB 16, SB 360, SB 456, SB 457, SB 707"
+      }
+    ]
+  },
+  {
+    "id": "1467730",
+    "name": "CHINO VALLEY FIRE DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 14400,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 14400,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget Requests"
       }
     ]
   },
@@ -54237,7 +54269,7 @@
         "session": "2025-2026",
         "generalLobbying": 25000,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 527, 531, 825, 1270, 1433; SB 237, 540, 567, 614, 840."
+        "lobbiedOn": "AB 527, 531, 825, 1207; SB 237, 540, 567, 614, 840."
       }
     ]
   },
@@ -68928,6 +68960,33 @@
     ]
   },
   {
+    "id": "1272159",
+    "name": "NEW YORK LIFE INVESTMENT MANAGEMENT LLC AND ITS AFFILLIATES MACKAY SHIELDS, CANDRIAM, AND APOGEM CAPITAL LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1143764",
     "name": "NEWHALL ELEMENTARY SCHOOL DISTRICT",
     "quarters": [
@@ -81501,6 +81560,33 @@
         "generalLobbying": 54000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 516, 735, 1016, 1112, 1145, 1288, 1430; SB 72, 105, 280, 346, 369, 413,  534; ACR 37; STATE BUDGET REGARDING PROPOSITION 4 ALLOCATIONS: LEGISLATURE, GOVERNOR'S OFFICE/ADMINISTRATION"
+      }
+    ]
+  },
+  {
+    "id": "1448698",
+    "name": "RIVERWOOD CAPITAL MANAGEMENT L.P.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE        "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE          "
       }
     ]
   },
