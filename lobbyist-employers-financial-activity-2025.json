@@ -4795,6 +4795,11 @@
     ]
   },
   {
+    "id": "1146977",
+    "name": "AMERICAN FARMLAND TRUST",
+    "quarters": []
+  },
+  {
     "id": "1297212",
     "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES LOCAL 3299",
     "quarters": [
@@ -56270,6 +56275,11 @@
     ]
   },
   {
+    "id": "1485075",
+    "name": "KALKOMEY ENTERPRISES, LLC",
+    "quarters": []
+  },
+  {
     "id": "1484075",
     "name": "KALONYMUS LLC",
     "quarters": [
@@ -62871,6 +62881,11 @@
         "lobbiedOn": "AB 102, 103, 121, 1121, 1454; SB 101; Legislature, Department of Finance Re: State Budget            "
       }
     ]
+  },
+  {
+    "id": "1484940",
+    "name": "MARIN FOSTER CARE ASSOCIATION",
+    "quarters": []
   },
   {
     "id": "1318727",
@@ -75126,6 +75141,33 @@
         "generalLobbying": 30001,
         "pucLobbying": 0,
         "lobbiedOn": "SB 791, SB 766, AB 914      "
+      }
+    ]
+  },
+  {
+    "id": "1472120",
+    "name": "PEOPLE FOOD AND LAND FOUNDATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None this period."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None this period."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 4200,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 279. Agencies: CalRecycle."
       }
     ]
   },
