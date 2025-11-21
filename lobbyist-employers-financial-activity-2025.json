@@ -30570,7 +30570,7 @@
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 38303.07,
+        "generalLobbying": 14428.07,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Dept. of Health Care Services, CA Health and Human Services Agency, California Department of Education re: AB 49, AB 607, SB 626, 2025-26 May Revise Budget, childcare provider rate reform, early care and education, CalWORKs/Home Visiting Program, Medi-Cal Continuous Eligibility for children 0-5,"
       },
@@ -49211,6 +49211,13 @@
     "name": "H.I.G. CAPITAL, LLC",
     "quarters": [
       {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
@@ -56551,6 +56558,20 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Placement Agent: emailed outreach to CalPERS and CALSTRS."
+      },
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Placement Agent: emailed outreach to CalPERS and CALSTRS."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Placement Agent: outreach to  ACERA, ACTERP, CalPERS, CALSTRS, CCCERA, CFRS, EBMUDERS, FCERA, MCERA, MercedCERA, SAMCERA, SJCERA, San Jose Federated, SacCERS, SCERA, StanCERA, Santa Clara VTA. SamCERA, SJFCERS, SFERS, UC Regents, VCERA."
       }
     ]
   },
@@ -69156,6 +69177,13 @@
     "name": "NEWTON INVESTMENT MANAGEMENT NORTH AMERICA, LLC",
     "quarters": [
       {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
@@ -73975,6 +74003,33 @@
     ]
   },
   {
+    "id": "1415265",
+    "name": "PAR HEALTH, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 20340,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 20340,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 13840,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1353958",
     "name": "PARAMETRIC PORTFOLIO ASSOCIATES LLC",
     "quarters": [
@@ -77715,7 +77770,29 @@
   {
     "id": "1396813",
     "name": "PRETIUM PARTNERS, LLC.",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Strategy discussions with CalSTRS and CalPERS."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 2163,
+        "pucLobbying": 0,
+        "lobbiedOn": "Strategy discussions with CalSTRS and CalPERS."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 1153,
+        "pucLobbying": 0,
+        "lobbiedOn": "Strategy discussions with CalSTRS and CalPERS."
+      }
+    ]
   },
   {
     "id": "1144172",
@@ -91416,33 +91493,6 @@
     ]
   },
   {
-    "id": "1415265",
-    "name": "SPECGX LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 20340,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 20340,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 13840,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      }
-    ]
-  },
-  {
     "id": "1462696",
     "name": "SPECIAL OLYMPICS NORTHERN CALIFORNIA INC.",
     "quarters": [
@@ -92255,6 +92305,13 @@
         "generalLobbying": 81000,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies: Legislature, Cal Recycle Issues: SB 22, AB 1264, SB 54 Implementation, Cup Composability Standards"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 69000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 322, 446, 1018, 1264; SB 22, 259, 295, 361; CA DEPARTMENT OF RESOURCES RECYCLING AND RECOVERY RE: SB 54 IMPLEMENTATION, CUP COMPOSABILITY STANDARDS    "
       }
     ]
   },
