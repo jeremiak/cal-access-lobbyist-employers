@@ -613,6 +613,13 @@
         "lobbiedOn": ""
       },
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 0,
@@ -1053,6 +1060,11 @@
         "lobbiedOn": "See attachment 'Part 1'"
       }
     ]
+  },
+  {
+    "id": "1485126",
+    "name": "ACME PLAYER SERVICES, LLC",
+    "quarters": []
   },
   {
     "id": "1435541",
@@ -3632,6 +3644,11 @@
         "lobbiedOn": "Legislature - AB 692, AB 1032, AB 1113, AB 1460, Budget, Governors Office, CHHS, OES, HCAI, DHCS regarding clinic licensing issue, CDPH regarding clinic licensing issue."
       }
     ]
+  },
+  {
+    "id": "1484849",
+    "name": "ALTAMONT CAPITAL MANAGEMENT, L.P.",
+    "quarters": []
   },
   {
     "id": "1451633",
@@ -18888,7 +18905,7 @@
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 613, 736, 752, 801, 880, 1039, 1294; SB 362, 417, 635, 728, 786    "
+        "lobbiedOn": "AB 613, 736, 752, 801, 880, 1039, 1294; SB 362, 417, 635, 728, 786      "
       }
     ]
   },
@@ -52438,6 +52455,33 @@
     ]
   },
   {
+    "id": "1351270",
+    "name": "III CAPITAL MANAGEMENT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1384466",
     "name": "ILLUMINA",
     "quarters": [
@@ -69196,6 +69240,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -82336,6 +82387,20 @@
     "id": "1462581",
     "name": "RUFFER LLC",
     "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Discussions with CalSTRS and Sacramento County ERS."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
