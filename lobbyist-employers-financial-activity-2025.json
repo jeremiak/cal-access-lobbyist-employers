@@ -9814,33 +9814,6 @@
     ]
   },
   {
-    "id": "1144908",
-    "name": "AVENU INSIGHTS & ANALYTICS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 25000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 330; Legislature re: AB 2854 Implementation    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 330, SB 346; Legislature re: AB 2854 implementation  "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature Re: AB 330, SB 346; Governor's Office Re: AB 330, SB 346     "
-      }
-    ]
-  },
-  {
     "id": "1479573",
     "name": "AVIATION ATLANTIC",
     "quarters": [
@@ -68760,6 +68733,33 @@
     ]
   },
   {
+    "id": "1144908",
+    "name": "NEUMO",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 330; Legislature re: AB 2854 Implementation    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 330, SB 346; Legislature re: AB 2854 implementation  "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature Re: AB 330, SB 346; Governor's Office Re: AB 330, SB 346     "
+      }
+    ]
+  },
+  {
     "id": "1399384",
     "name": "NEUROCRINE BIOSCIENCES, INC.",
     "quarters": [
@@ -102163,9 +102163,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 100936.98,
+        "generalLobbying": 101428.98,
         "pucLobbying": 0,
-        "lobbiedOn": "STATE LEGISLATURE REGARDING: AB 446.  STATE LEGISLATURE, GOVERNOR'S OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT REGARDING: VISUAL EFFECT TAX CREDIT.    "
+        "lobbiedOn": "STATE LEGISLATURE REGARDING: AB 446.  STATE LEGISLATURE, GOVERNOR'S OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT REGARDING: VISUAL EFFECT TAX CREDIT.      "
       }
     ]
   },
