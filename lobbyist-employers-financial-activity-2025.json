@@ -30041,6 +30041,11 @@
     ]
   },
   {
+    "id": "1243908",
+    "name": "CHAFFEY COMMUNITY COLLEGE DISTRICT",
+    "quarters": []
+  },
+  {
     "id": "1440344",
     "name": "CHAMBER OF PROGRESS",
     "quarters": [
@@ -40864,6 +40869,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -41127,6 +41139,11 @@
         "lobbiedOn": "CalPERS: Investments."
       }
     ]
+  },
+  {
+    "id": "1261785",
+    "name": "ELECTION SYSTEMS & SOFTWARE, LLC",
+    "quarters": []
   },
   {
     "id": "1464167",
@@ -41646,6 +41663,11 @@
         "lobbiedOn": "AB 55, 228, 469, 645, 1005, 1403; LEGISLATURE, GOVERNOR'S OFFICE RE: EMERGENCY MEDICAL SERVICES AUTHORITY BUDGET                 "
       }
     ]
+  },
+  {
+    "id": "1445642",
+    "name": "EMERGENCY SHELTER COALITION",
+    "quarters": []
   },
   {
     "id": "1279565",
@@ -42626,7 +42648,15 @@
   {
     "id": "1478898",
     "name": "EQUITIX MANCO L.P",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
+      }
+    ]
   },
   {
     "id": "1337617",
@@ -56225,6 +56255,11 @@
     ]
   },
   {
+    "id": "1485189",
+    "name": "JUST RIGHT READER, INC.",
+    "quarters": []
+  },
+  {
     "id": "1399321",
     "name": "JUUL LABS, INC",
     "quarters": [
@@ -59645,6 +59680,11 @@
     ]
   },
   {
+    "id": "1485191",
+    "name": "LIMCO DEL MAR",
+    "quarters": []
+  },
+  {
     "id": "1478603",
     "name": "LIMONEIRA",
     "quarters": [
@@ -61729,6 +61769,11 @@
         "lobbiedOn": "None."
       }
     ]
+  },
+  {
+    "id": "1485195",
+    "name": "LTD - III FIRE CORP DBA MATADOR FIRE",
+    "quarters": []
   },
   {
     "id": "1428577",
@@ -72713,6 +72758,11 @@
     ]
   },
   {
+    "id": "1485194",
+    "name": "OWNWELL",
+    "quarters": []
+  },
+  {
     "id": "1146131",
     "name": "OXNARD HARBOR DISTRICT/PORT OF HUENEME",
     "quarters": [
@@ -78896,6 +78946,11 @@
         "lobbiedOn": "AB 476, SB 72, SB 616"
       }
     ]
+  },
+  {
+    "id": "1450468",
+    "name": "PUENTE PROJECT; THE",
+    "quarters": []
   },
   {
     "id": "1396917",
