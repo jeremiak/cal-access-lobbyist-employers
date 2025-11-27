@@ -39171,9 +39171,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 994338.25,
+        "generalLobbying": 1004850.8,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 578, AB 671, SB 7    "
+        "lobbiedOn": "AB 578, AB 671, SB 7      "
       }
     ]
   },
@@ -56064,33 +56064,6 @@
         "generalLobbying": 24999,
         "pucLobbying": 0,
         "lobbiedOn": "No lobbying this quarter"
-      }
-    ]
-  },
-  {
-    "id": "1463735",
-    "name": "JOSHCO GROUP, LLC DBA VETERAN BENEFITS GUIDE",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 45000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 826 AND SB 694.     "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SB 694."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 45639.93,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SB 694.  "
       }
     ]
   },
@@ -81147,6 +81120,11 @@
     ]
   },
   {
+    "id": "1461359",
+    "name": "REVOLUTION FOODS",
+    "quarters": []
+  },
+  {
     "id": "1478994",
     "name": "REVOY",
     "quarters": [
@@ -100895,6 +100873,33 @@
     ]
   },
   {
+    "id": "1463735",
+    "name": "VETERAN BENEFITS GUIDE",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 45000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 826 AND SB 694.     "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SB 694."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 45639.93,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SB 694.  "
+      }
+    ]
+  },
+  {
     "id": "1469408",
     "name": "VETERANS EXPLORING TREATMENT SOLUTIONS (\"VETS\"), INC.",
     "quarters": [
@@ -101001,6 +101006,11 @@
         "lobbiedOn": "CALRECYCLE REGARDING IMPLEMENTATION OF TEXTILE PRODUCER RESPONSIBILITY ACT.  "
       }
     ]
+  },
+  {
+    "id": "1485041",
+    "name": "VFW DEPARTMENT OF CALIFORNIA",
+    "quarters": []
   },
   {
     "id": "1482962",
