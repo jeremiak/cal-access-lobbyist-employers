@@ -294,6 +294,11 @@
     ]
   },
   {
+    "id": "1484778",
+    "name": "4STUDENTLIVES",
+    "quarters": []
+  },
+  {
     "id": "1475143",
     "name": "5C INVESTMENT PARTNERS ADVISOR LLC",
     "quarters": [
@@ -15299,7 +15304,7 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 49935.57,
+        "generalLobbying": 61185.57,
         "pucLobbying": 0,
         "lobbiedOn": "AB 367; SB 473; Public Utilities Commission: A.22-07-011, A.21-11-024"
       }
@@ -42359,6 +42364,11 @@
     ]
   },
   {
+    "id": "1485051",
+    "name": "ENVIRONMENTAL PROTECTION INFORMATION CENTER",
+    "quarters": []
+  },
+  {
     "id": "1317945",
     "name": "ENVIRONMENTAL WORKING GROUP",
     "quarters": [
@@ -42779,6 +42789,13 @@
       },
       {
         "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 8640,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Budget Trailer Bill"
+      },
+      {
+        "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 8640,
         "pucLobbying": 0,
@@ -57961,6 +57978,11 @@
         "lobbiedOn": "AB 339, AB 370, AB 476, SB 346, SB 457  "
       }
     ]
+  },
+  {
+    "id": "1485250",
+    "name": "LA MESA-SPRING VALLEY SCHOOL DISTRICT",
+    "quarters": []
   },
   {
     "id": "1143082",
@@ -86328,6 +86350,26 @@
         "generalLobbying": 182943.96,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS REPORTING PERIOD            "
+      }
+    ]
+  },
+  {
+    "id": "1380986",
+    "name": "SANTA BARBARA UNIFIED SCHOOL DISTRICT",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
       }
     ]
   },
