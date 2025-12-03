@@ -9475,6 +9475,19 @@
     ]
   },
   {
+    "id": "1469118",
+    "name": "AUDIOEYE, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 14525,
+        "pucLobbying": 0,
+        "lobbiedOn": "*FEES PAID FOR SERVICES RENDERED IN PRIOR SESSION    "
+      }
+    ]
+  },
+  {
     "id": "1409911",
     "name": "AURORA INNOVATION, INC. ",
     "quarters": [
@@ -19338,6 +19351,11 @@
         "lobbiedOn": "Approval of new CCC BA Degrees (Board of Governors of the CA Community Colleges, Legislature), AB 1035 (Gonzalez), AB 1400 (Sofia)"
       }
     ]
+  },
+  {
+    "id": "1342870",
+    "name": "CALIFORNIA COMMUNITY COLLEGE INDEPENDENTS (CCCI)",
+    "quarters": []
   },
   {
     "id": "1146603",
@@ -31454,6 +31472,11 @@
     ]
   },
   {
+    "id": "1484833",
+    "name": "CITATION CAPITAL MANAGEMENT LLC",
+    "quarters": []
+  },
+  {
     "id": "1147196",
     "name": "CITIGROUP WASHINGTON, INC.",
     "quarters": [
@@ -35575,6 +35598,11 @@
         "lobbiedOn": "Division of Occupational Safety and Health (CalOSHA) Re: Autonomous regulations   "
       }
     ]
+  },
+  {
+    "id": "1469020",
+    "name": "CORTLAND INVESTMENT MANAGEMENT, LLC",
+    "quarters": []
   },
   {
     "id": "1329463",
@@ -40881,6 +40909,33 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "id": "1144334",
+    "name": "EL CAMINO COMMUNITY COLLEGE DISTRICT",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 4060,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Chancellor\u0012s Office CSU UC AB 313 AB 323 AB 335 AB 470 AB 648"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 8120,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Chancellor\u0012s Office CSU UC AB 731 SB 98 SB 640 AB 313"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 6090,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Chancellor\u0012s Office CSU UC AB 731 SB 98 SB 640 AB 313"
       }
     ]
   },
@@ -86080,6 +86135,26 @@
         "generalLobbying": 52500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 130, 158; SB 79, 423  "
+      }
+    ]
+  },
+  {
+    "id": "1456938",
+    "name": "SANDOZ, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 3325,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 1525,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
