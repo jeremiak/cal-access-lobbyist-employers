@@ -42351,6 +42351,20 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -62262,6 +62276,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 400,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALSTERS and CALPERS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 900,
         "pucLobbying": 0,
         "lobbiedOn": "CALSTERS and CALPERS"
       }
