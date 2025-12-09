@@ -42234,6 +42234,11 @@
     ]
   },
   {
+    "id": "1485153",
+    "name": "ENHANCED CAPITAL GROUP, LLC",
+    "quarters": []
+  },
+  {
     "id": "1384113",
     "name": "ENOVA ONLINE SERVICES, INC.",
     "quarters": [
@@ -71647,6 +71652,20 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "FEES FOR SERVICES RENDERED FROM PRIOR PERIOD  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "State legislature and Attorney General's Office re proposed federal preemption on state enforcement of AI laws SB 7, SB 53, & AB 566"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "State legislature and Governor's Office re SB 53, AB 940, AB 56, AB 853, AB 1018, SB 361, AB 566, AB 361, AB 1064, SB 52, SB 763, AB 325, AB 446, SB 243, AB 410, AB 1331, SB 7"
       }
     ]
   },
