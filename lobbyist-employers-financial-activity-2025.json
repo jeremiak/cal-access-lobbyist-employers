@@ -90855,7 +90855,29 @@
   {
     "id": "1145624",
     "name": "SONOMA WATER",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 39000,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached text:"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30750,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached text"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 30750,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached text"
+      }
+    ]
   },
   {
     "id": "1376428",
@@ -100843,7 +100865,29 @@
   {
     "id": "1464362",
     "name": "VERDANE FUND MANAGER AB",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, Regents of the University of California"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 54000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, Regents of the University of California"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 54000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, Regents of the University of California"
+      }
+    ]
   },
   {
     "id": "1404947",
@@ -102151,6 +102195,11 @@
         "lobbiedOn": "OFFICE OF ENVIRONMENTAL HEALTH HAZARD ASSESSMENT, STATE WATER RESOURCES CONTROL BOARD, CALIFORNIA ENVIRONMENTAL PROTECTION AGENCY, GOVERNOR'S OFFICE: ENVIRONMENTAL ISSUES                "
       }
     ]
+  },
+  {
+    "id": "1476573",
+    "name": "W CAPITAL PARTNERS",
+    "quarters": []
   },
   {
     "id": "1381471",
