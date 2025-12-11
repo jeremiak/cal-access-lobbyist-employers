@@ -39368,33 +39368,6 @@
     ]
   },
   {
-    "id": "1378077",
-    "name": "DRAFTKINGS, INC. AND ITS AFFILIATES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 208132.92,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature and the Governor's office on issues related to legalizing mobile sports wagering"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature and the Governors office on issues related to legalizing mobile sports wagering.  Lobbied the Attorney General on daily fantasy sports."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 48000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature and the Governor's office on issues related to legalizing mobile sports wagering; Lobbied the Attorney General on daily fantasy sports; Lobbied the Legislature on AB 831; Sports betting and online gaming    "
-      }
-    ]
-  },
-  {
     "id": "1440466",
     "name": "DRAGONEER INVESTMENT GROUP, LLC",
     "quarters": [
@@ -58477,6 +58450,11 @@
     ]
   },
   {
+    "id": "1485345",
+    "name": "LAMBERT; WILLIAM",
+    "quarters": []
+  },
+  {
     "id": "1463024",
     "name": "LAMPSON PARK PLACE, LLC ",
     "quarters": [
@@ -68364,6 +68342,11 @@
     ]
   },
   {
+    "id": "1485398",
+    "name": "NATIONAL WOODEN PALLET & CONTAINER ASSOCIATION",
+    "quarters": []
+  },
+  {
     "id": "1143172",
     "name": "NATIONWIDE",
     "quarters": [
@@ -69791,6 +69774,60 @@
     "id": "1467859",
     "name": "NOBLE MANAGEMENT HOLDINGS, LLC",
     "quarters": []
+  },
+  {
+    "id": "1339036",
+    "name": "NOMURA ASSET MANAGEMENT U.S.A. INC. (\"NAM-USA\")",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CaLPERS: Investments,  UCAL: Investments, CalSTRS: Investments"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CaLPERS: Investments,  UCAL: Investments, CalSTRS: Investments"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "id": "1339026",
+    "name": "NOMURA CORPORATE RESEARCH AND ASSET MANAGEMENT INC. (\"NCRAM\")",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 209857.37,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS: Investments  UCAL: Investment   CalSTRS: Investments"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 215955.73,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS: Investments  UCAL: Investment   CalSTRS: Investments"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 235406.87,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS: Investments  UCAL: Investment   CalSTRS: Investments"
+      }
+    ]
   },
   {
     "id": "1399191",
@@ -72905,6 +72942,11 @@
         "lobbiedOn": "Board of Equalization re: possessory taxes; Legislature re: budget, cap and trade expenditures; AB 439, AB 472, AB 605, AB 810, AB 914, AJR 14, SB 30, SB 34, SB 263, SB 703, SB 707  "
       }
     ]
+  },
+  {
+    "id": "1485412",
+    "name": "OXNARD RANCH PARTNERS, LLC",
+    "quarters": []
   },
   {
     "id": "1143212",
@@ -100149,6 +100191,11 @@
         "lobbiedOn": "NONE.  "
       }
     ]
+  },
+  {
+    "id": "1485399",
+    "name": "UTF ENTERPRISES, LLC",
+    "quarters": []
   },
   {
     "id": "1357051",
