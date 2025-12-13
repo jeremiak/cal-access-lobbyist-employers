@@ -31620,6 +31620,11 @@
     ]
   },
   {
+    "id": "1485411",
+    "name": "CITY OF RIO VISTA",
+    "quarters": []
+  },
+  {
     "id": "1365641",
     "name": "CITY OF SAN BUENAVENTURA",
     "quarters": [
@@ -35597,7 +35602,29 @@
   {
     "id": "1469020",
     "name": "CORTLAND INVESTMENT MANAGEMENT, LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 240.39,
+        "pucLobbying": 0,
+        "lobbiedOn": "Discussions with CalSTRS and UC Regents regarding state investment of public funds"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 408.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "Discussions with CalSTRS and CalPERS regarding state investment of public funds"
+      }
+    ]
   },
   {
     "id": "1329463",
@@ -42441,33 +42468,6 @@
     "id": "1485051",
     "name": "ENVIRONMENTAL PROTECTION INFORMATION CENTER",
     "quarters": []
-  },
-  {
-    "id": "1317945",
-    "name": "ENVIRONMENTAL WORKING GROUP",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 646, AB 1264, AB 1148, AB 60, AB 728, AB 794, AB 942, AB 1096, AB 1181, AB 1260, SB 24, SB 236, SB 332, SB 754, SB 682"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 646, AB 1264, AB 1148, AB 60, AB 728, AB 794, AB 942, AB 1096, AB 1181, AB 1260, SB 24, SB 236, SB 332, SB 754, SB 682, SB 39, SB 540, SB 710, AB 823"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 45404.08,
-        "pucLobbying": 0,
-        "lobbiedOn": "LEGISLATURE, GOVERNORS OFFICE RE: SB 646, AB 1264, AB 1148, AB 60, AB 728, AB 942, AB 1096, AB 1181, AB 1260, SB 24, SB 236, SB 332, SB 754, SB 39, SB 682, SB 540, AB 823, SB 710, AB 825, SB 254; LEGISLATURE, STATE WATER RESOURCES CONTROL BOARD RE: AB 794   "
-      }
-    ]
   },
   {
     "id": "1483163",
@@ -66504,6 +66504,11 @@
         "lobbiedOn": "AB 105, SB 105, Prop 4 Implementation, SB 8, AB 1383, AB 322, AB 1337, SB 247"
       }
     ]
+  },
+  {
+    "id": "1485461",
+    "name": "MPH CROCKETT, LLC",
+    "quarters": []
   },
   {
     "id": "1476473",
