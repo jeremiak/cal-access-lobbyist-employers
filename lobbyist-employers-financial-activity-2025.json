@@ -28868,6 +28868,33 @@
     ]
   },
   {
+    "id": "1334485",
+    "name": "CBRE INVESTMENT MANAGEMENT, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 2034,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 1808,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 1582,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS CalPERS"
+      }
+    ]
+  },
+  {
     "id": "1338645",
     "name": "CDH INVESTMENTS MANAGEMENT (HONG KONG) LIMITED",
     "quarters": [
@@ -45060,6 +45087,11 @@
         "lobbiedOn": "AB 33, SB 82, SB 615, State Budget, Governor's Office"
       }
     ]
+  },
+  {
+    "id": "1485496",
+    "name": "FORERUNNER INDUSTRIES",
+    "quarters": []
   },
   {
     "id": "1417996",
@@ -73661,6 +73693,11 @@
     ]
   },
   {
+    "id": "1485519",
+    "name": "PACIFIC, CLARK",
+    "quarters": []
+  },
+  {
     "id": "1466472",
     "name": "PACIFICA; CITY OF ",
     "quarters": [
@@ -74755,6 +74792,11 @@
         "lobbiedOn": "California Air Resources Board re: Ocean-Going Vessel At-Berth Regulation, LCFS; Legislature, CalSTA re: AB 652, AB 1250, Freight"
       }
     ]
+  },
+  {
+    "id": "1145417",
+    "name": "PASO ROBLES JOINT UNIFIED SCHOOL DISTRICT",
+    "quarters": []
   },
   {
     "id": "1396589",
@@ -98960,14 +99002,14 @@
         "session": "2025-2026",
         "generalLobbying": 10930.81,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 595, 1154, 413, 130, 49, 64, 863; SB 388, 766, 9, 98, 543, 580, 778, 792"
+        "lobbiedOn": "AB 595, 1154, 413, 130, 49, 64, 863; SB 388, 766, 9, 98, 543, 580, 778, 792    "
       },
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 6000,
+        "generalLobbying": 9451.57,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 1154, 413, 130, 49, 64, 863; SB 388, 766, 9, 98, 543, 580, 778, 792  "
+        "lobbiedOn": "AB 1154, 413, 130, 49, 64, 863; SB 388, 766, 9, 98, 543, 580, 778, 792    "
       }
     ]
   },
