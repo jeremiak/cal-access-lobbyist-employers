@@ -31846,6 +31846,11 @@
     ]
   },
   {
+    "id": "1485519",
+    "name": "CLARK PACIFIC",
+    "quarters": []
+  },
+  {
     "id": "1339576",
     "name": "CLAYTON, DUBILIER & RICE, LLC",
     "quarters": [
@@ -55517,7 +55522,7 @@
         "session": "2025-2026",
         "generalLobbying": 1346.16,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "Networking with CA pension plans."
       }
     ]
   },
@@ -55786,6 +55791,33 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE      "
+      }
+    ]
+  },
+  {
+    "id": "1479001",
+    "name": "JAMESTOWN ENERGY INC. INCLUDING AFFILIATED ENTITIES",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE    "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE      "
       }
@@ -73639,33 +73671,6 @@
     ]
   },
   {
-    "id": "1479001",
-    "name": "PACIFIC ULTRAPOWER CHINESE STATION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE  "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE      "
-      }
-    ]
-  },
-  {
     "id": "1143018",
     "name": "PACIFIC WATER QUALITY ASSOCIATION",
     "quarters": [
@@ -73691,11 +73696,6 @@
         "lobbiedOn": "Bills lobbied:  AB 1094  "
       }
     ]
-  },
-  {
-    "id": "1485519",
-    "name": "PACIFIC, CLARK",
-    "quarters": []
   },
   {
     "id": "1466472",
