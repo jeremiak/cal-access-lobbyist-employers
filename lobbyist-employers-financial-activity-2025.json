@@ -18195,6 +18195,11 @@
     ]
   },
   {
+    "id": "1485403",
+    "name": "CALIFORNIA CAPITOL VENUE COALITION",
+    "quarters": []
+  },
+  {
     "id": "1458247",
     "name": "CALIFORNIA CARBON SOLUTIONS COALITION",
     "quarters": [
@@ -18776,6 +18781,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 42, AB 351, AB 699, AB 950, AB 1188, SB 266, SB 398, SB 644, SB 760"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 42, AB 699, AB 950, AB 1188, SB 398, SB 644, SB 760"
       }
     ]
   },
@@ -47269,6 +47281,11 @@
     ]
   },
   {
+    "id": "1485591",
+    "name": "GLOBAL MARINE EXPLORATION, INC. ",
+    "quarters": []
+  },
+  {
     "id": "1290486",
     "name": "GLOBAL MEDICAL RESPONSE",
     "quarters": [
@@ -51041,6 +51058,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 518  Department of Housing and Community Development"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 518  Department of Housing and Community Development"
       }
@@ -90893,6 +90917,33 @@
     ]
   },
   {
+    "id": "1145624",
+    "name": "SONOMA COUNTY WATER AGENCY (SONOMA WATER)",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 39000,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached text:"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30750,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached text"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 30750,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached text"
+      }
+    ]
+  },
+  {
     "id": "1375060",
     "name": "SONOMA LAND TRUST",
     "quarters": [
@@ -90943,33 +90994,6 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: SB 105; AB 929; Small GSA Funding; SGMA Implementation.\tDept of Water Resources: Small GSA Funding; SGMA Prop 4 Implementation Funding."
-      }
-    ]
-  },
-  {
-    "id": "1145624",
-    "name": "SONOMA WATER",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 39000,
-        "pucLobbying": 0,
-        "lobbiedOn": "See attached text:"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 30750,
-        "pucLobbying": 0,
-        "lobbiedOn": "See attached text"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 30750,
-        "pucLobbying": 0,
-        "lobbiedOn": "See attached text"
       }
     ]
   },
