@@ -50090,29 +50090,7 @@
   {
     "id": "1414561",
     "name": "HEAD START CALIFORNIA ",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 10816.75,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB, 318, 753, 1123, 1428; SB 98, 582; Legislature, Office of State Fire Marshall Re: Building Codes requirements "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 7576.94,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1123, AB 318, AB 753, AB 880, SB 324, SB 647, AB 1428, AB 553, AB 936, AB 636, AB 944, AB 601, AB 752, SB 582, AJR 12; Office of State Fire Marshal Re: Childcare Center Workgroup    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 318, 753, 1123, 1496, AJR 12; Office of State Fire Marshal Re: Childcare Center Workgroup, Building Code Changes     "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1477228",
@@ -50171,29 +50149,7 @@
   {
     "id": "1437122",
     "name": "HEALTH CARE LA, IPA",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 543, 1113, 1415, 224; SB 62; Legislature re: Medi-Cal, Managed Care,  federally qualified health centers, Medical Loss Ratio and Office of  Health Care Affordability issues   "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 543, 1113, 1415, 224; SB 62; Legislature re: Medi-Cal, Managed Care, federally qualified health centers, Medical Loss Ratio and Office of Health Care Affordability issues     "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB: 543, 116, 1113, 1415, 224; SB: 62, 29; Legislature re: Medi-Cal, Managed Care, federally qualified health centers, Medical Loss Ratio and OHCA issues      "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1145705",
