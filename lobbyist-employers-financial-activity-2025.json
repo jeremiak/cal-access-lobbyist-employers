@@ -3936,6 +3936,11 @@
     ]
   },
   {
+    "id": "1485678",
+    "name": "AMBIENTA SGR S.P.A.",
+    "quarters": []
+  },
+  {
     "id": "1277561",
     "name": "AMERESCO",
     "quarters": [
@@ -43775,6 +43780,11 @@
     ]
   },
   {
+    "id": "1485680",
+    "name": "FEDERAL HOME LOAN BANK OF SAN FRANCISCO",
+    "quarters": []
+  },
+  {
     "id": "1319269",
     "name": "FEDERATED INDIANS OF GRATON RANCHERIA",
     "quarters": [
@@ -47129,6 +47139,33 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 104, 650 SB 79, 105, 634"
+      }
+    ]
+  },
+  {
+    "id": "1346403",
+    "name": "GLG LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -62823,6 +62860,87 @@
     ]
   },
   {
+    "id": "1445493",
+    "name": "MAN GLOBAL PRIVATE MARKETS (USA) INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1445490",
+    "name": "MAN SOLUTIONS LIMITED",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "id": "1377230",
+    "name": "MAN SOLUTIONS LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "id": "1480912",
     "name": "MANA INVESTMENTS",
     "quarters": [
@@ -70845,6 +70963,33 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "STATE LEGISLATURE - ASSEMBLY AND SENATE; CA Department of Cannabis Control; California Department of Food and Agriculture, CA Department of Taxes, Fees Adminsitration"
+      }
+    ]
+  },
+  {
+    "id": "1377222",
+    "name": "NUMERIC INVESTORS LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -78968,6 +79113,33 @@
         "generalLobbying": 1000,
         "pucLobbying": 0,
         "lobbiedOn": "CONTACTED CALPERS AND CALSTRS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS."
+      }
+    ]
+  },
+  {
+    "id": "1435120",
+    "name": "PSYCHIATRIC PHYSICIANS ALLIANCE OF CALIFORNIA (PPAC)",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "BEHAVIORAL HEALTH WORKFORCE: CA DEPARTMENT OF HEALTH CARE ACCESS AND INFORMATION, CA DEPARTMENT OF HEALTH CARE SERVICES, CA HEALTH AND HUMAN SERVICES AGENCY    "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 348, 408, 1503; SB 416, 820; BEHAVIORAL HEALTH WORKFORCE: CA DEPARTMENT OF HEALTH CARE ACCESS AND INFORMATION; BUDGET ISSUES: LEGISLATURE   "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 348, 408, 512, 1503; SB 408, 416, 820; BEHAVIORAL HEALTH WORKFORCE: CA DEPARTMENT OF HEALTH CARE ACCESS AND INFORMATION, CALIFORNIA BEHAVIORAL HEALTH PLANNING COUNCIL, CA DEPARTMENT OF HEALTH CARE SERVICES; BUDGET ISSUES: LEGISLATURE         "
       }
     ]
   },
