@@ -33047,6 +33047,11 @@
     ]
   },
   {
+    "id": "1485504",
+    "name": "COALITION TO POWER AMERICA",
+    "quarters": []
+  },
+  {
     "id": "1143982",
     "name": "COAST COMMUNITY COLLEGE DISTRICT",
     "quarters": [
@@ -93977,6 +93982,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied Cal OSHA regarding exposure limits"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3921,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied Cal OSHA regarding exposure limits"
       }
