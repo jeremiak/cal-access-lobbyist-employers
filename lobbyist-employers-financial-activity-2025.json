@@ -15194,6 +15194,33 @@
     ]
   },
   {
+    "id": "1147045",
+    "name": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 310296.65,
+        "pucLobbying": 0,
+        "lobbiedOn": "Office of the Governor, Department of Education, Department of Social Services, Department of Health Care Services, Department of Finance, Department of Health Care Access and Information and CA Department of Public Health."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 203881.86,
+        "pucLobbying": 0,
+        "lobbiedOn": "Office of the Governor, Department of Education, Department of Social Services, Department of Health Care Services, Department of Finance, Department of Health Care Access and Information and CA Department of Public Health."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 187863.62,
+        "pucLobbying": 0,
+        "lobbiedOn": "Office of the Governor, Department of Education, Department of Social Services, Department of Health Care Services, Department of Finance, Department of Health Care Access and Information and CA Department of Public Health."
+      }
+    ]
+  },
+  {
     "id": "1465840",
     "name": "CALIFORNIA ALLIANCE OF FAMILY OWNED BUSINESSES",
     "quarters": [
@@ -39975,6 +40002,33 @@
     ]
   },
   {
+    "id": "1424189",
+    "name": "EARTH ISLAND INSTITUTE AS THE FISCAL AGENT FOR THE CALIFORNIA CLIMATE & AGRICULTURE NETWORK",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 28765.65,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA Bills: AB 411, AB 491, AB 937, AB 947, SB 279, SB 462, AB 524, AB 694, AB 732, AB 1243, AB 1413, AB 1466, SB 72, SB 222, SB 285, SB 653, SB 684 State Administrative/Implementation: AB 1757, SB 675; Budget; CDFA re: HSP, SWEEP, AMMP, TA Program; Prop 4 Federal: Farm Bill reauthorization, agriculture budget appropriation requests, S. 1172"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 39406.78,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA Bills: AB 411, AB 491, AB 947, AB 524, AB 694, AB 732, AB 1156, AB 1207, AB 1243, AB 1413, AB 1466, SB 222, SB 279, SB 285, SB 462, SB 653, SB 684, SB 840, SJR 5 State Administrative/Implementation: AB 1757, SB 675; Budget; CDFA re: HSP, SWEEP, AMMP, TA Program; Prop 4 Federal: H.R. 1"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 23384.17,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA Bills: AB 105, AB 149, AB 411, AB 491, AB 524, AB 694, AB 732, AB 947, AB 1156, AB 1207, AB 1243, AB 1413, AB 1466, SB 105, SB 149, B 222, SB 279, SB 285, SB 462, SB 653, SB 684, SB 840, SJR 5 State Administrative/Implementation: AB 1757, SB 675, ILRP; Budget; CDFA re: HSP, SWEEP, AMMP, TA Program; Prop 4 Federal: COWS Act Re-introduction"
+      }
+    ]
+  },
+  {
     "id": "1467949",
     "name": "EARTHGRID PBC",
     "quarters": [
@@ -43787,6 +43841,11 @@
   {
     "id": "1485680",
     "name": "FEDERAL HOME LOAN BANK OF SAN FRANCISCO",
+    "quarters": []
+  },
+  {
+    "id": "1144354",
+    "name": "FEDERATED HERMES, INC. (FORMERLY FEDERATED INVESTORS, INC.)",
     "quarters": []
   },
   {
