@@ -18101,7 +18101,7 @@
         "session": "2025-2026",
         "generalLobbying": 791258.83,
         "pucLobbying": 0,
-        "lobbiedOn": "SEE ATTACHMENT 'A' AND 'B'.            "
+        "lobbiedOn": "SEE ATTACHMENT 'A' AND 'B'.              "
       }
     ]
   },
@@ -19042,6 +19042,19 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Department of Industrial Relations, Workers Compensation Division: SIBTF ProgramLabor & Workforce Development Agency:  Subsequent Injuries Benefits Trust Fund (SIBTF)"
+      }
+    ]
+  },
+  {
+    "id": "1484244",
+    "name": "CALIFORNIA COALITION OF LARGE ENERGY USERS",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 825; SB 540"
       }
     ]
   },
@@ -46711,6 +46724,26 @@
         "generalLobbying": 76923.75,
         "pucLobbying": 0,
         "lobbiedOn": "AB 102, 104, 116, 118, 432, 512, 539, 546, 825, 1018, 1460, 1503; SB 7, 41, 53, 101, 306, 338, 420, 503, 540, 682; GREEN HOUSE GAS REGULATIONS, STATE WIDE HEALTH CARE SPENDING: LEGISLATURE, GOVERNOR'S OFFICE, OFFICE OF HEALTH CARE AFFORDABILITY, CALIFORNIA AIR RESOURCES BOARD, DEPARTMENT OF HEALTH CARE SERVICES              "
+      }
+    ]
+  },
+  {
+    "id": "1472119",
+    "name": "GENERAC POWER SYSTEMS INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 65, 227; SB 101; CALIFORNIA ENERGY COMMISSION RE: EMERGENCY DISTRIBUTED  RESOURCE PROGRAMS   "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 710, 541, 840, 65; CALIFORNIA ENERGY COMMISSION RE: EMERGENCY  DISTRIBUTED RESOURCE PROGRAMS"
       }
     ]
   },
@@ -89386,6 +89419,11 @@
         "lobbiedOn": ""
       }
     ]
+  },
+  {
+    "id": "1485736",
+    "name": "SHI",
+    "quarters": []
   },
   {
     "id": "1244620",
