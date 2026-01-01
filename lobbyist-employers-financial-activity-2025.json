@@ -43857,11 +43857,6 @@
     "quarters": []
   },
   {
-    "id": "1144354",
-    "name": "FEDERATED HERMES, INC. (FORMERLY FEDERATED INVESTORS, INC.)",
-    "quarters": []
-  },
-  {
     "id": "1319269",
     "name": "FEDERATED INDIANS OF GRATON RANCHERIA",
     "quarters": [
@@ -64291,6 +64286,11 @@
     ]
   },
   {
+    "id": "1419086",
+    "name": "MEDIMPACT HEALTHCARE SYSTEMS, INC.",
+    "quarters": []
+  },
+  {
     "id": "1482570",
     "name": "MEDTERRA CBD LLC",
     "quarters": [
@@ -75652,6 +75652,13 @@
         "generalLobbying": 575,
         "pucLobbying": 0,
         "lobbiedOn": "CONTACTED CALPERS, CALSTRS, AND UC REGENTS REGARDING INVESTMENT OPPORTUNITIES          "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NO ACTIVITY THIS PERIOD             "
       }
     ]
   },
