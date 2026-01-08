@@ -1927,6 +1927,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NIL"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NIL"
       }
     ]
   },
@@ -7038,6 +7045,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislative support for funding of programs that serve children with autism. Department of Health Care Services Department of Managed Health Care."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative support for funding of programs that serve children with autism. Department of Health Care Services Department of Managed Health Care."
       }
     ]
   },
@@ -8965,6 +8979,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies and Offices Lobbied regarding regulatory implementation of AB 280. AB 1048, AB 1209, AB 1331, AB 1398. AB 1498, SB 536,   SB 555. SB 668.  Agencies and Offices Lobbied regarding regulatory implementation of AB 685, SB 537, SB 863, SB 1002 ana SB 1159: Office of the Governor Legislative Policy Unit; Department of Industrial Relations, Division of Workers' Compensation:"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies and Offices Lobbied regarding regulatory implementation of AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398. AB 1498, SB 536, SB 555. SB 668.  Agencies and Offices Lobbied regarding regulatory implementation of AB 685, SB 537, SB 863, SB 1002 ana SB 1159: Office of the Governor Legislative Policy Unit; Department of Industrial Relations, Division of Workers' Compensation:"
       }
     ]
   },
@@ -9585,6 +9606,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "Department of Health Care Services Department of Managed Health Care Department of Developmental Services Legislature. AB375AB1172SB402AB951AB277AB2246"
+      },
+      {
+        "quarter": "8th",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Health Care Services Department of Managed Health Care Department of Developmental Services Legislature. AB375"
       }
     ]
   },
@@ -20841,21 +20869,21 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 56250,
+        "generalLobbying": 36750,
         "pucLobbying": 0,
         "lobbiedOn": "CA State Legislature RE AB 303 AB 1191 and SB 302 AB 841 and SB 283 and GO-Biz"
       },
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 59325,
+        "generalLobbying": 36825,
         "pucLobbying": 0,
         "lobbiedOn": "CA State Legislature AB 303 AB 942 AB 1191 SB 283 and SB 302; GoBiz RE local permitting and C State Fire Marshall RE BESS Safety"
       },
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 59325,
+        "generalLobbying": 36825,
         "pucLobbying": 0,
         "lobbiedOn": "Governor's Office RE: SB 302 SB 283 Cap and Invest. CA State Legislature AB 303 AB 615 AB 696 AB 841 AB 825 AB 1207 SB 254 SB 283 SB 302 SB 840 and Go-Biz and CA Energy Commission"
       }
@@ -30160,6 +30188,13 @@
         "generalLobbying": 1075,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS, UC Retirement Plan: INVESTMENTS        "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1075,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS, UC Retirement Plan: INVESTMENTS          "
       }
     ]
   },
@@ -31602,6 +31637,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE        "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE          "
       }
     ]
   },
@@ -38795,6 +38837,26 @@
         "generalLobbying": 40000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: SB 503; AB 1018; medical devices; diabetes management; continuous glucose monitors."
+      }
+    ]
+  },
+  {
+    "id": "1477113",
+    "name": "DGA GOVERNMENT RELATIONS, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 46855.06,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -50634,6 +50696,11 @@
     ]
   },
   {
+    "id": "1485959",
+    "name": "HEALTHTECH PARTNERS",
+    "quarters": []
+  },
+  {
     "id": "1481398",
     "name": "HEALTHY CAMPUS",
     "quarters": []
@@ -60035,6 +60102,13 @@
         "generalLobbying": 99000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB 84, SB 414, SB 494, letters of support for charter school renewals."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 99000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: support for charter school renewals."
       }
     ]
   },
@@ -60852,6 +60926,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "None."
       }
@@ -62426,6 +62507,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD.  "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 400,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, UC Retirement Plan: INVESTMENTS"
       }
     ]
   },
@@ -62656,6 +62744,13 @@
     "quarters": [
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -66164,6 +66259,13 @@
         "generalLobbying": 300,
         "pucLobbying": 0,
         "lobbiedOn": "Proposed Investments: UC Regents; California Public Employees' Retirement System; California State Teachers' Retirement System"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -68687,33 +68789,6 @@
         "generalLobbying": 5500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: AB 1414, Housing Policy Issues"
-      }
-    ]
-  },
-  {
-    "id": "1146767",
-    "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 21629.46,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 15111.47,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1078, AB 1127, SB 704  Meet with members of the Assembly and Senate (and their staff) to explain position."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 12971.71,
-        "pucLobbying": 0,
-        "lobbiedOn": "Opposed AB1078, AB1127, AB1263, SB248, AB1006, AB1187, SB15, SB320."
       }
     ]
   },
@@ -71467,6 +71542,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD.         "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.           "
       }
     ]
   },
@@ -71618,6 +71700,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -80116,6 +80205,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -83541,6 +83637,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regents of the University of California, Calpers, Calstrs, LACERS, LACERA, OCERS, SCERS"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -92986,6 +93089,11 @@
     ]
   },
   {
+    "id": "1485956",
+    "name": "ST JOHN'S COMMUNITY HEALTH",
+    "quarters": []
+  },
+  {
     "id": "1356445",
     "name": "ST SHARED SERVICES LLC",
     "quarters": [
@@ -98624,6 +98732,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 27,
+        "pucLobbying": 0,
+        "lobbiedOn": "University of California Regents and CalSTRS: Investments"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 130.5,
         "pucLobbying": 0,
         "lobbiedOn": "University of California Regents and CalSTRS: Investments"
       }
@@ -106942,6 +107057,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None  "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None    "
       }
     ]
   },
