@@ -2211,6 +2211,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -3457,7 +3464,7 @@
   },
   {
     "id": "1369747",
-    "name": "ALMOND ALLIANCE OF CALIFORNIA",
+    "name": "ALMOND ALLIANCE",
     "quarters": [
       {
         "quarter": "1st",
@@ -9698,6 +9705,11 @@
     ]
   },
   {
+    "id": "1485993",
+    "name": "AUTOMOTUS",
+    "quarters": []
+  },
+  {
     "id": "1438761",
     "name": "AUTONOMOUS VEHICLE INDUSTRY ASSOCIATION",
     "quarters": [
@@ -10909,6 +10921,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -17020,6 +17039,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "California Department of Education re: ESSA Equitable Services, EANS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Department of Education re: ESSA Equitable Services, EANS, IDEA"
       }
     ]
   },
@@ -28472,9 +28498,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 18000,
+        "generalLobbying": 9000,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 80; CALRECYCLE RE: SUSTAINABILITY, CIRCULARITY      "
+        "lobbiedOn": "AB 80; CALRECYCLE RE: SUSTAINABILITY, CIRCULARITY        "
       }
     ]
   },
@@ -29425,6 +29451,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "The purpose of the lobbying efforts is to provide consultation and strategic advice for the Center for Elders' Independence regarding improving the eligibility and participation rate for PACE consumers at CEI with the California Department of Health Care Services."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 15000,
         "pucLobbying": 0,
@@ -30648,6 +30681,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -44005,6 +44045,13 @@
         "generalLobbying": 9,
         "pucLobbying": 0,
         "lobbiedOn": "UC Retirement Program; Investments"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 9,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Retirement Program; Investments"
       }
     ]
   },
@@ -46579,6 +46626,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -47332,6 +47386,13 @@
         "generalLobbying": 2143.78,
         "pucLobbying": 0,
         "lobbiedOn": "The California State Teachers' Retirement System"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teachers' Retirement System"
       }
     ]
   },
@@ -47487,6 +47548,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -47510,6 +47578,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -52347,6 +52422,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS - investment in a fund"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS - investment in a fund"
       }
     ]
   },
@@ -52734,6 +52816,13 @@
         "generalLobbying": 164,
         "pucLobbying": 0,
         "lobbiedOn": "Seeking to manage investments for CalSTRS and CalPERS."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -55765,6 +55854,11 @@
         "lobbiedOn": "AB 940     "
       }
     ]
+  },
+  {
+    "id": "1485477",
+    "name": "IRVINE RANCH CONSERVANCY",
+    "quarters": []
   },
   {
     "id": "1146348",
@@ -59691,6 +59785,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -60355,6 +60456,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE               "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE                 "
       }
     ]
   },
@@ -63301,6 +63409,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -63328,6 +63443,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -63351,6 +63473,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -64030,6 +64159,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS: Investments CalSTRS: Investments San Jose Retirement System and other CA local/state investment plans as applicable"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -65443,6 +65579,11 @@
     ]
   },
   {
+    "id": "1486000",
+    "name": "MGX FUND MANAGEMENT LIMITED",
+    "quarters": []
+  },
+  {
     "id": "1344354",
     "name": "MHR FUND MANAGEMENT LLC",
     "quarters": [
@@ -65581,6 +65722,26 @@
         "generalLobbying": 17200,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A   "
+      }
+    ]
+  },
+  {
+    "id": "1484575",
+    "name": "MIDWAY RISING, LLC",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.  "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "DEPARTMENT OF HOUSING & COMMUNITY DEVELOPMENT: ISSUES RELATING TO HOUSING DEVELOPMENT."
       }
     ]
   },
@@ -67836,6 +67997,13 @@
         "generalLobbying": 240,
         "pucLobbying": 0,
         "lobbiedOn": "UC Regents: Investments."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 240,
+        "pucLobbying": 0,
+        "lobbiedOn": "UC Regents: Investments."
       }
     ]
   },
@@ -69830,6 +69998,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -71396,6 +71571,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -75191,6 +75373,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -82564,6 +82753,13 @@
         "generalLobbying": 73392.69,
         "pucLobbying": 0,
         "lobbiedOn": "SB  6, SB  48, SB  274, SB  277, SB  498, SB  509, SB  524, SB  627, SB  634 ,SB  664, SB  691, SB  751, AB 68,  AB 85 , AB 324, AB 478 , AB 519 , AB 568, AB 568, AB 572 , AB 598 , AB 601, AB 645, AB 690, AB 727, AB 747, AB 767, AB 1108, AB 1145, AB 1231, and AB 1269."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 84939.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 274, SB 524, SB 627, AB 68, AB 747, AB 1108."
       }
     ]
   },
@@ -88316,6 +88512,11 @@
     ]
   },
   {
+    "id": "1485604",
+    "name": "SAVE THE WAVES COALITION",
+    "quarters": []
+  },
+  {
     "id": "1456070",
     "name": "SBE GLOBAL, LP",
     "quarters": [
@@ -89806,6 +90007,13 @@
         "generalLobbying": 182.29,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 182.29,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALSTRS CALPERS"
       }
     ]
   },
@@ -94324,7 +94532,7 @@
         "session": "2025-2026",
         "generalLobbying": 19500,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 84; SB 494          "
+        "lobbiedOn": "AB 84; SB 494            "
       }
     ]
   },
@@ -96178,6 +96386,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None           "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None             "
       }
     ]
   },
@@ -97438,6 +97653,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -98052,6 +98274,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 19029.97,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS investments"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1700,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS investments"
       }
