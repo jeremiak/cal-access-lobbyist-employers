@@ -13431,6 +13431,13 @@
         "generalLobbying": 1360,
         "pucLobbying": 0,
         "lobbiedOn": "California Public Employees Retirement System"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 2400,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Public Employees Retirement System and California State Teachers' Retirement System"
       }
     ]
   },
@@ -60757,6 +60764,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 248, AB 321, AB 622, AB 812, AB 802, AB 1231, AB 1279, SB 396, SB 553, SB 562, AB 38, AB 85, AB 237, AB 292, AB 297, AB 324, AB 327, AB 336, AB 383, AB 394, AB 468, AB 479, AB 528, AB 568, AB 710"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 248, AB 321, AB 622, AB 812, AB 802, AB 1231, AB 1279, SB 396, SB 553, SB 562, AB 38, AB 85, AB 237, AB 292, AB 297, AB 324, AB 327, AB 336, AB 383, AB 394, AB 468, AB 479, AB 528, AB 568, AB 710"
       }
