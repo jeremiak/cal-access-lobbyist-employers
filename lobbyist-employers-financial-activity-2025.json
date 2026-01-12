@@ -11588,7 +11588,7 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 6500,
+        "generalLobbying": 18999,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, re: SB 79, SB 346, SB 630, SB 634, SB 838, AB 1, AB 424, AB 476, AB 492, AB 507, AB 523, AB 715, AB 1061, AB 1138."
       }
@@ -24242,6 +24242,13 @@
         "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "NONE          "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1638.96,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE            "
       }
     ]
   },
@@ -31096,6 +31103,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE  "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE    "
       }
     ]
   },
@@ -69614,6 +69628,13 @@
         "generalLobbying": 3750,
         "pucLobbying": 0,
         "lobbiedOn": "NONE        "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3750,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE          "
       }
     ]
   },
@@ -91172,6 +91193,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE        "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 5967,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE          "
       }
     ]
   },
@@ -94650,6 +94678,13 @@
         "generalLobbying": 19500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 84; SB 494            "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 19758,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE  "
       }
     ]
   },
@@ -96591,6 +96626,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1119, 1454; SB 743        "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE         "
       }
     ]
   },
