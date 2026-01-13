@@ -5431,6 +5431,13 @@
         "generalLobbying": 3200,
         "pucLobbying": 0,
         "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
       }
     ]
   },
@@ -7367,6 +7374,13 @@
         "generalLobbying": 84.14,
         "pucLobbying": 0,
         "lobbiedOn": "Los Angeles County Employees Retirement Association (LACERA)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 84.14,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS"
       }
     ]
   },
@@ -7874,6 +7888,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 12.02,
+        "pucLobbying": 0,
+        "lobbiedOn": "Potential investments from CalSTRS into our Dynamic Risk Premia strategy."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 12.02,
         "pucLobbying": 0,
@@ -10446,11 +10467,6 @@
     ]
   },
   {
-    "id": "1336354",
-    "name": "BANK OF NEW YORK MELLON; THE",
-    "quarters": []
-  },
-  {
     "id": "1264201",
     "name": "BANNING; CITY OF",
     "quarters": [
@@ -10581,6 +10597,13 @@
         "generalLobbying": 9804.69,
         "pucLobbying": 0,
         "lobbiedOn": "CONTACTED CALPERS AND CALSTRS REGARDING INVESTMENT OPPORTUNITIES"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 10219.17,
+        "pucLobbying": 0,
+        "lobbiedOn": "CONTACTED CALPERS AND CALSTRS REGARDING INVESTMENT OPPORTUNITIES  "
       }
     ]
   },
@@ -11672,6 +11695,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -11894,6 +11924,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "DHCS: Reimbursement rates; Legislature: Reimbursement rates, ACR94."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "DHCS: Reimbursement rates; Legislature: Reimbursement rates."
       }
     ]
   },
@@ -13147,6 +13184,13 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "Nothing to report."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Nothing to report."
       }
     ]
   },
@@ -13515,6 +13559,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Nothing to Report."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 30000,
         "pucLobbying": 0,
@@ -16165,6 +16216,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -25464,6 +25522,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1048, AB 1125, AB 1293, AB 1329. AB 1398, AB 668"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1048, AB 1125, AB 1293, AB 1329. AB 1398, AB 668"
       }
     ]
   },
@@ -32552,6 +32617,33 @@
     ]
   },
   {
+    "id": "1467780",
+    "name": "CLIMATE STRATEGIES LAB, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 1800,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 1280, industrial decarbonization"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 7200,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 1280, industrial decarbonization"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 49085,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 1280, industrial decarbonization"
+      }
+    ]
+  },
+  {
     "id": "1380148",
     "name": "CLIMATEC LLC",
     "quarters": [
@@ -34281,6 +34373,13 @@
         "generalLobbying": 11250,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature RE: State rescheduling of federally reclassified Schedule 1 drugs"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -36608,6 +36707,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies:  Legislature Issues: AB 412"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -38944,6 +39050,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -39737,6 +39850,13 @@
         "generalLobbying": 8000,
         "pucLobbying": 0,
         "lobbiedOn": "CalRecycle regulations re: SB 54 implementation"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalRecycle regulations re: SB 54 implementation"
       }
     ]
   },
@@ -40007,6 +40127,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor's office: AB 309, AB 1231, AB 379, SB 27, SB 634, SB 627, AB 321, AB 1376, AB 1103, AB 348, AB 543, AB 1037, AB 461, AB 1269, AB 1071, SB 281."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's office: AB 309, AB 1231, AB 634, 2026 budget request for overdose prevention and harm reduction services."
       }
     ]
   },
@@ -42126,6 +42253,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Nothing to Report."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Nothing to Report."
       }
     ]
   },
@@ -42291,6 +42425,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -42943,6 +43084,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -43345,6 +43493,13 @@
         "generalLobbying": 8640,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: Budget Trailer Bill"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 8640,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Budget Trailer Bill"
       }
     ]
   },
@@ -43489,6 +43644,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NOTHING TO REPORT"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -44695,6 +44857,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -45670,6 +45839,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NOTHING TO REPORT."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 14000,
         "pucLobbying": 0,
         "lobbiedOn": "NOTHING TO REPORT."
       }
@@ -53986,33 +54162,6 @@
     ]
   },
   {
-    "id": "1467780",
-    "name": "INDUSTRIOUS LABS ",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 1800,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: AB 1280, industrial decarbonization"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 7200,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: AB 1280, industrial decarbonization"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 49085,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: AB 1280, industrial decarbonization"
-      }
-    ]
-  },
-  {
     "id": "1142848",
     "name": "INDUSTRY; CITY OF",
     "quarters": [
@@ -54538,6 +54687,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -54882,6 +55038,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CONTACTED CALPERS AND CALSTRS REGARDING ONGOING INVESTOR RELATIONS.              "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE          "
       }
     ]
   },
@@ -62060,6 +62223,13 @@
         "generalLobbying": 6075,
         "pucLobbying": 0,
         "lobbiedOn": "NOTHING TO REPORT"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6075,
+        "pucLobbying": 0,
+        "lobbiedOn": "NOTHING TO REPORT"
       }
     ]
   },
@@ -62316,6 +62486,13 @@
       },
       {
         "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -69313,6 +69490,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 564,1332; Department of Cannabis Control re: relationship improvement and enforcement action"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1332; Department of Cannabis Control re: discussion of enforcement actions and regulation interpretation"
       }
     ]
   },
@@ -71455,6 +71639,13 @@
         "generalLobbying": 40700,
         "pucLobbying": 0,
         "lobbiedOn": "California Legislature: SB 146, AB 144"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 44700,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -80450,6 +80641,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -82749,6 +82947,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "NOTHING TO REPORT."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NOTHING TO REPORT."
       }
     ]
   },
@@ -84806,6 +85011,11 @@
         "lobbiedOn": "UC Regents: Investments."
       }
     ]
+  },
+  {
+    "id": "1485401",
+    "name": "SAMSARA, INC",
+    "quarters": []
   },
   {
     "id": "1373741",
@@ -86913,6 +87123,13 @@
         "generalLobbying": 23438.92,
         "pucLobbying": 0,
         "lobbiedOn": "AB 32, 52, 293, 362, 971, 1004, 1051, 1097; SB 448"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1051, 1097"
       }
     ]
   },
@@ -87181,6 +87398,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB971"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "AB971"
       }
@@ -89658,6 +89882,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 40500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 263 , AB 293 , AB 339 , AB 1466, SB 72, SB 88"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 40500,
         "pucLobbying": 0,
@@ -92236,6 +92467,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 28500,
+        "pucLobbying": 0,
+        "lobbiedOn": "NOTHING TO REPORT."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 19000,
         "pucLobbying": 0,
         "lobbiedOn": "NOTHING TO REPORT."
       }
@@ -95289,6 +95527,13 @@
         "generalLobbying": 2500,
         "pucLobbying": 0,
         "lobbiedOn": "SB 626"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Maternal Mental Health"
       }
     ]
   },
@@ -96401,6 +96646,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 46200,
+        "pucLobbying": 0,
+        "lobbiedOn": "Nothing to Report."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Nothing to Report."
       }
@@ -100892,6 +101144,13 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 876, AB 1082, AB 1400, SB 389, SB 773"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 876, AB 1082, AB 1400, SB 389, SB 773"
       }
     ]
   },
@@ -103182,33 +103441,6 @@
     ]
   },
   {
-    "id": "1394398",
-    "name": "VITRUVIAN PARTNERS LTD",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
-      }
-    ]
-  },
-  {
     "id": "1348874",
     "name": "VITU, INC. (F/K/A MOTOR VEHICLE SOFTWARE CORPORATION)",
     "quarters": [
@@ -104133,6 +104365,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
