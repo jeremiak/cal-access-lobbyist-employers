@@ -296,7 +296,15 @@
   {
     "id": "1484778",
     "name": "4STUDENTLIVES",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget  CTC"
+      }
+    ]
   },
   {
     "id": "1475143",
@@ -2548,6 +2556,13 @@
         "generalLobbying": 26120.01,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 84 AB 810 AB 917 AB 1230 SB 414 AB 49 AB 130 AB 642 AB 727 AB 753 AB 845 AB 998 AB 1119 AB 1136 AB 1224 AB 1306 AB 1454 SB 48 SB 262 SB 373 SB 404 SB 494 CTC DHCS "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 26120.01,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education SB 414 CTC"
       }
     ]
   },
@@ -5303,6 +5318,13 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB931 AB743"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -5848,6 +5870,13 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature on AB 1234, SB 61, SB 84, SB 440."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor?s office on SB 440 and AB 778."
       }
     ]
   },
@@ -6223,6 +6252,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -6614,6 +6650,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -8153,22 +8196,7 @@
   {
     "id": "1146252",
     "name": "ASSOCIATION FOR THE PRESERVATION OF GAMEFOWL, INC.",
-    "quarters": [
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 126788.32,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 928  "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 26078.01,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 928    "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1384766",
@@ -8178,704 +8206,132 @@
   {
     "id": "1459989",
     "name": "ASSOCIATION OF CALIFORNIA AIRPORTS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 3000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor's Office, Department of Finance, California Transportation Commission, Caltrans re: AB 431, SB 1193 (Ch. 460/2024), Aviation policy."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 450,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor's Office, Department of Finance, California Transportation Commission, Caltrans re: AB 431, SB SB 661, 1193 (Ch. 460/2024), Aviation policy."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 300,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor's Office, Department of Finance, California Transportation Commission, Caltrans re: AB 431, SB SB 661, 1193 (Ch. 460/2024), Aviation policy."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1143359",
     "name": "ASSOCIATION OF CALIFORNIA COMMUNITY COLLEGE ADMINISTRATORS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 26745,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS Governor's Office State Legislature CA Dept. of Ed. CA Dept. of Fin. SBE Re: State Budget; AB 90"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 13372.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS Governor's Office State Legislature CA Dept. of Ed. CA Dept. of Fin. SBE Re: State Budget; AB 90 AB 1400 AB 1028 AB 648 SB 494 "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 4457.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS Governor's Office State Legislature CA Dept. of Ed. CA Dept. of Fin. SBE Re: State Budget; AB 90 AB 1400 AB 1028 AB 648 SB 494 "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146043",
     "name": "ASSOCIATION OF CALIFORNIA CONSTRUCTION MANAGERS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "Labor Compliance and Grant Levels Office of Pub Sch Construction State Allocation Bd"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 4500,
-        "pucLobbying": 0,
-        "lobbiedOn": "Labor Compliance and Grant Levels Office of Pub Sch Construction State Allocation Bd"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "Labor Compliance and Grant Levels Office of Pub Sch Construction State Allocation Bd"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1319039",
     "name": "ASSOCIATION OF CALIFORNIA EGG FARMERS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 9986.97,
-        "pucLobbying": 0,
-        "lobbiedOn": "ISSUES: AB 411;     SB 72, SB 601 AGENCIES LOBBIED: CA Department of Food and Agriculture re: Avian Influenza"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 9750,
-        "pucLobbying": 0,
-        "lobbiedOn": "ABs 411, 1264; SBs 72, 601, 667; California Department of Food and Agriculture re: Avian Influenza; CalRecycle re: SB 343 implementation; California Department of Health Care Services, Office of Environmental Health Hazard Assessment, and Governor?s Office re: AB 1264"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 9750,
-        "pucLobbying": 0,
-        "lobbiedOn": "ISSUES: ABs 411, 735, 1264, 1336; SBs 72, 295, 415, 601, 667;   AGENCIES LOBBIED: California Department of Food and Agriculture re: Avian Influenza; CalRecycle re: SB 343 implementation; California Department of Public Health, Office of Environmental Health Hazard Assessment, and Governor?s Office re: AB 1264"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146336",
     "name": "ASSOCIATION OF CALIFORNIA GOODWILLS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "No reportable lobbying activity."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 24000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature regarding AB 405, AB 1433, AB 95, AB 265, AB 880, AB 1039, AB 815, and California RISE funding. Lobbied the Department of Resources, Recycling and Recovery and the Legislature regarding SB 707 (Chaptered, 2024). Lobbied the California State Treasurer and the Labor and Workforce Development Agency regarding workforce development."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 18074.9,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature regarding AB 265 and AB 815.  Lobbied the Department of Resource, Recycling and Recovery regarding Responsible Textile Recovery Act (SB 707, 2024)."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146921",
     "name": "ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS; THE",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 47200,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 259, 339, 340, 533, 614, 1109, 1331, 1337; SB 29, 239, 246, 669, 812; DEPARTMENT OF HEALTH CARE ACCESS AND INFORMATION RE: AB 869 IMPLEMENTATION; DEPARTMENT OF HEALTH CARE SERVICES, BEHAVIORAL HEALTH SERVICES OVERSIGHT & ACCOUNTABILITY RE: BEHAVIORAL HEALTH TRANSFORMATION  "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 46500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 259, 339, 340, 370, 533, 614, 810, 1109, 1113, 1331, 1337; SB 7, 29, 239, 246, 596, 632, 669, 707, 812; DEPARTMENT OF HEALTH CARE ACCESS AND INFORMATION RE: AB 869 IMPLEMENTATION; DEPARTMENT OF HEALTH CARE SERVICES, BEHAVIORAL HEALTH SERVICES OVERSIGHT & ACCOUNTABILITY RE: BEHAVIORAL HEALTH TRANSFORMATION; LEGISLATURE, GOVERNOR'S OFFICE RE: BUDGET    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 70500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 259, 339, 340, 370, 533, 614, 810, 1109, 1113, 1331, 1337; SB 7, 29, 239, 246, 596, 632, 669, 707, 812; DEPARTMENT OF HEALTH CARE SERVICES, BEHAVIORAL HEALTH SERVICES OVERSIGHT & ACCOUNTABILITY RE: BEHAVIORAL HEALTH TRANSFORMATION      "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146769",
     "name": "ASSOCIATION OF CALIFORNIA LIFE AND HEALTH INSURANCE COMPANIES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 55198.19,
-        "pucLobbying": 0,
-        "lobbiedOn": "See attachment.        "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 80525.42,
-        "pucLobbying": 0,
-        "lobbiedOn": "See attachment.              "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 67690.21,
-        "pucLobbying": 0,
-        "lobbiedOn": "See attachment.                    "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146770",
     "name": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 217701.11,
-        "pucLobbying": 0,
-        "lobbiedOn": "See attachment 'Part 1'"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 242612.77,
-        "pucLobbying": 0,
-        "lobbiedOn": "See attachment 'Part 1'"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 214469.13,
-        "pucLobbying": 0,
-        "lobbiedOn": "See attachment 'Part 1'"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1354480",
     "name": "ASSOCIATION OF CALIFORNIA STATE SUPERVISORS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 23983.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 280, ACA 2, State Budget"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 23983.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 280, AB 371, SB 351, State Budget"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 23983.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 280, SB 351, State Budget"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146771",
     "name": "ASSOCIATION OF CALIFORNIA WATER AGENCIES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 163672.41,
-        "pucLobbying": 0,
-        "lobbiedOn": "See Attached."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 191992.86,
-        "pucLobbying": 0,
-        "lobbiedOn": "See Attached."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 175526.43,
-        "pucLobbying": 0,
-        "lobbiedOn": "See Attached."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1401223",
     "name": "ASSOCIATION OF COMMUNITY AND CONTINUING EDUCATION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 2000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget, CA Adult Education Program"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 4000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget, CA Adult Education Program; SB 275, 670"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 10000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget; SB 275, 670"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1415267",
     "name": "ASSOCIATION OF DENTAL SUPPORT ORGANIZATIONS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 39500,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: AB 371; AB 1415; SB 351; SB 386."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 44500,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: AB 371; SB 351; SB 386; AB 1415."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 19500,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: SB 351; SB 386."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1143389",
     "name": "ASSOCIATION OF ENVIRONMENTAL AND ENGINEERING GEOLOGISTS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 1790,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1341; Legislature, Department of Consumer Affairs, Board for Professional Engineers, Land Surveyors and Geologists re: geology issues      "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 2685,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1341; Legislature, Department of Consumer Affairs, Board for Professional Engineers, Land Surveyors and Geologists re: geology issues        "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 3830,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1341; Legislature, Department of Consumer Affairs, Board for Professional Engineers, Land Surveyors and Geologists re: geology issues          "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146428",
     "name": "ASSOCIATION OF ENVIRONMENTAL PROFESSIONALS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 16027.13,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 607, AB 609, CEQA issues"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 5000,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 607, AB 609, AB 130, SB 131, CEQA issues"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 20000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 130, SB 131, SB 158, AB 145, CEQA issues"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1479377",
     "name": "ASSOCIATION OF EQUIPMENT MANUFACTURERS ",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 25119.02,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: Funding Agricultural Replacement Measures for Emission Reductions funding; SB 253; Cap and Trade funding; declining gas tax revenues; California Air Resources Board trailer bill; autonomous agriculture equipment; Cap and Trade issues; AB 914; SB 682. Department of Finance: California Air Resources Board trailer bill."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 37507.97,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature Re: SB 682; SB 318; AB 1305; AB 914; Cap and Trade issues; regulatory fee authority; autonomy issues; autonomous vehicles.  Governor?s Office Re: Autonomous tractors; agricultural economy; Cap and Trade issues.  California Air Resources Board Re: Energy issues. Cal/OSHA: Autonomous equipment."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 37528.92,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: Cap and trade issues; SB 682; autonomy issues; SB 295.  Governor?s Office: Cap and trade issues; budget issues; Greenhouse Gas Reduction Fund issues.  Cal/OSHA: Autonomous equipment regulation issues."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1258070",
     "name": "ASSOCIATION OF FINANCIAL DEVELOPMENT CORPORATION; THE",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 10500,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 7000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 265; GOVERNOR'S OFFICE OF BUISNESS AND ECONOMIC DEVELOPMENT (GOBIZ) RE: IBANK SOFTWARE  "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 10500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 265; GOVERNOR'S OFFICE OF BUISNESS AND ECONOMIC DEVELOPMENT (GOBIZ) RE: IBANK SOFTWARE"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1145361",
     "name": "ASSOCIATION OF HOME APPLIANCE MANUFACTURERS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 18000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Energy Commission regarding appliance efficiency standards, rebates, and flexible demand; Air Resources Board regarding appliance efficiency rebates, refrigerants, indoor air quality; CalRecycle regarding extended producer responsibility; Legislature and CalEPA on microfibers; and see memo for additional actions."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 18000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Energy Commission regarding appliance efficiency standards, rebates, and flexible demand; Air Resources Board regarding appliance efficiency rebates, refrigerants, indoor air quality; CalRecycle regarding extended producer responsibility; Legislature and CalEPA on microfibers; and see memo for additional actions."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 18000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Energy Commission regarding appliance efficiency standards, rebates, and flexible demand; Air Resources Board regarding appliance efficiency rebates, refrigerants, indoor air quality; CalRecycle regarding extended producer responsibility; Legislature and CalEPA on microfibers; and see memo for additional actions."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146773",
     "name": "ASSOCIATION OF INDEPENDENT CALIFORNIA COLLEGES & UNIVERSITIES (AICCU)",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 57704.03,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 402 SB 790 SB 98 SB 850 AB 791 Cal Grant Budget - Department of Finance CARB Climate Emissions Reporting"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 57704.03,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 357,AB 402, SB 790, SB 98, AB 1098, AB 850, AB 594, Cal Grant Budget - Department of Finance, CARB Climate Emissions Reporting"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 61749.15,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 357,AB 402, SB 790, SB 98, AB 1098, AB 594, SB 98, SB 638, CARB Climate Emissions Reporting"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1344204",
     "name": "ASSOCIATION OF INDEPENDENT COMMERCIAL PRODUCERS (AICP)",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor's Office re: AB 1138"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor's Office re: AB 1138, SB 630"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor's Office re: AB 1138, SB 630"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1386373",
     "name": "ASSOCIATION OF INDEPENDENT HAULERS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 15115.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalRecycle re: Solid Waste Haulers Regulations"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 15115.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalRecycle re: Solid Waste Haulers Regulations  "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 15115.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalRecycle re: Solid Waste Haulers Regulations and SB 54 Packaging  Regulations    "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1396432",
     "name": "ASSOCIATION OF INDEPENDENT JUDICIAL INTERPRETERS OF CALIFORNIA",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1414866",
     "name": "ASSOCIATION OF NATIONAL ADVERTISERS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 36737.96,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 410, 446, 483, 566, 796, 1018, 1355; SB 11, 361, 384, 259; Governor and Attorney General re: Privacy Issues; CCPA, CPRA; CPPA re Privacy and Artificial Intelligence Regulations  "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 322, 410, 446, 483, 566, 796, 1018, 1355; SB 45, 361, 384, 259, 295; Governor and Attorney General re: Privacy Issues; CCPA, CPRA; CPPA re: Privacy and Artificial Intelligence Regulations; CPPA Comments re: Active Directory Migration Tool (ADMT) and Delete Request and Opt-out Platform (DROP) Regulations        "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 32236,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 322, 410, 446, 483, 566, 796, 1018, 1355; SB 45, 259, 361, 384; Governor and Attorney General re: Privacy Issues; CCPA, CPRA; CPPA re: Privacy and Artificial Intelligence Regulations; CPPA Comments re: Active Directory Migration Tool (ADMT) and Delete Request and Opt-out Platform (DROP) Regulations    "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1244141",
     "name": "ASSOCIATION OF NORTHERN CALIFORNIA ONCOLOGISTS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 9000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 510, 512, 538, 577; SB 363"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 9000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 116, 510, 512, 536, 539, 577; SB 116, 363; LEGISLATURE RE: STATE BUDGET    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 9000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 101, 102, 118, 119, 874; SB 101, 102, 118, 119, 421, 496, 598; LEGISLATURE RE: BUDGET ITEMS - MANAGED CARE ORGANIZATION TAX; DEPARTMENT OF HEALTH AND HUMAN SERVICES RE: CAL Rx PROGRAM    "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1144059",
     "name": "ASSOCIATION OF ORANGE COUNTY DEPUTY SHERIFFS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 24000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 322 400 1178 SB 357 447 487 627"
-      },
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 24000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 322 400 1178 SB 357 447 487 627"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 24000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 322 400 1178 SB 357 447 487 627"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1407819",
     "name": "ASSOCIATION OF PERSONALIZED LEARNING SCHOOLS & SERVICES (APLUS+), THE",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 45000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 84, AB 1493, SB 414, SB 719."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 45000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 84, AB 1493, SB 414."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 47500,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 494, AB 84, SB 414."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1337593",
     "name": "ASSOCIATION OF PLASTIC RECYCLERS (APR); THE",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 18000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature reg CalRecycle Director appointment, AB 473, AB 973, SB 45, SB 633, SB 682, SB 54 implementation. CalRecycle reg SB 54."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 25256.14,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature reg AB 973, AB 1148, SB 14, SB 45, SB 682, SB 633, SB 54 implementation. CalRecycle reg SB 54 implementation, SB 343 implementation."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 24000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature reg budget trailer language reg plastics recycling. CalRecycle and Legislature reg SB 54 implementation, SB 633."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1482337",
@@ -8885,852 +8341,162 @@
   {
     "id": "1393546",
     "name": "ASSOCIATION OF PROFESSIONAL LANDSCAPE DESIGNERS - CALIFORNIA CHAPTER",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 7500,
-        "pucLobbying": 0,
-        "lobbiedOn": "California Architects Board, Landscape Architects Technical Committee, Department of Consumer Affairs re: Issues related to the practice of and practices related to landscape design  "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 7500,
-        "pucLobbying": 0,
-        "lobbiedOn": "California Architects Board, Landscape Architects Technical Committee, Department of Consumer Affairs re: Issues related to the practice of and practices related to landscape design    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 2875,
-        "pucLobbying": 0,
-        "lobbiedOn": "California Architects Board, Landscape Architects Technical Committee, Department of Consumer Affairs re: Issues related to the practice of and practices related to landscape design      "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1147084",
     "name": "ASSOCIATION OF REGIONAL CENTER AGENCIES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 19262.78,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 21, SB 38, SB 51, SB 84, SB 228, SB 244, SB 258, SB 324, SB 338, SB 340, SB 367, SB 402, SB 422, SB 434, SB 470, SB 471, SB 481, SB 523, SB 551, SB 552, SB 582, SB 660, SB 664, SB 814, AB 38, AB 40, AB 46, AB 49, AB 251, AB 257, AB 259, AB 276, AB 277, AB 282, AB 283, AB 308, AB 309, AB 315, AB 319, AB 322, AB 323, AB 341, AB 346, AB 349, SB 350, AB 369, AB 371, AB 375, AB 416"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 17344,
-        "pucLobbying": 0,
-        "lobbiedOn": "ACR 33, ACR 55, AJR 3, HR 24, SCR 3, SCR 11, SCR 33, SR 10, AB 38, AB 143, AB 251, AB 257, AB 259, AB 268, AB 276, AB 277, AB 282, AB 308, AB 315, AB 322, AB 341, AB 346, AB 349, AB 350, AB 470, AB 563, AB 636, AB 664, AB 804, AB 815, AB 906, AB 951, AB 1076 AB 1099, AB 1172, AB 1208, AB 1220, AB 1335, AB 1386, SB 101, SB 102, SB 244, SB 258, SB 399, SB 422, SB 470, SB 471, SB 568, SB 664"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 8848.18,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 46, AB 49, AB 241, AB 251, AB 259, AB 282, AB 308, AB 322, AB 341, AB 346, AB 349, AB 350, AB 416, AB 450, AB 563, AB 586, AB 610, AB 815, AB 906, AB 951, AB 1076, AB 1099, AB 1172, AB 1208, AB 1220, AB 1335, SB 21, SB 244, SB 258, SB 324, SB 340, SB 470, SB 471, SB 582, SB 660, SB 664, SB 733, SCR 11, SCR 33, AJR 3, ACR 55, SR 10"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1145043",
     "name": "ASSOCIATION OF TALENT AGENTS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 6000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: AB 412 and AB 653."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 6000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: AB 653, 1138 and SB 630."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 6000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: AB 653, AB 1138, SB 630"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1428367",
     "name": "ASSOCIATION OF WESTERN EMPLOYERS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 16500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 735, 948; SB 415, 424  "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 16250,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 735, 948, 1089; SB 34, 424   "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 32000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 735, 948, 1089; SB 34, 415, 424     "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1382630",
     "name": "ASSOCIATION OF WORKERS' COMPENSATION PROFESSIONALS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "Agencies and Offices Lobbied regarding regulatory implementation of AB 280. AB 1048, AB 1209, AB 1331, AB 1398. AB 1498, SB 536,   SB 555. SB 668.  Agencies and Offices Lobbied regarding regulatory implementation of AB 685, SB 537, SB 863, SB 1002 ana SB 1159: Office of the Governor Legislative Policy Unit; Department of Industrial Relations, Division of Workers' Compensation:"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "Agencies and Offices Lobbied regarding regulatory implementation of AB 280. AB 1048, AB 1209, AB 1331, AB 1398. AB 1498, SB 536,   SB 555. SB 668.  Agencies and Offices Lobbied regarding regulatory implementation of AB 685, SB 537, SB 863, SB 1002 ana SB 1159: Office of the Governor Legislative Policy Unit; Department of Industrial Relations, Division of Workers' Compensation:"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "Agencies and Offices Lobbied regarding regulatory implementation of AB 280. AB 1048, AB 1209, AB 1331, AB 1398. AB 1498, SB 536,   SB 555. SB 668.  Agencies and Offices Lobbied regarding regulatory implementation of AB 685, SB 537, SB 863, SB 1002 ana SB 1159: Office of the Governor Legislative Policy Unit; Department of Industrial Relations, Division of Workers' Compensation:"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "Agencies and Offices Lobbied regarding regulatory implementation of AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398. AB 1498, SB 536, SB 555. SB 668.  Agencies and Offices Lobbied regarding regulatory implementation of AB 685, SB 537, SB 863, SB 1002 ana SB 1159: Office of the Governor Legislative Policy Unit; Department of Industrial Relations, Division of Workers' Compensation:"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1477490",
     "name": "ASSURED GUARANTY INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 67529.98,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND STATE TREASURERS OFFICE REGARDING SUPPORT AMENDMENTS TO THE HOSPITAL BRIDGE LOAN PROGRAM.       "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 45000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND STATE TREASURERS OFFICE REGARDING SUPPORT AMENDMENTS TO THE HOSPITAL BRIDGE LOAN PROGRAM.    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 20000,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE.  "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1293245",
     "name": "ASTELLAS PHARMA US, INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 36000,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 18000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: AB 432"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature regarding AB 432"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1483538",
     "name": "ASTHMA AND ALLERGY FOUNDATION OF AMERICA",
-    "quarters": [
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 13448.23,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 68  "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1405987",
     "name": "ASTIGNES CAPITAL ASIA PTE LTD",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 1135.34,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 1462.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 407,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1442490",
     "name": "ASTRANIS SPACE TECHNOLOGIES CORP.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 36500,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 24250,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE      "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 36500,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE        "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146941",
     "name": "ASTRAZENECA PHARMACEUTICALS, LP",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 56491.08,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1460; LUNG CANCER SCREENING: LEGISLATURE"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 162773.34,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1460; HEALTH CARE, LUNG CANCER SCREENING: LEGISLATURE    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 8887.83,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1018, 1460; AR 72  "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1347256",
     "name": "ASURION LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 18750,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE      "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 18750,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1018; SB 354, 690       "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 18750,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1018; SB 354        "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1462043",
     "name": "ASYNCHRONOUS TECHNOLOGY SERVICES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 6750,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 4500,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE      "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 5000,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE        "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1146836",
     "name": "AT&T SERVICES INC. AND ITS AFFILIATES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 1055484.01,
-        "pucLobbying": 265263.31,
-        "lobbiedOn": "AB 470; SB 445; California Air Resources Board: Advanced Clean Fleet Regs; California Public Utilities Commission: R.24-06-012                    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 1917047.14,
-        "pucLobbying": 74579.63,
-        "lobbiedOn": "AB 353, 470; California Public Utilities Commission R.24-06-012, R.22-03-016                                  "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 1207304.19,
-        "pucLobbying": 14463.55,
-        "lobbiedOn": "AB470, AB1018, SB259; California Public Utilities Commission R.24-06-012, R.22-03-016; California Underground Safety Board #2025-07-01                                                "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1467559",
     "name": "ATA ACTION, CORP.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 14000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 1415 AND SB 508    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 21000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 302, 1503 AND SB 508        "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 21000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB's 302, 1503 AND SB 508  "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1399085",
     "name": "ATASCADERO UNIFIED SCHOOL DISTRICT",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 2250,
-        "pucLobbying": 0,
-        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 2250,
-        "pucLobbying": 0,
-        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 1500,
-        "pucLobbying": 0,
-        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1349353",
     "name": "ATASCADERO; CITY OF ",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 21000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 794,1125 SB 65, 855"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 21000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 130 SB 131, 855"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 21000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 104 SB 105, 855"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1479572",
     "name": "ATHENA SECURITY",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 250,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1331"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 16124.97,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1331: Legislature and Governor's office re: CalOSHA    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 10500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1331: Legislature and Governor's office re: CalOSHA      "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1396032",
     "name": "ATHENS SERVICES & ITS AFFILIATED ENTITIES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 40000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 28, AB 411, AB 436, AB 473, AB 594, SB 14, SB 279, SB 501, SB 561; CALRECYCLE RE: 1383 REGS AND COMPLIANCE ISSUES, SB 54 REGULATIONS; CARB RE: ADVANCED CLEAN FLEET ISSUES, LOW CARBON FUEL STANDARD          "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 20000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 28, AB 411, AB 436, AB 473, AB 594, SB 14, SB 279, SB 501, SB 561; CALRECYCLE RE: 1383 REGS AND COMPLIANCE ISSUES, SB 54 REGULATIONS; CARB RE: ADVANCED CLEAN FLEET ISSUES, LOW CARBON FUEL STANDARD            "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 28, AB 411, AB 436, AB 473, AB 594, SB 14, SB 279, SB 501, SB 561; CALRECYCLE RE: 1383 REGS AND COMPLIANCE ISSUES, SB 54 REGULATIONS; CARB RE: ADVANCED CLEAN FLEET ISSUES, LOW CARBON FUEL STANDARD.                "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1463640",
     "name": "ATHERTON; TOWN OF",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 794 SB 65  Governor?s Office and Legislature Re: VLF In-Lieu Shortfall funding."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 8000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 130 SB 131"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 104, 906 SB 79, 105"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1316935",
     "name": "ATHLETICS INVESTMENT GROUP LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 34594.96,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature on ticketing issues and AB 1291, AB 1349, AB 342 ,SB 295, and SB 404"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 32500,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Legislature on ticketing issues, AB 1291 and AB 1349. Lobbied the Governor and Legislature on workers' compensation issues. AB 342,1291,1349, SB 295. Lobbied the Legislature for Senate bill 404."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 32500,
-        "pucLobbying": 0,
-        "lobbiedOn": "Lobbied the Governor and Legislature on Workers Comp issues and lobbied the Legislature on ticketing issues. SB 404. AB692"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1409912",
     "name": "ATKINSON ANDELSON LOYA RUUD & ROMO",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 10000,
-        "pucLobbying": 0,
-        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 2500,
-        "pucLobbying": 0,
-        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 835"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 10000,
-        "pucLobbying": 0,
-        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 835"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1303806",
     "name": "ATRIA SENIOR LIVING GROUP",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 34500,
-        "pucLobbying": 0,
-        "lobbiedOn": "Agencies: Legislature Issues: AB 508"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 24000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature Re: AB 508, SB 435, CA presence and access to assisted living"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 60000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: SB 29"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1368010",
     "name": "AUCTION.COM",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 7500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1158   "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 7500,
-        "pucLobbying": 0,
-        "lobbiedOn": "ABs 130, 1158; SB 681    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 10000,
-        "pucLobbying": 0,
-        "lobbiedOn": "ABs 130, 238, 1158; SB 681     "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1340378",
     "name": "AUDAX MANAGEMENT COMPANY, LLC AND AUDAX MANAGEMENT COMPANY (NY), LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 75,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalPERS, CalSTRS, UC Regents: proposed investment in Audax Private Equity Fund VIII, L.P."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 450,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS, CalPERS, UC Regents: proposed investment in Audax Private Equity Fund VIII, L.P."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 500,
-        "pucLobbying": 0,
-        "lobbiedOn": "CalSTRS: proposed investments in Audax Direct Lending Solutions Fund III and Audax Private Equity Solutions Fund, L.P. CalPERS: proposed investment in Audax Private Equity Fund VIII, L.P."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1476273",
     "name": "AUDIOENHANCEMENT",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 4000,
-        "pucLobbying": 0,
-        "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget  AB 598"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIAS LEGISLATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE BUDGET"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 8000,
-        "pucLobbying": 0,
-        "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget  AB 598"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1469118",
     "name": "AUDIOEYE, INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 14525,
-        "pucLobbying": 0,
-        "lobbiedOn": "*FEES PAID FOR SERVICES RENDERED IN PRIOR SESSION    "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1409911",
     "name": "AURORA INNOVATION, INC. ",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 37500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 33, Issues related to  Automous Vehicle Policies  "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 37500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 33; DMV, Governor's Office of Business and Economic Development, CalSTA re Autonomous Vehicle Policies          "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 37500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 33; DMV, Governor's Office of Business and Economic Development, CalSTA re Autonomous Vehicle Policies                  "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1381376",
     "name": "AUTISM BUSINESS ASSOCIATION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Department of Health Care Services Department of Managed Health Care Department of Developmental Services Legislature. AB375AB1172SB402AB951AB277AB2246"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Department of Health Care Services Department of Managed Health Care Department of Developmental Services Legislature. AB375AB1172SB402AB951AB277AB2246"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Department of Health Care Services Department of Managed Health Care Department of Developmental Services Legislature. AB375AB1172SB402AB951AB277AB2246"
-      },
-      {
-        "quarter": "8th",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Department of Health Care Services Department of Managed Health Care Department of Developmental Services Legislature. AB375"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1303708",
     "name": "AUTISM SPEAKS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 315, 308, 277, 308, 951 and SB 422, 363"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 143,277,280,308,315,341,951,1220 and   SB 143,363,422"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 951, SB 363"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1281076",
     "name": "AUTODESK, INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 37500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 93, AB 222, AB 412; CA AIR RESOURCES BOARD RE: PERMITTING REFORM, ARTIFICIAL INTELLIGENCE (AI); CA GOVERNOR'S OFFICE OF EMERGENCY SERVICES, CA GOVERNOR'S OFFICE OF ECONOMIC DEVELOPMENT, CA DEPT OF TRANSPORTATION RE: CORPORATE CLIMATE ACCOUNTABILITY ACT IMPLEMENTATION        "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 38507.99,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 93, 222, 412; CA AIR RESOURCES BOARD RE: PERMITTING REFORM, ARTIFICIAL INTELLIGENCE; CA OFFICE OF EMERGENCY SERVICES, GOVERNOR'S OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT, CA DEPARTMENT OF TRANSPORTATION RE: CORPORATE CLIMATE ACCOUNTABILITY ACT IMPLEMENTATION  "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 37500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 412, 1018; SB 53; CA DEPARTMENT OF TRANSPORTATION, DEPARTMENT OF WATER RESOURCES, CA TRANSPORTATION COMMISSION, DEPARTMENT OF TECHNOLOGY, OFFICE OF DIGITAL INNOVATION, DEPARTMENT OF GENERAL SERVICES, CENTER FOR DISEASE CONTROL RE: ARTIFICIAL INTELLIGENCE, CALIFORNIA WATER DEPARTMENTS  "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1254896",
     "name": "AUTOMOTIVE SERVICE COUNCILS OF CALIFORNIA",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 9999.99,
-        "pucLobbying": 0,
-        "lobbiedOn": "State Legislature; Governor's Office; Bureau of Automotive Repair re: automotive issues, regulations and legislation; California Energy Commission re: replacement tire regulations; AB 987; SB 615"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 9999.99,
-        "pucLobbying": 0,
-        "lobbiedOn": "State Legislature; Governor's Office; Bureau of Automotive Repair re: automotive issues, regulations and legislation; California Energy Commission re: replacement tire regulations; AB 987; SB 615; SB 712; SB 774"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 9999.99,
-        "pucLobbying": 0,
-        "lobbiedOn": "State Legislature; Governor's Office; Bureau of Automotive Repair re: automotive issues, regulations and legislation; California Energy Commission re: replacement tire regulations; AB 987; SB 615; SB 712; SB 774"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1485993",
@@ -9740,238 +8506,47 @@
   {
     "id": "1438761",
     "name": "AUTONOMOUS VEHICLE INDUSTRY ASSOCIATION",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 46990.35,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislative: AB 33, SB 511."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 69469.33,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislative: AB 33, SB 511, California Department of Motor Vehicles (DMV) autonomous vehicle regulations, and general autonomous vehicles matters."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 70785.95,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislative: AB 33, California Department of Motor Vehicles (DMV) autonomous vehicle regulations, and general autonomous vehicles matters."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1401427",
     "name": "AVA COMMUNITY ENERGY AUTHORITY  ",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 25000,
-        "pucLobbying": 22670.9,
-        "lobbiedOn": "Legislature re energy and environmental policies, AB 306, AB 1260, AB 1423, SB 593; electricity affordability  "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 20000,
-        "pucLobbying": 48039.21,
-        "lobbiedOn": "Legislature re SB 541, AB 222, AB 306, AB 1423, Self-Generation Incentive Program Trailer Bill Language, Power Charge Indifference Adjustment      "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 40000,
-        "pucLobbying": 209084.29,
-        "lobbiedOn": "Legislature re SB 254, SB 283, SB 541, SB 707, AB 44       "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1144801",
     "name": "AVALON; CITY OF",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 5000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 20000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: Support Letters, State Budget Requests; CA Dept of Housing and Community Development re: Affordable housing funding"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: State Budget Requests  "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1295262",
     "name": "AVANGRID",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 90250,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE  "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 41612.9,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE      "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1349294",
     "name": "AVANTUS LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB1156, SB302, SB540; LEGISLATURE: ENERGY POLICY; CA DEPT OF TRANSPORTATION: PROJECT PERMITTING.    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB1156, SB302"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 27500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1089, 1156, SB 302, LEGISLATURE RE: ENERGY POLICY, CALIFORNIA NATURAL RESOURCES AGENCY RE: PROJECT PERMITTING, GOVERNORS OFFICE OF BUSINESS AND ECONOMIC DEVELOPMENT RE: PROJECT PERMITTING"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1420335",
     "name": "AVEANNA HEALTHCARE, LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 422; LEGISLATURE, GOVERNORS OFFICE RE: PRIVATE DUTY NURSING MEDI-CAL  RATES"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 617; SB 422, 785; LEGISLATURE, GOVERNORS OFFICE RE: PRIVATE DUTY  NURSING MEDI-CAL RATES  "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 785; LEGISLATURE RE: PRIVATE DUTY NURSING MEDI-CAL RATES  "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1314872",
     "name": "AVENAL; CITY OF",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 6150.75,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislative Budget Funding opportunities. 2025-26 Budgets"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 6000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislative Budget Funding opportunities. 2025-26 Budgets"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 6000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislative Budget Funding opportunities. 2025-26 Budgets"
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1478540",
     "name": "AVENIR MANAGEMENT COMPANY, LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1479573",
     "name": "AVIATION ATLANTIC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 85500,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 431  "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 431    "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 431      "
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1480374",
@@ -10008,56 +8583,12 @@
   {
     "id": "1348308",
     "name": "AXA INVESTMENT MANAGERS US INC. & ITS AFFILIATES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 1800,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1380603",
     "name": "AXAR CAPITAL MANAGEMENT, LP",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None."
-      }
-    ]
+    "quarters": []
   },
   {
     "id": "1397679",
@@ -13536,6 +12067,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS portfolio management."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS portfolio management."
       }
     ]
   },
@@ -14326,6 +12864,13 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Multi-Tiered System of Support CTC"
       }
     ]
   },
@@ -14778,6 +13323,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -17145,6 +15697,13 @@
         "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 373"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -17455,6 +16014,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "CASC"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CASC"
       }
     ]
   },
@@ -17482,6 +16048,13 @@
         "generalLobbying": 12800,
         "pucLobbying": 0,
         "lobbiedOn": "Entities lobbied on legislation: State Legislature; On AB 606 also lobbied Commission on Teacher Credentialing and State Board of Education  Lobbied the Department of Finance and State Legislature on the State Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 9600,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -17509,6 +16082,13 @@
         "generalLobbying": 1200,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 1111"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -17603,6 +16183,13 @@
         "generalLobbying": 500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 2000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -19501,6 +18088,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "n/a"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "n/a"
       }
     ]
   },
@@ -19776,6 +18370,13 @@
         "generalLobbying": 1680,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 84 SB 414"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1680,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 414 CTC"
       }
     ]
   },
@@ -19893,6 +18494,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 18750,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and California Department of Corrections and Rehabilitation on officer wellness, peer support programs, and Employee Assistance Program (EAP)."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 18750,
         "pucLobbying": 0,
@@ -20748,6 +19356,13 @@
         "generalLobbying": 1677500,
         "pucLobbying": 0,
         "lobbiedOn": "SB 254 as amended September 10th."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -22468,6 +21083,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 370 AB 810 AB 962 SB 374"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -25144,6 +23766,13 @@
         "generalLobbying": 6874.5,
         "pucLobbying": 0,
         "lobbiedOn": "CSNO"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6874.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "CSNO"
       }
     ]
   },
@@ -25772,6 +24401,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "YMCA"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "YMCA"
       }
     ]
   },
@@ -26124,6 +24760,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "HIGH-SPEED RAIL BILLS; Railroad Safety; long trains; Off-Track Vehicle transportation Safety; Autonomous Vehicles"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 15000,
         "pucLobbying": 0,
@@ -27694,6 +26337,13 @@
         "generalLobbying": 8000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 835"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 16000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -28547,6 +27197,13 @@
         "generalLobbying": 21750,
         "pucLobbying": 0,
         "lobbiedOn": "CAROCP"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 9750,
+        "pucLobbying": 0,
+        "lobbiedOn": "CAROCP"
       }
     ]
   },
@@ -28997,6 +27654,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: SB682 AB914"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -31526,6 +30190,13 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -33776,6 +32447,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -34481,6 +33159,13 @@
         "generalLobbying": 8000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTE Facilities mental health AB 1390"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTE Facilities mental health CTC"
       }
     ]
   },
@@ -34535,6 +33220,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature related to Artificial intelligence (AI) and the California Consumer Privacy Act of 2018 (CCPA)/ the California Privacy Rights Act (CPRA), AB 2, AB 56,  AB 302, AB 322, AB 412, AB 566, AB 656, AB 853, AB 1018, AB 1064, AB 1405, SB 11, SB 53, SB 243, SB 259, SB 378, SB 420, SB 435, SB 503, SB 771, and SB 833."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor?s office related to Artificial intelligence (AI), the California Consumer Privacy Act of 2018 (CCPA)/ the California Privacy Rights Act (CPRA), AB 56, AB 412, AB 566, AB 656, AB 853, AB 1064, SB 11, SB 243, SB 378, and SB 771."
       }
     ]
   },
@@ -35355,6 +34047,13 @@
         "generalLobbying": 45143.04,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1, 238, 408, 446, 710, 825, 931, 1029 SB 22, 24, 29, 42, 82, 237, 263, 354, 371, 429, 495, 540, 547, 572, 614, 616, 618, 659, 690, 791 Governors Office"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 20761.22,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -35483,6 +34182,13 @@
         "generalLobbying": 36000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -36660,6 +35366,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -36712,6 +35425,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 60000,
         "pucLobbying": 0,
         "lobbiedOn": ""
       }
@@ -37523,6 +36243,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 1454"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -37685,6 +36412,13 @@
         "generalLobbying": 5549.77,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS: Investment management opportunities. CalPERS: Investment management opportunities."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 420.67,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: Investment management opportunities. CalPERS: Investment management opportunities."
       }
     ]
   },
@@ -37712,6 +36446,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 84"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -39715,6 +38456,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies:   Legislature, Governor's Office   Issues:   AB 466, Uniform Anatomical Gift Act (UAGA)           Agencies:  Governor's Office     Issues:  Uniform Anatomical Gift Act (UAGA)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies:   Legislature, Governor's Office   Issues:   AB 466, Uniform Anatomical Gift Act (UAGA)           Agencies:  Governor's Office     Issues:  Uniform Anatomical Gift Act (UAGA)"
       }
     ]
   },
@@ -41387,6 +40135,13 @@
         "generalLobbying": 13500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
       }
     ]
   },
@@ -41549,6 +40304,13 @@
         "generalLobbying": 6090,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Chancellor\u0012s Office CSU UC AB 731 SB 98 SB 640 AB 313"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4060,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CCC Chancellor\u0012s Office CSU UC"
       }
     ]
   },
@@ -41684,6 +40446,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget MENTAL HEALTH"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 10166.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget MENTAL HEALTH CTC"
       }
     ]
   },
@@ -42125,6 +40894,13 @@
         "generalLobbying": 8000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SCHOOL NUTRITION"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SCHOOL NUTRITION CTC"
       }
     ]
   },
@@ -42489,6 +41265,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -43796,6 +42579,13 @@
         "generalLobbying": 12750,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 8500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -43971,6 +42761,13 @@
         "generalLobbying": 25000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB1018 AB1355 AB1427 AB446 AB483 AB850 AB883 AB909 SB295 SB468 SB420 SB82 AB316 AB364 SB354 AB238 AB235 AB566 SB435 SB361 AB446 AB302 AB322"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 18750,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -44662,6 +43459,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS"
       }
     ]
   },
@@ -45091,6 +43895,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget  CTC"
       }
     ]
   },
@@ -45509,6 +44320,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -46209,6 +45027,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -46344,6 +45169,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -46634,6 +45466,13 @@
         "generalLobbying": 2000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 835 SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -47120,6 +45959,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -47668,6 +46514,20 @@
         "quarter": "2nd",
         "session": "2025-2026",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agency: Attorney General's Office Issue: Live Scan Grants Funding"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 3750,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agency: Attorney General's Office Issue: Live Scan Grants Funding"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3750,
         "pucLobbying": 0,
         "lobbiedOn": "Agency: Attorney General's Office Issue: Live Scan Grants Funding"
       }
@@ -48500,6 +47360,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -51445,6 +50312,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget  CTC"
       }
     ]
   },
@@ -52231,6 +51105,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "HCD regarding Skid Row Housing Trust and Homekey"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 2500,
+        "pucLobbying": 2500,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -52752,6 +51633,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -53530,6 +52418,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -54719,6 +53614,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "TICAS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "TICAS"
       }
@@ -56029,6 +54931,13 @@
         "generalLobbying": 2250,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 2250,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -56135,6 +55044,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -57097,6 +56013,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -57493,6 +56416,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Placement Agent: outreach to  ACERA, ACTERP, CalPERS, CALSTRS, CCCERA, CFRS, EBMUDERS, FCERA, MCERA, MercedCERA, SAMCERA, SJCERA, San Jose Federated, SacCERS, SCERA, StanCERA, Santa Clara VTA. SamCERA, SJFCERS, SFERS, UC Regents, VCERA."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -57907,6 +56837,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget  CTC"
       }
     ]
   },
@@ -58344,6 +57281,13 @@
         "generalLobbying": 2500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3750,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -59168,6 +58112,13 @@
         "generalLobbying": 2250,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 2250,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -60520,6 +59471,13 @@
         "generalLobbying": 12750,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget California Energy Commission"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget California Energy Commission CTC"
       }
     ]
   },
@@ -60714,6 +59672,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -60795,6 +59760,13 @@
         "generalLobbying": 11976,
         "pucLobbying": 0,
         "lobbiedOn": "Housing Issues - Assembly: SB 79; Governor: SB 79."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 7777,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable activity"
       }
     ]
   },
@@ -61840,6 +60812,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature on the County Employees Retirement Law of 1937 (CERL) and SB 853."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor?s office on the County Employees Retirement Law of 1937 (CERL) and SB 853."
       }
     ]
   },
@@ -62901,6 +61880,13 @@
         "generalLobbying": 8000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -63009,6 +61995,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -63230,6 +62223,13 @@
         "generalLobbying": 5499,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 835 for Madera CSOS and USD"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3666,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC for Madera CSOS and USD"
       }
     ]
   },
@@ -65175,6 +64175,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -65249,6 +64256,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -65825,6 +64839,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Marketing of commingled vehicles and separate account investment advisory services to CalSTRS, CalPERS and University of California Retirement Plan."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3956,
         "pucLobbying": 0,
         "lobbiedOn": "Marketing of commingled vehicles and separate account investment advisory services to CalSTRS, CalPERS and University of California Retirement Plan."
       }
@@ -66652,6 +65673,13 @@
         "generalLobbying": 2250,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -68094,6 +67122,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -68175,6 +67210,13 @@
         "generalLobbying": 4000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -68618,6 +67660,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Commission on Teacher Credentialing"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Commission on Teacher Credentialing"
       }
@@ -69220,6 +68269,33 @@
     ]
   },
   {
+    "id": "1146767",
+    "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 21629.46,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15111.47,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1078, AB 1127, SB 704  Meet with members of the Assembly and Senate (and their staff) to explain position."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 12971.71,
+        "pucLobbying": 0,
+        "lobbiedOn": "Opposed AB1078, AB1127, AB1263, SB248, AB1006, AB1187, SB15, SB320."
+      }
+    ]
+  },
+  {
     "id": "1257658",
     "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
     "quarters": [
@@ -69477,6 +68553,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -70001,6 +69084,13 @@
         "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA'S STATE LEGISLATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE BUDGET"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA'S STATE LEGISLATURE GOVERNOR BOARD OF EDUCATION DEPARTMENT OF EDUCATION DEPARTMENT OF FINANCE BUDGET CTC"
       }
     ]
   },
@@ -70305,6 +69395,13 @@
         "generalLobbying": 1005,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1005,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -70391,6 +69488,13 @@
         "generalLobbying": 8000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -70794,6 +69898,13 @@
         "generalLobbying": 18750,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: AB33 SB511"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 18750,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -71019,6 +70130,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 255397,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 255000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
       }
@@ -71437,6 +70555,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -73035,6 +72160,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -73058,6 +72190,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -73311,6 +72450,13 @@
         "generalLobbying": 35614.02,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 101 AB 102 AB 103 AB 121 SB 147 AB 917 AB 927 AB 1224 AB 1247 SB 494 AB 727"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 24867.68,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC MULTI-TIER SYSTEM OF SUPPORT SB 101 AB 102 AB 103 AB 121 SB 147 AB 917 AB 927 AB 1224 AB 1247 SB 494 AB 727"
       }
     ]
   },
@@ -73682,6 +72828,13 @@
         "generalLobbying": 2000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -74959,6 +74112,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -75072,6 +74232,13 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -75099,6 +74266,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -75207,6 +74381,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -75308,6 +74489,13 @@
         "generalLobbying": 1275,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1275,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -75502,6 +74690,13 @@
         "generalLobbying": 1000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -75818,6 +75013,13 @@
         "generalLobbying": 3373.58,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Chancellor\u0012s Office CSU UC AB 1400 SB 98"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 5060.37,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CCC Chancellor\u0012s Office CSU UC"
       }
     ]
   },
@@ -75898,7 +75100,15 @@
   {
     "id": "1145417",
     "name": "PASO ROBLES JOINT UNIFIED SCHOOL DISTRICT",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget  CTC"
+      }
+    ]
   },
   {
     "id": "1396589",
@@ -77971,6 +77181,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 959 AB 640 AB 1454"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -78354,6 +77571,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -78858,6 +78082,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -78912,6 +78143,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
       }
     ]
   },
@@ -78939,6 +78177,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "No activity in Q3-2025"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No activity in Q4-2025"
       }
     ]
   },
@@ -79020,6 +78265,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -79793,6 +79045,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "N/A"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
       }
     ]
   },
@@ -79896,6 +79155,11 @@
         "lobbiedOn": "Legislature reg American River Pedestrian Bridge, Prop 4 funding. Sierra Nevada Conservancy reg trails funding opportunities. Natural Resources Agency reg Prop 4 funding."
       }
     ]
+  },
+  {
+    "id": "1486069",
+    "name": "PROTECT DEMOCRACY UNITED",
+    "quarters": []
   },
   {
     "id": "1463249",
@@ -81134,6 +80398,13 @@
         "generalLobbying": 2000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget California Volunteers"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget California Volunteers CTC"
       }
     ]
   },
@@ -81680,6 +80951,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832 SB 835"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -82552,7 +81830,15 @@
   {
     "id": "1461359",
     "name": "REVOLUTION FOODS",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature  Governor  Board of Education  Department of Education  Department of Finance  Budget  CTC"
+      }
+    ]
   },
   {
     "id": "1478994",
@@ -83163,6 +82449,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -84450,6 +83743,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget MENTAL HEALTH"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 16666.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget MENTAL HEALTH CTC"
       }
     ]
   },
@@ -85088,6 +84388,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -85223,6 +84530,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 65 AB 1111 AB 1224 AB 1390 SB 389 SB 835"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4795,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -85304,6 +84618,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 835"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 33330,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -85822,6 +85143,13 @@
         "generalLobbying": 20001.51,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 84 AB 414"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 13334.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -86313,6 +85641,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "SFUSD"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "SFUSD"
       }
     ]
   },
@@ -86502,6 +85837,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "State budget (Legislature and Governor's Office)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 46070,
+        "pucLobbying": 0,
+        "lobbiedOn": "State budget (Legislature and Governor's Office)"
       }
     ]
   },
@@ -86610,6 +85952,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 810"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -87069,6 +86418,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -87292,6 +86648,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Natural Resources Agency"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Natural Resources Agency CTC"
       }
     ]
   },
@@ -87515,6 +86878,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -87697,6 +87067,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -87805,6 +87182,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -87852,6 +87236,13 @@
         "generalLobbying": 4000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -87960,6 +87351,13 @@
         "generalLobbying": 4500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -88216,6 +87614,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -88391,6 +87796,13 @@
         "generalLobbying": 17082.24,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Chancellor\u0012s Office CSU UC AB 648 AB 695 AB 861 AB 1035 AB 323"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 17082.24,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CCC Chancellor\u0012s Office CSU UC"
       }
     ]
   },
@@ -88418,6 +87830,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 12500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -88974,6 +88393,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEAC"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 2500,
         "pucLobbying": 0,
         "lobbiedOn": "SEAC"
       }
@@ -90639,6 +90065,33 @@
     ]
   },
   {
+    "id": "1468970",
+    "name": "SIERRA MADRE; CITY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 90, AB 1339  "
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Support Letters; SB 90"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 90  "
+      }
+    ]
+  },
+  {
     "id": "1302222",
     "name": "SIERRA PACIFIC INDUSTRIES",
     "quarters": [
@@ -90975,6 +90428,13 @@
         "generalLobbying": 3766.62,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3766.62,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
       }
     ]
   },
@@ -91096,6 +90556,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -91343,6 +90810,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget AB 65 AB 84 AB 235 AB 453 AB 503 AB 560 AB 860 AB 917 AB 927 AB 948 AB 959 AB 962 AB 1111 AB 1224 AB 1306 AB 1348 AB 1391 AB 1438 SB 389 SB 414 SB 527 SB 835 AB 374 SB 494 AB 340 AB 1109"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 62556.39,
+        "pucLobbying": 0,
+        "lobbiedOn": "SSDA"
       }
     ]
   },
@@ -91721,6 +91195,13 @@
         "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -92180,6 +91661,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -92698,6 +92186,13 @@
         "generalLobbying": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 130 SB 131"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 104 SB 79, 105"
       }
     ]
   },
@@ -93487,6 +92982,13 @@
         "generalLobbying": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -93566,6 +93068,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalFIRE - Office of the State Fire Marshal - 19 CCR Chp. 5.5 On-going work with SFM re: regulations associated with sprinkler fitter certification Dept. of Industrial Relations - Request to publish Foreman in Prevailing Wage publication.  Attorney General - Working with AG with getting assistance with prosecuting contractors who are habitual violators of labor laws."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 24310.93,
         "pucLobbying": 0,
         "lobbiedOn": "CalFIRE - Office of the State Fire Marshal - 19 CCR Chp. 5.5 On-going work with SFM re: regulations associated with sprinkler fitter certification Dept. of Industrial Relations - Request to publish Foreman in Prevailing Wage publication.  Attorney General - Working with AG with getting assistance with prosecuting contractors who are habitual violators of labor laws."
       }
@@ -93937,6 +93446,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -94660,6 +94176,13 @@
         "generalLobbying": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -95822,6 +95345,13 @@
         "generalLobbying": 2250,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -95935,6 +95465,13 @@
         "generalLobbying": 12500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 12500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -96939,6 +96476,13 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 7714.29,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -97155,6 +96699,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance BUDGET AB 917"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance BUDGET CTC"
       }
     ]
   },
@@ -97932,6 +97483,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -99771,6 +99329,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -102256,6 +101821,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -103228,6 +102800,13 @@
         "generalLobbying": 1000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -103600,6 +103179,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -104099,6 +103685,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": ": Legislature re: artificial intelligence (AI). AB 412, SB 11."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: artificial intelligence (AI). AB 412, SB 11."
       }
     ]
   },
@@ -104868,6 +104461,13 @@
         "generalLobbying": 9000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Health and Human Services Agency HCAI Mental Health"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 9000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget Health and Human Services Agency HCAI Mental Health CTC"
       }
     ]
   },
@@ -105222,6 +104822,13 @@
         "generalLobbying": 1200,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1200,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -106256,6 +105863,13 @@
         "generalLobbying": 1250.01,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 1250.01,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -106452,6 +106066,13 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget SB 832"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
@@ -107348,6 +106969,13 @@
         "generalLobbying": 1500,
         "pucLobbying": 0,
         "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 500,
+        "pucLobbying": 0,
+        "lobbiedOn": "California\u0012s Legislature Governor Board of Education Department of Education Department of Finance Budget CTC"
       }
     ]
   },
