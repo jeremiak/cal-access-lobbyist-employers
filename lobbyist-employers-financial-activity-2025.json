@@ -1532,6 +1532,13 @@
         "generalLobbying": 4912,
         "pucLobbying": 0,
         "lobbiedOn": "Office of the Treasurer of the Regents - University of California, CalPERS (California Public Employees' Retirement System), CalSTRS (California State Teachers' Retirement System)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3299,
+        "pucLobbying": 0,
+        "lobbiedOn": "Office of the Treasurer of the Regents - University of California, CalPERS (California Public Employees' Retirement System), CalSTRS (California State Teachers' Retirement System)"
       }
     ]
   },
@@ -2362,6 +2369,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature regarding PFAS, general HVAC issues; Legislature and CalRecycle regarding implementation of SB 54 (Allen, 2022); SB 682."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature regarding general HVAC issues; Legislature and CalRecycle regarding implementation of SB 54 (Allen, 2022); Energy Commission regarding HVAC equipment and proposed RFI Data Collection effort."
       }
     ]
   },
@@ -2787,33 +2801,6 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 446, 1331; LEGISLATURE RE: SUSTAINABLE AVIATION FUEL     "
-      }
-    ]
-  },
-  {
-    "id": "1441043",
-    "name": "ALBACORE CAPITAL GROUP AND AFFILIATED ENTITIES",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 375,
-        "pucLobbying": 0,
-        "lobbiedOn": "CONTACTED CALSTRS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS.    "
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 125,
-        "pucLobbying": 0,
-        "lobbiedOn": "CONTACTED UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS.      "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 100,
-        "pucLobbying": 0,
-        "lobbiedOn": "CONTACTED UC REGENTS REGARDING OPPORTUNITY TO INVEST IN THE FIRM'S FUNDS.        "
       }
     ]
   },
@@ -3930,6 +3917,13 @@
         "generalLobbying": 2759.77,
         "pucLobbying": 0,
         "lobbiedOn": "AB 960, AB 1069, SB 412, SB 470, SB 590, SB 707, ADRC, CalAIM, funding for Alzheimer's Disease Centers, Alzheimer's Disease and Related Disorders Advisory Committee, Alzheimer's disease awareness, CBAS rates, impact of H.R. 1 on state programs, HCBS waiver programs,"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 2509.98,
+        "pucLobbying": 0,
+        "lobbiedOn": "ADRC, CalAIM, Alzheimer's Disease and Related Disorders Advisory Committee, Alzheimer's disease awareness, continuing education for licensed mental health providers, DMV Senior Ombudsman, federal immigration enforcement and Alzheimer's disease"
       }
     ]
   },
@@ -5913,6 +5907,13 @@
         "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "ABs 339 692 1018 1221 1251 1331 1371 1398 and 1515.  SBs 7 464 536 555 and 642."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABs 339 692 "
       }
     ]
   },
@@ -7355,6 +7356,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "The California State Teachers' Retirement System"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teachers' Retirement System"
       }
     ]
   },
@@ -7542,6 +7550,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -7618,6 +7633,13 @@
     "quarters": [
       {
         "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor's office re: AB 1329"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 30000,
         "pucLobbying": 0,
@@ -10572,6 +10594,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -10874,6 +10903,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 3257.73,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
       }
@@ -12147,6 +12183,11 @@
     ]
   },
   {
+    "id": "1373996",
+    "name": "BIOGEN MA INC.",
+    "quarters": []
+  },
+  {
     "id": "1480146",
     "name": "BIOMERIEUX, INC.",
     "quarters": [
@@ -12925,6 +12966,13 @@
         "generalLobbying": 8320,
         "pucLobbying": 0,
         "lobbiedOn": "DGS/CDCR   Dept. of Corrections Re: EPA Brownfield Assessment at Chuckawalla Valley State Prison.   AB 104 SB 105"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 16640,
+        "pucLobbying": 0,
+        "lobbiedOn": "Dept. of Corrections Re: EPA Brownfield Assessment at Chuckawalla Valley State Prison."
       }
     ]
   },
@@ -13729,6 +13777,13 @@
         "generalLobbying": 541.35,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS: proposed investment in Bridge Debt Strategies Fund V LP; CalSTRS: proposed investment in Bridge Logistics Value Fund II LP."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 822.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: proposed investment in Bridge Logistics Value Fund II L.P."
       }
     ]
   },
@@ -15067,6 +15122,13 @@
         "generalLobbying": 27500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 807, SB 72, State Budget (State Legislature, Governor's Office)"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 27500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -15431,6 +15493,13 @@
         "generalLobbying": 10910.92,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature regarding data and accountability, outcomes, adult education teacher credentialing, Adult Education Program COLA; Governor?s Office & Legislature regarding Cradle to Career Data System, Master Plan for Career Education; SB 275, SB 670, AB 49."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 8183.19,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature regarding data and accountability, outcomes, funding; Department of Education on outcomes, federal impacts, funding, ELL Healthcare Pathways."
       }
     ]
   },
@@ -21217,6 +21286,13 @@
         "generalLobbying": 3600,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1319, 1520"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 350,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -21925,26 +22001,6 @@
         "generalLobbying": 45385.69,
         "pucLobbying": 0,
         "lobbiedOn": "SEE ATTACHMENT A         "
-      }
-    ]
-  },
-  {
-    "id": "1468184",
-    "name": "CALIFORNIA FOREVER, INC.",
-    "quarters": [
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 75000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 53, SB 5, SB 587  "
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 140000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SB 5 AND SB 587.  OFFICE OF THE GOVERNOR REGARDING SB 5.    "
       }
     ]
   },
@@ -24579,6 +24635,13 @@
         "generalLobbying": 13000,
         "pucLobbying": 0,
         "lobbiedOn": "SB627, AB400, AB274, AB572, AB322"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB15, AB63, AB284, AB322, AB342, AB400, AB572, AB710, AB847, AB992, AB1178, AB1337, SB93, SB247, SB277, SB487, SB747, SB758, SB759"
       }
     ]
   },
@@ -25086,6 +25149,13 @@
         "generalLobbying": 25730.79,
         "pucLobbying": 0,
         "lobbiedOn": "SEE FORM 635 NOTES."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 18360,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature - mental health diversion, federal immigration enforcement in superior court houses, adverse immigration consequences in plea negotiations, SB 81 (Skinner; 2021) updates, funding for county public defenders, use of law enforcement informants in jail on minors, and involuntary medication."
       }
     ]
   },
@@ -27185,6 +27255,13 @@
         "generalLobbying": 16000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -28124,6 +28201,13 @@
         "generalLobbying": 89054.41,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and Department of Fish and Wildlife on Western Joshua Tree, Legislature on resiliency of building materials, cap and trade reauthorization, regulatory reform; sales tax exemption on manufacturing equipment, climate change policies, CEQA, housing and construction materials, resilient building materials."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 86124.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Department of Fish and Wildlife on Western Joshua Tree, Legislature on resiliency of building materials, cap and trade reauthorization, regulatory reform; sales tax exemption on manufacturing equipment, climate change policies, CEQA, housing and construction materials, PAGA Reform."
       }
     ]
   },
@@ -29650,6 +29734,13 @@
         "generalLobbying": 1200,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -30964,6 +31055,26 @@
     ]
   },
   {
+    "id": "1468184",
+    "name": "CF OPERATIONS, INC.",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 75000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 53, SB 5, SB 587  "
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 140000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SB 5 AND SB 587.  OFFICE OF THE GOVERNOR REGARDING SB 5.    "
+      }
+    ]
+  },
+  {
     "id": "1144782",
     "name": "CFI LOCAL 39000",
     "quarters": [
@@ -31363,6 +31474,13 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature regarding household hazardous waste; CalRecycle regarding implementation of SB 54 (Allen, 2022); DTSC regarding the Safer Consumer Products Program, hazardous waste, Hazardous Waste Management Plan, fees; SB 501, SB 682, AB 1148."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature regarding household hazardous waste; CalRecycle regarding implementation of SB 54 (Allen, 2022); DTSC regarding the Safer Consumer Products Program, hazardous waste, Hazardous Waste Management Plan, fees; SB 501, AB 1148; Water Boards regarding LA Regional Board CII Permit"
       }
     ]
   },
@@ -31532,6 +31650,13 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 49, AB 339, AB 601, AB 880, AB 898, AB 970, AB 1011, AB 1318, SB 324; Legislature regarding child abuse and neglect prevention, mandated reporting and training, family resource centers, funding, disaster response, budget."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Administration and Legislature regarding child abuse and neglect prevention, mandated reporting and training, family resource centers, funding, disaster response, budget, proposed FRC pilot proposal for community supporting."
       }
     ]
   },
@@ -34958,6 +35083,13 @@
         "generalLobbying": 15550,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 15550,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -35294,6 +35426,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 525.7,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalSTRS: Proposed investments in Comvest Credit Partners SMA"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 358.96,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS: Proposed investments in Comvest Credit Partners SMA"
       }
@@ -39711,6 +39850,13 @@
         "generalLobbying": 24000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 149, AB 339, AB 340, AB 580, SB 31, SB 72, SB 105, SB 394"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 24251.95,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -40268,6 +40414,13 @@
         "generalLobbying": 28899.99,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature on alcohol taxes, reforms to CRV program, DTC Shipping, Ready-to-Drink Cocktails, implementation of SB 1013 and SB 54, Alcohol Tariffs, AB 366, SB 674, AB 1246, SB 45, AB 720, CalRecycle regarding beverage containers, SB 54 implementation."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 19266.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature on alcohol taxes, reforms to CRV program, DTC Shipping, Ready-to-Drink Cocktails, implementation of SB 1013 and SB 54, Alcohol Tariffs."
       }
     ]
   },
@@ -42523,6 +42676,13 @@
         "generalLobbying": 2000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 372, AB 706, SB 427, SB 101, SB 149"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 2000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 427"
       }
     ]
   },
@@ -43066,6 +43226,13 @@
         "generalLobbying": 39000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Govenor's Office, Board of Parole Hearings, CDCR."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 39000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's office, CDCR, on issues related to public safety and criminal law."
       }
     ]
   },
@@ -44093,6 +44260,13 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature on seizure awareness, physician reporting, and AB 1172."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor?s office on seizure awareness, physician reporting, and AB 1172."
       }
     ]
   },
@@ -45028,6 +45202,13 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "Governor, Legislature, and Administration Re: Budget Trailer Bill Clearing Way for Delta Tunnel.   Office of Health Care Affordability Re: Spending Limit Proposal.  Release of Phase 42 Funds from the Emergency Food and Shelter National Board Program."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "Governor, Legislature, and Administration Re: Budget Trailer Bill Clearing Way for Delta Tunnel.   Office of Health Care Affordability Re: Spending Limit Proposal.  AB 996 SB 79, 364, 634, 682, 707, 720"
       }
     ]
   },
@@ -45268,7 +45449,15 @@
   {
     "id": "1485680",
     "name": "FEDERAL HOME LOAN BANK OF SAN FRANCISCO",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "The Legislature and Insurance Commissioner?s office regarding bill proposal."
+      }
+    ]
   },
   {
     "id": "1319269",
@@ -48543,6 +48732,13 @@
         "generalLobbying": 30634.6,
         "pucLobbying": 0,
         "lobbiedOn": "No reportable activity"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 21433.2,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable activity"
       }
     ]
   },
@@ -51627,6 +51823,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalRecycle regarding implementation of SB 343 (Allen, 2021) and SB 54 (Allen, 2022); DTSC Safer Consumer Products Program; SB 501."
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 15000,
         "pucLobbying": 0,
@@ -58188,6 +58391,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: SB 282 AND SB 682. THE AIR RESOURCES BOARD REGARDING: CORPORATE GREENHOUSE GAS REPORTING AND CLIMATE RELATED FINANCIAL RISK DISCLOSURE PROGRAM.          "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable lobbying activity."
       }
     ]
   },
@@ -59078,6 +59288,13 @@
         "generalLobbying": 18450,
         "pucLobbying": 0,
         "lobbiedOn": "SB 16, SB 237, SB 275, SB 357, SB 556, SB 567, SB 581, SB 661, SB 694, SB 707, SB 845, SB 858, AB 283, AB 339, AB 340, AB 346, AB 470, AB 538, AB 896, AB 1108, AB 1116, AB 1331, AB 1376."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 18450,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 275, SB 567, SB 707, SB 858."
       }
     ]
   },
@@ -60529,6 +60746,13 @@
         "generalLobbying": 2000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 372, AB 706, SB 427, SB 101, SB 149"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 427; Exemption from Field Act for Fire Training Facility (Legislature, Department of General Services)"
       }
     ]
   },
@@ -60932,6 +61156,13 @@
         "generalLobbying": 8502.5,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS   CalSTRS  Sacramento County"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 9352.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "? CalPERS: ? CalSTRS:  ? Sacramento County:  ? Los Angeles County (LACERA):   ? Los Angeles City (LACERS):"
       }
     ]
   },
@@ -62157,6 +62388,13 @@
         "generalLobbying": 61975.79,
         "pucLobbying": 0,
         "lobbiedOn": "AB 668, AB 1237"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "N/A"
       }
     ]
   },
@@ -64305,6 +64543,13 @@
         "generalLobbying": 21550,
         "pucLobbying": 0,
         "lobbiedOn": "Dept. of Public Heath RE: Healthcare"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 28550,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Department of Public Health RE: Healthcare"
       }
     ]
   },
@@ -68160,6 +68405,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS; CalSTRS investments; Cal Regents"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS; CalSTRS investments; Cal Regents"
       }
     ]
   },
@@ -68832,6 +69084,13 @@
         "generalLobbying": 10500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor: State Budget; AB 30; SB 615, 682"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 615"
       }
     ]
   },
@@ -68859,6 +69118,13 @@
         "generalLobbying": 3000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor: State Budget; AB 30, SB 615, 682"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 615"
       }
     ]
   },
@@ -69033,6 +69299,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 105, SB 105, Prop 4 Implementation, SB 8, AB 1383, AB 322, AB 1337, SB 247"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 35, SB 8, AB 1383, AB 322, AB 1337, SB 247"
       }
     ]
   },
@@ -72163,6 +72436,11 @@
     ]
   },
   {
+    "id": "1486427",
+    "name": "NGA LLC 911",
+    "quarters": []
+  },
+  {
     "id": "1448288",
     "name": "NGPF MISSION 2030 FUND",
     "quarters": [
@@ -74075,6 +74353,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -74190,6 +74475,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Legislative: Prop. 4 Budget Request, AB 825, AB 1417, SB 540 Regulatory: None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 132082.1,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative: Prop 4 Budget Request  Regulatory: Prop 4 Budget Request"
       }
     ]
   },
@@ -75753,6 +76045,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE THIS PERIOD.          "
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE THIS PERIOD.            "
       }
     ]
   },
@@ -76856,6 +77155,13 @@
         "generalLobbying": 24000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 149, AB 476, SB 72 and SB 466"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -84368,6 +84674,13 @@
         "generalLobbying": 4000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature on 1937 Retirement Act and supplemental retirees benefit reserve fund."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature on 1937 Retirement Act and supplemental retirees benefit reserve fund."
       }
     ]
   },
@@ -84824,6 +85137,13 @@
         "generalLobbying": 20000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature and the Governors office regarding AB 1166."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3945.21,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable lobbying activity."
       }
     ]
   },
@@ -86948,6 +87268,13 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "SB 105"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -87566,6 +87893,13 @@
         "generalLobbying": 22500,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1150 AB 1331 SB 79 SB 274 SB 707"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -88663,6 +88997,11 @@
     ]
   },
   {
+    "id": "1145242",
+    "name": "SAN JOAQUIN REGIONAL RAIL COMMISSION",
+    "quarters": []
+  },
+  {
     "id": "1407159",
     "name": "SAN JOAQUIN REGIONAL TRANSIT DISTRICT",
     "quarters": [
@@ -88902,6 +89241,13 @@
         "generalLobbying": 47985.44,
         "pucLobbying": 0,
         "lobbiedOn": "SB 473"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 41950,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -91913,6 +92259,13 @@
         "generalLobbying": 95000,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE ON THE CALIFORNIA SELF-SERVICE STORAGE FACILITY ACT, AB 325, AB 380, AB 446, AB 498, SB 36, SB 84, SB 259, SB 295, SB 709."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 33945.21,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor?s office on the California Self-Service Storage Facility Act, Penal Code 396, SB 709, AB 498, and AB 325."
       }
     ]
   },
@@ -93513,6 +93866,13 @@
         "quarter": "3rd",
         "session": "2025-2026",
         "generalLobbying": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
       }
@@ -97024,6 +97384,11 @@
     ]
   },
   {
+    "id": "1486177",
+    "name": "STONEBRIDGE PROPERTIES",
+    "quarters": []
+  },
+  {
     "id": "1377374",
     "name": "STONEPEAK PARTNERS LP",
     "quarters": [
@@ -97290,6 +97655,13 @@
         "generalLobbying": 226.95,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS, CalPERS: proposed investment in Stripes VII, LP."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -99354,6 +99726,13 @@
         "generalLobbying": 171716.04,
         "pucLobbying": 0,
         "lobbiedOn": "AB33,316,340,365,381,394,411,604,1002,1362, 1474; ACA8; SB7,261,280,371,590,632,703,809,848 CalOSHA re: Workplace Violence Prevention Standard-General Industry; CSU re: Eliminating the major in Labor Studies"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 164790.47,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB1474 California Insurance Commissioner re: Intervenor & Administrative Hearing Bureau Fairness & Accountability; Reg-2025-00006"
       }
     ]
   },
@@ -100629,6 +101008,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature, California Department of Technology and Privacy Rights Clearinghouse regarding privacy issues."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied Employment Development Department and the Legislature regarding Artificial Intelligence and Privacy Issues."
       }
     ]
   },
@@ -104341,6 +104727,13 @@
         "generalLobbying": 20480,
         "pucLobbying": 0,
         "lobbiedOn": "AB 149, AB 293, AB 476, AB 568, AB 639, AB 929, AB 1146, AB 1373, AB 1413, SB 72, SB 105, SB 559"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 25070,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -104891,6 +105284,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 54000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalPERS, CalSTRS, Regents of the University of California"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 54000,
         "pucLobbying": 0,
@@ -105753,6 +106153,13 @@
         "generalLobbying": 28000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 339, 620, 650, 735; SB 79, 346, 415, 707"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 21000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No legislation or administrative actions lobbied this quarter."
       }
     ]
   },
@@ -108764,6 +109171,13 @@
       },
       {
         "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
+      },
+      {
+        "quarter": "4th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
