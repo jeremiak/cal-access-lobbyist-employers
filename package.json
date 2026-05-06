@@ -1,0 +1,28 @@
+{
+  "name": "cal-access-lobbyist-employers",
+  "version": "1.0.0",
+  "description": "Scrape lobbying data from California Secretary of State",
+  "main": "scrape.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiak/cal-access-lobbyist-employers.git"
+  },
+  "keywords": [],
+  "author": "jeremiak",
+  "license": "CC-BY-SA",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jeremiak/cal-access-lobbyist-employers/issues"
+  },
+  "homepage": "https://github.com/jeremiak/cal-access-lobbyist-employers#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "p-queue": "^9.1.0",
+    "puppeteer": "^24.40.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
