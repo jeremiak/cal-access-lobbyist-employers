@@ -3,7 +3,7 @@ name: Scrape lobbyist employers
 on:
   workflow_dispatch:
   schedule:
-    - cron: '35 4 * * *'
+    - cron: '0 14 * * 1' # Mondays at 6AM PST
 
 jobs:
   test:
@@ -11,12 +11,15 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
-      - uses: denoland/setup-deno@v1
+        uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          deno-version: v1.x
+          node-version: 22
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
       - name: Scrape
-        run: deno run --allow-read=. --allow-write=. --allow-net ./scrape.ts
+        run: node src/index.js
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
