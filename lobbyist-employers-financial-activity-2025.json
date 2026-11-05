@@ -2150,6 +2150,11 @@
     ]
   },
   {
+    "id": "1422081",
+    "name": "ACES DELTA LLC",
+    "quarters": []
+  },
+  {
     "id": "1439820",
     "name": "ACLIMA INC.",
     "quarters": [
@@ -2682,7 +2687,7 @@
   },
   {
     "id": "1360593",
-    "name": "ADT, LLC DBA ADT SECURITY SERVICES",
+    "name": "ADT LLC DBA ADT SECURITY SERVICES",
     "quarters": [
       {
         "quarter": "1st",
@@ -3464,7 +3469,7 @@
   },
   {
     "id": "1337062",
-    "name": "AEW CAPITAL MANAGEMENT, LP",
+    "name": "AEW CAPITAL MANAGEMENT, L.P.",
     "quarters": [
       {
         "quarter": "1st",
@@ -5592,7 +5597,7 @@
   },
   {
     "id": "1233227",
-    "name": "ALBERTSONS SAFEWAY INC.",
+    "name": "ALBERTSONS SAFEWAY, INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -5694,7 +5699,7 @@
   },
   {
     "id": "1146557",
-    "name": "ALHAMBRA, CITY OF",
+    "name": "ALHAMBRA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -6680,7 +6685,7 @@
   },
   {
     "id": "1335960",
-    "name": "ALLIANCEBERNSTEIN LP.",
+    "name": "ALLIANCEBERNSTEIN LP",
     "quarters": [
       {
         "quarter": "1st",
@@ -11740,6 +11745,11 @@
     ]
   },
   {
+    "id": "1498579",
+    "name": "AMERICAN SPORTSFISHING ASSOCIATION",
+    "quarters": []
+  },
+  {
     "id": "1243880",
     "name": "AMERICAN STAFFING ASSOCIATION",
     "quarters": [
@@ -13595,7 +13605,7 @@
   },
   {
     "id": "1347140",
-    "name": "ANTIN INFRASTRUCTURE PARTNERS, S.A.S.",
+    "name": "ANTIN INFRASTRUCTURE PARTNERS SAS",
     "quarters": [
       {
         "quarter": "1st",
@@ -14597,61 +14607,6 @@
     ]
   },
   {
-    "id": "1361932",
-    "name": "ARC LIGHT CAPITAL PARTNERS, LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 500,
-        "pucLobbying": 0,
-        "lobbiedOn": "The California State Teachers' Retirement System Regents of the University of California"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 550,
-        "pucLobbying": 0,
-        "lobbiedOn": "The California State Teachers' Retirement System"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "The California State Teachers' Retirement System"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "The California State Teachers' Retirement System"
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 125,
-        "pucLobbying": 0,
-        "lobbiedOn": "The California State Teachers' Retirement System"
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "The California State Teachers' Retirement System"
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 200,
-        "pucLobbying": 0,
-        "lobbiedOn": "The California State Teachers' Retirement System"
-      }
-    ]
-  },
-  {
     "id": "1146989",
     "name": "ARC OF CALIFORNIA; THE",
     "quarters": [
@@ -14748,6 +14703,61 @@
     ]
   },
   {
+    "id": "1361932",
+    "name": "ARCLIGHT CAPITAL PARTNERS, LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 500,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teachers' Retirement System Regents of the University of California"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 550,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teachers' Retirement System"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teachers' Retirement System"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teachers' Retirement System"
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 125,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teachers' Retirement System"
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teachers' Retirement System"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 200,
+        "pucLobbying": 0,
+        "lobbiedOn": "The California State Teachers' Retirement System"
+      }
+    ]
+  },
+  {
     "id": "1458895",
     "name": "ARCXIS",
     "quarters": [
@@ -14800,11 +14810,6 @@
         "lobbiedOn": "AB 1776, AB 2161"
       }
     ]
-  },
-  {
-    "id": "1350598",
-    "name": "ARDIAN US LLC",
-    "quarters": []
   },
   {
     "id": "1338488",
@@ -14918,7 +14923,7 @@
   },
   {
     "id": "1382541",
-    "name": "ARGAND PARTNERS LP",
+    "name": "ARGAND PARTNERS, LP",
     "quarters": [
       {
         "quarter": "1st",
@@ -16814,7 +16819,7 @@
   },
   {
     "id": "1384766",
-    "name": "ASSOCIATION FOR UNMANNED VEHICLE SYSTEMS INTERNATIONAL DBA ASSOCIATION FOR UNCREWED VEHICLE SYSTEMS INTERNATIONAL",
+    "name": "ASSOCIATION FOR UNMANNED VEHICLE SYSTEMS INTERNATIONAL",
     "quarters": []
   },
   {
@@ -19347,7 +19352,7 @@
   },
   {
     "id": "1409912",
-    "name": "ATKINSON, ANDELSON, LOYA, RUUD & ROMO",
+    "name": "ATKINSON ANDELSON LOYA RUUD & ROMO",
     "quarters": [
       {
         "quarter": "1st",
@@ -20040,7 +20045,7 @@
   },
   {
     "id": "1144801",
-    "name": "AVALON, CITY OF",
+    "name": "AVALON; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -20516,6 +20521,11 @@
         "lobbiedOn": ""
       }
     ]
+  },
+  {
+    "id": "1350598",
+    "name": "AXA PRIVATE EQUITY (US) LLC",
+    "quarters": []
   },
   {
     "id": "1380603",
@@ -22115,11 +22125,6 @@
     ]
   },
   {
-    "id": "1301717",
-    "name": "BAY AREA PARTNERSHIP",
-    "quarters": []
-  },
-  {
     "id": "1147020",
     "name": "BAYER U.S. LLC",
     "quarters": [
@@ -23187,7 +23192,7 @@
   },
   {
     "id": "1143160",
-    "name": "BERKELEY, CITY OF",
+    "name": "BERKELEY; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -26251,7 +26256,7 @@
   },
   {
     "id": "1146240",
-    "name": "BOEING COMPANY; THE",
+    "name": "BOEING COMPANY, THE",
     "quarters": [
       {
         "quarter": "1st",
@@ -26298,7 +26303,7 @@
       {
         "quarter": "7th",
         "session": "2025-2026",
-        "generalLobbying": 76108.55,
+        "generalLobbying": 76455.21,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, re: SB 238, SB 883, SB 947, SB 954, SB 1123, AB 431, AB 839, AB 1371, AB 1609, AB 1883, AB 2465; State Budget: Quantum Computing, Research &Development tax credit; Office of the Governor, re: AB 431, AB 2465."
       }
@@ -26984,7 +26989,7 @@
   },
   {
     "id": "1242253",
-    "name": "BRAWLEY; CITY OF",
+    "name": "BRAWLEY, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -27018,7 +27023,7 @@
   },
   {
     "id": "1233620",
-    "name": "BREA; CITY OF",
+    "name": "BREA, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -29456,7 +29461,7 @@
   },
   {
     "id": "1143132",
-    "name": "BUTTE, COUNTY OF",
+    "name": "BUTTE; COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -37139,6 +37144,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1279, AB 1423, AB 1557, AB 1569, AB 1837, AB 1942, AB 2168, AB 2276, AB 2346, AB 2560 SB 569, SB 1087, SB 1167, SB 1279"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1685, AB 1687, AB 1837, AB 2168, AB 2346, AB 2560, SB 569, SB 1087, SB 1167, SB 1279, SB 1423 Caltrans: SHOPP, Complete Streets"
       }
     ]
   },
@@ -40440,14 +40452,14 @@
         "session": "2025-2026",
         "generalLobbying": 35276,
         "pucLobbying": 0,
-        "lobbiedOn": "CA State Legislature: State Budget AB 817, AB 1642, AB 1795, AB 1847, AB 2640, SB 937 and SB 995. Governor's Office: State Budget AB 713, AB 817, AB 1537, AB 1642, AB 1645, AB 1679, AB 1806, AB 1807, AB 1871, AB 1924, AB 2122, AB 2318, AB 2460, AB 2465, AB 2495, AB 2555, SB 937, SB 1004, SB 1105, AB 1164, SB 1240 and SB 1360."
+        "lobbiedOn": "CA State Legislature RE AB 1633, AB 1642, AB 1768, AB 1842, AB 1847, AB 2465, AB 2624, SB 736, SB 937 and SB 995 and budget requests"
       },
       {
         "quarter": "6th",
         "session": "2025-2026",
         "generalLobbying": 51000,
         "pucLobbying": 0,
-        "lobbiedOn": "CA State Legislature: State Budget AB 817, AB 1642, AB 1795, AB 1847, AB 2640, SB 937 and SB 995. Governor's Office: State Budget AB 713, AB 817, AB 1537, AB 1642, AB 1645, AB 1679, AB 1806, AB 1807, AB 1871, AB 1924, AB 2122, AB 2318, AB 2460, AB 2465, AB 2495, AB 2555, SB 937, SB 1004, SB 1105, AB 1164, SB 1240 and SB 1360."
+        "lobbiedOn": "Governors Office: Budget AB 736, SB 417, CA State Legislature RE: Budget AB 170, AB 179, AB 736, AB 750, AB 1070, AB 1294, AB 1439, AB 1621, AB 1675, AB 1710, AB 1815, AB 1903, AB 2020, AB 2044, AB 2058, AB 2074, AB 2089, AB 2166, AB 2185, AB 2348, AB 2465, AB 2626, AB 2748, SB 328, SB 417, SB 1344, SB 1383"
       },
       {
         "quarter": "7th",
@@ -42262,7 +42274,15 @@
   {
     "id": "1493637",
     "name": "CALIFORNIA DIGITAL FUTURE ALLIANCE",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: DATA CENTERS"
+      }
+    ]
   },
   {
     "id": "1146860",
@@ -48355,7 +48375,7 @@
   },
   {
     "id": "1144677",
-    "name": "CALIFORNIA NURSE MIDWIVES ASSOCIATION",
+    "name": "CALIFORNIA NURSE-MIDWIVES ASSOCIATION",
     "quarters": [
       {
         "quarter": "1st",
@@ -48465,7 +48485,7 @@
   },
   {
     "id": "1242151",
-    "name": "CALIFORNIA OFF ROAD VEHICLE ASSOCIATION",
+    "name": "CALIFORNIA OFF-ROAD VEHICLE ASSOCIATION",
     "quarters": [
       {
         "quarter": "1st",
@@ -49145,7 +49165,7 @@
   },
   {
     "id": "1143064",
-    "name": "CALIFORNIA PEACE OFFICERS' ASSOCIATION",
+    "name": "CALIFORNIA PEACE OFFICERS ASSOCIATION",
     "quarters": [
       {
         "quarter": "2nd",
@@ -55506,6 +55526,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 187; SB 187"
       }
     ]
   },
@@ -56892,12 +56919,19 @@
         "generalLobbying": 14120.45,
         "pucLobbying": 0,
         "lobbiedOn": "AB 2249, 2532, 1826, 2537; LEGISLATURE, DEPT OF CANNABIS CONTROL, GOVERNOR'S OFFICE RE: ISSUES IMPACTING CALIFORNIA'S LICENSED CANNABIS DISTRIBUTORS"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2249, 2532, 1826, 2537; LEGISLATURE, DEPARTMENT OF CANNABIS CONTROL, GOVERNOR'S OFFICE RE: ISSUES IMPACTING CALIFORNIAS LICENSED CANNABIS DISTRIBUTORS"
       }
     ]
   },
   {
     "id": "1391649",
-    "name": "CANNACRAFT, INC.",
+    "name": "CANNACRAFT INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -57883,7 +57917,7 @@
   },
   {
     "id": "1253712",
-    "name": "CARFAX, INC.",
+    "name": "CARFAX INC.",
     "quarters": [
       {
         "quarter": "5th",
@@ -57999,7 +58033,7 @@
   },
   {
     "id": "1144652",
-    "name": "CARLSBAD, CITY OF",
+    "name": "CARLSBAD; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -58553,7 +58587,7 @@
   },
   {
     "id": "1254962",
-    "name": "CARSON; CITY OF",
+    "name": "CARSON, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -59473,6 +59507,13 @@
         "generalLobbying": 3635,
         "pucLobbying": 0,
         "lobbiedOn": "AB 109; SB 109; LEGISLATURE RE: BUDGET ALLOCATION REQUEST"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 5235,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: BUDGET ALLOCATION REQUEST"
       }
     ]
   },
@@ -61874,7 +61915,7 @@
   },
   {
     "id": "1144009",
-    "name": "CERRITOS, CITY OF",
+    "name": "CERRITOS; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -63089,7 +63130,7 @@
   },
   {
     "id": "1143099",
-    "name": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
+    "name": "CHIEF PROBATION OFFICERS OF CALIFORNIA (CPOC)",
     "quarters": [
       {
         "quarter": "1st",
@@ -64002,7 +64043,7 @@
   },
   {
     "id": "1143820",
-    "name": "CHINO HILLS, CITY OF",
+    "name": "CHINO HILLS; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -64112,7 +64153,7 @@
   },
   {
     "id": "1283733",
-    "name": "CHINO; CITY OF",
+    "name": "CHINO, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -71123,7 +71164,7 @@
   },
   {
     "id": "1144735",
-    "name": "COMPTON; CITY OF",
+    "name": "COMPTON, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -71315,7 +71356,7 @@
   },
   {
     "id": "1338141",
-    "name": "COMVEST ADVISORS LLC",
+    "name": "COMVEST ADVISORS, LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -71425,7 +71466,7 @@
   },
   {
     "id": "1224159",
-    "name": "CONCORD, CITY OF",
+    "name": "CONCORD; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -73096,7 +73137,7 @@
   },
   {
     "id": "1145638",
-    "name": "CONTRA COSTA COUNTY SUPERINTENDENTS' COALITION",
+    "name": "CONTRA COSTA COUNTY SUPERINTENDENTS COALITION",
     "quarters": [
       {
         "quarter": "1st",
@@ -77017,61 +77058,6 @@
     ]
   },
   {
-    "id": "1377395",
-    "name": "CROSS BAY CAPITAL PARTNERS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      }
-    ]
-  },
-  {
     "id": "1392643",
     "name": "CROSS OCEAN ADVISER LLP",
     "quarters": [
@@ -77178,6 +77164,61 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
+    "id": "1377395",
+    "name": "CROSSBAY CAPITAL PARTNERS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -77688,7 +77729,7 @@
   },
   {
     "id": "1303682",
-    "name": "CUMMINS, INC.",
+    "name": "CUMMINS INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -77905,6 +77946,11 @@
         "lobbiedOn": "Legislature re: AB 1707, AB 1883, AB 2047, SB 1010, AB 1622, SB 1128, SB 135, SB 845, AB 1590; CalRecycle re: CA 14 CCR 18660.40 (2026), CA 14 CCR 18660.19, 31, 44, 45, 46 (2026); DTSC re: CA 22 CCR 66260.10, 201; CA 22 CCR Div 4.5 Ch. 11 App. X (2026); CDTFA re: CA 18 CCR 3500, CA 18 CCR 1502, 1502.2, 1507, 1600, 1601.1, 1600.2, 1600.3 and 1699.6 (2026)"
       }
     ]
+  },
+  {
+    "id": "1498446",
+    "name": "CUTLER-OROSI SURFACE WATER PLANT AUTHORITY",
+    "quarters": []
   },
   {
     "id": "1336814",
@@ -78284,6 +78330,61 @@
     ]
   },
   {
+    "id": "1254218",
+    "name": "DA VITA INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 226669.49,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1082; SB 242; CALIFORNIA DEPARTMENT OF PUBLIC HEALTH AND DEPARTMENT OF HEALTH CARE SERVICES RE: PATIENT ACCESS TO CARE AND PROVIDER ENROLLMENT/REIMBURSEMENT ISSUES; GOVERNOR'S OFFICE, LEGISLATURE RE: ALL BUDGET RELATED LEGISLATION, BUDGET ITEM 4260."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 271630.78,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1082; SB 242, 1236; CA DEPT OF PUBLIC HEALTH AND DEPT OF HEALTH CARE SERVICES RE: PATIENT ACCESS TO CARE AND PROVIDER ENROLLMENT/REIMBURSEMENT ISSUES; GOVERNOR'S OFFICE, LEGISLATURE RE: ALL BUDGET RELATED LEGISLATION; CA DEPT OF PUBLIC HEALTH RE: INPATIENT DIALYSIS STANDARDS AND CLAIFICATION"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 264553.53,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1082; SB 242; LEGISLATURE RE: MEDICARE SUPPLEMENT INSURANCE; CALIFORNIA DEPARTMENT OF PUBLIC HEALTH AND DEPARTMENT OF HEALTH CARE SERVICES RE: PATIENT ACCESS TO CARE AND PROVIDER ENROLLMENT/REIMBURSEMENT ISSUES; GOVERNOR'S OFFICE, LEGISLATURE RE: ALL BUDGET-RELATED LEGISLATION"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 256300,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1082; SB 242; California Department of Public Health, Department of Health Care Services RE: patient access to care and provider enrollment/reimbursement issues; Governor's office, Legislature RE: all budget-related legislation, Medi-gap"
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 149268.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1113, 1776; California Department of Public Health, Department of Health Care Services RE: patient access to care and provider enrollment/reimbursement issues; Governor's office, Legislature RE: all budget-related legislation; Legislature re: issues relating to Department of Health Care Services"
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 275929.67,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1776; LEGISLATURE, DEPARTMENT OF FINANCE RE: MEDI-CAL FUNDING US POPULATION; LEGISLATURE RE: EMERGENCY MEDI-CAL COVERAGE & PATIENT ACCESS; CALIFORNIA DEPARTMENT OF PUBLIC HEALTH AND DEPARTMENT OF HEALTH CARE SERVICES RE: PATIENT ACCESS TO CARE AND PROVIDER ENROLLMENT/REIMBURSEMENT ISSUES; GOVERNOR'S OFFICE, LEGISLATURE RE: BUDGET-RELATED LEGISLATION, DIALYSIS ISSUES"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 292800,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 113, AB 173, AB 1776; Legislature re: Medi-Cal Funding UIS Population, State Budget; Governor's office re: Federal cuts; California Department of Public Health and Department of Health Care Services RE: patient access to care and provider enrollment/reimbursement issues; Governor's office, Legislature RE: budget-related legislation, and dialysis issues; Legislature re: Emergency Medi-Cal Coverage & Patient access"
+      }
+    ]
+  },
+  {
     "id": "1417109",
     "name": "DAIKIN U.S. CORPORATION",
     "quarters": [
@@ -78491,7 +78592,7 @@
   },
   {
     "id": "1251922",
-    "name": "DANA POINT; CITY OF",
+    "name": "DANA POINT, CITY OF",
     "quarters": [
       {
         "quarter": "4th",
@@ -79003,61 +79104,6 @@
     "quarters": []
   },
   {
-    "id": "1254218",
-    "name": "DAVITA INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 226669.49,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1082; SB 242; CALIFORNIA DEPARTMENT OF PUBLIC HEALTH AND DEPARTMENT OF HEALTH CARE SERVICES RE: PATIENT ACCESS TO CARE AND PROVIDER ENROLLMENT/REIMBURSEMENT ISSUES; GOVERNOR'S OFFICE, LEGISLATURE RE: ALL BUDGET RELATED LEGISLATION, BUDGET ITEM 4260."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 271630.78,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1082; SB 242, 1236; CA DEPT OF PUBLIC HEALTH AND DEPT OF HEALTH CARE SERVICES RE: PATIENT ACCESS TO CARE AND PROVIDER ENROLLMENT/REIMBURSEMENT ISSUES; GOVERNOR'S OFFICE, LEGISLATURE RE: ALL BUDGET RELATED LEGISLATION; CA DEPT OF PUBLIC HEALTH RE: INPATIENT DIALYSIS STANDARDS AND CLAIFICATION"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 264553.53,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1082; SB 242; LEGISLATURE RE: MEDICARE SUPPLEMENT INSURANCE; CALIFORNIA DEPARTMENT OF PUBLIC HEALTH AND DEPARTMENT OF HEALTH CARE SERVICES RE: PATIENT ACCESS TO CARE AND PROVIDER ENROLLMENT/REIMBURSEMENT ISSUES; GOVERNOR'S OFFICE, LEGISLATURE RE: ALL BUDGET-RELATED LEGISLATION"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 256300,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1082; SB 242; California Department of Public Health, Department of Health Care Services RE: patient access to care and provider enrollment/reimbursement issues; Governor's office, Legislature RE: all budget-related legislation, Medi-gap"
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 149268.75,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1113, 1776; California Department of Public Health, Department of Health Care Services RE: patient access to care and provider enrollment/reimbursement issues; Governor's office, Legislature RE: all budget-related legislation; Legislature re: issues relating to Department of Health Care Services"
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 275929.67,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1776; LEGISLATURE, DEPARTMENT OF FINANCE RE: MEDI-CAL FUNDING US POPULATION; LEGISLATURE RE: EMERGENCY MEDI-CAL COVERAGE & PATIENT ACCESS; CALIFORNIA DEPARTMENT OF PUBLIC HEALTH AND DEPARTMENT OF HEALTH CARE SERVICES RE: PATIENT ACCESS TO CARE AND PROVIDER ENROLLMENT/REIMBURSEMENT ISSUES; GOVERNOR'S OFFICE, LEGISLATURE RE: BUDGET-RELATED LEGISLATION, DIALYSIS ISSUES"
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 292800,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 113, AB 173, AB 1776; Legislature re: Medi-Cal Funding UIS Population, State Budget; Governor's office re: Federal cuts; California Department of Public Health and Department of Health Care Services RE: patient access to care and provider enrollment/reimbursement issues; Governor's office, Legislature RE: budget-related legislation, and dialysis issues; Legislature re: Emergency Medi-Cal Coverage & Patient access"
-      }
-    ]
-  },
-  {
     "id": "1483769",
     "name": "DAWN PROJECT LLC; THE",
     "quarters": [
@@ -79100,7 +79146,7 @@
   },
   {
     "id": "1399390",
-    "name": "DCOR, LLC",
+    "name": "DCOR LLC",
     "quarters": [
       {
         "quarter": "2nd",
@@ -79594,7 +79640,7 @@
   },
   {
     "id": "1145502",
-    "name": "DEL MAR; CITY OF",
+    "name": "DEL MAR, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -79717,7 +79763,7 @@
   },
   {
     "id": "1279687",
-    "name": "DELANO; CITY OF",
+    "name": "DELANO, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -80782,6 +80828,20 @@
         "generalLobbying": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislative - SB935"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative - SB935"
+      },
+      {
+        "quarter": "8th",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislative - SB935"
       }
     ]
   },
@@ -81004,7 +81064,7 @@
   },
   {
     "id": "1145464",
-    "name": "DIAMOND BAR, CITY OF",
+    "name": "DIAMOND BAR; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -82076,7 +82136,7 @@
   },
   {
     "id": "1142945",
-    "name": "DOCTORS MANAGEMENT COMPANY; THE",
+    "name": "DOCTORS' MANAGEMENT COMPANY, THE",
     "quarters": [
       {
         "quarter": "1st",
@@ -85747,7 +85807,7 @@
   },
   {
     "id": "1222959",
-    "name": "EL CENTRO, CITY OF",
+    "name": "EL CENTRO; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -86237,6 +86297,11 @@
         "lobbiedOn": "None."
       }
     ]
+  },
+  {
+    "id": "1493833",
+    "name": "ELDRIDGE CAPITAL MANAGEMENT, LLC",
+    "quarters": []
   },
   {
     "id": "1261785",
@@ -88216,7 +88281,7 @@
   },
   {
     "id": "1386473",
-    "name": "ENGIE NORTH AMERICA INC. AND AFFILIATES",
+    "name": "ENGIE NORTH AMERICA, INC. AND AFFILIATES",
     "quarters": [
       {
         "quarter": "1st",
@@ -88568,6 +88633,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
       }
     ]
   },
@@ -88616,6 +88688,13 @@
         "generalLobbying": 13835.15,
         "pucLobbying": 0,
         "lobbiedOn": "Budget advocacy, offshore wind and clean energy, wildlife conservation, EV investments, solar and storage AB2389, SB 913, AB1975, energy efficiency and clean energy, ocean protection, 30x30, wildlife protection, clean water SB601, Wildlife protection , SB1250, Public lands, AB1624. Oil well clean up AB 2461"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Budget advocacy, offshore wind and clean energy, wildlife conservation, EV investments, solar and storage AB2389, SB 913, AB1975, energy efficiency and clean energy, ocean protection, 30x30, wildlife protection, clean water SB601, Wildlife protection , SB1250, Public lands, AB1624. Oil well clean up AB 2461"
       }
     ]
   },
@@ -88662,6 +88741,13 @@
         "quarter": "6th",
         "session": "2025-2026",
         "generalLobbying": 3764.6,
+        "pucLobbying": 0,
+        "lobbiedOn": "CPUC, CEC, CARB, OPC, Fish and Game commission, Dept of Pesticide Regulation and Governor's staff on zero emission vehicles, clean energy, energy efficiency, offshore wind, rooftop solar, 30x30, Ocean protection, Decadal management review of marine protected area network, clean water, pesticides."
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 2621.78,
         "pucLobbying": 0,
         "lobbiedOn": "CPUC, CEC, CARB, OPC, Fish and Game commission, Dept of Pesticide Regulation and Governor's staff on zero emission vehicles, clean energy, energy efficiency, offshore wind, rooftop solar, 30x30, Ocean protection, Decadal management review of marine protected area network, clean water, pesticides."
       }
@@ -89084,7 +89170,7 @@
   },
   {
     "id": "1336828",
-    "name": "EQT PARTNERS INC.",
+    "name": "EQT PARTNERS, INC.",
     "quarters": [
       {
         "quarter": "3rd",
@@ -89645,7 +89731,7 @@
   },
   {
     "id": "1143176",
-    "name": "ESCONDIDO; CITY OF",
+    "name": "ESCONDIDO, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -91007,7 +91093,7 @@
   },
   {
     "id": "1455995",
-    "name": "FAITH ELECTRIC, LLC",
+    "name": "FAITH ELECTRIC LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -93290,7 +93376,7 @@
   },
   {
     "id": "1245191",
-    "name": "FIRST STUDENT, INC.",
+    "name": "FIRST STUDENT INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -93455,7 +93541,7 @@
   },
   {
     "id": "1459519",
-    "name": "FISSION TRANSITION INC",
+    "name": "FISSION TRANSITION INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -93798,7 +93884,7 @@
   },
   {
     "id": "1266825",
-    "name": "FLAVOR AND EXTRACT MANUFACTURERS ASSOCIATION OF THE U.S.; THE",
+    "name": "FLAVOR AND EXTRACT MANUFACTURERS ASSOCIATION OF THE U.S., THE",
     "quarters": []
   },
   {
@@ -95150,7 +95236,7 @@
   },
   {
     "id": "1317813",
-    "name": "FORTY NINERS FOOTBALL COMPANY LLC (A DELAWARE LIMITED LIABILITY COMPANY)",
+    "name": "FORTY NINERS FOOTBALL COMPANY LLC, (A DELAWARE LIMITED LIABILITY COMPANY)",
     "quarters": [
       {
         "quarter": "1st",
@@ -95390,7 +95476,7 @@
   },
   {
     "id": "1285818",
-    "name": "FOWLER; CITY OF",
+    "name": "FOWLER, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -96205,7 +96291,7 @@
   },
   {
     "id": "1143677",
-    "name": "FRESNO, COUNTY OF",
+    "name": "FRESNO; COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -97246,7 +97332,7 @@
   },
   {
     "id": "1225667",
-    "name": "GARDENA; CITY OF",
+    "name": "GARDENA, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -98362,7 +98448,7 @@
   },
   {
     "id": "1142836",
-    "name": "GEO GROUP, INC., THE",
+    "name": "GEO GROUP, INC.; THE",
     "quarters": [
       {
         "quarter": "1st",
@@ -98903,7 +98989,7 @@
   },
   {
     "id": "1253582",
-    "name": "GLENDORA, CITY OF",
+    "name": "GLENDORA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -99578,6 +99664,13 @@
       },
       {
         "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Agencies: Legislature Issues: HRSA regulations and technology to better support patient outcomes"
+      },
+      {
+        "quarter": "7th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -101017,6 +101110,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "none"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
@@ -102049,7 +102149,7 @@
   },
   {
     "id": "1254462",
-    "name": "GREENFIELD; CITY OF",
+    "name": "GREENFIELD, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -102680,7 +102780,7 @@
   },
   {
     "id": "1425546",
-    "name": "GRUBHUB INC.",
+    "name": "GRUBHUB, INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -102845,7 +102945,7 @@
   },
   {
     "id": "1316946",
-    "name": "GSW ARENA LLC",
+    "name": "GSW ARENA, LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -103372,7 +103472,7 @@
   },
   {
     "id": "1244249",
-    "name": "H & R BLOCK MANAGEMENT, LLC",
+    "name": "H & R BLOCK MANAGEMENT LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -106147,7 +106247,7 @@
   },
   {
     "id": "1245652",
-    "name": "HERCULES, CITY OF",
+    "name": "HERCULES; CITY OF",
     "quarters": [
       {
         "quarter": "4th",
@@ -106208,6 +106308,13 @@
         "quarter": "6th",
         "session": "2025-2026",
         "generalLobbying": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Managed Healthcare re: Implementation of SB 306 (2025); Department of Healthcare Services re: Office of Healthcare Affordability policies"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 80000,
         "pucLobbying": 0,
         "lobbiedOn": "Department of Managed Healthcare re: Implementation of SB 306 (2025); Department of Healthcare Services re: Office of Healthcare Affordability policies"
       }
@@ -108626,7 +108733,7 @@
   },
   {
     "id": "1448169",
-    "name": "HOUSING NOW",
+    "name": "HOUSING NOW!",
     "quarters": [
       {
         "quarter": "1st",
@@ -111237,6 +111344,13 @@
         "generalLobbying": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "CA DEPT OF FORESTRY AND FIRE PROTECTION RE: FIRE SUPRESSION TECHNOLOGY"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA DEPT OF FORESTRY AND FIRE PROTECTION RE: FIRE SUPRESSION TECHNOLOGY"
       }
     ]
   },
@@ -111885,7 +111999,7 @@
   },
   {
     "id": "1143255",
-    "name": "INDIAN WELLS; CITY OF",
+    "name": "INDIAN WELLS, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -111995,7 +112109,7 @@
   },
   {
     "id": "1417000",
-    "name": "INDORAMA VENTURES SUSTAINABLE SOLUTIONS FONTANA INC.",
+    "name": "INDORAMA VENTURES SUSTAINABLE SOLUTIONS FONTANA, INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -112596,6 +112710,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 464, AB 634, AB 647, AB 767, AB 1231, AB 1537, AB 1588, AB 1595, AB 1632, AB 1645, AB 1646, AB 1647, AB 1650, AB 1656, AB 1662, AB 1685, AB 1687, AB 1759, AB 1816, AB 1851, AB 1872, AB 1877, AB 1886, AB 1896, AB 1897, AB 1902, AB 1905, AB 1917, AB 1941, AB 1959, AB 2047, AB 2052, AB 2122, AB 2217, AB 2232, AB 2237, AB 2261, AB 2273, AB 2274, AB 2297, AB 2310, AB 2344, AB 2428; Legislature"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 28333.33,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 464, AB 634, AB 647, AB 767, AB 1231, AB 1537, AB 1588, AB 1595, AB 1632, AB 1645, AB 1646, AB 1647, AB 1650, AB 1656, AB 1662, AB 1685, AB 1687, AB 1759, AB 1816, AB 1851, AB 1872, AB 1877, AB 1886, AB 1896, AB 1897, AB 1902, AB 1905, AB 1917, AB 1941, AB 1959, AB 2047, AB 2052, AB 2122"
       }
     ]
   },
@@ -112958,7 +113079,7 @@
   },
   {
     "id": "1409285",
-    "name": "INNOVATIVE INTEGRATED HEALTH INC.",
+    "name": "INNOVATIVE INTEGRATED HEALTH, INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -113932,7 +114053,7 @@
   },
   {
     "id": "1311173",
-    "name": "INTELLIGENT SIGN NETWORK LLC",
+    "name": "INTELLIGENT SIGN NETWORK, LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -115209,49 +115330,8 @@
     ]
   },
   {
-    "id": "1482961",
-    "name": "INTERNATIONAL UNION, UAW REGION 6",
-    "quarters": [
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 10000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SB 84 AND STATE BUDGET TRAILER BILLS"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 50000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SB 84 AND STATE BUDGET TRAILER BILLS"
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 20000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: ABs 1553, 1729, 2516 AND SB 895"
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 20000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: ABs 1553, 1729, 2516 AND SB 895, SB 954"
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: ABs 1553, 1729, 2516 AND SB 895, SB 954"
-      }
-    ]
-  },
-  {
     "id": "1398837",
-    "name": "INTERNATIONAL UNION, UNITED AUTOMOBILE AEROSPACE AND AGRICULTURAL IMPLEMENT WORKERS OF AMERICA, UAW",
+    "name": "INTERNATIONAL UNION UNITED AUTOMOBILE, AEROSPACE AND AGRICULTURAL IMPLEMENT WORKERS OF AMERICA, UAW",
     "quarters": [
       {
         "quarter": "1st",
@@ -115301,6 +115381,47 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "SB 954, AB 2516, CALIFORNIA ALTERNATIVE ENERGY AND ADVANCED TRANSPORTATION FINANCING AUTHORITY (CAEATFA) SALES TAX EXEMPTION (STE) REGULATION, CAEATFA AWARDS, CALCOMPETES AWARDS, AB 713, SB 895"
+      }
+    ]
+  },
+  {
+    "id": "1482961",
+    "name": "INTERNATIONAL UNION, UAW REGION 6",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SB 84 AND STATE BUDGET TRAILER BILLS"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: SB 84 AND STATE BUDGET TRAILER BILLS"
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: ABs 1553, 1729, 2516 AND SB 895"
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: ABs 1553, 1729, 2516 AND SB 895, SB 954"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: ABs 1553, 1729, 2516 AND SB 895, SB 954"
       }
     ]
   },
@@ -115471,7 +115592,7 @@
   },
   {
     "id": "1441186",
-    "name": "INTUITIVE SURGICAL INC.",
+    "name": "INTUITIVE SURGICAL INC",
     "quarters": [
       {
         "quarter": "1st",
@@ -117827,7 +117948,7 @@
   },
   {
     "id": "1414404",
-    "name": "JOHNSON CONTROLS, INC.",
+    "name": "JOHNSON CONTROLS INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -117866,6 +117987,13 @@
       },
       {
         "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "No reportable lobbying activity."
+      },
+      {
+        "quarter": "7th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -119943,7 +120071,7 @@
   },
   {
     "id": "1143106",
-    "name": "KERN, COUNTY OF",
+    "name": "KERN; COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -122308,7 +122436,7 @@
   },
   {
     "id": "1297621",
-    "name": "LA MESA-SPRING VALLEY SCHOOL DISTRICT",
+    "name": "LA MESA SPRING VALLEY SCHOOL DISTRICT",
     "quarters": [
       {
         "quarter": "4th",
@@ -122846,11 +122974,6 @@
         "lobbiedOn": "AB 1795, SB 239"
       }
     ]
-  },
-  {
-    "id": "1398966",
-    "name": "LAGUNA WOODS VILLAGE",
-    "quarters": []
   },
   {
     "id": "1466120",
@@ -126893,7 +127016,7 @@
   },
   {
     "id": "1282653",
-    "name": "LOMITA; CITY OF",
+    "name": "LOMITA, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -130820,7 +130943,7 @@
   },
   {
     "id": "1146221",
-    "name": "LYNWOOD, CITY OF",
+    "name": "LYNWOOD; CITY OF",
     "quarters": []
   },
   {
@@ -131014,6 +131137,13 @@
       },
       {
         "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "7th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -132063,7 +132193,7 @@
   },
   {
     "id": "1279331",
-    "name": "MAMMOTH LAKES, TOWN OF",
+    "name": "MAMMOTH LAKES; TOWN OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -132488,7 +132618,7 @@
   },
   {
     "id": "1396197",
-    "name": "MAPLEBEAR INC., D/B/A INSTACART",
+    "name": "MAPLEBEAR INC., DBA INSTACART",
     "quarters": [
       {
         "quarter": "1st",
@@ -133270,7 +133400,7 @@
   },
   {
     "id": "1144807",
-    "name": "MARIPOSA, COUNTY OF",
+    "name": "MARIPOSA; COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -133496,7 +133626,7 @@
   },
   {
     "id": "1340185",
-    "name": "MARS, INCORPORATED",
+    "name": "MARS INCORPORATED",
     "quarters": [
       {
         "quarter": "1st",
@@ -133551,7 +133681,7 @@
   },
   {
     "id": "1143441",
-    "name": "MARTINEZ, CITY OF",
+    "name": "MARTINEZ; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -134598,61 +134728,6 @@
     ]
   },
   {
-    "id": "1255393",
-    "name": "MED EX HEALTH CARE INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 3000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CA STATE LEGISLATURE: AB 280, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 3000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CA STATE LEGISLATURE: AB 280, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 3000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNOR LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 3000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND AGENCIES AND OFFICES LOBBIED REGARDING REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 3000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CA STATE LEGISLATURE RE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 3000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 3000,
-        "pucLobbying": 0,
-        "lobbiedOn": "CALIFORINIA STATE LEGISLATURE RE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668, SB 1303; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT; SENATE BUSINESS AND PROFESSIONS AND ECONOMIC DEVELOPMENT COMMITTEE; AND ASSEMBLY BUSINESS AND PROFESSIONS COMMITTEE RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
-      }
-    ]
-  },
-  {
     "id": "1490046",
     "name": "MED LIEN SOLUTIONS",
     "quarters": [
@@ -134703,6 +134778,61 @@
         "generalLobbying": 21000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and CalRecycle re: Pharmaceutical and Sharps SB 212 reforms"
+      }
+    ]
+  },
+  {
+    "id": "1255393",
+    "name": "MEDEX HEALTHCARE, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA STATE LEGISLATURE: AB 280, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA STATE LEGISLATURE: AB 280, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNOR LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND AGENCIES AND OFFICES LOBBIED REGARDING REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA STATE LEGISLATURE RE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; AND SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 3000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORINIA STATE LEGISLATURE RE: AB 280, AB 787, AB 1048, AB 1209, AB 1329, AB 1331, AB 1398, AB 1498, SB 536, SB 555, SB 668, SB 1303; OFFICE OF THE GOVERNOR LEGISLATIVE POLICY UNIT; DEPARTMENT OF INDUSTRIAL RELATIONS, DIVISION OF WORKERS COMPENSATION; COMMISSION ON HEALTH AND SAFETY AND WORKERS COMPENSATION; DEPARTMENT OF MANAGED HEALTH CARE; OFFICE OF THE GOVERNORS LABOR AND WORKFORCE DEVELOPMENT AGENCY; ASSEMBLY INSURANCE COMMITTEE AND CONSULTANT; SENATE LABOR, PUBLIC EMPLOYMENT AND RETIREMENT COMMITTEE AND CONSULTANT; SENATE BUSINESS AND PROFESSIONS AND ECONOMIC DEVELOPMENT COMMITTEE; AND ASSEMBLY BUSINESS AND PROFESSIONS COMMITTEE RE: ALL ISSUES AFFECTING WORKERS COMPENSATION AND HEALTH CARE AND REGULATORY IMPLEMENTATION OF AB 685, SB 537, SB 863, SB 1002, AND SB 1159"
       }
     ]
   },
@@ -134893,7 +135023,7 @@
   },
   {
     "id": "1146170",
-    "name": "MEDTRONIC, INC",
+    "name": "MEDTRONIC, INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -135058,7 +135188,7 @@
   },
   {
     "id": "1143253",
-    "name": "MENDOCINO, COUNTY OF",
+    "name": "MENDOCINO; COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -135113,7 +135243,7 @@
   },
   {
     "id": "1222909",
-    "name": "MENDOTA, CITY OF",
+    "name": "MENDOTA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -135462,6 +135592,61 @@
     ]
   },
   {
+    "id": "1143169",
+    "name": "MERCED, COUNTY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 71830.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: AB 339."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 105360.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: SB 16, SB 346, AB 286, AB 339, AB 418, AB 1441, AB 1460."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 215300.68,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: SB 16, SB 254, SB 279, SB 346, AB 339, AB 418, AB 1441, AB 1460."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 50855.15,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: SB 279, SB 346, AB 339, AB 418, AB 1441."
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 99047.79,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: SB 694, SB 1334, SB 1439, AB 286."
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 104775.64,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: SB 16, SB 1329, SB 1334, SB 1439, AB 1821, AB 2026, AB 2404, AB 2705."
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 231157.71,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, re: SB 1329, SB 1439, AB 1821, AB 2026; Office of the Governor, re: HSR station location."
+      }
+    ]
+  },
+  {
     "id": "1295645",
     "name": "MERCED; CITY OF",
     "quarters": [
@@ -135513,61 +135698,6 @@
         "generalLobbying": 12000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 237, 342, 470, 735, 1337, 1383, 2296; SB 18, 445, 769, 866, 1159, 1425"
-      }
-    ]
-  },
-  {
-    "id": "1143169",
-    "name": "MERCED; COUNTY OF",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 71830.5,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, re: AB 339."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 105360.34,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, re: SB 16, SB 346, AB 286, AB 339, AB 418, AB 1441, AB 1460."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 215300.68,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, re: SB 16, SB 254, SB 279, SB 346, AB 339, AB 418, AB 1441, AB 1460."
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 50855.15,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, re: SB 279, SB 346, AB 339, AB 418, AB 1441."
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 99047.79,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, re: SB 694, SB 1334, SB 1439, AB 286."
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 104775.64,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, re: SB 16, SB 1329, SB 1334, SB 1439, AB 1821, AB 2026, AB 2404, AB 2705."
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 231157.71,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, re: SB 1329, SB 1439, AB 1821, AB 2026; Office of the Governor, re: HSR station location."
       }
     ]
   },
@@ -137140,7 +137270,7 @@
   },
   {
     "id": "1253255",
-    "name": "MILPITAS, CITY OF",
+    "name": "MILPITAS; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -137569,11 +137699,6 @@
         "lobbiedOn": "Legislature reg AB 1666, AB 1777, SB 675, SB 954, SB 1075, SB 1216, SB 1075, SB 883, Cap and Invest. Governors Office reg Cap and Invest. California Air Resources Board reg implementation of AB 32, SB 596 implementation/compliance, cap and invest, Proposed Amendments to the Regulation for the Mandatory Reporting of Greenhouse Gas Emissions (and implementation of adopted amendments); Proposed Amendments to the California Cap on Greenhouse Gas Emissions and Market-Based Compliance Mechanisms (and implementation of adopted amendments)."
       }
     ]
-  },
-  {
-    "id": "1422081",
-    "name": "MITSUBISHI HITACHI POWER SYSTEMS AMERICAS",
-    "quarters": []
   },
   {
     "id": "1492008",
@@ -138440,6 +138565,11 @@
     ]
   },
   {
+    "id": "1378150",
+    "name": "MONTANOVA CAPITAL, LLC",
+    "quarters": []
+  },
+  {
     "id": "1467732",
     "name": "MONTE VISTA WATER DISTRICT",
     "quarters": [
@@ -138461,7 +138591,7 @@
   },
   {
     "id": "1226615",
-    "name": "MONTEBELLO, CITY OF",
+    "name": "MONTEBELLO; CITY OF",
     "quarters": [
       {
         "quarter": "2nd",
@@ -138748,7 +138878,7 @@
   },
   {
     "id": "1228721",
-    "name": "MONTEREY PARK; CITY OF",
+    "name": "MONTEREY PARK, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -138857,61 +138987,6 @@
     ]
   },
   {
-    "id": "1145766",
-    "name": "MONTEREY, COUNTY OF",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 12000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget; AB 1, 49, 53, 226, 259, 1185, 1288; ABX1 1, 2; SB 23, 48, 72, 74, 239, 296, 346, 496; SBX1 2"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 60000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget; AB 1, 49, 53, 226, 259, 431, 726, 761, 928, 1014, 1288; ABX1 1, 2; SB 23, 48, 72, 283, 296, 346, 577, 599, 357, 601"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 102688.35,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget; AB 1, 53, 63, 226, 259, 431, 726, 761, 928, 933, 946, 1014, 1185, 1288, 1413; ABX1 1, 2; SB 23, 72, 74, 144, 239, 283, 296, 346, 357, 496, 577, 599, 601"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 41400,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget; AB 53, 63, 259, 431, 928, 933, 946, 1185, 1413; SB 74, 144, 239, 296, 357, 496, 577, 599, 601"
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 41400,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget; AB 35, 53, 259, 431, 928, 1413, 1900; SB 74, 144, 239, 296, 299, 357, 577, 599, 601, 747, 922, 97"
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 41400,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget; AB 35, 53, 259, 431, 762, 928, 1413, 1761, 1821, 1900, 1934, 2051, 2203, 2393, 2691, 2705, 2728; ABX1 1, 2; SB 74, 144, 239, 296, 299, 357, 577, 599, 601, 747, 922, 973, 1055, 1138, 1407, 97"
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 106345,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature, Governor: State Budget; AB 35, 53, 259, 431, 762, 928, 1413, 1761, 1821, 1900, 1934, 2051, 2203, 2393, 2091, 2705, 2728; ABX1 2; SB 74, 144, 239, 296, 299, 357, 577, 599, 601, 747, 922, 973, 1055, 1138, 1407, 97"
-      }
-    ]
-  },
-  {
     "id": "1236146",
     "name": "MONTEREY-SALINAS TRANSIT DISTRICT (MST)",
     "quarters": [
@@ -138963,6 +139038,61 @@
         "generalLobbying": 19500,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, re: SB 125 - Zero-Emission Transit Capital Program, SB 741, AB 1070, AB 1837, AB 1944, AB 2168, Greenhouse Gas Reduction Fund Tier 3 Funding, District Spending Request b\u0013 SURF! Mitigation Funding; Office of the Governor, re: SB 125 - Zero-Emission Transit Capital Program, Funding, SB 741, AB 1837, AB 1944, AB 2168, Greenhouse Gas Reduction Fund Tier 3 Funding."
+      }
+    ]
+  },
+  {
+    "id": "1145766",
+    "name": "MONTEREY; COUNTY OF",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor: State Budget; AB 1, 49, 53, 226, 259, 1185, 1288; ABX1 1, 2; SB 23, 48, 72, 74, 239, 296, 346, 496; SBX1 2"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor: State Budget; AB 1, 49, 53, 226, 259, 431, 726, 761, 928, 1014, 1288; ABX1 1, 2; SB 23, 48, 72, 283, 296, 346, 577, 599, 357, 601"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 102688.35,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor: State Budget; AB 1, 53, 63, 226, 259, 431, 726, 761, 928, 933, 946, 1014, 1185, 1288, 1413; ABX1 1, 2; SB 23, 72, 74, 144, 239, 283, 296, 346, 357, 496, 577, 599, 601"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 41400,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor: State Budget; AB 53, 63, 259, 431, 928, 933, 946, 1185, 1413; SB 74, 144, 239, 296, 357, 496, 577, 599, 601"
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 41400,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor: State Budget; AB 35, 53, 259, 431, 928, 1413, 1900; SB 74, 144, 239, 296, 299, 357, 577, 599, 601, 747, 922, 97"
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 41400,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor: State Budget; AB 35, 53, 259, 431, 762, 928, 1413, 1761, 1821, 1900, 1934, 2051, 2203, 2393, 2691, 2705, 2728; ABX1 1, 2; SB 74, 144, 239, 296, 299, 357, 577, 599, 601, 747, 922, 973, 1055, 1138, 1407, 97"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 106345,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor: State Budget; AB 35, 53, 259, 431, 762, 928, 1413, 1761, 1821, 1900, 1934, 2051, 2203, 2393, 2091, 2705, 2728; ABX1 2; SB 74, 144, 239, 296, 299, 357, 577, 599, 601, 747, 922, 973, 1055, 1138, 1407, 97"
       }
     ]
   },
@@ -139455,7 +139585,7 @@
   },
   {
     "id": "1143076",
-    "name": "MOTION PICTURE ASSOCIATION INC.",
+    "name": "MOTION PICTURE ASSOCIATION, INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -140844,7 +140974,7 @@
   },
   {
     "id": "1233619",
-    "name": "MURRIETA, CITY OF",
+    "name": "MURRIETA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -141009,7 +141139,7 @@
   },
   {
     "id": "1297314",
-    "name": "MV TRANSPORTATION, INC.",
+    "name": "MV TRANSPORTATION INC.",
     "quarters": [
       {
         "quarter": "7th",
@@ -141603,7 +141733,7 @@
   },
   {
     "id": "1143270",
-    "name": "NAPA; COUNTY OF",
+    "name": "NAPA, COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -144505,7 +144635,7 @@
   },
   {
     "id": "1329105",
-    "name": "NATURE WORKS LLC",
+    "name": "NATUREWORKS LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -148422,7 +148552,7 @@
   },
   {
     "id": "1143779",
-    "name": "NORWALK LA MIRADA UNIFIED SCHOOL DISTRICT",
+    "name": "NORWALK - LA MIRADA UNIFIED SCHOOL DISTRICT",
     "quarters": [
       {
         "quarter": "1st",
@@ -148477,7 +148607,7 @@
   },
   {
     "id": "1143205",
-    "name": "NORWALK, CITY OF",
+    "name": "NORWALK; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -149751,7 +149881,7 @@
   },
   {
     "id": "1143289",
-    "name": "OAKLAND, CITY OF",
+    "name": "OAKLAND; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -150252,7 +150382,7 @@
   },
   {
     "id": "1145037",
-    "name": "OCEANSIDE, CITY OF",
+    "name": "OCEANSIDE; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -151127,7 +151257,7 @@
   },
   {
     "id": "1236644",
-    "name": "OMEGA FLEX, INC.",
+    "name": "OMEGAFLEX, INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -151890,7 +152020,7 @@
   },
   {
     "id": "1227734",
-    "name": "ONTARIO, CITY OF",
+    "name": "ONTARIO; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -153746,7 +153876,7 @@
   },
   {
     "id": "1361880",
-    "name": "OWL CREEK ASSET MANAGEMENT, LP",
+    "name": "OWL CREEK ASSET MANAGEMENT, L.P.",
     "quarters": [
       {
         "quarter": "1st",
@@ -155667,7 +155797,7 @@
   },
   {
     "id": "1143295",
-    "name": "PALM DESERT, CITY OF",
+    "name": "PALM DESERT; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -156566,7 +156696,7 @@
   },
   {
     "id": "1353958",
-    "name": "PARAMETRIC PORTFOLIO ASSOCIATES, LLC",
+    "name": "PARAMETRIC PORTFOLIO ASSOCIATES LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -156742,7 +156872,7 @@
   },
   {
     "id": "1146612",
-    "name": "PARENTS ANONYMOUS INC.",
+    "name": "PARENTS ANONYMOUS, INC.",
     "quarters": [
       {
         "quarter": "1st",
@@ -157128,6 +157258,11 @@
   {
     "id": "1497856",
     "name": "PARTNERS PERSONNEL",
+    "quarters": []
+  },
+  {
+    "id": "1301717",
+    "name": "PARTNERSHIP FOR CHILDREN & YOUTH",
     "quarters": []
   },
   {
@@ -157974,7 +158109,7 @@
   },
   {
     "id": "1401672",
-    "name": "PAW PROJECT; THE",
+    "name": "PAW PROJECT, THE",
     "quarters": [
       {
         "quarter": "1st",
@@ -159031,7 +159166,7 @@
   },
   {
     "id": "1371193",
-    "name": "PENINSULA PLASTICS RECYCLING, INC.",
+    "name": "PENINSULA PLASTICS RECYCLING INC.",
     "quarters": [
       {
         "quarter": "5th",
@@ -161116,7 +161251,7 @@
   },
   {
     "id": "1146430",
-    "name": "PICO RIVERA, CITY OF",
+    "name": "PICO RIVERA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -161664,7 +161799,7 @@
   },
   {
     "id": "1285826",
-    "name": "PLACENTIA; CITY OF",
+    "name": "PLACENTIA, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -163944,7 +164079,7 @@
   },
   {
     "id": "1402821",
-    "name": "PPC INVESTMENT PARTNERS LP",
+    "name": "PPC INVESTMENT PARTNERS LP DBA PRITZKER PRIVATE CAPITAL",
     "quarters": []
   },
   {
@@ -164385,7 +164520,7 @@
   },
   {
     "id": "1144172",
-    "name": "PRICEWATERHOUSECOOPERS LLP",
+    "name": "PRICEWATERHOUSECOOPERS, LLP",
     "quarters": [
       {
         "quarter": "1st",
@@ -166478,7 +166613,7 @@
   },
   {
     "id": "1146189",
-    "name": "PUBLIC RISK INNOVATION, SOLUTIONS AND MANAGEMENT (PRISM)",
+    "name": "PUBLIC RISK INNOVATION, SOLUTIONS, AND MANAGEMENT (PRISM)",
     "quarters": [
       {
         "quarter": "1st",
@@ -167192,7 +167327,7 @@
   },
   {
     "id": "1239296",
-    "name": "QUALCOMM INCORPORATED",
+    "name": "QUALCOMM, INCORPORATED",
     "quarters": [
       {
         "quarter": "1st",
@@ -167418,7 +167553,7 @@
   },
   {
     "id": "1382704",
-    "name": "QUEST FUND PLACEMENT LTD.",
+    "name": "QUEST FUND PLACEMENT LTD",
     "quarters": [
       {
         "quarter": "1st",
@@ -167958,7 +168093,7 @@
   },
   {
     "id": "1143294",
-    "name": "RANCHO CUCAMONGA, CITY OF",
+    "name": "RANCHO CUCAMONGA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -169354,7 +169489,7 @@
   },
   {
     "id": "1145165",
-    "name": "REDDING; CITY OF",
+    "name": "REDDING, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -171532,7 +171667,7 @@
   },
   {
     "id": "1255235",
-    "name": "RIALTO, CITY OF",
+    "name": "RIALTO; CITY OF",
     "quarters": [
       {
         "quarter": "3rd",
@@ -173256,7 +173391,7 @@
   },
   {
     "id": "1377247",
-    "name": "ROCKPOINT GROUP, L.L.C.",
+    "name": "ROCKPOINT GROUP L.L.C.",
     "quarters": [
       {
         "quarter": "1st",
@@ -173551,7 +173686,7 @@
   },
   {
     "id": "1143034",
-    "name": "ROSEMEAD; CITY OF",
+    "name": "ROSEMEAD, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -173606,7 +173741,7 @@
   },
   {
     "id": "1224157",
-    "name": "ROSEVILLE, CITY OF",
+    "name": "ROSEVILLE; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -176881,7 +177016,7 @@
   },
   {
     "id": "1143635",
-    "name": "SAN BERNARDINO, CITY OF",
+    "name": "SAN BERNARDINO; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -176936,7 +177071,7 @@
   },
   {
     "id": "1143534",
-    "name": "SAN BERNARDINO, COUNTY OF",
+    "name": "SAN BERNARDINO; COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -176991,7 +177126,7 @@
   },
   {
     "id": "1234753",
-    "name": "SAN CLEMENTE, CITY OF",
+    "name": "SAN CLEMENTE; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -178111,7 +178246,7 @@
   },
   {
     "id": "1143871",
-    "name": "SAN FRANCISCO BASEBALL ASSOCIATES LLC (DBA SAN FRANCISCO GIANTS)",
+    "name": "SAN FRANCISCO BASEBALL ASSOCIATES, LLC (DBA SAN FRANCISCO GIANTS)",
     "quarters": [
       {
         "quarter": "1st",
@@ -179794,7 +179929,7 @@
   },
   {
     "id": "1142975",
-    "name": "SAN JOAQUIN; COUNTY OF",
+    "name": "SAN JOAQUIN, COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -180474,7 +180609,7 @@
   },
   {
     "id": "1143267",
-    "name": "SAN LUIS OBISPO, COUNTY OF",
+    "name": "SAN LUIS OBISPO; COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -180914,7 +181049,7 @@
   },
   {
     "id": "1243687",
-    "name": "SAN MATEO; CITY OF",
+    "name": "SAN MATEO, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -181079,7 +181214,7 @@
   },
   {
     "id": "1146109",
-    "name": "SAN RAFAEL/MARIN COUNTY COUNCIL OF MAYORS & COUNCIL MEMBERS, CITY OF",
+    "name": "SAN RAFAEL/MARIN COUNTY COUNCIL OF MAYORS & COUNCIL MEMBERS; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -182605,7 +182740,7 @@
   },
   {
     "id": "1146957",
-    "name": "SANTA CLARITA, CITY OF",
+    "name": "SANTA CLARITA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -183558,7 +183693,7 @@
   },
   {
     "id": "1144599",
-    "name": "SANTEE; CITY OF",
+    "name": "SANTEE, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -186234,7 +186369,7 @@
         "session": "2025-2026",
         "generalLobbying": 6666.66,
         "pucLobbying": 0,
-        "lobbiedOn": "None this period."
+        "lobbiedOn": "Legislature: AB 2526, AB 2490, AB 2468, AB 2241, AB 2191, AB 2555, SB 685"
       }
     ]
   },
@@ -187797,6 +187932,13 @@
         "quarter": "6th",
         "session": "2025-2026",
         "generalLobbying": 353932,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 34 AB 35 AB 40 AB 52 AB 72 AB 306 AB 442 AB 467 AB 497 AB 605 AB 643 AB 687 AB 706 AB 762 AB 763 AB 839 AB 892 AB 946 AB 1148 AB 1372 AB 1382 AB 1421 AB 1436 AB 1448 AB 1457 AB 1536 AB 1543 AB 1548 AB 1551 AB 1584 AB 1600 AB 1603 AB 1642 AB 1653 AB 1661 AB 1666 AB 1680 AB 1684 AB 1702 AB 1704 AB 1715 AB 1740 AB 1745 AB 1757 AB 1777 AB 1783 AB 1787 AB 1790 AB 1791 AB 1804 AB 1849 AB 1911 AB 1934 AB 1938 AB 1960 AB 1964 AB 1971 AB 1975 AB 1986 AB 2013 AB 2026 AB 2037 AB 2044 AB 2045 AB 2057 AB 2075 AB 2088 AB 2099 AB 2102 AB 2111 AB 2125 AB 2132 AB 2170 AB 2182 AB 2215 AB 2216 AB 2218 AB 2226 AB 2234 AB 2239 AB 2253 AB 2254 AB 2260 AB 2266 AB 2277 AB 2313 AB 2334 AB 2349 AB 2356 AB 2369 AB 2373 AB 2389 AB 2408 AB 2410 AB 2461 AB 2464 AB 2469 AB 2493 AB 2494 AB 2495 AB 2508 AB 2513 AB 2516 AB 2552 AB 2560 AB 2566 AB 2569 AB 2578 AB 2587 AB 2590 AB 2606 AB 2612 AB 2619 AB 2620 AB 2627 AB 2647 AB 2672 AB 2676 AB 2700 AB 2711 AB 2712 AB 2716 AB 2739 AB 2752 AB 2770 AJR 27 SB 58 SB 222 SB 299 SB 327 SB 330 SB 493 SB 501 SB 575 SB 615 SB 675 SB 739 SB 742 SB 811 SB 837 SB 868 SB 872 SB 875 SB 876 SB 878 SB 883 SB 885 SB 293 SB 894 SB 895 SB 911 SB 913 SB 919 SB 943 SB 949 SB 954 SB 963 SB 973 SB 981 SB 982 SB 986 SB 997 SB 1011 SB 1039 SB 1046 SB 1048 SB 1075 SB 1079 SB 1085 SB 1107 SB 1108 SB 1118 SB 1125 SB 1135 SB 1138 SB 1139 SB 1158 SB 1159 SB 1161 SB 1168 SB 1178 SB 1180 SB 1213 SB 1214 SB 1215 SB 1219 SB 1229 SB 1232 SB 1239 SB 1250 SB 1259 SB 1268 SB 1291 SB 1295 SB 1299 SB 1305 SB 1313 SB 1326 SB 1327 SB 1359 SB 1370 SB 1392 SB 1394 SB 1417 SJR 12 SJR 13"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 341485,
         "pucLobbying": 0,
         "lobbiedOn": "AB 34 AB 35 AB 40 AB 52 AB 72 AB 306 AB 442 AB 467 AB 497 AB 605 AB 643 AB 687 AB 706 AB 762 AB 763 AB 839 AB 892 AB 946 AB 1148 AB 1372 AB 1382 AB 1421 AB 1436 AB 1448 AB 1457 AB 1536 AB 1543 AB 1548 AB 1551 AB 1584 AB 1600 AB 1603 AB 1642 AB 1653 AB 1661 AB 1666 AB 1680 AB 1684 AB 1702 AB 1704 AB 1715 AB 1740 AB 1745 AB 1757 AB 1777 AB 1783 AB 1787 AB 1790 AB 1791 AB 1804 AB 1849 AB 1911 AB 1934 AB 1938 AB 1960 AB 1964 AB 1971 AB 1975 AB 1986 AB 2013 AB 2026 AB 2037 AB 2044 AB 2045 AB 2057 AB 2075 AB 2088 AB 2099 AB 2102 AB 2111 AB 2125 AB 2132 AB 2170 AB 2182 AB 2215 AB 2216 AB 2218 AB 2226 AB 2234 AB 2239 AB 2253 AB 2254 AB 2260 AB 2266 AB 2277 AB 2313 AB 2334 AB 2349 AB 2356 AB 2369 AB 2373 AB 2389 AB 2408 AB 2410 AB 2461 AB 2464 AB 2469 AB 2493 AB 2494 AB 2495 AB 2508 AB 2513 AB 2516 AB 2552 AB 2560 AB 2566 AB 2569 AB 2578 AB 2587 AB 2590 AB 2606 AB 2612 AB 2619 AB 2620 AB 2627 AB 2647 AB 2672 AB 2676 AB 2700 AB 2711 AB 2712 AB 2716 AB 2739 AB 2752 AB 2770 AJR 27 SB 58 SB 222 SB 299 SB 327 SB 330 SB 493 SB 501 SB 575 SB 615 SB 675 SB 739 SB 742 SB 811 SB 837 SB 868 SB 872 SB 875 SB 876 SB 878 SB 883 SB 885 SB 293 SB 894 SB 895 SB 911 SB 913 SB 919 SB 943 SB 949 SB 954 SB 963 SB 973 SB 981 SB 982 SB 986 SB 997 SB 1011 SB 1039 SB 1046 SB 1048 SB 1075 SB 1079 SB 1085 SB 1107 SB 1108 SB 1118 SB 1125 SB 1135 SB 1138 SB 1139 SB 1158 SB 1159 SB 1161 SB 1168 SB 1178 SB 1180 SB 1213 SB 1214 SB 1215 SB 1219 SB 1229 SB 1232 SB 1239 SB 1250 SB 1259 SB 1268 SB 1291 SB 1295 SB 1299 SB 1305 SB 1313 SB 1326 SB 1327 SB 1359 SB 1370 SB 1392 SB 1394 SB 1417 SJR 12 SJR 13"
       }
@@ -190002,6 +190144,13 @@
         "generalLobbying": 19557,
         "pucLobbying": 0,
         "lobbiedOn": "IDA: SB 1194, SB 1399, SB 941 CLICC: AB 1278, AB 1349, AB 1742, AB 1776, AB 1827, AB 1842, AB 1957, AB 2042, AB 2558, AB 2746, SB 784, SB 947, SB 991, SB 1007, SB 1074, SB 1123, and SB 1131"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 18113,
+        "pucLobbying": 0,
+        "lobbiedOn": "IDA: SB 1194, SB 1399, SB 941 CLICC: AB 1278, AB 1349, AB 1742, AB 1776, AB 1827, AB 1842, AB 1957, AB 2042, AB 2558, AB 2746, SB 784, SB 947, SB 991, SB 1007, SB 1074, SB 1123, and SB 1131, Every Voice Coalition: AB 1845, AB 2212, AB 1928, SB 1056"
       }
     ]
   },
@@ -190976,7 +191125,15 @@
   {
     "id": "1498603",
     "name": "SOMETHINGS",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 38000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2003"
+      }
+    ]
   },
   {
     "id": "1465602",
@@ -192270,7 +192427,7 @@
   },
   {
     "id": "1143049",
-    "name": "SOUTH LAKE TAHOE, CITY OF",
+    "name": "SOUTH LAKE TAHOE; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -192675,7 +192832,7 @@
   },
   {
     "id": "1143050",
-    "name": "SOUTHERN CALIFORNIA CONTRACTORS' ASSOCIATION",
+    "name": "SOUTHERN CALIFORNIA CONTRACTORS ASSOCIATION",
     "quarters": [
       {
         "quarter": "1st",
@@ -198665,7 +198822,29 @@
   {
     "id": "1392786",
     "name": "SUSTAINABLE INSIGHT CAPITAL MANAGEMENT, LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   },
   {
     "id": "1451986",
@@ -198971,7 +199150,7 @@
   },
   {
     "id": "1146116",
-    "name": "SUTTER; COUNTY OF",
+    "name": "SUTTER, COUNTY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -199023,11 +199202,6 @@
         "lobbiedOn": "Legislature, re: AB 2224."
       }
     ]
-  },
-  {
-    "id": "1378150",
-    "name": "SUVRETTA CAPITAL MANAGEMENT, LLC",
-    "quarters": []
   },
   {
     "id": "1453861",
@@ -200559,7 +200733,7 @@
   },
   {
     "id": "1411541",
-    "name": "TASKRABBIT",
+    "name": "TASK RABBIT",
     "quarters": [
       {
         "quarter": "1st",
@@ -203785,6 +203959,11 @@
     ]
   },
   {
+    "id": "1398966",
+    "name": "THIRD LAGUNA WOODS MUTAL",
+    "quarters": []
+  },
+  {
     "id": "1441489",
     "name": "THIRD POINT LLC",
     "quarters": [
@@ -204756,7 +204935,7 @@
   },
   {
     "id": "1374676",
-    "name": "TOBACCO-FREE KIDS ACTION FUND",
+    "name": "TOBACCO - FREE KIDS ACTION FUND",
     "quarters": [
       {
         "quarter": "1st",
@@ -204967,7 +205146,7 @@
   },
   {
     "id": "1345928",
-    "name": "TORCHLIGHT INVESTORS, LLC",
+    "name": "TORCHLIGHT INVESTORS LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -205077,7 +205256,7 @@
   },
   {
     "id": "1143886",
-    "name": "TORRANCE, CITY OF",
+    "name": "TORRANCE; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -205631,6 +205810,61 @@
     ]
   },
   {
+    "id": "1144978",
+    "name": "TRANS UNION LLC",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "No activity."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 31288.23,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 295; SB 354; RE SB 295 and SB 354; CA Privacy Practice Agency: Delete Request Opt-Out Platform (DROP) and Automated Decision Making Technology (ADMT) regulations."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 295; SB 354; CA Privacy Practice Agency: Delete Request Opt-Out Platform (DROP) and Automated Decision Making Technology (ADMT) regulations."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 354"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 354, AB 1018"
+      }
+    ]
+  },
+  {
     "id": "1490353",
     "name": "TRANSACTION JACKSON LLC",
     "quarters": [
@@ -206070,61 +206304,6 @@
         "generalLobbying": 32779.68,
         "pucLobbying": 0,
         "lobbiedOn": "CalSTRS investments (California State Teachers Retirement System) CalPERS investments (California Public Employees' Retirement System)"
-      }
-    ]
-  },
-  {
-    "id": "1144978",
-    "name": "TRANSUNION, LLC",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "No activity."
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 31288.23,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: SB 295; SB 354; RE SB 295 and SB 354; CA Privacy Practice Agency: Delete Request Opt-Out Platform (DROP) and Automated Decision Making Technology (ADMT) regulations."
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: SB 295; SB 354; CA Privacy Practice Agency: Delete Request Opt-Out Platform (DROP) and Automated Decision Making Technology (ADMT) regulations."
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: SB 354"
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 30000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature: SB 354, AB 1018"
       }
     ]
   },
@@ -207112,6 +207291,61 @@
     ]
   },
   {
+    "id": "1237111",
+    "name": "TRUE BLUE, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 15226,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1018; SB 310"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 15226,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1018"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 15226,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 15226,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1032"
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 15226,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1032"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 30452,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1032"
+      }
+    ]
+  },
+  {
     "id": "1371266",
     "name": "TRUE GREEN CAPITAL MANAGEMENT LLC",
     "quarters": [
@@ -207218,61 +207452,6 @@
         "generalLobbying": 8365.5,
         "pucLobbying": 0,
         "lobbiedOn": "California Department of Food and Agriculture re: Fertilizer Inspection Advisory Board; CalRecycle re: Organic Recycling"
-      }
-    ]
-  },
-  {
-    "id": "1237111",
-    "name": "TRUEBLUE, INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 15000,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 15226,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1018; SB 310"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 15226,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1018"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 15226,
-        "pucLobbying": 0,
-        "lobbiedOn": "NONE"
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 15226,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 1032"
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 15226,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 1032"
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 30452,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 1032"
       }
     ]
   },
@@ -210100,8 +210279,49 @@
     ]
   },
   {
+    "id": "1431690",
+    "name": "UNITE HERE LOCAL 11",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 838; AB 858; AB 1113; SB 607; SB 592"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 24000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 838; AB 858; SB 592; SB 52; SB 580; SB 436; AB 1113; SB 607; AB 609; SB 131; AB 130"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 838, AB 858, SB 52, SB 580, AB 1083, AB 288, AB 695, AB 1136, ACA 8, SB 81, SB 98, SB 627, SB 805, SJR 9"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1083; AB 1157"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 4000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 1157, AB 1083"
+      }
+    ]
+  },
+  {
     "id": "1147156",
-    "name": "UNITE HERE INTERNATIONAL UNION",
+    "name": "UNITE HERE, INTERNATIONAL UNION",
     "quarters": [
       {
         "quarter": "1st",
@@ -210151,47 +210371,6 @@
         "generalLobbying": 24400,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1474, 1331, 1609, 1883, 1970, 1979, 2181, 2575; SB 716, 903, 947, 951, 1050; OFFICE OF HEALTH CARE AFFORDABILITY / HEALTH CARE ASSOCIATED INFECTIONS (OHCA/HCAI) RE: HEALTH CARE COSTS"
-      }
-    ]
-  },
-  {
-    "id": "1431690",
-    "name": "UNITE HERE LOCAL 11",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 24000,
-        "pucLobbying": 0,
-        "lobbiedOn": "SB 838; AB 858; AB 1113; SB 607; SB 592"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 24000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: SB 838; AB 858; SB 592; SB 52; SB 580; SB 436; AB 1113; SB 607; AB 609; SB 131; AB 130"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 20000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: SB 838, AB 858, SB 52, SB 580, AB 1083, AB 288, AB 695, AB 1136, ACA 8, SB 81, SB 98, SB 627, SB 805, SJR 9"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 4000,
-        "pucLobbying": 0,
-        "lobbiedOn": "AB 1083; AB 1157"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 4000,
-        "pucLobbying": 0,
-        "lobbiedOn": "Legislature re: AB 1157, AB 1083"
       }
     ]
   },
@@ -210684,7 +210863,7 @@
   },
   {
     "id": "1145007",
-    "name": "UNITED FOOD AND COMMERCIAL WORKERS, WESTERN STATES COUNCIL",
+    "name": "UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL",
     "quarters": [
       {
         "quarter": "1st",
@@ -211939,7 +212118,7 @@
   },
   {
     "id": "1147012",
-    "name": "UNIVERSITY OF SOUTHERN CALIFORNIA, THE",
+    "name": "UNIVERSITY OF SOUTHERN CALIFORNIA; THE",
     "quarters": [
       {
         "quarter": "1st",
@@ -211994,7 +212173,7 @@
   },
   {
     "id": "1423850",
-    "name": "UNIVERSITY OF ST AUGUSTINE FOR HEALTH SCIENCES, LLC",
+    "name": "UNIVERSITY OF ST. AUGUSTINE FOR HEALTH SCIENCES, LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -214570,7 +214749,7 @@
   },
   {
     "id": "1143166",
-    "name": "VERNON; CITY OF",
+    "name": "VERNON, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -215412,7 +215591,7 @@
   },
   {
     "id": "1143217",
-    "name": "VICTORVILLE, CITY OF",
+    "name": "VICTORVILLE; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -215940,7 +216119,7 @@
   },
   {
     "id": "1224161",
-    "name": "VISALIA, CITY OF",
+    "name": "VISALIA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -217561,7 +217740,7 @@
   },
   {
     "id": "1250973",
-    "name": "WALNUT CREEK; CITY OF",
+    "name": "WALNUT CREEK, CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -221986,7 +222165,7 @@
   },
   {
     "id": "1146419",
-    "name": "WESTMINSTER, CITY OF",
+    "name": "WESTMINSTER; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -222352,7 +222531,7 @@
   },
   {
     "id": "1375601",
-    "name": "WICK, JOHN",
+    "name": "WICK; JOHN",
     "quarters": [
       {
         "quarter": "5th",
@@ -223409,7 +223588,7 @@
   },
   {
     "id": "1146454",
-    "name": "WOODLAND, CITY OF",
+    "name": "WOODLAND; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -224240,6 +224419,13 @@
         "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1607, 2026, 2443, SB 828; SB 1087, 1143; 1327: Legislature: State Budget Funding, HR 1 Implementation; Legislature: Property Tax Fix related to Educational Revenue Augmentation Fund."
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 18000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 762, 871, 1607, 1761, 1941; SB 828, 872, 1087, 1159, Legislature: Property Tax Fix related to Educational Revenue Augmentation Fund."
       }
     ]
   },
@@ -224683,7 +224869,7 @@
   },
   {
     "id": "1224256",
-    "name": "YUCAIPA, CITY OF",
+    "name": "YUCAIPA; CITY OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -224731,7 +224917,7 @@
   },
   {
     "id": "1146408",
-    "name": "YUCCA VALLEY, TOWN OF",
+    "name": "YUCCA VALLEY; TOWN OF",
     "quarters": [
       {
         "quarter": "1st",
@@ -225061,7 +225247,7 @@
   },
   {
     "id": "1469312",
-    "name": "ZELIS HEALTHCARE, LLC",
+    "name": "ZELIS HEALTHCARE LLC",
     "quarters": [
       {
         "quarter": "1st",
