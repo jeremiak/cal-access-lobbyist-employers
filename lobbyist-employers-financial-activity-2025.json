@@ -4054,6 +4054,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   },
@@ -42917,7 +42924,7 @@
       {
         "quarter": "7th",
         "session": "2025-2026",
-        "generalLobbying": 62627.62,
+        "generalLobbying": 82627.62,
         "pucLobbying": 0,
         "lobbiedOn": "In the 2025-2026 Session, CETF sponsored: SB716-Durazo (California Home Internet LifeLine Act); AB688-Gonzalez (Telehealth For All); AB903-Avila Farias, Solache (Education Technology Empowerment Act). AB903 was held on the Suspense File in Assembly Appropriations Committee."
       }
@@ -55986,6 +55993,13 @@
         "generalLobbying": 16251,
         "pucLobbying": 0,
         "lobbiedOn": "AB 109; SB 109; AB 111; SB 111; AB 883; AB 1542; SB 923; SB 1104; SB 1106; Legislature and Governor's Office re: privacy policy and budget"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 16315.18,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 883; AB 1542; SB 923; SB 1106; Legislature and administration re: privacy policy and budget"
       }
     ]
   },
@@ -93885,7 +93899,22 @@
   {
     "id": "1266825",
     "name": "FLAVOR AND EXTRACT MANUFACTURERS ASSOCIATION OF THE U.S., THE",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 10500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 2034 AND AB 2244"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 3500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 2034 AND AB 2244"
+      }
+    ]
   },
   {
     "id": "1461107",
@@ -94714,6 +94743,13 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "AB 2245, SB 615, SB 719, SB 898, SB 1246, SB 1282, SB 1315, State Budget, Governor's Office, CARB, CEC, CPUC"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 75750,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 322, SB 615, SB 719, SB 898, SB 1246, SB 1315 and EV tax credits; Governor's Office regarding SB 615, SB 898 and EV tax credits; PUC regarding Rule 21 proceeding, CARB, CEC"
       }
     ]
   },
@@ -111939,6 +111975,13 @@
         "generalLobbying": 25812.5,
         "pucLobbying": 0,
         "lobbiedOn": "Groundwater Adjudication, SGMA, water agency consolidations, AB 1413, AB 2521, AB 2125, SB 997, and Proposition 4 Implementation Guidance. Agencies include DWR, SWRCB, Assembly, and Senate."
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 6625,
+        "pucLobbying": 0,
+        "lobbiedOn": "Groundwater adjudication, the Sustainable Groundwater Management Act, water agency consolidations, AB 1413. AB 2125, SB 997, AB 2521, Proposition 4 implementation guidance."
       }
     ]
   },
@@ -117560,6 +117603,11 @@
         "lobbiedOn": "Legislature re: AB 1826, AB 1853, AB 2664, AB 1039, AB 1540, AB 1542, AB 1690, AB 1709, AB 1734, AB 1763,AB 1853,AB 1981, AB 2047, AB 2159, AB 2161, AB 2208, AB 2299, AB 2347, AB 2378, AB 2551, AB 395, SB 1387, SB 1378, SB 1240, SB 1110, SB 998, SB 982, SB 868, SB 482; SEE MORE IN MEMO."
       }
     ]
+  },
+  {
+    "id": "1498720",
+    "name": "JEWISH FAMILY SERVICE OF SAN DIEGO",
+    "quarters": []
   },
   {
     "id": "1479706",
@@ -124511,6 +124559,11 @@
         "lobbiedOn": "AB 35, 706, 1699, 1772, 1894, 2032, 2679; Legislature RE: Prop4 Implementation, Golden Mussel Prevention, Water infrastructure for firefighting, Upper Truckee Marsh funding; Natural Resources Agency RE: Prop4 Implementation; Wildlife Conservation Board: Prop4"
       }
     ]
+  },
+  {
+    "id": "1439153",
+    "name": "LEARNING CARE GROUP, INC.",
+    "quarters": []
   },
   {
     "id": "1342117",
@@ -139564,6 +139617,11 @@
     ]
   },
   {
+    "id": "1498700",
+    "name": "MOTHERS AGAINST MEDIA ADDICTION",
+    "quarters": []
+  },
+  {
     "id": "1493206",
     "name": "MOTHERS FOR PEACE ACTION COMMITTEE",
     "quarters": [
@@ -142342,7 +142400,15 @@
   {
     "id": "1147200",
     "name": "NATIONAL ASSOCIATION OF SOCIAL WORKERS, CALIFORNIA CHAPTER",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   },
   {
     "id": "1143576",
@@ -157258,6 +157324,11 @@
   {
     "id": "1497856",
     "name": "PARTNERS PERSONNEL",
+    "quarters": []
+  },
+  {
+    "id": "1498731",
+    "name": "PARTNERSHIP FOR ASSURANCE, CREDIBILITY, AND TRUST ON AI, INC.",
     "quarters": []
   },
   {
