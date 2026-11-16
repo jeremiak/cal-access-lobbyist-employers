@@ -21225,14 +21225,14 @@
       {
         "quarter": "6th",
         "session": "2025-2026",
-        "generalLobbying": 20553.24,
+        "generalLobbying": 29449.72,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS, CalSTRS, UC Retirement Program: INVESTMENTS"
       },
       {
         "quarter": "7th",
         "session": "2025-2026",
-        "generalLobbying": 86439.56,
+        "generalLobbying": 100314.8,
         "pucLobbying": 0,
         "lobbiedOn": "CalPERS, CalSTRS: INVESTMENTS"
       }
@@ -24307,9 +24307,9 @@
       {
         "quarter": "7th",
         "session": "2025-2026",
-        "generalLobbying": 45000,
+        "generalLobbying": 72501,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 1812; SB 1031"
+        "lobbiedOn": "AB 1812, 1148; SB 1031; LEGISLATURE, CA DEPARTMENT OF RESOURCES AND RECYCLING (CALRECYCLE), DEPARTMENT OF TOXIC SUBSTANCES CONTROL RE: SB 54 IMPLEMENTATION, AB 1201 EXTENSION"
       }
     ]
   },
@@ -24436,6 +24436,13 @@
       },
       {
         "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "7th",
         "session": "2025-2026",
         "generalLobbying": 0,
         "pucLobbying": 0,
@@ -30075,7 +30082,7 @@
       {
         "quarter": "7th",
         "session": "2025-2026",
-        "generalLobbying": 5938.82,
+        "generalLobbying": 18438.82,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature and Governor?s office: AB 2251, AB 713, AB 1669, AB 2212, AB 2374, AB 2392, AB 2422, AB 2766, SB 1255"
       }
@@ -30191,9 +30198,9 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 31000,
+        "generalLobbying": 61000,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 222, SB 781, AB 39, AB 1065"
+        "lobbiedOn": "AB 222, SB 781, AB 39, AB 1065; CalRecycle Re: SB 54 Regulations"
       },
       {
         "quarter": "2nd",
@@ -30205,9 +30212,9 @@
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 311031.07,
+        "generalLobbying": 356031.07,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 39, 222, 1065; SB 781"
+        "lobbiedOn": "AB 39, 222, 1065; SB 781; CalRecycle re: SB 54 Regulations"
       },
       {
         "quarter": "4th",
@@ -30221,14 +30228,14 @@
         "session": "2025-2026",
         "generalLobbying": 35000,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 1577, 2383, 2469, 2487, 2745; SB 886, 887, 1044, 1168, 1340"
+        "lobbiedOn": "AB 1577, 2253, 2383, 2469, 2487, 2745; SB 886, 887, 1044, 1168, 1340"
       },
       {
         "quarter": "6th",
         "session": "2025-2026",
-        "generalLobbying": 35089.7,
+        "generalLobbying": 50089.7,
         "pucLobbying": 0,
-        "lobbiedOn": "California State Legislature, Governor's office, Governor's Office of Business and Economic Development re: AB 222, SB 781, AB 39, AB 1065"
+        "lobbiedOn": "California State Legislature, Governor's office, Governor's Office of Business and Economic Development re: AB 222, SB 781, AB 39, AB 1065, AB 2253"
       },
       {
         "quarter": "7th",
@@ -34900,11 +34907,25 @@
         "lobbiedOn": "Agencies: Legislature and Administration Issues: Title Protection, Budget, workforce issues, BRN, CRNAs on medical staff, protection of CRNA independent practice, CDPH, AB 876"
       },
       {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 92000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1302; LEGISLATURE,GOVERNORS OFFICE,DEPARTMENT OF HEALTH CARE ACCESS AND INFORMATION RE: RURAL HEALTH TRANSFORMATION PROGRAM GRANT; BOARD OF REGISTERED NURSING RE: SUNSET REVIEW"
+      },
+      {
         "quarter": "6th",
         "session": "2025-2026",
         "generalLobbying": 69000,
         "pucLobbying": 0,
         "lobbiedOn": "Agencies: Legislature and Administration Issues: SB 1302 BRN Sunset, Budget, workforce issues, CRNAs on medical staff, protection of CRNA independent practice, AB 1696 emergency services and care"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 69000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1302; LEGISLATURE, GOVERNORS OFFICE, HCAI RE: RURAL HEALTH TRANSFORMATION PROGRAM GRANT; BOARD OF REGISTERED NURSING RE: SUNSET REVIEW"
       }
     ]
   },
@@ -56608,7 +56629,7 @@
   },
   {
     "id": "1281400",
-    "name": "CAMPAIGN FOR COLLEGE OPPORTUNITY, THE",
+    "name": "CAMPAIGN FOR COLLEGE OPPORTUNITY; THE",
     "quarters": [
       {
         "quarter": "1st",
@@ -60253,7 +60274,7 @@
       {
         "quarter": "7th",
         "session": "2025-2026",
-        "generalLobbying": 120511.13,
+        "generalLobbying": 133011.13,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 225, AB 278, AB 280, AB 350, AB 539, AB 575, AB 980, AB 1018, AB 1113, AB 1126, AB 1429, AB 1587, AB 1609, AB 1629, AB 1637, AB 1672, AB 1682, AB 1760, AB 1770, AB 1773, AB 1779, AB 1794, AB 1843, AB 1876, AB 1887, AB 1898, AB 1906, AB 1907, AB 1910, AB 1929, AB 1930, AB 1949, AB 1970, AB 1979, AB 2011, AB 2066, AB 2081, AB 2160, AB 2161, AB 2164, AB 2194, AB 2201, AB 2208, AB 2233, AB 2282, AB 2348, AB 2352, AB 2353, AB 2368, AB 2386, AB 2448, AB 2486, AB 2499, AB 2531, AB 2565, AB 2571, AB 2575, AB 2613, AB 2704, AB 2756, AJR 24, SB 125, SB 164, SB 331, SB 363, SB 381, SB 490, SB 503, SB 535, SB 874, SB 903, SB 944, SB 950, SB 964, SB 999, SB 1000, SB 1002, SB 1023, SB 1037, SB 1049, SB 1089, SB 1094, SB 1124, SB 1146, SB 1199, SB 1202, SB 1244, SB 1284, SB 1309, SB 1323, SB 1400, SB 1422, SCR 160, AND LEGISLATIVE BUDGET ISSUES RELATED TO MEDI-CAL. HEALTH AND HUMAN SERVICES (HHS) REGARDING: OFFICE OF HEALTH CARE AFFORDABILITY PROPOSED REGULATIONS. DEPARTMENT OF HEALTH CARE SERVICES (DHCS) REGARDING: REGULATORY ISSUES, TIMELY ACCESS, VACCINE ADMINISTRATION, AND PROHIBITED ENTITIES INTEL. DEPARTMENT OF MANAGED HEALTH CARE (DMHC) REGARDING: REGULATORY ISSUES AND ESSENTIAL HEALTH BENEFIT. HEALTH CARE ACCESS AND INFORMATION (HCAI) AGENCY REGARDING: PROPOSED REGULATIONS, PROPOSED SPENDING TARGET REASONABLENESS FACTORS."
       }
@@ -63144,7 +63165,7 @@
   },
   {
     "id": "1143099",
-    "name": "CHIEF PROBATION OFFICERS OF CALIFORNIA (CPOC)",
+    "name": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
     "quarters": [
       {
         "quarter": "1st",
@@ -71370,7 +71391,7 @@
   },
   {
     "id": "1338141",
-    "name": "COMVEST ADVISORS, LLC",
+    "name": "COMVEST ADVISORS LLC",
     "quarters": [
       {
         "quarter": "1st",
@@ -77072,6 +77093,61 @@
     ]
   },
   {
+    "id": "1377395",
+    "name": "CROSS BAY CAPITAL PARTNERS",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "id": "1392643",
     "name": "CROSS OCEAN ADVISER LLP",
     "quarters": [
@@ -77178,61 +77254,6 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "None."
-      }
-    ]
-  },
-  {
-    "id": "1377395",
-    "name": "CROSSBAY CAPITAL PARTNERS",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": ""
       }
     ]
   },
@@ -79330,61 +79351,6 @@
     ]
   },
   {
-    "id": "1370667",
-    "name": "DE PRINCE, RACE & ZOLLO, INC.",
-    "quarters": [
-      {
-        "quarter": "1st",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "2nd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "3rd",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "4th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "5th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "6th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      },
-      {
-        "quarter": "7th",
-        "session": "2025-2026",
-        "generalLobbying": 0,
-        "pucLobbying": 0,
-        "lobbiedOn": "None"
-      }
-    ]
-  },
-  {
     "id": "1414630",
     "name": "DE VRY UNIVERSITY, INC.",
     "quarters": [
@@ -80264,7 +80230,7 @@
   },
   {
     "id": "1337678",
-    "name": "DENHAM CAPITAL MANAGEMENT, LP",
+    "name": "DENHAM CAPITAL MANAGEMENT LP",
     "quarters": [
       {
         "quarter": "1st",
@@ -80506,6 +80472,61 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "No reportable lobbying."
+      }
+    ]
+  },
+  {
+    "id": "1370667",
+    "name": "DEPRINCE, RACE & ZOLLO, INC.",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -87091,7 +87112,7 @@
   },
   {
     "id": "1348702",
-    "name": "ELLINGTON MANAGEMENT GROUP LLC",
+    "name": "ELLINGTON MANAGEMENT GROUP, L.L.C.",
     "quarters": [
       {
         "quarter": "1st",
@@ -89184,7 +89205,7 @@
   },
   {
     "id": "1336828",
-    "name": "EQT PARTNERS, INC.",
+    "name": "EQT PARTNERS INC.",
     "quarters": [
       {
         "quarter": "3rd",
@@ -93988,6 +94009,61 @@
         "generalLobbying": 0,
         "pucLobbying": 0,
         "lobbiedOn": "No reportable activity."
+      }
+    ]
+  },
+  {
+    "id": "1255888",
+    "name": "FLEXIBLE PACKAGING ASSOCIATION",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 399,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 973; SB 682; AB 1148."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 375,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 682. DTSC: SB 682."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 1650,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 2253; SB 1180; AB 1812; AB 1148; SB 54 implementation."
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 1089,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 2253; AB 1148."
       }
     ]
   },
@@ -103796,6 +103872,13 @@
         "quarter": "6th",
         "session": "2025-2026",
         "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 18000,
         "pucLobbying": 0,
         "lobbiedOn": ""
       }
@@ -118597,6 +118680,61 @@
     ]
   },
   {
+    "id": "1377763",
+    "name": "JUVENILE PRODUCTS MANUFACTURERS ASSOCIATION (JPMA)",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "generalLobbying": 450,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 435; SB 682."
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "generalLobbying": 324,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 435; SB 682."
+      },
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "generalLobbying": 375,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 682. DTSC: SB 682. EPA: SB 682."
+      },
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "5th",
+        "session": "2025-2026",
+        "generalLobbying": 150,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: AB 2462."
+      },
+      {
+        "quarter": "6th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "id": "1437906",
     "name": "K TO COLLEGE DBA SUPPLYBANK.ORG",
     "quarters": [
@@ -118694,7 +118832,15 @@
   {
     "id": "1493968",
     "name": "KALESTA HEALTHCARE GROUP LLC",
-    "quarters": []
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 17000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature and the Department of Behavioral Health Care Services regarding Assisted Living Waiver under the Medi-Cal Program."
+      }
+    ]
   },
   {
     "id": "1485075",
@@ -160106,7 +160252,7 @@
       {
         "quarter": "6th",
         "session": "2025-2026",
-        "generalLobbying": 142596.8,
+        "generalLobbying": 158596.8,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 69, AB 311, AB 412, AB 446, AB 570, AB 706, AB 743, AB 1018, AB 1070, AB 1278, AB 1354, AB 1406, AB 1457, AB 1542, AB 1546, AB 1553, AB 1554, AB 1557, AB 1559, AB 1569, AB 1609, AB 1639, AB 1642, AB 1660, AB 1662, AB 1680, AB 1685, AB 1699, AB 1724, AB 1726, AB 1774, AB 1776, AB 1781, AB 1795, AB 1800, AB 1830, AB 1833, AB 1842, AB 1847, AB 1891, AB 1893, AB 1898, AB 1903, AB 1931, AB 1934, AB 1936, AB 1960, AB 1964, AB 1971, AB 1986, AB 1995, AB 2021, AB 2037, AB 2038, AB 2039, AB 2061, AB 2102, AB 2190, AB 2305, AB 2346, AB 2361, AB 2502, AB 2513, AB 2517, AB 2564, AB 2586, AB 2599, AB 2637, AB 2713, AB 2724, SB 29, SB 259, SB 260, SB 295, SB 354, SB 420, SB 435, SB 583, SB 690, SB 719, SB 813, SB 837, SB 876, SB 877, SB 878, SB 894, SB 899, SB 904, SB 911, SB 923, SB 947, SB 951, SB 973, SB 982, SB 988, SB 1043, SB 1074, SB 1076, SB 1079, SB 1084, SB 1104, SB 1112, SB 1123, SB 1182, SB 1206, SB 1209, SB 1224, SB 1246, SB 1270, SB 1297, SB 1301, SB 1315, SB 1370, SB 1403, SB 1404, SAFE DRIVING INCENTIVE PROGRAMS AND SUSTAINABLE INSURANCE STRATEGY. CALIFORNIA DEPT. OF INSURANCE REGARDING: PROP 103, FAIR PLAN, TELEMATICS, AFFINITY GROUPS, SUSTAINABLE INSURANCE STRATEGY. DEPT. OF CONSUMER AFFAIRS/BUREAU OF AUTOMOTIVE REPAIR REGARDING: TOWING AND STORAGE RATES. BOARD OF FORESTRY REGARDING: EMBER RESISTANT ZONE REGULATIONS. GOVERNORS ADMINISTRATION REGARDING: PROP 103, HOMEOWNERS INSURANCE. CALIFORNIA AIR RESOURCES BOARD (CARB) REGARDING: SB 253 CALIFORNIA CORPORATE GREENHOUSE GAS REPORTING AND CLIMATE-RELATED FINACIAL RISK. CALIFORNIA EARTHQUAKE AUTHORITY REGARDING: EARTHQUAKE INSURANCE, FINANCIAL SUSTAINABILITY. CALIFORNIA PRIVACY PROTECTION AGENCY REGARDING: INSURANCE REGULATIONS."
       },
@@ -167785,6 +167931,11 @@
     "quarters": []
   },
   {
+    "id": "1498821",
+    "name": "RADIANT INDUSTRIES, INC",
+    "quarters": []
+  },
+  {
     "id": "1450320",
     "name": "RADY CHILDREN'S HEALTH",
     "quarters": [
@@ -168101,7 +168252,7 @@
       {
         "quarter": "7th",
         "session": "2025-2026",
-        "generalLobbying": 32000,
+        "generalLobbying": 45422,
         "pucLobbying": 0,
         "lobbiedOn": "AB 35, AB 113; AB 178; AB 1436, AB 1893, AB 2180, AB 2215, AB 2739, AB 2777, SB 178, SB 193, SB 872, SB 1085, SB 1125, SB 1153, California Legislature RE: SB 72 Implementation, Proposition 4 APA Exemption, Greenhouse Gas Reduction Fund SAFER General Fund Backstop, State Water Project Subsidence Mitigation, Crop Swap, Support for Dorene D'Adamo Re-Appointment to the State Water Resources Control Board, CA State Treasurer's Office, CA Department of Water Resources RE: AB 2739; CA Department of Food & Agriculture RE: State Water Efficiency & Enhancement Program (SWEEP), CA Legislature & California State Water Resources Control Board Support for Danielle Coats to the SAFER Advisory Group, California Office of Emergency Services Vail Dam"
       }
@@ -185520,6 +185671,11 @@
     ]
   },
   {
+    "id": "1498772",
+    "name": "SEAVIEW INFRASTRUCTURE PARTNERS",
+    "quarters": []
+  },
+  {
     "id": "1364840",
     "name": "SEAWORLD PARKS & ENTERTAINMENT",
     "quarters": [
@@ -185859,6 +186015,13 @@
         "generalLobbying": 34000,
         "pucLobbying": 0,
         "lobbiedOn": "Lobbied the Legislature regarding AB 2062, AB 1883, SB 898, SB 238 and SB 1013."
+      },
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 33000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lobbied the Legislature and Governors Office regarding AB 1331, AB 1883, SB 1013 and SB 1203. Lobbied the Legislature regarding SB 898."
       }
     ]
   },
@@ -186130,35 +186293,35 @@
       {
         "quarter": "1st",
         "session": "2025-2026",
-        "generalLobbying": 816959.74,
+        "generalLobbying": 802793.9,
         "pucLobbying": 0,
         "lobbiedOn": "AB 4, 15, 18, 25, 48, 49, 65, 84, 85, 94, 100, 238, 246, 283, 284, 288, 324, 325, 326, 339, 340, 371, 374, 378, 416, 419, 421, 446, 461, 465, 477, 481, 485, 489, 495, 560, 563, 564, 596, 601, 617, 667, 672, 711, 748, 801, 832, 839, 858, 882, 904, 969, 997, 1009, 1018, 1028, 1109, 1113, 1128, 1155, 1157, 1163, 1177, 1189, 1208, 1211, 1221, 1231, 1234, 1261, 1300, 1324, 1331, 1340, 1345, 1365, 1383, 1418, 1428, 1442, 1460, 1468, 1471; SB 7, 12, 40, 48, 52, 63, 64, 81, 98, 99, 100, 227, 261, 271, 280, 281, 290, 294, 307, 310, 341, 346, 351, 355, 378, 411, 420, 442, 494, 554, 555, 560, 580, 588, 590, 596, 635, 660, 669, 672, 763, 778, 784, 832, 847; SJR 2; ACA 3; AJR 3,5; ABX1-2; SBX1-1, 2; SR 32; Governor, Department of Health Care Access and Information, Department of Public Heath, Department of Health Care Services, Natural Resource Agency: cap and trade, OHCA, Nurse Ration, Hospital Quality, MediCal, AI Health, Housing, Transit; Governor: Health Benefits, Fertility/Infertility Services, 2025 Health Care Priorities-Medi-Cal, Health Care Coverage/Access, Clinic Transparency/Accountability, Managed Care Organization Tax, Preventing Federal Cuts to Medicaid; Department of Health Care Services: Behavioral Health Services Administration (BHSA)/Prop 1 Implementation, Managed Care Organization Tax; Department of Managed Health Care: Essential Health Benefits Fertility/Infertility Services; Department of Social Services, Department of Finance, Governor: Child Care, Budget, Special Session Bills, Implementation of Trump EOs, IHSS Statewide Bargaining, Implementation of Newsom EOs; Department of Developmental Services, Department of Health Care Services, Health and Human Services, Department of Finance, Governor: IHSS collective bargaining, Long-Term Services and Supports, Admin funding, MediCal, MediCal Share of Costs, Master Plan for Developmental Services, Performance Measures, Respite, Nursing Facilities, SNF patient spending, CalWORKS, Mandated reporters, child welfare, CalFresh, diversion programs, banking, disaster preparedness; Legislature, Governor: health care, state budget and labor issues."
       },
       {
         "quarter": "2nd",
         "session": "2025-2026",
-        "generalLobbying": 1351869.07,
+        "generalLobbying": 1176710.1,
         "pucLobbying": 0,
         "lobbiedOn": "AB: 4, 15, 18, 25, 39, 49, 85, 94, 101, 102, 103, 104, 116, 118, 119, 120, 121, 123, 124, 127, 128, 129, 130, 131, 132, 134, 136, 137, 138, 139, 140, 141, 142, 143, 224, 238, 246, 253, 280, 283, 284, 288, 324, 325, 339, 340, 356, 371, 374, 378, 419, 421, 461, 465, 477, 481, 485, 489, 495, 560, 563, 564, 601, 617, 660, 667, 672, 694, 699, 711, 715, 801, 832, 839, 849, 882, 904, 914, 917, 969, 997, 1009, 1018, 1028, 1096, 1109, 1113, 1136, 1155, 1157, 1177, 1188, 1189, 1208, 1211, 1231, 1233, 1234, 1242, 1247, 1261, 1288, 1300, 1308, 1312, 1324, 1331, 1340, 1362, 1365, 1383, 1415, 1418, 1428, 1430, 1442, 1460, 1471, 1522, 2188; SB: 7, 12, 32, 40, 48, 62, 63, 64, 81, 98, 99, 101, 102, 103, 104, 116, 118, 119, 120, 121, 123, 124, 127, 128, 129, 130, 131, 132, 134, 136, 137, 138, 139, 140, 141, 142, 143, 225, 226, 242, 261, 271, 280, 281, 290, 294, 307, 346, 351, 355, 371, 378, 387, 411, 418, 420, 442, 485, 494, 530, 554, 560, 580, 596, 627, 634, 635, 660, 669, 672, 681, 716, 763, 778, 784, 805, 832, 848, 588; SJR: 2, 9; AJR: 12, 3, 5; ACA 3; ABX1-2; SBX1-1, SBX1-2; SR 32; Department of Developmental Services, Department of Health Care Services, Department of Social Services, Health and Human Services, Department of Finance, Governor: In Home Support Services (IHSS) - IHSS collective bargaining, Long-Term Services and Supports, Admin funding, MediCal, MediCal Share of Cost Developmental Disabilities (DD - Master Plan for Developmental Services, Performance measures, Respite Nursing Facilities - SNF patient spending, Social Services- CalWORKs, Mandated reporters, Child Welfare, CalFresh Public Safety - Diversion programs Other- Banking, Disaster Preparedness, Homelessness; Governor, Department of Health Care Access Information, Department of Public Health, Department of Health Care Services: Cap and Trade, OHCA, Nurse Ratio, Hospital Quality, Medi-Cal, AI Healthcare, Housing, transit, insurance; Governor: Health Benefits - Fertility/Infertility Services, 2025 Health Care Priorities Medi-Cal, Medi-Cal Stability, Coverage, Benefits and Financing, Preventing, Clinic Transparency/Accountability, Managed Care Organization Tax, Preventing Federal Cuts to Medicaid; Department of Health Care Services: Behavioral Health Services Administration (BHSA)/Prop 1 Implementation, Managed Care Organization Tax; Department of Managed Health Care: Essential Health Benefits Fertility/Infertility Services; Department of Finance: Housing Insecurity Eviction Protections: Health Care Coverage & Access;Department of Social Services, Department of Finance, Governor, Department of Education, Health and Human services: Child Care, Budget, Implementation of Trump EOs & BBB, IHSS Statewide, bargaining Implementation of Newsomes EO; CalPERS: health care, investment returns, and corporate responsibility."
       },
       {
         "quarter": "3rd",
         "session": "2025-2026",
-        "generalLobbying": 959833.31,
+        "generalLobbying": 956306.31,
         "pucLobbying": 0,
         "lobbiedOn": "AB: 1021, 485, 694, 801, 839, 914, 1136, 25, 94, 1188, 1383, 1428, 699, 564, 604, 246, 238, 489, 1155, 371, 1157, 481, 1340, 1018, 1415, 1418, 1460, 224, 1242, 1288, 1312, 339, 672, 882, 288, 1009, 465, 39, 49, 340, 378, 832, 419, 477, 560, 711, 917, 1028, 1096, 1109, 1189, 1233, 1331, 1247, 1362, 1430, 1522, 253, 715, 1234, 374, 1308, 283, 601, 617, 1208, 1365, 1231, 969, 461, 1324, 1211, 247, 1471, 495, 563, 997, 284, 904, 4, 15, 18, 85, 324, 421, 667, 1261, 1300, 1442, 1113, 1177, 280, 325, 356, 849, 770, 101, 102, 103, 104, 116, 118, 119, 120, 121, 123, 124, 127, 128, 129, 130, 131, 132, 134, 136, 137, 138, 139, 140, 141, 142, 143, 144, 149, 154; SB: 596, 660, 294, 580, 627, 652, 805, 63, 280, 346, 588, 763, 351, 669, 371, 7, 694, 378, 530, 62, 53, 411, 48, 98, 225, 494, 716, 64, 485, 261, 226, 848, 290, 832, 672, 387, 560, 634, 99, 271, 778, 81, 554, 307, 281, 635, 12, 784, 420, 355, 442, 681, 40, 101, 102, 103, 104, 116, 118, 119, 120, 121, 123, 124, 127, 129, 130, 131, 132, 134, 136, 137, 138, 139, 140, 141, 142, 143, 146, 148, 151, 153, 155, 156, 157, 158, 159, 160, 161, 162; SJR: 2, 9; AJR: 12, 3, 5; ACA: 8, 3; ABX1-2; SBX1-2; SBX1-1; SR 32; CalPERS: health care, investment returns, and corporate responsibility; Governor, Department of Health Care Access Information, Department of Public Health, Department of Health Care Services: Cap and Trade, OHCA, Nurse Ratio, Hospital Quality, Medi-Cal, AI Healthcare, Housing, transit, insurance, gig workers; Governor: Health Benefits - Fertility/Infertility Services, 2025 Health Care Priorities Medi-Cal, Medi-Cal Stability, Coverage, Benefits and Financing, Preventing, Clinic Transparency/Accountability, Managed Care Organization Tax, Preventing Federal Cuts to Medicaid, housing insecurity eviction protections, AI policy, Automated Decision Systems and Discriminatory Practices, health coverage-employer sponsored on day on; Department of Health Care Services: Behavioral Health Services Administration (BHSA)/Prop 1 Implementation, Managed Care Organization Tax, CAlAIM, HR 1 implementation; Department of Managed Health Care: Essential Health Benefits Fertility/Infertility Services; Department of Health Care Access Information: health coverage employer sponsored on day one; Judicial Counsel: Housing Insecurity Eviction Protections: Health Care Coverage & Access; Department of Developmental Services, Department of Health Care Services, Department of Social Services, Health and Human Services, Department of Finance, Governor: In Home Support Services (IHSS), Long-Term Services and Supports, Admin funding, MediCal, MediCal Share of Cost, Developmental Disabilities (DD) - Master Plan for Developmental Services, Performance measures, Respite Nursing Facilities - SNF patient spending, Social Services- CalWORKs, Mandated reporters, Child Welfare, CalFresh Public Safety division programs, Banking, Homelessness, Veterans Affairs; Department of Social Services, Department of Finance, Governor, Department of Education, Health and Human Services, Department of Health Care Services, CA Labor & Workforce Development Agency: Child Care, Budget, Implementation of Trump EOs & BBB, IHSS Statewide bargaining, Implementation of Newsomes EO, implementation of Gig regulations, Implementation of H.R.1, Commandeering of State Funds by the White House, Technical Assistance for Sponsored Legislation, Compliance with EEOC audits."
       },
       {
         "quarter": "4th",
         "session": "2025-2026",
-        "generalLobbying": 824676.7,
+        "generalLobbying": 822223.95,
         "pucLobbying": 0,
         "lobbiedOn": "AB 25, 94, 238, 246, 283, 288, 339, 371, 461, 465, 481, 489, 495, 564, 601, 604, 617, 672, 699, 801, 882, 914, 1018, 1113, 1136, 1155, 1157, 1177, 1188, 1211, 1231, 1324, 1340, 1365, 1383, 1418, 1428; SB 63, 81, 280, 294, 346, 351, 371, 411, 560, 580, 588, 596, 660, 669, 672, 694, 763; AJR 12; ACA 8,3; CalPERS: health care, investment returns, and corporate responsibility; Governor, Department of Health Care Access Information, Department of Public Health, California Public Employment Relations Board: Cap and Trade, OHCA, Nurse Ratio, Hospital Quality, Medi-Cal, AI Healthcare, Housing, transit, insurance, gig workers; Legislature: courts funding, new employee orientation, immigration, AI, Prop 98/Education, Voting rights and procedures; Legislature, Governor: budget issues; Attorney General: Santa Barbara public sector layoffs and immigrant health; Department of Health Care Services: HR 1 Implementation, Federal regulations and impact to provider taxes; Department of Managed Health Care: Fertility/Infertility, Services SB 729 Implementation; Legislature: 2026 Budget: Revenue Options, Child Care Rates & Benefits, CalAccount, Transit Funds, Municipal Funding for LA County & City, CSU Funding, PERB Funding, CalWORKs & CalFresh Benefits, Health Care Benefits, State Bargaining."
       },
       {
         "quarter": "5th",
         "session": "2025-2026",
-        "generalLobbying": 857381.4,
+        "generalLobbying": 863735.23,
         "pucLobbying": 0,
         "lobbiedOn": "AB: 801, 914, 1538, 2624, 25, 94, 1118, 1383, 1428, 699, 564, 604, 1768, 1601, 1842, 1847, 2131, 2353, 1611, 1923, 1790, 2682, 283, 1231, 1655, 1755, 2567, 2765, 1248, 2510, 1826, 2729, 2036, 2545, 1113, 2120, 2220, 1838, 1630, 1818, 2783, 2159, 882, 2379, 1981, 2367, 1729, 2634, 2523, 2223, 2068, 1896, 1807, 1806, 1650, 1542, 1776, 1157, 1564, 1750, 1823, 1883, 2142, 2201, 2208, 2417, 2530, 2564, 2604, 2651, 2746, 2615, 2171, 1563, 107, 117; SB: 1203, 63, 280, 1038, 922, 915, 1246, 1349, 1164, 1360, 1004, 1030, 577, 430, 120, 1284, 1400, 1422, 1083, 1046, 1257, 1103, 73, 574, 1134, 873, 694, 951, 1032, 1094, 1179, 1201, 1244, 998, 1248, 897, 106; SJR: 8, 9; AJR 12; ACA 8; SCR 89; Legislature, Governor: election funding; CalPERS: health care, investment returns, and corporate responsibility; Governor, Public Employees Relations Board, Department of Justice, Department of Finance, Department of Public Health: Hospital financing, housing, revenue, health policy, autonomous vehicles, gig workers, immigration, Nurse Ratios; Legislature, Department of Disability Services, Department of Health Care Services, Department of Social Services, Health and Human Services, Department of Finance, Governor: In Home Support Services (IHSS)- collective bargaining, Long-Term Services and Supports, Admin funding, MediCal/HR1, CFCO, cost shifts Developmental Disabilities (DD)- Master Plan for Developmental Services, Performance measures, Respite, Dental, DSP training, Nursing Facilities- SNF financing reform, WQIP Social Services - CalWORKs, Mandated reporters, Child Welfare, CalFresh Public Safety - Diversion programs, law enforcement face mask, HR1, Banking, CalAccount, Veterans Affairs, Civil Liability, Security Officer training, Voting Rights, AI Automation, Racial Equity, DEI; Governor: HR 1 Implementation and Response; Department of Health Care Services: HR 1 implementation, Federal regulations and impact to provider taxes; Department of Managed Health Care: Fertility/Infertility Services SB 729 Implementation; Department of Health Care Access and Information: Behavioral Health Workforce; Legislature, Public Employees Relations Board, Governor, Labor and Workforce Development Agency, Judicial Council: remote proceedings, Remote Bargaining Observers Remote, court reporting, Immigration, Remote Court Reporting, Prop 98 /Education, PAGA, NEO; Legislature: Voting rights and procedures; Department of Finance: state budget; Department of Industrial Relations: fast food council; Health and Human Services: Implementation of HR 1."
       },
@@ -188011,7 +188174,7 @@
         "session": "2025-2026",
         "generalLobbying": 341485,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 34 AB 35 AB 40 AB 52 AB 72 AB 306 AB 442 AB 467 AB 497 AB 605 AB 643 AB 687 AB 706 AB 762 AB 763 AB 839 AB 892 AB 946 AB 1148 AB 1372 AB 1382 AB 1421 AB 1436 AB 1448 AB 1457 AB 1536 AB 1543 AB 1548 AB 1551 AB 1584 AB 1600 AB 1603 AB 1642 AB 1653 AB 1661 AB 1666 AB 1680 AB 1684 AB 1702 AB 1704 AB 1715 AB 1740 AB 1745 AB 1757 AB 1777 AB 1783 AB 1787 AB 1790 AB 1791 AB 1804 AB 1849 AB 1911 AB 1934 AB 1938 AB 1960 AB 1964 AB 1971 AB 1975 AB 1986 AB 2013 AB 2026 AB 2037 AB 2044 AB 2045 AB 2057 AB 2075 AB 2088 AB 2099 AB 2102 AB 2111 AB 2125 AB 2132 AB 2170 AB 2182 AB 2215 AB 2216 AB 2218 AB 2226 AB 2234 AB 2239 AB 2253 AB 2254 AB 2260 AB 2266 AB 2277 AB 2313 AB 2334 AB 2349 AB 2356 AB 2369 AB 2373 AB 2389 AB 2408 AB 2410 AB 2461 AB 2464 AB 2469 AB 2493 AB 2494 AB 2495 AB 2508 AB 2513 AB 2516 AB 2552 AB 2560 AB 2566 AB 2569 AB 2578 AB 2587 AB 2590 AB 2606 AB 2612 AB 2619 AB 2620 AB 2627 AB 2647 AB 2672 AB 2676 AB 2700 AB 2711 AB 2712 AB 2716 AB 2739 AB 2752 AB 2770 AJR 27 SB 58 SB 222 SB 299 SB 327 SB 330 SB 493 SB 501 SB 575 SB 615 SB 675 SB 739 SB 742 SB 811 SB 837 SB 868 SB 872 SB 875 SB 876 SB 878 SB 883 SB 885 SB 293 SB 894 SB 895 SB 911 SB 913 SB 919 SB 943 SB 949 SB 954 SB 963 SB 973 SB 981 SB 982 SB 986 SB 997 SB 1011 SB 1039 SB 1046 SB 1048 SB 1075 SB 1079 SB 1085 SB 1107 SB 1108 SB 1118 SB 1125 SB 1135 SB 1138 SB 1139 SB 1158 SB 1159 SB 1161 SB 1168 SB 1178 SB 1180 SB 1213 SB 1214 SB 1215 SB 1219 SB 1229 SB 1232 SB 1239 SB 1250 SB 1259 SB 1268 SB 1291 SB 1295 SB 1299 SB 1305 SB 1313 SB 1326 SB 1327 SB 1359 SB 1370 SB 1392 SB 1394 SB 1417 SJR 12 SJR 13"
+        "lobbiedOn": "AB 40 AB 497 AB 605 AB 687 AB 706 AB 763 AB 839 AB 946 AB 1148 AB 1421 AB 1436 AB 1448 AB 1457 AB 1536 AB 1543 AB 1603 AB 1661 AB 1704 AB 1745 AB 1757 AB 1777 AB 1783 AB 1787 AB 1790 AB 1804 AB 1849 AB 1960 AB 1975 AB 1986 AB 2026 AB 2057 AB 2088 AB 2102 AB 2170 AB 2215 AB 2218 AB 2239 AB 2277 AB 2313 AB 2356 AB 2373 AB 2389 AB 2408 AB 2410 AB 2461 AB 2469 AB 2493 AB 2494 AB 2508 AB 2516 AB 2552 AB 2569 AB 2606 AB 2612 AB 2619 AB 2620 AB 2647 AB 2672 AB 2676 AB 2711 AB 2712 AB 2716 AB 2748 AB 2752 SB 58 SB 222 SB 327 SB 493 SB 501 SB 542 SB 575 SB 601 SB 615 SB 675 SB 739 SB 742 SB 811 SB 868 SB 875 SB 883 SB 885 SB 894 SB 895 SB 913 SB 919 SB 943 SB 954 SB 969 SB 981 SB 982 SB 986 SB 1039 SB 1046 SB 1075 SB 1085 SB 1087 SB 1125 SB 1159 SB 1161 SB 1180 SB 1213 SB 1215 SB 1216 SB 1229 SB 1239 SB 1259 SB 1268 SB 1313 SB 1327 SB 1359 SB 1367 SB 1370 SB 1392"
       }
     ]
   },
@@ -192603,6 +192766,19 @@
         "generalLobbying": 14000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: State budget; AB 1534, AB 1728, AB 1829, AB 1871, AB 2301, AB 2374, AB 2422, AB 2694, AB 2766, SB 960"
+      }
+    ]
+  },
+  {
+    "id": "1143335",
+    "name": "SOUTH PASADENA, CITY OF",
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 113, AB 492, AB 1786, AB 2015, AB 2329, AB 2576, SB 577; Legislature re: Grant Support Letters and Arroyo Seco Water Reuse Project"
       }
     ]
   },
@@ -208418,16 +208594,16 @@
       {
         "quarter": "5th",
         "session": "2025-2026",
-        "generalLobbying": 167764.54,
+        "generalLobbying": 250264.54,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 2361 - issues concerning personal vehicle sharing programs"
+        "lobbiedOn": "AB 2361 - ISSUES CONCERNING PERSONAL VEHICLE SHARING PROGRAMS."
       },
       {
         "quarter": "6th",
         "session": "2025-2026",
-        "generalLobbying": 161822.37,
+        "generalLobbying": 184322.37,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 2361 - issues concerning personal vehicle sharing programs"
+        "lobbiedOn": "AB 2361 - ISSUES CONCERNING PERSONAL VEHICLE SHARING PROGRAMS."
       },
       {
         "quarter": "7th",
@@ -214303,6 +214479,19 @@
         "generalLobbying": 27020,
         "pucLobbying": 0,
         "lobbiedOn": "SB 741, AB 2267, AB 1740, SB 193, AB 113 Transportation funding, State budget, Metrolink funding"
+      }
+    ]
+  },
+  {
+    "id": "1338241",
+    "name": "VENTURA PORT DISTRICT",
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2025-2026",
+        "generalLobbying": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Port and Freight Infrastructure Program funding"
       }
     ]
   },
